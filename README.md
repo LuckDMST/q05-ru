@@ -1,4 +1,4 @@
-# Q05 RU — русификация Changan Qiyuan Q05
+# Русификатор головного устройства Changan Qiyuan Q05 Laser Ultra Plus для LSPosed
 
 Русский перевод интерфейса головного устройства Changan Qiyuan Q05 Laser Ultra Plus. Проект включает модуль LSPosed и адресные переводы штатных приложений.
 
