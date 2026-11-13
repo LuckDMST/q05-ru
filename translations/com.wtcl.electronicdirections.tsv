@@ -1,0 +1,286 @@
+com.wtcl.electronicdirections:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wtcl.electronicdirections:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wtcl.electronicdirections:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wtcl.electronicdirections:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wtcl.electronicdirections:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wtcl.electronicdirections:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wtcl.electronicdirections:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wtcl.electronicdirections:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wtcl.electronicdirections:string/abc_capital_on	-1	開啟		ВКЛ
+com.wtcl.electronicdirections:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wtcl.electronicdirections:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wtcl.electronicdirections:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wtcl.electronicdirections:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wtcl.electronicdirections:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wtcl.electronicdirections:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wtcl.electronicdirections:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wtcl.electronicdirections:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wtcl.electronicdirections:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wtcl.electronicdirections:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wtcl.electronicdirections:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wtcl.electronicdirections:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wtcl.electronicdirections:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wtcl.electronicdirections:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wtcl.electronicdirections:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wtcl.electronicdirections:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wtcl.electronicdirections:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wtcl.electronicdirections:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wtcl.electronicdirections:string/app_name	-1	玩车手册		Руководство по автомобилю
+com.wtcl.electronicdirections:string/audio_conflict	-1	音频冲突，无法播放		Воспроизведение невозможно: звук занят другим приложением
+com.wtcl.electronicdirections:string/back_to_top	-1	返回顶部		Наверх
+com.wtcl.electronicdirections:string/brvah_load_complete	-1	点击加载更多		Загрузить ещё
+com.wtcl.electronicdirections:string/brvah_load_end	-1	没有更多数据		Больше данных нет
+com.wtcl.electronicdirections:string/brvah_load_failed	-1	加载失败，请点我重试		Не удалось загрузить. Нажмите для повтора
+com.wtcl.electronicdirections:string/brvah_loading	-1	正在加载中...		Загрузка…
+com.wtcl.electronicdirections:string/button_like_content	-1	赞一下		Нравится
+com.wtcl.electronicdirections:string/button_step_on_content	-1	踩一下		Не нравится
+com.wtcl.electronicdirections:string/c_cancel	-1	取消		Отмена
+com.wtcl.electronicdirections:string/c_exit	-1	退出		Выйти
+com.wtcl.electronicdirections:string/check_card_id_exist	-1	请确认链接文章是否存在		Проверьте, существует ли статья по ссылке
+com.wtcl.electronicdirections:string/common_cancel	-1	取消		Отмена
+com.wtcl.electronicdirections:string/common_confirm	-1	确定		ОК
+com.wtcl.electronicdirections:string/common_loading	-1	正在加载		Загрузка
+com.wtcl.electronicdirections:string/common_tip	-1	提示		Подсказка
+com.wtcl.electronicdirections:string/common_update	-1	更新		Обновить
+com.wtcl.electronicdirections:string/esky_service_exception	-1	网络不给力，请稍候重试！		Слабое соединение с сетью. Повторите попытку позже
+com.wtcl.electronicdirections:string/exo_controls_cc_disabled_description	-1	启用字幕		Включить субтитры
+com.wtcl.electronicdirections:string/exo_controls_cc_disabled_description	-1	啟用字幕		Включить субтитры
+com.wtcl.electronicdirections:string/exo_controls_cc_disabled_description	-1	啟用字幕 (Subtitle)		Включить субтитры
+com.wtcl.electronicdirections:string/exo_controls_cc_enabled_description	-1	停用字幕		Выключить субтитры
+com.wtcl.electronicdirections:string/exo_controls_cc_enabled_description	-1	停用字幕 (Subtitle)		Выключить субтитры
+com.wtcl.electronicdirections:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.wtcl.electronicdirections:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_enter_description	-1	进入全屏模式		Полноэкранный режим
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕		Полноэкранный режим
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕模式		Полноэкранный режим
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_exit_description	-1	結束全螢幕模式		Выйти из полноэкранного режима
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_exit_description	-1	退出全屏模式		Выйти из полноэкранного режима
+com.wtcl.electronicdirections:string/exo_controls_fullscreen_exit_description	-1	關閉全螢幕		Выйти из полноэкранного режима
+com.wtcl.electronicdirections:string/exo_controls_hide	-1	隐藏播放器控件		Скрыть панель управления
+com.wtcl.electronicdirections:string/exo_controls_hide	-1	隱藏播放器控制選項		Скрыть панель управления
+com.wtcl.electronicdirections:string/exo_controls_hide	-1	隱藏播放器控制項		Скрыть панель управления
+com.wtcl.electronicdirections:string/exo_controls_next_description	-1	繼續		Следующий трек
+com.wtcl.electronicdirections:string/exo_controls_overflow_hide_description	-1	隐藏其他设置		Скрыть дополнительные настройки
+com.wtcl.electronicdirections:string/exo_controls_overflow_hide_description	-1	隱藏其他設定		Скрыть дополнительные настройки
+com.wtcl.electronicdirections:string/exo_controls_overflow_show_description	-1	显示其他设置		Показать дополнительные настройки
+com.wtcl.electronicdirections:string/exo_controls_overflow_show_description	-1	顯示其他設定		Показать дополнительные настройки
+com.wtcl.electronicdirections:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.wtcl.electronicdirections:string/exo_controls_playback_speed	-1	速度		Скорость
+com.wtcl.electronicdirections:string/exo_controls_repeat_all_description	-1	全部重复播放		Повторять все
+com.wtcl.electronicdirections:string/exo_controls_repeat_all_description	-1	全部重複播放		Повторять все
+com.wtcl.electronicdirections:string/exo_controls_repeat_all_description	-1	重複播放所有項目		Повторять все
+com.wtcl.electronicdirections:string/exo_controls_repeat_off_description	-1	不重複播放		Не повторять
+com.wtcl.electronicdirections:string/exo_controls_repeat_one_description	-1	重複播放單一項目		Повторять трек
+com.wtcl.electronicdirections:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.wtcl.electronicdirections:string/exo_controls_seek_bar_description	-1	播放进度		Полоса прокрутки воспроизведения
+com.wtcl.electronicdirections:string/exo_controls_seek_bar_description	-1	播放進度		Полоса прокрутки воспроизведения
+com.wtcl.electronicdirections:string/exo_controls_settings_description	-1	設定		Настройки
+com.wtcl.electronicdirections:string/exo_controls_show	-1	显示播放器控件		Показать панель управления
+com.wtcl.electronicdirections:string/exo_controls_show	-1	顯示播放器控制選項		Показать панель управления
+com.wtcl.electronicdirections:string/exo_controls_show	-1	顯示播放器控制項		Показать панель управления
+com.wtcl.electronicdirections:string/exo_controls_shuffle_off_description	-1	已關閉隨機播放功能		Перемешивание отключено
+com.wtcl.electronicdirections:string/exo_controls_shuffle_off_description	-1	随机播放功能已关闭		Перемешивание отключено
+com.wtcl.electronicdirections:string/exo_controls_shuffle_off_description	-1	隨機播放已關閉		Перемешивание отключено
+com.wtcl.electronicdirections:string/exo_controls_shuffle_on_description	-1	已開啟隨機播放功能		Перемешивание включено
+com.wtcl.electronicdirections:string/exo_controls_shuffle_on_description	-1	随机播放功能已开启		Перемешивание включено
+com.wtcl.electronicdirections:string/exo_controls_shuffle_on_description	-1	隨機播放已開啟		Перемешивание включено
+com.wtcl.electronicdirections:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.wtcl.electronicdirections:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.wtcl.electronicdirections:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.wtcl.electronicdirections:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.wtcl.electronicdirections:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.wtcl.electronicdirections:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.wtcl.electronicdirections:string/exo_download_description	-1	下載		Скачать
+com.wtcl.electronicdirections:string/exo_download_downloading	-1	下載中		Скачивание…
+com.wtcl.electronicdirections:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.wtcl.electronicdirections:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.wtcl.electronicdirections:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.wtcl.electronicdirections:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.wtcl.electronicdirections:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.wtcl.electronicdirections:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.wtcl.electronicdirections:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.wtcl.electronicdirections:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.wtcl.electronicdirections:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.wtcl.electronicdirections:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.wtcl.electronicdirections:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.wtcl.electronicdirections:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.wtcl.electronicdirections:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.wtcl.electronicdirections:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.wtcl.electronicdirections:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.wtcl.electronicdirections:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.wtcl.electronicdirections:string/exo_track_mono	-1	单声道		Моно
+com.wtcl.electronicdirections:string/exo_track_mono	-1	單聲道		Моно
+com.wtcl.electronicdirections:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.wtcl.electronicdirections:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.wtcl.electronicdirections:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.wtcl.electronicdirections:string/exo_track_role_commentary	-1	評論		Комментарии
+com.wtcl.electronicdirections:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.wtcl.electronicdirections:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.wtcl.electronicdirections:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.wtcl.electronicdirections:string/exo_track_selection_auto	-1	自動		Авто
+com.wtcl.electronicdirections:string/exo_track_selection_none	-1	無		Нет
+com.wtcl.electronicdirections:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.wtcl.electronicdirections:string/exo_track_selection_title_text	-1	文字		Текст
+com.wtcl.electronicdirections:string/exo_track_selection_title_video	-1	影片		Видео
+com.wtcl.electronicdirections:string/exo_track_stereo	-1	立体声		Стерео
+com.wtcl.electronicdirections:string/exo_track_stereo	-1	立體聲		Стерео
+com.wtcl.electronicdirections:string/exo_track_surround	-1	环绕声		Объемный звук
+com.wtcl.electronicdirections:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.wtcl.electronicdirections:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.wtcl.electronicdirections:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.wtcl.electronicdirections:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.wtcl.electronicdirections:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.wtcl.electronicdirections:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.wtcl.electronicdirections:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.wtcl.electronicdirections:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.wtcl.electronicdirections:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.wtcl.electronicdirections:string/feed_back_dialog_edittext	-1	填写		Заполнить
+com.wtcl.electronicdirections:string/feedback	-1	反馈		Обратная связь
+com.wtcl.electronicdirections:string/feedback_button_submit	-1	提交		Отправить
+com.wtcl.electronicdirections:string/file_cannot_be_previewed	-1	文件无法预览		Предпросмотр файла недоступен
+com.wtcl.electronicdirections:string/light_video	-1	亮点视频		Видео о возможностях
+com.wtcl.electronicdirections:string/network_error	-1	网络异常		Ошибка сети
+com.wtcl.electronicdirections:string/no_data	-1	暂无数据		Данных пока нет
+com.wtcl.electronicdirections:string/no_homepage_content	-1	没有配置推荐首页内容		Рекомендуемые материалы не настроены
+com.wtcl.electronicdirections:string/no_network	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.wtcl.electronicdirections:string/notify_no_network	-1	网络连接不可用，请稍后重试！		Сеть недоступна. Повторите попытку позже
+com.wtcl.electronicdirections:string/previous_reading	-1	上一篇: 		Предыдущая статья: 
+com.wtcl.electronicdirections:string/search_hint	-1	请输入关键字		Введите ключевое слово
+com.wtcl.electronicdirections:string/suggestion_hint	-1	感谢您的认可~		Спасибо за вашу оценку!
+com.wtcl.electronicdirections:string/suggestion_hint_cai	-1	哪里做的不好，反馈之后可以改进~		Расскажите, что улучшить
+com.wtcl.electronicdirections:string/text_already_end	-1	我已经到底了		Конец страницы
+com.wtcl.electronicdirections:string/text_already_the_first_article	-1	已经是第一篇		Это первая статья
+com.wtcl.electronicdirections:string/text_already_the_last_article	-1	已经是最后一篇		Это последняя статья
+com.wtcl.electronicdirections:string/text_app_name	-1	玩车手册		Руководство по автомобилю
+com.wtcl.electronicdirections:string/text_auto_exit_fullscreen_mode	-1	行车过程中，已禁用全屏视频模式		Полноэкранное видео отключено во время движения
+com.wtcl.electronicdirections:string/text_back	-1	返回		Назад
+com.wtcl.electronicdirections:string/text_back_top	-1	返回顶部		Наверх
+com.wtcl.electronicdirections:string/text_buffering	-1	正在缓冲…… 293kb/s		Буферизация… 293 КБ/с
+com.wtcl.electronicdirections:string/text_c236_app_name	-1	玩车手册		Руководство по автомобилю
+com.wtcl.electronicdirections:string/text_car_strategy	-1	用车攻略		Советы по эксплуатации
+com.wtcl.electronicdirections:string/text_car_strategy_content	-1	进阶玩法 一应俱全		Дополнительные возможности автомобиля
+com.wtcl.electronicdirections:string/text_child_item	-1	子项目		Подраздел
+com.wtcl.electronicdirections:string/text_classification_tile	-1	分类标题		Название раздела
+com.wtcl.electronicdirections:string/text_clear	-1	清空		Очистить
+com.wtcl.electronicdirections:string/text_common_functions	-1	常用功能		Основные функции
+com.wtcl.electronicdirections:string/text_common_functions_content	-1	日常用车 看这里		Всё для повседневных поездок
+com.wtcl.electronicdirections:string/text_common_problem	-1	常见问题		Частые вопросы
+com.wtcl.electronicdirections:string/text_common_search	-1	常见搜索		Популярные запросы
+com.wtcl.electronicdirections:string/text_contents	-1	目录目录目录		Содержание
+com.wtcl.electronicdirections:string/text_continue_play	-1	继续播放		Продолжить воспроизведение
+com.wtcl.electronicdirections:string/text_default_content	-1	默认内容		Содержимое по умолчанию
+com.wtcl.electronicdirections:string/text_default_numbered	-1	共0个		Всего: 0
+com.wtcl.electronicdirections:string/text_default_title	-1	默认标题		Заголовок по умолчанию
+com.wtcl.electronicdirections:string/text_delete	-1	删除		Удалить
+com.wtcl.electronicdirections:string/text_delete_history_tip	-1	您是要删除所有历史记录吗？		Удалить всю историю?
+com.wtcl.electronicdirections:string/text_emergency_treatment	-1	紧急处理		Действия в экстренной ситуации
+com.wtcl.electronicdirections:string/text_emergency_treatment_content	-1	正确处理 遇事不慌		Как правильно действовать в непредвиденных обстоятельствах
+com.wtcl.electronicdirections:string/text_enter_app	-1	进入电子手册		Открыть электронное руководство
+com.wtcl.electronicdirections:string/text_feedback	-1	提交反馈		Отправить отзыв
+com.wtcl.electronicdirections:string/text_feedback_content	-1	我们会尽快为您准备相关内容		Мы постараемся подготовить нужные материалы как можно скорее
+com.wtcl.electronicdirections:string/text_feedback_fail	-1	反馈失败，请检查网络		Не удалось отправить отзыв. Проверьте сеть
+com.wtcl.electronicdirections:string/text_feedback_information	-1	感谢您的反馈，我们会尽快为您准备相关内容		Спасибо за отзыв. Мы постараемся подготовить нужные материалы как можно скорее
+com.wtcl.electronicdirections:string/text_feedback_sucess	-1	感谢您的反馈		Спасибо за отзыв
+com.wtcl.electronicdirections:string/text_in_the_first_step	-1	当前已在第一步		Это первый шаг
+com.wtcl.electronicdirections:string/text_in_the_last_step	-1	当前已在最后一步		Это последний шаг
+com.wtcl.electronicdirections:string/text_known	-1	退出播放		Закрыть проигрыватель
+com.wtcl.electronicdirections:string/text_load_error	-1	加载失败，请检查网络或重新加载		Не удалось загрузить. Проверьте сеть или повторите загрузку
+com.wtcl.electronicdirections:string/text_load_fail	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.wtcl.electronicdirections:string/text_load_fail_title	-1	加载失败		Не удалось загрузить
+com.wtcl.electronicdirections:string/text_load_no_network	-1	网络设置		Настройки сети
+com.wtcl.electronicdirections:string/text_loading	-1	正在为您加载内容，请稍后…		Загружаем материалы. Подождите…
+com.wtcl.electronicdirections:string/text_loading_empty	-1	没有数据		Данных нет
+com.wtcl.electronicdirections:string/text_loading_error	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.wtcl.electronicdirections:string/text_loading_first	-1	正在为您加载内容		Загрузка материалов
+com.wtcl.electronicdirections:string/text_loading_second	-1	请稍候…		Подождите…
+com.wtcl.electronicdirections:string/text_maintenance	-1	保养维护		Техническое обслуживание
+com.wtcl.electronicdirections:string/text_maintenance_content	-1	科学用车 养护无忧		Правильный уход за автомобилем
+com.wtcl.electronicdirections:string/text_more	-1	更多		Ещё
+com.wtcl.electronicdirections:string/text_new_car_master_entry	-1	新车主入门		Начинающему владельцу
+com.wtcl.electronicdirections:string/text_new_car_master_entry_content	-1	保姆级教学 萌新速成		Подробные инструкции для первых поездок
+com.wtcl.electronicdirections:string/text_new_function	-1	新功能推荐		Новые функции
+com.wtcl.electronicdirections:string/text_new_function_content	-1	最新功能 即刻了解		Узнайте о последних возможностях
+com.wtcl.electronicdirections:string/text_next_reading	-1	下一篇: 		Следующая статья: 
+com.wtcl.electronicdirections:string/text_no	-1	否		Нет
+com.wtcl.electronicdirections:string/text_no_content_available	-1	暂无内容		Материалов пока нет
+com.wtcl.electronicdirections:string/text_no_net	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.wtcl.electronicdirections:string/text_no_net_title	-1	当前⽆⽹络，已为您显⽰离线内容		Сети нет. Показаны сохранённые материалы
+com.wtcl.electronicdirections:string/text_none_articles	-1	该栏目下无文章		В этом разделе нет статей
+com.wtcl.electronicdirections:string/text_not_find	-1	抱歉，没有找到相关内容		Нужные материалы не найдены
+com.wtcl.electronicdirections:string/text_not_support_playback	-1	当前内容不支持播放		Воспроизведение этого материала не поддерживается
+com.wtcl.electronicdirections:string/text_please_enter_search_key	-1	请输入搜索关键字		Введите поисковый запрос
+com.wtcl.electronicdirections:string/text_recommend_reading	-1	推荐阅读		Рекомендуем прочитать
+com.wtcl.electronicdirections:string/text_recommended_homepage	-1	推荐首页		Рекомендации
+com.wtcl.electronicdirections:string/text_reload	-1	重试		Повторить
+com.wtcl.electronicdirections:string/text_retry	-1	重试		Повторить
+com.wtcl.electronicdirections:string/text_safe_tip	-1	为了您的安全，建议行车中不要播放视频		Для вашей безопасности рекомендуем не смотреть видео во время движения
+com.wtcl.electronicdirections:string/text_safe_tip_c236	-1	为了您的安全，建议行车中不要播放视频		Для вашей безопасности рекомендуем не смотреть видео во время движения
+com.wtcl.electronicdirections:string/text_search	-1	搜索用车问题		Поиск по вопросам эксплуатации
+com.wtcl.electronicdirections:string/text_search_clear_dialog_content	-1	您是要删除所有搜索记录吗？		Удалить всю историю поиска?
+com.wtcl.electronicdirections:string/text_search_clear_dialog_title	-1	删除搜索记录后，数据将不可恢复。		После удаления восстановить историю поиска будет невозможно
+com.wtcl.electronicdirections:string/text_search_empty	-1	很抱歉，未搜索到您想要的内容		По вашему запросу ничего не найдено
+com.wtcl.electronicdirections:string/text_search_empty_feedback	-1	感谢您的反馈, 我们会尽快为您准备相关内容		Спасибо за отзыв. Мы постараемся подготовить нужные материалы как можно скорее
+com.wtcl.electronicdirections:string/text_search_empty_upload	-1	你可以 上传信息 , 我们将为您提供更好的体验		Отправьте информацию, чтобы мы могли улучшить приложение
+com.wtcl.electronicdirections:string/text_search_feed_no_network	-1	反馈失败，请检查网络		Не удалось отправить отзыв. Проверьте сеть
+com.wtcl.electronicdirections:string/text_search_feedback	-1	一键反馈		Отправить отзыв
+com.wtcl.electronicdirections:string/text_search_hint	-1	搜索用车问题		Поиск по вопросам эксплуатации
+com.wtcl.electronicdirections:string/text_search_history	-1	搜索历史		История поиска
+com.wtcl.electronicdirections:string/text_search_result	-1	搜索结果		Результаты поиска
+com.wtcl.electronicdirections:string/text_setting	-1	网络设置		Настройки сети
+com.wtcl.electronicdirections:string/text_speech_dialog_to_play	-1	播报		Озвучить
+com.wtcl.electronicdirections:string/text_stay_tuned	-1	内容制作中，敬请期待		Материалы готовятся. Скоро они появятся
+com.wtcl.electronicdirections:string/text_stay_tuned_first_line	-1	内容制作中		Материалы готовятся
+com.wtcl.electronicdirections:string/text_stay_tuned_second_line	-1	敬请期待		Скоро появятся
+com.wtcl.electronicdirections:string/text_still_play	-1	仍要播放		Всё равно воспроизвести
+com.wtcl.electronicdirections:string/text_test	-1	测试		Тест
+com.wtcl.electronicdirections:string/text_thanks_for_your_feedback	-1	感谢您的反馈		Спасибо за отзыв
+com.wtcl.electronicdirections:string/text_token_empty	-1	token不能为空		Токен не может быть пустым
+com.wtcl.electronicdirections:string/text_total_number	-1	共%d个		Всего: %d
+com.wtcl.electronicdirections:string/text_total_search_result_number	-1	搜索结果共 %d 条		Найдено: %d
+com.wtcl.electronicdirections:string/text_try_other	-1	试试别的吧～		Попробуйте другой запрос
+com.wtcl.electronicdirections:string/text_unread	-1	尚未阅读		Не прочитано
+com.wtcl.electronicdirections:string/text_vehicle_manual	-1	整车说明书		Руководство по эксплуатации автомобиля
+com.wtcl.electronicdirections:string/text_video_damaged_back	-1	返回(%d)		Назад (%d)
+com.wtcl.electronicdirections:string/text_video_damaged_tip	-1	⽂件损坏，即将返回上⼀界⾯		Файл повреждён. Возвращаемся на предыдущий экран
+com.wtcl.electronicdirections:string/text_video_security_reminder	-1	为确保驾驶安全，已切换为音频模式		Для безопасности движения включён режим воспроизведения только звука
+com.wtcl.electronicdirections:string/text_video_show_view_screen	-1	全屏		На весь экран
+com.wtcl.electronicdirections:string/text_voice_interrupted	-1	语音播报被其他应用中断		Озвучивание прервано другим приложением
+com.wtcl.electronicdirections:string/text_yes	-1	是		Да
+com.wtcl.electronicdirections:string/time_out_please_try_again_later	-1	连接超时,请稍后再试		Время ожидания соединения истекло. Повторите попытку позже
+com.wtcl.electronicdirections:string/tip_level_attention	-1	注意		Внимание
+com.wtcl.electronicdirections:string/tip_level_danger	-1	危险		Опасно
+com.wtcl.electronicdirections:string/tip_level_warning	-1	警告		Предупреждение
+com.wtcl.electronicdirections:string/tv_no_more	-1	暂时没有更多了		Больше материалов пока нет
+com.wtcl.electronicdirections:string/tv_search_content_empty	-1	抱歉，没有找到相关内容		Нужные материалы не найдены
+com.wtcl.electronicdirections:string/tv_search_search_view_hint	-1	搜索关键词		Ключевые слова для поиска
+com.wtcl.electronicdirections:string/video_buffer_load_text	-1	正在缓冲...		Буферизация…
+com.wtcl.electronicdirections:string/wt_clear_history	-1	清空历史		Очистить историю
+com.wtcl.electronicdirections:string/wt_common_problem	-1	常见问题：		Частые вопросы:
+com.wtcl.electronicdirections:string/wt_date_picker_friday	-1	五		Пт
+com.wtcl.electronicdirections:string/wt_date_picker_monday	-1	一		Пн
+com.wtcl.electronicdirections:string/wt_date_picker_saturday	-1	六		Сб
+com.wtcl.electronicdirections:string/wt_date_picker_sunday	-1	日		Вс
+com.wtcl.electronicdirections:string/wt_date_picker_thursday	-1	四		Чт
+com.wtcl.electronicdirections:string/wt_date_picker_tuesday	-1	二		Вт
+com.wtcl.electronicdirections:string/wt_date_picker_wednesday	-1	三		Ср
+com.wtcl.electronicdirections:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wtcl.electronicdirections:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wtcl.electronicdirections:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wtcl.electronicdirections:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wtcl.electronicdirections:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wtcl.electronicdirections:string/wt_search_history	-1	搜索历史：		История поиска:
+com.wtcl.electronicdirections:string/wt_speed_content_description	-1	倍速		Скорость воспроизведения
+com.wtcl.electronicdirections:string/wt_speed_content_fast_description	-1	1.5倍速		Скорость 1,5×
+com.wtcl.electronicdirections:string/wt_speed_content_fastest_description	-1	2.0倍速		Скорость 2×
+com.wtcl.electronicdirections:string/wt_speed_content_low_description	-1	0.5倍速		Скорость 0,5×
+com.wtcl.electronicdirections:string/wt_speed_content_normal_description	-1	1.0倍速		Обычная скорость
+com.wtcl.electronicdirections:string/wt_tv_auto_renew	-1	重播		Повторить воспроизведение
+com.wtcl.electronicdirections:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wtcl.electronicdirections:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wtcl.electronicdirections:string/wtsearch_text_hint	-1	请输入		Введите запрос

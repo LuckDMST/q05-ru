@@ -1,0 +1,288 @@
+com.changan.evs.appservice:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.changan.evs.appservice:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.changan.evs.appservice:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.changan.evs.appservice:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.changan.evs.appservice:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.changan.evs.appservice:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.changan.evs.appservice:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.changan.evs.appservice:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.changan.evs.appservice:string/abc_capital_on	-1	開啟		ВКЛ
+com.changan.evs.appservice:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.changan.evs.appservice:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.changan.evs.appservice:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.changan.evs.appservice:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.changan.evs.appservice:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.changan.evs.appservice:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.changan.evs.appservice:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.changan.evs.appservice:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.changan.evs.appservice:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.changan.evs.appservice:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.changan.evs.appservice:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.changan.evs.appservice:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.changan.evs.appservice:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.changan.evs.appservice:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.changan.evs.appservice:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.changan.evs.appservice:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.changan.evs.appservice:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.changan.evs.appservice:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.changan.evs.appservice:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.changan.evs.appservice:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.changan.evs.appservice:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.changan.evs.appservice:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.changan.evs.appservice:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.changan.evs.appservice:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.changan.evs.appservice:string/app_after_view	-1	后视图		Вид сзади
+com.changan.evs.appservice:string/app_avm_turn_action	-1	智能辅助掉头已激活，请踩下加速踏板开始掉头		Помощь при развороте активна. Нажмите акселератор, чтобы начать разворот.
+com.changan.evs.appservice:string/app_avm_turn_not_action	-1	功能未激活！请打满方向盘并挂入D挡		Функция не активна. Полностью поверните руль и включите D.
+com.changan.evs.appservice:string/app_back_view_select	-1	返回		Назад
+com.changan.evs.appservice:string/app_current_view	-1	当前视角		Текущий вид
+com.changan.evs.appservice:string/app_current_view_left_front_wheel	-1	当前视角:左前轮		Текущий вид: левое переднее колесо
+com.changan.evs.appservice:string/app_current_view_left_rear_wheel	-1	当前视角:左后轮		Текущий вид: левое заднее колесо
+com.changan.evs.appservice:string/app_current_view_right_front_wheel	-1	当前视角:右前轮		Текущий вид: правое переднее колесо
+com.changan.evs.appservice:string/app_current_view_right_rear_wheel	-1	当前视角:右后轮		Текущий вид: правое заднее колесо
+com.changan.evs.appservice:string/app_current_view_single_left_car_body	-1	当前视角:单左车身		Текущий вид: левая сторона кузова
+com.changan.evs.appservice:string/app_current_view_single_right_car_body	-1	当前视角:单右车身		Текущий вид: правая сторона кузова
+com.changan.evs.appservice:string/app_current_view_small_left_car_body	-1	当前视角:小左车身		Текущий вид: уменьшенная левая сторона
+com.changan.evs.appservice:string/app_current_view_small_right_car_body	-1	当前视角:小右车身		Текущий вид: уменьшенная правая сторона
+com.changan.evs.appservice:string/app_dvr_no_space_all	-1	总剩余空间不足		Мало свободного места
+com.changan.evs.appservice:string/app_dvr_no_space_eme	-1	紧急录制空间不足		Мало места для экстренных записей
+com.changan.evs.appservice:string/app_dvr_no_space_nor	-1	循环录制空间不足		Мало места для циклической записи
+com.changan.evs.appservice:string/app_dvr_no_space_pho	-1	照片空间不足		Мало места для фото
+com.changan.evs.appservice:string/app_dvr_sdcard_format_error	-1	存储卡格式错误		Неверный формат карты памяти
+com.changan.evs.appservice:string/app_dvr_sdcard_speed_low	-1	存储卡速度过低		Скорость карты памяти слишком низкая
+com.changan.evs.appservice:string/app_dvr_sdcard_unmounted	-1	存储卡未挂载		Карта памяти не подключена
+com.changan.evs.appservice:string/app_dvr_sdcard_write_error	-1	存储卡读写错误		Ошибка чтения или записи карты памяти
+com.changan.evs.appservice:string/app_dvr_system_error	-1	系统故障		Системная неисправность
+com.changan.evs.appservice:string/app_end_live	-1	结束直播		Завершить трансляцию
+com.changan.evs.appservice:string/app_exit	-1	退出		Выйти
+com.changan.evs.appservice:string/app_exit_manual_calib	-1	退出		Выйти
+com.changan.evs.appservice:string/app_front_view	-1	前视图		Вид спереди
+com.changan.evs.appservice:string/app_init_success	-1	初始化完成！		Инициализация завершена
+com.changan.evs.appservice:string/app_left_front_wheel	-1	左前轮		Левое переднее колесо
+com.changan.evs.appservice:string/app_left_rear_wheel	-1	左后轮		Левое заднее колесо
+com.changan.evs.appservice:string/app_left_view	-1	左视图		Вид слева
+com.changan.evs.appservice:string/app_live_camera_fail	-1	摄像头打开失败		Не удалось включить камеру
+com.changan.evs.appservice:string/app_live_car_no	-1	车辆使用中，无法远程查看		Автомобиль используется. Дистанционный просмотр недоступен.
+com.changan.evs.appservice:string/app_live_fail	-1	执行失败		Не удалось выполнить
+com.changan.evs.appservice:string/app_live_high_v	-1	上高压失败，请检查后重试		Не удалось включить высокое напряжение. Проверьте автомобиль и повторите попытку.
+com.changan.evs.appservice:string/app_live_power_low	-1	电量过低		Слишком низкий заряд
+com.changan.evs.appservice:string/app_live_power_no	-1	上电异常，请检查后重试		Ошибка включения питания. Проверьте автомобиль и повторите попытку.
+com.changan.evs.appservice:string/app_live_power_saving	-1	车辆处于超级省电模式		Включено максимальное энергосбережение
+com.changan.evs.appservice:string/app_live_record_error	-1	视频录制异常		Ошибка записи видео
+com.changan.evs.appservice:string/app_live_record_success	-1	视频录制完成		Запись видео завершена
+com.changan.evs.appservice:string/app_live_sd_no	-1	TF内存卡异常，请检查后重试		Ошибка карты TF. Проверьте её и повторите попытку.
+com.changan.evs.appservice:string/app_live_sentry_record	-1	当前有应用正处于录制中，请在车机关闭后重试		Другое приложение ведёт запись. Остановите её на экране автомобиля и повторите попытку.
+com.changan.evs.appservice:string/app_live_space_no	-1	由于车机内存已满，录制停止，若需继续录制，请清理车端“紧急录制”视频后重试		Хранилище автомобиля заполнено. Запись остановлена. Для продолжения удалите экстренные записи и повторите попытку.
+com.changan.evs.appservice:string/app_live_success	-1	执行成功		Выполнено
+com.changan.evs.appservice:string/app_live_switch_state	-1	车辆监控功能未开启，请在车端中控【车辆设置】-【安全与服务】当中开启后使用		Наблюдение за автомобилем выключено. Включите его на центральном экране: Настройки автомобиля → Безопасность и сервис.
+com.changan.evs.appservice:string/app_live_timeout	-1	视频监控已超时		Время видеонаблюдения истекло
+com.changan.evs.appservice:string/app_not_use	-1	已开启超级省电模式，该功能不可用		Функция недоступна в режиме сверхэкономии энергии.
+com.changan.evs.appservice:string/app_open_lei_da	-1	雷达报警开关		Предупреждения датчиков парковки
+com.changan.evs.appservice:string/app_open_preview	-1	打开预览		Открыть предпросмотр
+com.changan.evs.appservice:string/app_open_she_zhi	-1	打开设置		Открыть настройки
+com.changan.evs.appservice:string/app_point_move_down	-1	下移		Вниз
+com.changan.evs.appservice:string/app_point_move_left	-1	左移		Влево
+com.changan.evs.appservice:string/app_point_move_right	-1	右移		Вправо
+com.changan.evs.appservice:string/app_point_move_up	-1	上移		Вверх
+com.changan.evs.appservice:string/app_rear_view	-1	后视图		Вид сзади
+com.changan.evs.appservice:string/app_reset	-1	重置		Сбросить
+com.changan.evs.appservice:string/app_right_front_wheel	-1	右前轮		Правое переднее колесо
+com.changan.evs.appservice:string/app_right_rear_wheel	-1	右后轮		Правое заднее колесо
+com.changan.evs.appservice:string/app_right_view	-1	右视图		Вид справа
+com.changan.evs.appservice:string/app_rma_hou	-1	后视图		Вид сзади
+com.changan.evs.appservice:string/app_rma_qian	-1	前视图		Вид спереди
+com.changan.evs.appservice:string/app_rma_you	-1	右视图		Вид справа
+com.changan.evs.appservice:string/app_rma_zuo	-1	左视图		Вид слева
+com.changan.evs.appservice:string/app_single_left_car_body	-1	单左车身		Левая сторона кузова
+com.changan.evs.appservice:string/app_single_right_car_body	-1	单右车身		Правая сторона кузова
+com.changan.evs.appservice:string/app_small_left_car_body	-1	小左车身		Уменьшенный вид слева
+com.changan.evs.appservice:string/app_small_right_car_body	-1	小右车身		Уменьшенный вид справа
+com.changan.evs.appservice:string/app_start_live	-1	开始直播		Начать трансляцию
+com.changan.evs.appservice:string/app_start_record	-1	录制视频		Записать видео
+com.changan.evs.appservice:string/avm_speed_tips	-1	当前坡度过大，已为您开启全景，请注意前方道路		Слишком крутой уклон. Включён круговой обзор. Следите за дорогой впереди.
+com.changan.evs.appservice:string/avm_traceback_cancel	-1	取消		Отмена
+com.changan.evs.appservice:string/avm_traceback_confirm	-1	确认开启		Подтвердить включение
+com.changan.evs.appservice:string/avm_traceback_info	-1	循迹倒车属于驾驶辅助功能，作为功能使用的第一责任\n人，您对功能使用安全具有监督责任，须要遵守相关法\n律法规；使用过程中，请您注意观察周围环境，包括但\n不限于横穿的行人、车辆等运动物体以及排水沟、悬崖\n等道路情况，必要时须主动接管车辆。		Движение назад по сохранённому пути — функция помощи водителю.\nВы отвечаете за контроль её безопасного использования\nи должны соблюдать применимые правила. Постоянно следите за окружением,\nвключая пешеходов, транспорт, канавы и обрывы.\nПри необходимости немедленно возьмите управление на себя.
+com.changan.evs.appservice:string/avm_traceback_title	-1	循迹倒车使用须知		Правила движения назад по сохранённому пути
+com.changan.evs.appservice:string/avm_turn_light_info	-1	1. 低速转向视野辅助：车速≤30km/h打转向灯时触发\n2. 高速转向视野辅助：车速>35km/h打转向灯时触发\n3. 转向视野辅助功能根据拨转向灯时的车速，分别在\n低速和高速时触发设置的侧前或侧后视野\n4. 当低速、高速转向视野辅助设置相同时，则支持全\n车速触发		1. На малой скорости функция срабатывает по указателю поворота при скорости ≤30 км/ч.\n2. На высокой скорости — при скорости >35 км/ч.\n3. По скорости в момент включения указателя выбирается\nзаданный боковой передний или задний вид.\n4. Если настройки для малой и высокой скорости совпадают,\nфункция работает во всём диапазоне скоростей.
+com.changan.evs.appservice:string/avm_turn_light_title	-1	转向视野辅助		Обзор при повороте
+com.changan.evs.appservice:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.changan.evs.appservice:string/caui_color_one	-1	颜色一		Цвет 1
+com.changan.evs.appservice:string/caui_color_two	-1	颜色二		Цвет 2
+com.changan.evs.appservice:string/caui_default_text_cancel	-1	取消		Отмена
+com.changan.evs.appservice:string/caui_default_text_network_exception	-1	网络异常		Ошибка сети
+com.changan.evs.appservice:string/caui_default_text_network_exception_desc	-1	请检查网络设置，或稍后再试		Проверьте настройки сети или повторите попытку позже
+com.changan.evs.appservice:string/caui_default_text_network_settings	-1	网络设置		Настройки сети
+com.changan.evs.appservice:string/caui_default_text_retry	-1	重试		Повторить
+com.changan.evs.appservice:string/caui_text_cancel	-1	取消		Отмена
+com.changan.evs.appservice:string/caui_text_download_success	-1	下载成功		Скачано
+com.changan.evs.appservice:string/caui_text_fail	-1	下载失败 		Не удалось скачать 
+com.changan.evs.appservice:string/caui_text_retry	-1	重新获取		Получить заново
+com.changan.evs.appservice:string/caui_text_timepicker_day	-1	日		д.
+com.changan.evs.appservice:string/caui_text_timepicker_day_temp	-1	日		д.
+com.changan.evs.appservice:string/caui_text_timepicker_end	-1	结束时间		Время окончания
+com.changan.evs.appservice:string/caui_text_timepicker_hour	-1	时		ч
+com.changan.evs.appservice:string/caui_text_timepicker_minute	-1	分		мин
+com.changan.evs.appservice:string/caui_text_timepicker_month	-1	月		мес.
+com.changan.evs.appservice:string/caui_text_timepicker_month_temp	-1	月		мес.
+com.changan.evs.appservice:string/caui_text_timepicker_second	-1	秒		с
+com.changan.evs.appservice:string/caui_text_timepicker_select_date	-1	选择日期		Выберите дату
+com.changan.evs.appservice:string/caui_text_timepicker_select_time	-1	选择时间		Выберите время
+com.changan.evs.appservice:string/caui_text_timepicker_start	-1	开始时间		Время начала
+com.changan.evs.appservice:string/caui_text_timepicker_year	-1	年		г.
+com.changan.evs.appservice:string/caui_text_timepicker_year_temp	-1	年		г.
+com.changan.evs.appservice:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.changan.evs.appservice:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.changan.evs.appservice:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.changan.evs.appservice:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.changan.evs.appservice:string/dvr_common_cancel	-1	取消（5s）		Отмена (5 с)
+com.changan.evs.appservice:string/dvr_common_know	-1	知道了（5s）		Понятно (5 с)
+com.changan.evs.appservice:string/dvr_dialog_content_space_full_798	-1	行车记录仪紧急空间已满，行车记录仪紧急视频不可录制，请清理紧急空间		Место для экстренных записей заполнено. Экстренное видео не записывается. Освободите место.
+com.changan.evs.appservice:string/dvr_dialog_content_space_full_other	-1	存储设备空间已满，请及时清理或更换存储设备		Накопитель заполнен. Очистите или замените его.
+com.changan.evs.appservice:string/dvr_dialog_content_space_near_limit_798	-1	行车记录仪紧急空间不足，将影响行车记录仪紧急视频录制，请清理紧急空间		Мало места для экстренных записей. Это мешает записи экстренного видео. Освободите место.
+com.changan.evs.appservice:string/dvr_dialog_title_no_space	-1	存储空间已满		Хранилище заполнено
+com.changan.evs.appservice:string/dvr_disagree_Privacy	-1	已关闭行车记录仪		Видеорегистратор выключен
+com.changan.evs.appservice:string/dvr_loop_open_fail	-1	循环录制开启失败		Не удалось включить циклическую запись
+com.changan.evs.appservice:string/dvr_memory_format_error	-1	存储设备格式错误，为保证视频正常录制，需对存储\n设备进行格式化，将删除卡内的所有数据，是否进行\n格式化？		Неверный формат накопителя. Для записи видео его нужно\nотформатировать. Все данные будут удалены.\nОтформатировать?
+com.changan.evs.appservice:string/dvr_memory_no_space	-1	存储设备紧急空间已满，行车记录仪、哨塔模式紧急\n视频无法录制，请清理存储设备紧急空间。		Место для экстренных записей заполнено. Регистратор и охрана\nне могут записывать экстренное видео. Освободите место.
+com.changan.evs.appservice:string/dvr_memory_no_space_four	-1	存储设备空间不足，将影响紧急视频、哨兵视频等录\n制，请清理存储设备空间。		Недостаточно места. Это мешает экстренной записи\nи записи охраны. Очистите накопитель.
+com.changan.evs.appservice:string/dvr_memory_no_space_three	-1	存储设备空间不足，将影响紧急视频、哨塔视频等录\n制，请清理存储设备空间。		Недостаточно места. Это мешает экстренной записи\nи записи охраны. Очистите накопитель.
+com.changan.evs.appservice:string/dvr_memory_no_space_two	-1	存储设备紧急空间已满，行车记录仪、哨兵模式紧急\n视频无法录制，请清理存储设备紧急空间。		Место для экстренных записей заполнено. Регистратор и охрана\nне могут записывать экстренное видео. Освободите место.
+com.changan.evs.appservice:string/dvr_memory_write_error	-1	存储设备读写故障，请检查或更换存储设备。		Ошибка чтения или записи накопителя. Проверьте или замените его.
+com.changan.evs.appservice:string/dvr_memory_write_slow	-1	存储设备速率过慢，建议更换读写速度为CLASS10\n（10MS/S）以上的存储设备。		Накопитель слишком медленный. Рекомендуется класс CLASS10\nсо скоростью не менее 10 МБ/с.
+com.changan.evs.appservice:string/dvr_privacy_agreement_confirm	-1	我已阅读并知晓		Я прочитал и понимаю
+com.changan.evs.appservice:string/dvr_privacy_agreement_title	-1	行车记录仪隐私声明		Конфиденциальность видеорегистратора
+com.changan.evs.appservice:string/dvr_privacy_important_notes_b216	-1	【重要说明】本隐私政策为本车型车机系统隐私政策的专项附件，仅针对行车记录仪产品的信息处理活动作出明确约定。若本隐私政策内容与本车型车机系统隐私政策存在条款差异或表述不一致，以本隐私政策的具体约定为准；本隐私政策未披露的内容，请您查阅完整版《本车型车机系统隐私政策》，以全面了解您在使用车辆相关系统及功能时的隐私保护权益与相关约定。		Важно: эта политика является специальным приложением к политике конфиденциальности мультимедийной системы данной модели и описывает обработку данных видеорегистратором. При различиях или противоречиях применяются конкретные условия этой политики. По вопросам, не описанным здесь, прочитайте полную политику конфиденциальности мультимедийной системы данной модели, чтобы узнать о защите данных при использовании систем и функций автомобиля.
+com.changan.evs.appservice:string/dvr_privacy_important_notes_c518	-1	【重要说明】本隐私政策为本车型车机系统隐私政策的专项附件，仅针对行车记录仪产品的信息处理活动作出明确约定。若本隐私政策内容与本车型车机系统隐私政策存在条款差异或表述不一致，以本隐私政策的具体约定为准；本隐私政策未披露的内容，请您查阅完整版《本车型车机系统隐私政策》，以全面了解您在使用车辆相关系统及功能时的隐私保护权益与相关约定。		Важно: эта политика является специальным приложением к политике конфиденциальности мультимедийной системы данной модели и описывает обработку данных видеорегистратором. При различиях или противоречиях применяются конкретные условия этой политики. По вопросам, не описанным здесь, прочитайте полную политику конфиденциальности мультимедийной системы данной модели, чтобы узнать о защите данных при использовании систем и функций автомобиля.
+com.changan.evs.appservice:string/dvr_sd_cancel	-1	取消		Отмена
+com.changan.evs.appservice:string/dvr_sd_formatting	-1	格式化		Форматировать
+com.changan.evs.appservice:string/dvr_take_photo_complete	-1	拍照成功		Фото сделано
+com.changan.evs.appservice:string/dvr_take_photo_fail	-1	拍照失败		Не удалось сделать фото
+com.changan.evs.appservice:string/dvr_title_memory_error	-1	存储设备错误		Ошибка накопителя
+com.changan.evs.appservice:string/dvr_toast_urgency_auto	-1	当前紧急视频录制，无法停止		Идёт экстренная запись. Остановить её нельзя.
+com.changan.evs.appservice:string/eme_already_record	-1	已在紧急视频录制中		Экстренная запись уже идёт
+com.changan.evs.appservice:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.changan.evs.appservice:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.changan.evs.appservice:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.changan.evs.appservice:string/material_hour_selection	-1	請選取時段		Выберите час
+com.changan.evs.appservice:string/material_hour_selection	-1	选择小时		Выберите час
+com.changan.evs.appservice:string/material_hour_selection	-1	選取時段		Выберите час
+com.changan.evs.appservice:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.changan.evs.appservice:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.changan.evs.appservice:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.changan.evs.appservice:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.changan.evs.appservice:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.changan.evs.appservice:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.changan.evs.appservice:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.changan.evs.appservice:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.changan.evs.appservice:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.changan.evs.appservice:string/material_timepicker_hour	-1	小時		Час
+com.changan.evs.appservice:string/material_timepicker_minute	-1	分鐘		Минуты
+com.changan.evs.appservice:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.changan.evs.appservice:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.changan.evs.appservice:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.changan.evs.appservice:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.changan.evs.appservice:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.changan.evs.appservice:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.changan.evs.appservice:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.changan.evs.appservice:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.changan.evs.appservice:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.changan.evs.appservice:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.changan.evs.appservice:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.changan.evs.appservice:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.changan.evs.appservice:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.changan.evs.appservice:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.changan.evs.appservice:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.changan.evs.appservice:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.changan.evs.appservice:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.changan.evs.appservice:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.changan.evs.appservice:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.changan.evs.appservice:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.changan.evs.appservice:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.changan.evs.appservice:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.changan.evs.appservice:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.changan.evs.appservice:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.changan.evs.appservice:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.changan.evs.appservice:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.changan.evs.appservice:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.changan.evs.appservice:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.changan.evs.appservice:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.changan.evs.appservice:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.changan.evs.appservice:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.changan.evs.appservice:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.changan.evs.appservice:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.changan.evs.appservice:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.changan.evs.appservice:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.changan.evs.appservice:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.changan.evs.appservice:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.changan.evs.appservice:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.changan.evs.appservice:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.changan.evs.appservice:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.changan.evs.appservice:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.changan.evs.appservice:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.changan.evs.appservice:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.changan.evs.appservice:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.changan.evs.appservice:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.changan.evs.appservice:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.changan.evs.appservice:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.changan.evs.appservice:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.changan.evs.appservice:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.changan.evs.appservice:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.changan.evs.appservice:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.changan.evs.appservice:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.changan.evs.appservice:string/mtrl_picker_save	-1	儲存		Сохранить
+com.changan.evs.appservice:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.changan.evs.appservice:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.changan.evs.appservice:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.changan.evs.appservice:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.changan.evs.appservice:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.changan.evs.appservice:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.changan.evs.appservice:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.changan.evs.appservice:string/rearview	-1	后视辅助		Помощь при обзоре сзади
+com.changan.evs.appservice:string/sd_load_msg	-1	无存储设备或存储设备不可用，建议插入容量为8~\n128G、速度CLASS10 (10MB/s)及以上的存储设备。		Накопителя нет или он неисправен. Рекомендуется ёмкость от 8 до\n128 ГБ, CLASS10 со скоростью не менее 10 МБ/с.
+com.changan.evs.appservice:string/sd_no_load	-1	存储设备不可用		Накопитель недоступен
+com.changan.evs.appservice:string/search	-1	搜索		Поиск
+com.changan.evs.appservice:string/sentry_btn_cancel	-1	取消		Отмена
+com.changan.evs.appservice:string/sentry_btn_confirm	-1	确认		Подтвердить
+com.changan.evs.appservice:string/sentry_first_use_tips	-1	离⻋后，检测到⻋辆周围存在威胁时，⻋辆会发出警报并⾃动记录⻋周视频，同时哨塔模式运⾏会消耗额外电量，建议仅在有⻛险的环境开启。		После вашего ухода автомобиль подаёт сигнал и записывает окружение при обнаружении угроз. Охрана дополнительно расходует энергию, поэтому её рекомендуется включать только при наличии риска.
+com.changan.evs.appservice:string/sentry_friendly_reminder	-1	温馨提示		Обратите внимание
+com.changan.evs.appservice:string/sentry_mode	-1	哨塔模式		Режим охраны
+com.changan.evs.appservice:string/sentry_mode_open	-1	已开启		Включено
+com.changan.evs.appservice:string/sentry_sys_super_eco_tips	-1	超级省电模式下，该功能不可用		В максимальном энергосбережении функция недоступна
+com.changan.evs.appservice:string/sentry_text	-1	当前有新的哨塔视频,请点击查看		Есть новое видео охраны. Нажмите для просмотра.
+com.changan.evs.appservice:string/sentry_title	-1	哨塔模式		Режим охраны
+com.changan.evs.appservice:string/smart_refresh_layout_footer_failed	-1	加载失败		Не удалось загрузить
+com.changan.evs.appservice:string/smart_refresh_layout_footer_finish	-1	加载完成		Загрузка завершена
+com.changan.evs.appservice:string/smart_refresh_layout_footer_loading	-1	正在加载…		Загрузка…
+com.changan.evs.appservice:string/smart_refresh_layout_footer_nothing	-1	没有更多数据了		Больше данных нет
+com.changan.evs.appservice:string/smart_refresh_layout_footer_pulling	-1	上拉加载更多		Потяните вверх для загрузки
+com.changan.evs.appservice:string/smart_refresh_layout_footer_refreshing	-1	等待头部刷新完成…		Ожидание обновления сверху…
+com.changan.evs.appservice:string/smart_refresh_layout_footer_release	-1	释放立即加载		Отпустите для загрузки
+com.changan.evs.appservice:string/str_apa_out_bt	-1	蓝牙已断开		Bluetooth отключён
+com.changan.evs.appservice:string/str_apa_park_bluetooth_parking	-1	蓝牙已断开		Bluetooth отключён
+com.changan.evs.appservice:string/tips_sd_clear	-1	内存清理		Очистка памяти
+com.changan.evs.appservice:string/version_name	-1	版本号		Версия
+com.changan.evs.appservice:string/wt_date_picker_friday	-1	五		Пт
+com.changan.evs.appservice:string/wt_date_picker_monday	-1	一		Пн
+com.changan.evs.appservice:string/wt_date_picker_saturday	-1	六		Сб
+com.changan.evs.appservice:string/wt_date_picker_sunday	-1	日		Вс
+com.changan.evs.appservice:string/wt_date_picker_thursday	-1	四		Чт
+com.changan.evs.appservice:string/wt_date_picker_tuesday	-1	二		Вт
+com.changan.evs.appservice:string/wt_date_picker_wednesday	-1	三		Ср
+com.changan.evs.appservice:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.changan.evs.appservice:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.changan.evs.appservice:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.changan.evs.appservice:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.changan.evs.appservice:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.changan.evs.appservice:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.changan.evs.appservice:string/wtinput_text_hint	-1	请输入		Введите текст
+com.changan.evs.appservice:string/wtsearch_text_hint	-1	请输入		Введите запрос

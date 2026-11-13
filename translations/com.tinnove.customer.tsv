@@ -1,0 +1,279 @@
+com.tinnove.customer:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.customer:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.customer:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.customer:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.customer:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.customer:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.customer:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.customer:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.customer:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.customer:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.customer:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.customer:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.customer:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.customer:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.customer:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.customer:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.customer:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.customer:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.customer:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.customer:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.customer:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.customer:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.customer:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.customer:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.customer:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.customer:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.customer:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.customer:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.customer:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.customer:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.customer:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.customer:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.customer:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.customer:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.customer:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.customer:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.customer:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.customer:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.customer:string/exo_controls_cc_disabled_description	-1	启用字幕		Включить субтитры
+com.tinnove.customer:string/exo_controls_cc_disabled_description	-1	啟用字幕		Включить субтитры
+com.tinnove.customer:string/exo_controls_cc_disabled_description	-1	啟用字幕 (Subtitle)		Включить субтитры
+com.tinnove.customer:string/exo_controls_cc_enabled_description	-1	停用字幕		Выключить субтитры
+com.tinnove.customer:string/exo_controls_cc_enabled_description	-1	停用字幕 (Subtitle)		Выключить субтитры
+com.tinnove.customer:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.tinnove.customer:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.tinnove.customer:string/exo_controls_fullscreen_enter_description	-1	进入全屏模式		Полноэкранный режим
+com.tinnove.customer:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕		Полноэкранный режим
+com.tinnove.customer:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕模式		Полноэкранный режим
+com.tinnove.customer:string/exo_controls_fullscreen_exit_description	-1	結束全螢幕模式		Выйти из полноэкранного режима
+com.tinnove.customer:string/exo_controls_fullscreen_exit_description	-1	退出全屏模式		Выйти из полноэкранного режима
+com.tinnove.customer:string/exo_controls_fullscreen_exit_description	-1	關閉全螢幕		Выйти из полноэкранного режима
+com.tinnove.customer:string/exo_controls_hide	-1	隐藏播放器控件		Скрыть панель управления
+com.tinnove.customer:string/exo_controls_hide	-1	隱藏播放器控制選項		Скрыть панель управления
+com.tinnove.customer:string/exo_controls_hide	-1	隱藏播放器控制項		Скрыть панель управления
+com.tinnove.customer:string/exo_controls_next_description	-1	繼續		Следующий трек
+com.tinnove.customer:string/exo_controls_overflow_hide_description	-1	隐藏其他设置		Скрыть дополнительные настройки
+com.tinnove.customer:string/exo_controls_overflow_hide_description	-1	隱藏其他設定		Скрыть дополнительные настройки
+com.tinnove.customer:string/exo_controls_overflow_show_description	-1	显示其他设置		Показать дополнительные настройки
+com.tinnove.customer:string/exo_controls_overflow_show_description	-1	顯示其他設定		Показать дополнительные настройки
+com.tinnove.customer:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.tinnove.customer:string/exo_controls_playback_speed	-1	速度		Скорость
+com.tinnove.customer:string/exo_controls_repeat_all_description	-1	全部重复播放		Повторять все
+com.tinnove.customer:string/exo_controls_repeat_all_description	-1	全部重複播放		Повторять все
+com.tinnove.customer:string/exo_controls_repeat_all_description	-1	重複播放所有項目		Повторять все
+com.tinnove.customer:string/exo_controls_repeat_off_description	-1	不重複播放		Не повторять
+com.tinnove.customer:string/exo_controls_repeat_one_description	-1	重複播放單一項目		Повторять трек
+com.tinnove.customer:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.tinnove.customer:string/exo_controls_seek_bar_description	-1	播放进度		Полоса прокрутки воспроизведения
+com.tinnove.customer:string/exo_controls_seek_bar_description	-1	播放進度		Полоса прокрутки воспроизведения
+com.tinnove.customer:string/exo_controls_settings_description	-1	設定		Настройки
+com.tinnove.customer:string/exo_controls_show	-1	显示播放器控件		Показать панель управления
+com.tinnove.customer:string/exo_controls_show	-1	顯示播放器控制選項		Показать панель управления
+com.tinnove.customer:string/exo_controls_show	-1	顯示播放器控制項		Показать панель управления
+com.tinnove.customer:string/exo_controls_shuffle_off_description	-1	已關閉隨機播放功能		Перемешивание отключено
+com.tinnove.customer:string/exo_controls_shuffle_off_description	-1	随机播放功能已关闭		Перемешивание отключено
+com.tinnove.customer:string/exo_controls_shuffle_off_description	-1	隨機播放已關閉		Перемешивание отключено
+com.tinnove.customer:string/exo_controls_shuffle_on_description	-1	已開啟隨機播放功能		Перемешивание включено
+com.tinnove.customer:string/exo_controls_shuffle_on_description	-1	随机播放功能已开启		Перемешивание включено
+com.tinnove.customer:string/exo_controls_shuffle_on_description	-1	隨機播放已開啟		Перемешивание включено
+com.tinnove.customer:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.tinnove.customer:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.tinnove.customer:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.tinnove.customer:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.tinnove.customer:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.tinnove.customer:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.tinnove.customer:string/exo_download_description	-1	下載		Скачать
+com.tinnove.customer:string/exo_download_downloading	-1	下載中		Скачивание…
+com.tinnove.customer:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.tinnove.customer:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.tinnove.customer:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.tinnove.customer:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.tinnove.customer:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.tinnove.customer:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.tinnove.customer:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.tinnove.customer:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.tinnove.customer:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.tinnove.customer:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.tinnove.customer:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.tinnove.customer:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.tinnove.customer:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.tinnove.customer:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.tinnove.customer:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.tinnove.customer:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.tinnove.customer:string/exo_track_mono	-1	单声道		Моно
+com.tinnove.customer:string/exo_track_mono	-1	單聲道		Моно
+com.tinnove.customer:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.tinnove.customer:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.tinnove.customer:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.tinnove.customer:string/exo_track_role_commentary	-1	評論		Комментарии
+com.tinnove.customer:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.tinnove.customer:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.tinnove.customer:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.tinnove.customer:string/exo_track_selection_auto	-1	自動		Авто
+com.tinnove.customer:string/exo_track_selection_none	-1	無		Нет
+com.tinnove.customer:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.tinnove.customer:string/exo_track_selection_title_text	-1	文字		Текст
+com.tinnove.customer:string/exo_track_selection_title_video	-1	影片		Видео
+com.tinnove.customer:string/exo_track_stereo	-1	立体声		Стерео
+com.tinnove.customer:string/exo_track_stereo	-1	立體聲		Стерео
+com.tinnove.customer:string/exo_track_surround	-1	环绕声		Объемный звук
+com.tinnove.customer:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.tinnove.customer:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.tinnove.customer:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.tinnove.customer:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.tinnove.customer:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.tinnove.customer:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.tinnove.customer:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.tinnove.customer:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.tinnove.customer:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.tinnove.customer:string/feedback_date_confirm	-1	确定		ОК
+com.tinnove.customer:string/feedback_date_happen	-1	发生时间		Время события
+com.tinnove.customer:string/feedback_date_title	-1	问题发生时间		Когда возникла проблема
+com.tinnove.customer:string/feedback_describe_hint	-1	请详细描述您遇到的问题：\n1.打开了某个APP页面\t\t2.执行某个操作遇到了什么问题\t\t3.其他附加描述		Подробно опишите проблему:\n1. Какое приложение и страницу вы открыли?\t\t2. Какое действие выполнили и что произошло?\t\t3. Дополнительные сведения.
+com.tinnove.customer:string/feedback_describe_hint_other	-1	请描述详细问题或建议，至少5个字符。		Подробно опишите проблему или предложение, не менее 5 символов.
+com.tinnove.customer:string/feedback_failed	-1	反馈失败		Не удалось отправить отзыв
+com.tinnove.customer:string/feedback_log_share	-1	共享应用日志，以便我们更准确诊断问题		Передать журналы приложений для более точной диагностики проблемы
+com.tinnove.customer:string/feedback_log_uploading	-1	正在上传日志，请稍后再试		Идёт загрузка журналов. Попробуйте позже.
+com.tinnove.customer:string/feedback_max_limit	-1	反馈内容达到上限		Достигнут предел текста отзыва
+com.tinnove.customer:string/feedback_min_limit	-1	反馈内容少于5个字		В отзыве меньше 5 символов
+com.tinnove.customer:string/feedback_not_login	-1	请登录驾驶员中心		Войдите в профиль водителя
+com.tinnove.customer:string/feedback_submit	-1	提交		Отправить
+com.tinnove.customer:string/feedback_submit_later	-1	网络异常，网络恢复后为您自动提交		Ошибка сети. Отзыв будет отправлен автоматически после восстановления связи.
+com.tinnove.customer:string/feedback_submit_success	-1	提交成功		Отправлено
+com.tinnove.customer:string/feedback_success	-1	反馈成功		Отзыв отправлен
+com.tinnove.customer:string/feedback_too_long	-1	反馈内容超出限制		Текст отзыва превышает лимит
+com.tinnove.customer:string/feedback_too_short	-1	反馈内容少于5个字		В отзыве меньше 5 символов
+com.tinnove.customer:string/feedback_type_1	-1	功能异常		Неисправность функции
+com.tinnove.customer:string/feedback_type_2	-1	体验问题		Неудобство использования
+com.tinnove.customer:string/feedback_type_3	-1	新功能建议		Предложение новой функции
+com.tinnove.customer:string/feedback_type_4	-1	服务及其他		Сервис и прочее
+com.tinnove.customer:string/loading_fail	-1	加载失败，请稍候再试		Не удалось загрузить. Повторите попытку позже.
+com.tinnove.customer:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.customer:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.customer:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.customer:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.customer:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.customer:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.customer:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.customer:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.customer:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.customer:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.customer:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.customer:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.customer:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.customer:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.customer:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.customer:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.customer:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.customer:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.customer:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.customer:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.customer:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.customer:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.customer:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.customer:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.customer:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.customer:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.customer:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.customer:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.customer:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.customer:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.customer:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.customer:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.customer:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.customer:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.customer:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.customer:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.customer:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.customer:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.customer:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.customer:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.customer:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.customer:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.customer:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.customer:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.customer:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.customer:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.customer:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.customer:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.customer:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.customer:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.customer:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.customer:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.customer:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.customer:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.customer:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.customer:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.customer:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.customer:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.customer:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.customer:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.customer:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.customer:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.customer:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.customer:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.customer:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.customer:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.customer:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.customer:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.customer:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.customer:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.customer:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.customer:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.customer:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.customer:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.customer:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.customer:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.customer:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.customer:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.customer:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.customer:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.customer:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.customer:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.customer:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.customer:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.customer:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.customer:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.customer:string/tab_human_customer	-1	人工客服		Оператор поддержки
+com.tinnove.customer:string/tab_smart_customer	-1	智能客服		Умная поддержка
+com.tinnove.customer:string/text_cancel	-1	取消		Отмена
+com.tinnove.customer:string/text_check_network	-1	请检查网络设置		Проверьте настройки сети
+com.tinnove.customer:string/text_check_network_or_retry	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.tinnove.customer:string/text_feedback	-1	我要反馈		Отправить отзыв
+com.tinnove.customer:string/text_load_failed	-1	加载失败		Не удалось загрузить
+com.tinnove.customer:string/text_loading	-1	加载中…		Загрузка…
+com.tinnove.customer:string/text_network_disconnected	-1	网络未连接		Нет подключения к сети
+com.tinnove.customer:string/text_network_setting	-1	网络设置		Настройки сети
+com.tinnove.customer:string/text_no_feedback	-1	还没有收到您的反馈哦～		Вы ещё не отправляли отзыв
+com.tinnove.customer:string/text_no_network	-1	当前网络不佳，请稍后重试		Слабое подключение. Повторите попытку позже.
+com.tinnove.customer:string/text_qa_help	-1	Hi，%s，请问有什么可以为您效劳的呢？		Здравствуйте, %s! Чем помочь?
+com.tinnove.customer:string/text_qa_not_found	-1	如您有以下问题，可点击下方文字，我们将尽快为您解答		Выберите вопрос ниже, и мы постараемся быстро ответить
+com.tinnove.customer:string/text_qa_open_link	-1	点击打开链接		Нажмите, чтобы открыть ссылку
+com.tinnove.customer:string/text_question_hint	-1	请输入您要咨询的内容		Введите свой вопрос
+com.tinnove.customer:string/text_retry	-1	重试		Повторить
+com.tinnove.customer:string/text_send	-1	发送		Отправить
+com.tinnove.customer:string/text_slide_cancel	-1	下滑取消		Проведите вниз для отмены
+com.tinnove.customer:string/text_slide_send	-1	上滑送出		Проведите вверх для отправки
+com.tinnove.customer:string/text_url_error	-1	URL地址错误		Неверный адрес URL
+com.tinnove.customer:string/text_useful	-1	有帮助		Полезно
+com.tinnove.customer:string/text_useless	-1	无用		Не помогло
+com.tinnove.customer:string/text_voice_input	-1	语音输入		Голосовой ввод
+com.tinnove.customer:string/text_voice_record_failed	-1	语音录入启动失败		Не удалось начать голосовой ввод
+com.tinnove.customer:string/text_welcome	-1	欢迎来到智能客服，可以直接说“开始反馈”		Добро пожаловать в службу поддержки. Чтобы начать обращение, скажите по-китайски «开始反馈» («Начать обращение»).
+com.tinnove.customer:string/voice_input_hint	-1	请输入您要咨询的内容		Введите свой вопрос
+com.tinnove.customer:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.customer:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.customer:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.customer:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.customer:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.customer:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.customer:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.customer:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.customer:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.customer:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.customer:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.customer:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.customer:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.customer:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.customer:string/wtsearch_text_hint	-1	请输入		Введите запрос

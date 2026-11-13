@@ -1,0 +1,387 @@
+com.incall.apps.album:array/album_app_main_tab_array	0	我的相册		Мой альбом
+com.incall.apps.album:array/album_app_main_tab_array	1	行车记录仪		Видеорегистратор
+com.incall.apps.album:array/album_app_main_tab_array	2	哨塔模式		Режим охраны
+com.incall.apps.album:array/album_app_main_tab_array_no_usb	0	我的相册		Мой альбом
+com.incall.apps.album:array/album_app_main_tab_array_no_usb	1	行车记录仪		Видеорегистратор
+com.incall.apps.album:array/album_app_main_tab_array_no_usb	2	营地守护		Охрана лагеря
+com.incall.apps.album:array/album_app_main_tab_array_no_usb	3	哨塔模式		Режим охраны
+com.incall.apps.album:string/USB_tautology	-1	当前没有USB设备，请插入USB设备后重试		USB-устройство не подключено. Подключите его и повторите попытку.
+com.incall.apps.album:string/U_capacity_insufficient	-1	U盘容量不足		Недостаточно места на USB
+com.incall.apps.album:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.incall.apps.album:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.incall.apps.album:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.incall.apps.album:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.incall.apps.album:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.incall.apps.album:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.incall.apps.album:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.incall.apps.album:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.incall.apps.album:string/abc_capital_on	-1	開啟		ВКЛ
+com.incall.apps.album:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.incall.apps.album:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.incall.apps.album:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.incall.apps.album:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.incall.apps.album:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.incall.apps.album:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.incall.apps.album:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.incall.apps.album:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.incall.apps.album:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.incall.apps.album:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.incall.apps.album:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.incall.apps.album:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.incall.apps.album:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.incall.apps.album:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.incall.apps.album:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.incall.apps.album:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.incall.apps.album:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.incall.apps.album:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.incall.apps.album:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.incall.apps.album:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.incall.apps.album:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.incall.apps.album:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.incall.apps.album:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.incall.apps.album:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.incall.apps.album:string/add_device	-1	添加设备		Добавить устройство
+com.incall.apps.album:string/agree	-1	同意		Согласен
+com.incall.apps.album:string/album_back	-1	返回		Назад
+com.incall.apps.album:string/album_cancel_uploading	-1	取消上传		Отменить загрузку
+com.incall.apps.album:string/album_common_add_device	-1	添加设备		Добавить устройство
+com.incall.apps.album:string/album_common_angle_360	-1	360视角		Круговой обзор
+com.incall.apps.album:string/album_common_angle_main	-1	主视角		Основной вид
+com.incall.apps.album:string/album_common_audio_track	-1	音轨		Аудиодорожка
+com.incall.apps.album:string/album_common_camp_video_delete_message	-1	营地守护视频所有视角均会被删除		Видео охраны лагеря будет удалено со всех камер
+com.incall.apps.album:string/album_common_cancel	-1	取消		Отмена
+com.incall.apps.album:string/album_common_cancel_time	-1	取消(%1$ds)		Отмена (%1$d с)
+com.incall.apps.album:string/album_common_cannot_play_video	-1	不能播放此视频		Это видео нельзя воспроизвести
+com.incall.apps.album:string/album_common_cannot_play_video_no_audio_focus	-1	音响被占用，暂无法播放		Аудиосистема занята. Воспроизведение временно недоступно.
+com.incall.apps.album:string/album_common_cannot_play_video_no_file	-1	此视频文件不存在		Видеофайл отсутствует
+com.incall.apps.album:string/album_common_confirm	-1	确定		ОК
+com.incall.apps.album:string/album_common_delete	-1	删除		Удалить
+com.incall.apps.album:string/album_common_delete_at_present_photo	-1	，确定删除当前照片吗？		. Удалить текущее фото?
+com.incall.apps.album:string/album_common_delete_at_present_video	-1	，确定删除当前视频吗？		. Удалить текущее видео?
+com.incall.apps.album:string/album_common_delete_message	-1	，确定删除已选择的%1$s?		. Удалить выбранное: %1$s?
+com.incall.apps.album:string/album_common_delete_tltie	-1	删除提示		Удаление
+com.incall.apps.album:string/album_common_deleteing_at_present_photo	-1	正在删除照片		Удаление фото
+com.incall.apps.album:string/album_common_deleteing_at_present_photo_second	-1	正在删除图片		Удаление изображения
+com.incall.apps.album:string/album_common_deleteing_at_present_video	-1	正在删除视频		Удаление видео
+com.incall.apps.album:string/album_common_deleteing_message	-1	正在删除		Удаление
+com.incall.apps.album:string/album_common_drive_video_limit	-1	为了保证您的驾驶安全，行车状态下视频播放功能将受到限制，若仍要开启，可前往车辆设置中更改设置		Для безопасности видео во время движения ограничено. При необходимости настройку можно изменить в настройках автомобиля.
+com.incall.apps.album:string/album_common_driving_recorder_delete_message	-1	行车记录仪视频所有视角均会被删除		Видео регистратора будет удалено со всех камер
+com.incall.apps.album:string/album_common_explain_operation	-1	请按照下方说明操作		Следуйте инструкциям ниже
+com.incall.apps.album:string/album_common_first_photo	-1	已经是第一张照片了		Это первое фото
+com.incall.apps.album:string/album_common_ge	-1	个		шт.
+com.incall.apps.album:string/album_common_is_first_video	-1	已经是第一个视频了		Это первое видео
+com.incall.apps.album:string/album_common_is_last_video	-1	没有更多视频了		Больше видео нет
+com.incall.apps.album:string/album_common_is_selected	-1	已选择		Выбрано
+com.incall.apps.album:string/album_common_load_data_fail	-1	加载数据失败~！		Не удалось загрузить данные
+com.incall.apps.album:string/album_common_multiple	-1	倍速		Скорость
+com.incall.apps.album:string/album_common_network_error	-1	网络异常请检查网络设置，或稍后重试		Ошибка сети. Проверьте настройки или повторите попытку позже.
+com.incall.apps.album:string/album_common_next	-1	下一个		Следующий
+com.incall.apps.album:string/album_common_no_3d	-1	没有 3D 资源		Нет ресурсов 3D
+com.incall.apps.album:string/album_common_no_camera_dir_data	-1	暂无对应视角资源		Нет записи с этой камеры
+com.incall.apps.album:string/album_common_no_more_photo	-1	没有更多的照片了		Больше фото нет
+com.incall.apps.album:string/album_common_no_photo	-1	暂无照片		Фото пока нет
+com.incall.apps.album:string/album_common_no_video	-1	暂无视频		Видео пока нет
+com.incall.apps.album:string/album_common_not_have_subtitle	-1	暂无字幕资源		Нет субтитров
+com.incall.apps.album:string/album_common_not_have_track	-1	暂无音轨资源		Нет аудиодорожек
+com.incall.apps.album:string/album_common_notice	-1	提示		Уведомление
+com.incall.apps.album:string/album_common_open_phone_string	-1	2.打开手机控车APP-相册速传，进入文件传输模块		2. В приложении управления автомобилем на телефоне откройте быструю передачу альбома и раздел передачи файлов.
+com.incall.apps.album:string/album_common_open_wifi_string	-1	1.请打开手机WIFI功能，并连接【车端热点名称】		1. Включите Wi-Fi телефона и подключитесь к точке доступа автомобиля.
+com.incall.apps.album:string/album_common_operate_cancel	-1	完成		Готово
+com.incall.apps.album:string/album_common_operate_cancel_select_all	-1	取消全选		Снять выбор
+com.incall.apps.album:string/album_common_operate_delete	-1	删除		Удалить
+com.incall.apps.album:string/album_common_operate_save_to	-1	转存		Скопировать
+com.incall.apps.album:string/album_common_operate_select_all	-1	全选		Выбрать всё
+com.incall.apps.album:string/album_common_operate_share	-1	分享		Поделиться
+com.incall.apps.album:string/album_common_operate_upload	-1	上传		Загрузить
+com.incall.apps.album:string/album_common_pass_word_string	-1	密码：		Пароль:
+com.incall.apps.album:string/album_common_pause	-1	暂停		Пауза
+com.incall.apps.album:string/album_common_photo	-1	照片		Фото
+com.incall.apps.album:string/album_common_play	-1	播放		Воспроизвести
+com.incall.apps.album:string/album_common_previous	-1	上一个		Предыдущий
+com.incall.apps.album:string/album_common_save_not_have_usb	-1	未检测到U盘		USB-накопитель не обнаружен
+com.incall.apps.album:string/album_common_save_space_not_enough	-1	U盘容量不足		Недостаточно места на USB
+com.incall.apps.album:string/album_common_save_to	-1	转存		Скопировать
+com.incall.apps.album:string/album_common_save_to_cancel_success_count	-1	成功%1$d个，失败%2$d个		Успешно: %1$d, ошибок: %2$d
+com.incall.apps.album:string/album_common_save_to_cancel_sure_bt	-1	确定		ОК
+com.incall.apps.album:string/album_common_save_to_finish_hint	-1	我知道了(%1$dS)		Понятно (%1$d с)
+com.incall.apps.album:string/album_common_save_to_finish_know	-1	我知道了		Понятно
+com.incall.apps.album:string/album_common_saving_to_cancel	-1	转存取消		Копирование отменено
+com.incall.apps.album:string/album_common_saving_to_donging	-1	正在转存至U盘中		Копирование на USB
+com.incall.apps.album:string/album_common_saving_to_failed	-1	转存失败		Не удалось скопировать
+com.incall.apps.album:string/album_common_saving_to_finish	-1	转存完成		Копирование завершено
+com.incall.apps.album:string/album_common_select_all	-1	全选		Выбрать всё
+com.incall.apps.album:string/album_common_select_file_string	-1	3.在手机上选择需要传输的文件，完成同步		3. Выберите на телефоне файлы для передачи и завершите синхронизацию.
+com.incall.apps.album:string/album_common_sentry_video_delte_message	-1	哨塔模式所有视角均会被删除		Видео охраны будет удалено со всех камер
+com.incall.apps.album:string/album_common_share	-1	分享		Поделиться
+com.incall.apps.album:string/album_common_share_to	-1	分享中		Отправка
+com.incall.apps.album:string/album_common_step_back	-1	快退		Перемотать назад
+com.incall.apps.album:string/album_common_step_forward	-1	快进		Перемотать вперёд
+com.incall.apps.album:string/album_common_subtitle	-1	字幕		Субтитры
+com.incall.apps.album:string/album_common_success	-1	完成		Готово
+com.incall.apps.album:string/album_common_to_set	-1	前往设置		Открыть настройки
+com.incall.apps.album:string/album_common_uploading	-1	上传		Загрузить
+com.incall.apps.album:string/album_common_uploading_message	-1	正在上传至云相册		Загрузка в облачный альбом
+com.incall.apps.album:string/album_common_video	-1	视频		Видео
+com.incall.apps.album:string/album_common_zhang	-1	张		шт.
+com.incall.apps.album:string/album_continue_uploading	-1	继续上传		Продолжить загрузку
+com.incall.apps.album:string/album_desensitization_message	-1	根据法规要求，车外数据上传云端需模糊处理人脸和车牌，处理过程需要一段时间，在此过程中请勿退出，是否继续上传?		Перед отправкой наружных записей в облако требуется размыть лица и номера. Обработка займёт время. Не закрывайте страницу во время обработки. Продолжить загрузку?
+com.incall.apps.album:string/album_file_large	-1	单个文件超过300M，暂不支持上传		Файлы больше 300 МБ пока нельзя загружать
+com.incall.apps.album:string/album_privacy_policy	-1	相册隐私政策		Политика конфиденциальности альбома
+com.incall.apps.album:string/album_privacy_policy_entrance	-1	《相册隐私政策》		«Политика конфиденциальности альбома»
+com.incall.apps.album:string/album_register_cloud_services_cancel	-1	注册云服务失败		Не удалось зарегистрироваться в облачном сервисе
+com.incall.apps.album:string/album_save_to_cancel_success_count	-1	上传取消。成功%1$d个，失败%2$d个		Загрузка отменена. Успешно: %1$d, ошибок: %2$d
+com.incall.apps.album:string/album_save_to_cancel_tip	-1	成功%1$d个，失败%2$d个		Успешно: %1$d, ошибок: %2$d
+com.incall.apps.album:string/album_space_cloud_err	-1	云储存空间异常		Ошибка облачного хранилища
+com.incall.apps.album:string/album_space_cloud_little	-1	云储存空间不足		Недостаточно места в облаке
+com.incall.apps.album:string/album_space_cloud_little_message	-1	请在手机APP上云相册清理		Очистите облачный альбом в приложении на телефоне
+com.incall.apps.album:string/album_tab_camp	-1	营地守护		Охрана лагеря
+com.incall.apps.album:string/album_tab_dvr	-1	行车记录仪		Видеорегистратор
+com.incall.apps.album:string/album_tab_photo	-1	我的相册		Мой альбом
+com.incall.apps.album:string/album_tab_sentry	-1	哨塔模式		Режим охраны
+com.incall.apps.album:string/album_uploading	-1	上传		Загрузить
+com.incall.apps.album:string/album_uploading_cancel	-1	上传取消		Загрузка отменена
+com.incall.apps.album:string/album_uploading_desensitization	-1	正在脱敏中，请勿退出当前页面		Обезличивание. Не закрывайте страницу.
+com.incall.apps.album:string/album_uploading_desensitization_error	-1	脱敏异常		Ошибка обезличивания
+com.incall.apps.album:string/album_uploading_file_exists	-1	云相册文件已存在		Файл уже есть в облачном альбоме
+com.incall.apps.album:string/album_uploading_message	-1	正在上传至云相册		Загрузка в облачный альбом
+com.incall.apps.album:string/album_uploading_succeed	-1	上传成功		Загружено
+com.incall.apps.album:string/app_name	-1	相册		Альбом
+com.incall.apps.album:string/application_name	-1	相册		Альбом
+com.incall.apps.album:string/audio_track	-1	音轨		Аудиодорожка
+com.incall.apps.album:string/back	-1	后方		Сзади
+com.incall.apps.album:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.incall.apps.album:string/brvah_load_complete	-1	点击加载更多		Нажмите для загрузки
+com.incall.apps.album:string/brvah_load_end	-1	没有更多数据		Больше данных нет
+com.incall.apps.album:string/brvah_load_failed	-1	加载失败，请点我重试		Не удалось загрузить. Нажмите для повтора.
+com.incall.apps.album:string/brvah_loading	-1	正在加载中...		Загрузка...
+com.incall.apps.album:string/btn_cancel	-1	取消		Отмена
+com.incall.apps.album:string/btn_edit	-1	编辑		Изменить
+com.incall.apps.album:string/btn_select	-1	选择		Выбрать
+com.incall.apps.album:string/camp_video	-1	营地守护		Охрана лагеря
+com.incall.apps.album:string/camp_video_delete_message	-1	营地守护视频所有视角均会被删除		Видео охраны лагеря будет удалено со всех камер
+com.incall.apps.album:string/cancel	-1	取消		Отмена
+com.incall.apps.album:string/cancel_uploading	-1	取消上传		Отменить загрузку
+com.incall.apps.album:string/cannot_play_video	-1	不能播放此视频		Это видео нельзя воспроизвести
+com.incall.apps.album:string/caui_color_one	-1	颜色一		Цвет 1
+com.incall.apps.album:string/caui_color_two	-1	颜色二		Цвет 2
+com.incall.apps.album:string/caui_default_text_cancel	-1	取消		Отмена
+com.incall.apps.album:string/caui_default_text_network_exception	-1	网络异常		Ошибка сети
+com.incall.apps.album:string/caui_default_text_network_exception_desc	-1	请检查网络设置，或稍后再试		Проверьте настройки сети или повторите попытку позже
+com.incall.apps.album:string/caui_default_text_network_settings	-1	网络设置		Настройки сети
+com.incall.apps.album:string/caui_default_text_retry	-1	重试		Повторить
+com.incall.apps.album:string/caui_text_cancel	-1	取消		Отмена
+com.incall.apps.album:string/caui_text_download_success	-1	下载成功		Скачано
+com.incall.apps.album:string/caui_text_fail	-1	下载失败 		Не удалось скачать 
+com.incall.apps.album:string/caui_text_retry	-1	重新获取		Получить заново
+com.incall.apps.album:string/caui_text_timepicker_day	-1	日		д.
+com.incall.apps.album:string/caui_text_timepicker_day_temp	-1	日		д.
+com.incall.apps.album:string/caui_text_timepicker_end	-1	结束时间		Время окончания
+com.incall.apps.album:string/caui_text_timepicker_hour	-1	时		ч
+com.incall.apps.album:string/caui_text_timepicker_minute	-1	分		мин
+com.incall.apps.album:string/caui_text_timepicker_month	-1	月		мес.
+com.incall.apps.album:string/caui_text_timepicker_month_temp	-1	月		мес.
+com.incall.apps.album:string/caui_text_timepicker_second	-1	秒		с
+com.incall.apps.album:string/caui_text_timepicker_select_date	-1	选择日期		Выберите дату
+com.incall.apps.album:string/caui_text_timepicker_select_time	-1	选择时间		Выберите время
+com.incall.apps.album:string/caui_text_timepicker_start	-1	开始时间		Время начала
+com.incall.apps.album:string/caui_text_timepicker_year	-1	年		г.
+com.incall.apps.album:string/caui_text_timepicker_year_temp	-1	年		г.
+com.incall.apps.album:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.incall.apps.album:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.incall.apps.album:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.album:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.album:string/combination	-1	组合		Совмещённый вид
+com.incall.apps.album:string/continue_uploading	-1	继续上传		Продолжить загрузку
+com.incall.apps.album:string/delete	-1	删除		Удалить
+com.incall.apps.album:string/delete_at_present_photo	-1	确定删除当前照片吗？		Удалить текущее фото?
+com.incall.apps.album:string/delete_at_present_video	-1	确定删除当前视频吗？		Удалить текущее видео?
+com.incall.apps.album:string/delete_tltie	-1	删除提示		Удаление
+com.incall.apps.album:string/deleteing_at_present_photo	-1	正在删除照片		Удаление фото
+com.incall.apps.album:string/deleteing_at_present_video	-1	正在删除视频		Удаление видео
+com.incall.apps.album:string/deleteing_message	-1	正在删除		Удаление
+com.incall.apps.album:string/desensitization_message	-1	根据法规要求，车外数据上云需要进行人脸和车牌的模糊处理，是否继续上传?		Перед отправкой наружных записей в облако требуется размыть лица и номера. Продолжить загрузку?
+com.incall.apps.album:string/disagree	-1	不同意		Не согласен
+com.incall.apps.album:string/driving_recorder	-1	行车记录仪		Видеорегистратор
+com.incall.apps.album:string/driving_recorder_delete_message	-1	行车记录仪视频所有视角均会被删除		Видео регистратора будет удалено со всех камер
+com.incall.apps.album:string/emergency_video	-1	紧急视频		Экстренные записи
+com.incall.apps.album:string/explain_operation	-1	请按照下方说明操作		Следуйте инструкциям ниже
+com.incall.apps.album:string/first_photo	-1	已经是第一张照片了		Это первое фото
+com.incall.apps.album:string/front	-1	前方		Спереди
+com.incall.apps.album:string/ge	-1	个		шт.
+com.incall.apps.album:string/isFirstVideo	-1	已经是第一个视频了		Это первое видео
+com.incall.apps.album:string/isLastVideo	-1	没有更多视频了		Больше видео нет
+com.incall.apps.album:string/left	-1	左方		Слева
+com.incall.apps.album:string/link_share_max_number	-1	手车互传文件数量不能超过20个		За один обмен с телефоном можно передать не более 20 файлов
+com.incall.apps.album:string/loading	-1	加载中...		Загрузка...
+com.incall.apps.album:string/loop_video	-1	循环视频		Циклические записи
+com.incall.apps.album:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.album:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.album:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.album:string/material_hour_selection	-1	請選取時段		Выберите час
+com.incall.apps.album:string/material_hour_selection	-1	选择小时		Выберите час
+com.incall.apps.album:string/material_hour_selection	-1	選取時段		Выберите час
+com.incall.apps.album:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.incall.apps.album:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.incall.apps.album:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.incall.apps.album:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.incall.apps.album:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.incall.apps.album:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.incall.apps.album:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.album:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.album:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.album:string/material_timepicker_hour	-1	小時		Час
+com.incall.apps.album:string/material_timepicker_minute	-1	分鐘		Минуты
+com.incall.apps.album:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.incall.apps.album:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.album:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.album:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.album:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.incall.apps.album:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.incall.apps.album:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.incall.apps.album:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.incall.apps.album:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.incall.apps.album:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.incall.apps.album:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.incall.apps.album:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.incall.apps.album:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.incall.apps.album:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.incall.apps.album:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.incall.apps.album:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.incall.apps.album:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.incall.apps.album:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.incall.apps.album:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.incall.apps.album:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.incall.apps.album:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.incall.apps.album:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.incall.apps.album:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.incall.apps.album:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.incall.apps.album:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.album:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.album:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.album:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.incall.apps.album:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.incall.apps.album:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.incall.apps.album:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.incall.apps.album:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.incall.apps.album:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.incall.apps.album:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.incall.apps.album:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.incall.apps.album:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.incall.apps.album:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.incall.apps.album:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.incall.apps.album:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.incall.apps.album:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.incall.apps.album:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.album:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.album:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.album:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.album:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.incall.apps.album:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.incall.apps.album:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.incall.apps.album:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.incall.apps.album:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.incall.apps.album:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.incall.apps.album:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.incall.apps.album:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.incall.apps.album:string/mtrl_picker_save	-1	儲存		Сохранить
+com.incall.apps.album:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.incall.apps.album:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.incall.apps.album:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.incall.apps.album:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.incall.apps.album:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.incall.apps.album:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.incall.apps.album:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.incall.apps.album:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.album:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.album:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.album:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.incall.apps.album:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.incall.apps.album:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.incall.apps.album:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.album:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.album:string/multiple	-1	倍速		Скорость
+com.incall.apps.album:string/network_abnormal	-1	网络异常		Ошибка сети
+com.incall.apps.album:string/no_3d	-1	没有 3D 资源		Нет ресурсов 3D
+com.incall.apps.album:string/no_more_photo	-1	没有更多的照片了		Больше фото нет
+com.incall.apps.album:string/no_photo	-1	暂无照片		Фото пока нет
+com.incall.apps.album:string/no_video	-1	暂无视频		Видео пока нет
+com.incall.apps.album:string/not_have_subtitle	-1	暂无字幕资源		Нет субтитров
+com.incall.apps.album:string/not_have_track	-1	暂无音轨资源		Нет аудиодорожек
+com.incall.apps.album:string/not_have_usb	-1	USB存储不存在		USB-накопитель отсутствует
+com.incall.apps.album:string/open_phone_string	-1	2.打开手机TOPSPACE，进入文件传输模块		2. Откройте TOPSPACE на телефоне и перейдите в раздел передачи файлов.
+com.incall.apps.album:string/open_wifi_string	-1	1.请打开手机WIFI功能，并连接【车端热点名称】		1. Включите Wi-Fi телефона и подключитесь к точке доступа автомобиля.
+com.incall.apps.album:string/pass_word_string	-1	密码:		Пароль:
+com.incall.apps.album:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.incall.apps.album:string/photo	-1	照片		Фото
+com.incall.apps.album:string/photo_album	-1	我的相册		Мой альбом
+com.incall.apps.album:string/photograph	-1	图片		Изображения
+com.incall.apps.album:string/please_select	-1	请选择		Выберите
+com.incall.apps.album:string/please_select_message	-1	已选择 %1$d		Выбрано: %1$d
+com.incall.apps.album:string/please_select_pic	-1	请选择照片		Выберите фото
+com.incall.apps.album:string/please_select_share_file	-1	请选择分享文件		Выберите файлы для отправки
+com.incall.apps.album:string/please_select_video	-1	请选择视频		Выберите видео
+com.incall.apps.album:string/register_cloud_services_cancel	-1	注册云服务失败		Не удалось зарегистрироваться в облачном сервисе
+com.incall.apps.album:string/revoke_authorization	-1	解除授权		Отозвать разрешение
+com.incall.apps.album:string/right	-1	右方		Справа
+com.incall.apps.album:string/save_to	-1	转存		Скопировать
+com.incall.apps.album:string/save_to_cancel_success_count	-1	成功%1$d个，失败%2$d个		Успешно: %1$d, ошибок: %2$d
+com.incall.apps.album:string/save_to_cancel_sure_bt	-1	确定		ОК
+com.incall.apps.album:string/save_to_finish_hint	-1	我知道了(%1$dS)		Понятно (%1$d с)
+com.incall.apps.album:string/save_to_finish_know	-1	我知道了		Понятно
+com.incall.apps.album:string/saving_to_cancel	-1	转存取消		Копирование отменено
+com.incall.apps.album:string/saving_to_do	-1	正在转存图片		Копирование изображений
+com.incall.apps.album:string/saving_to_do_video	-1	正在转存视频		Копирование видео
+com.incall.apps.album:string/saving_to_donging	-1	正在转存图片(%1$d/%2$d)		Копирование изображений (%1$d/%2$d)
+com.incall.apps.album:string/saving_to_finish	-1	转存完成		Копирование завершено
+com.incall.apps.album:string/select_all	-1	全选		Выбрать всё
+com.incall.apps.album:string/select_file_string	-1	3.在手机上选择需要传输的文件，完成同步		3. Выберите на телефоне файлы для передачи и завершите синхронизацию.
+com.incall.apps.album:string/sentry_video	-1	哨塔模式		Режим охраны
+com.incall.apps.album:string/sentry_video_delte_message	-1	哨塔模式所有视角均会被删除		Видео охраны будет удалено со всех камер
+com.incall.apps.album:string/share	-1	分享		Поделиться
+com.incall.apps.album:string/share_max_number	-1	分享文件数量不能超过9个		Можно отправить не более 9 файлов
+com.incall.apps.album:string/share_menu_hi_car	-1	手车互传		Обмен с телефоном
+com.incall.apps.album:string/share_menu_near	-1	近程分享		Поделиться поблизости
+com.incall.apps.album:string/share_to	-1	分享中		Отправка
+com.incall.apps.album:string/smart_refresh_layout_footer_failed	-1	加载失败		Не удалось загрузить
+com.incall.apps.album:string/smart_refresh_layout_footer_finish	-1	加载完成		Загрузка завершена
+com.incall.apps.album:string/smart_refresh_layout_footer_loading	-1	正在加载…		Загрузка…
+com.incall.apps.album:string/smart_refresh_layout_footer_nothing	-1	没有更多数据了		Больше данных нет
+com.incall.apps.album:string/smart_refresh_layout_footer_pulling	-1	上拉加载更多		Потяните вверх для загрузки
+com.incall.apps.album:string/smart_refresh_layout_footer_refreshing	-1	等待头部刷新完成…		Ожидание обновления сверху…
+com.incall.apps.album:string/smart_refresh_layout_footer_release	-1	释放立即加载		Отпустите для загрузки
+com.incall.apps.album:string/space_cloud_err	-1	云储存空间异常		Ошибка облачного хранилища
+com.incall.apps.album:string/space_cloud_little	-1	云储存空间不足		Недостаточно места в облаке
+com.incall.apps.album:string/space_cloud_little_message	-1	请在手机APP上云相册清理		Очистите облачный альбом в приложении на телефоне
+com.incall.apps.album:string/subtitle	-1	字幕		Субтитры
+com.incall.apps.album:string/success	-1	完成		Готово
+com.incall.apps.album:string/super_power_tip	-1	超级省电模式已打开，无法播放视频		Максимальное энергосбережение включено. Воспроизведение видео недоступно.
+com.incall.apps.album:string/tab_camp	-1	营地守护		Охрана лагеря
+com.incall.apps.album:string/tab_my_album	-1	我的相册		Мой альбом
+com.incall.apps.album:string/tab_record	-1	行车记录仪		Видеорегистратор
+com.incall.apps.album:string/tab_sentry	-1	哨塔模式		Режим охраны
+com.incall.apps.album:string/tv_select	-1	已选择		Выбрано
+com.incall.apps.album:string/tv_select_last	-1	项		шт.
+com.incall.apps.album:string/unconditional_permission	-1	未授权管理存储权限		Нет разрешения на управление хранилищем
+com.incall.apps.album:string/uploading	-1	上传		Загрузить
+com.incall.apps.album:string/uploading_cancel	-1	上传取消		Загрузка отменена
+com.incall.apps.album:string/uploading_message	-1	正在上传中		Загрузка
+com.incall.apps.album:string/uploading_succeed	-1	上传成功		Загружено
+com.incall.apps.album:string/video	-1	视频		Видео
+com.incall.apps.album:string/video_speed	-1	播放倍数		Скорость воспроизведения
+com.incall.apps.album:string/without	-1	无		Нет
+com.incall.apps.album:string/wt_date_picker_friday	-1	五		Пт
+com.incall.apps.album:string/wt_date_picker_monday	-1	一		Пн
+com.incall.apps.album:string/wt_date_picker_saturday	-1	六		Сб
+com.incall.apps.album:string/wt_date_picker_sunday	-1	日		Вс
+com.incall.apps.album:string/wt_date_picker_thursday	-1	四		Чт
+com.incall.apps.album:string/wt_date_picker_tuesday	-1	二		Вт
+com.incall.apps.album:string/wt_date_picker_wednesday	-1	三		Ср
+com.incall.apps.album:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.incall.apps.album:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.incall.apps.album:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.incall.apps.album:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.incall.apps.album:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.incall.apps.album:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.incall.apps.album:string/wtinput_text_hint	-1	请输入		Введите текст
+com.incall.apps.album:string/wtsearch_text_hint	-1	请输入		Введите запрос
+com.incall.apps.album:string/zhang	-1	张		шт.

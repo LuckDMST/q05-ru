@@ -1,0 +1,227 @@
+com.tinnove.mediacenter:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.mediacenter:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.mediacenter:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.mediacenter:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.mediacenter:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.mediacenter:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.mediacenter:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.mediacenter:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.mediacenter:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.mediacenter:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.mediacenter:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.mediacenter:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.mediacenter:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.mediacenter:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.mediacenter:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.mediacenter:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.mediacenter:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.mediacenter:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.mediacenter:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.mediacenter:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.mediacenter:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.mediacenter:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.mediacenter:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.mediacenter:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.mediacenter:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.mediacenter:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.mediacenter:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.mediacenter:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.mediacenter:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.mediacenter:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.mediacenter:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.mediacenter:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.mediacenter:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.mediacenter:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.mediacenter:string/bt_cannot_handle_progress	-1	暂时无法调节		Сейчас регулировка недоступна
+com.tinnove.mediacenter:string/bt_change_device	-1	切换设备		Сменить устройство
+com.tinnove.mediacenter:string/bt_connected_device	-1	已连接: %s		Подключено: %s
+com.tinnove.mediacenter:string/bt_default_device_name	-1	未知设备		Неизвестное устройство
+com.tinnove.mediacenter:string/bt_go_connect	-1	连接蓝牙		Подключить Bluetooth
+com.tinnove.mediacenter:string/bt_no_connected	-1	蓝牙未连接		Bluetooth не подключён
+com.tinnove.mediacenter:string/bt_not_connected	-1	蓝牙未连接		Bluetooth не подключён
+com.tinnove.mediacenter:string/bt_please_play_music	-1	请在手机上播放音乐		Включите музыку на телефоне
+com.tinnove.mediacenter:string/bt_song_is_playing	-1	正在播放中...		Воспроизведение...
+com.tinnove.mediacenter:string/changan	-1	长安趣听		Changan Music
+com.tinnove.mediacenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.mediacenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.mediacenter:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.mediacenter:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.mediacenter:string/common_load_fail_retry	-1	重试		Повторить
+com.tinnove.mediacenter:string/common_loading_wait	-1	加载中...		Загрузка...
+com.tinnove.mediacenter:string/common_net_setting	-1	网络设置		Настройки сети
+com.tinnove.mediacenter:string/common_no_data	-1	暂无数据		Данных пока нет
+com.tinnove.mediacenter:string/common_song_no_play	-1	暂无播放		Ничего не воспроизводится
+com.tinnove.mediacenter:string/common_unknown_text	-1	未知		Неизвестно
+com.tinnove.mediacenter:string/control_play_all	-1	播放全部		Воспроизвести всё
+com.tinnove.mediacenter:string/effect_3d	-1	立体		Стерео
+com.tinnove.mediacenter:string/effect_immersive_surround_sound	-1	沉浸式环绕		Объёмное звучание
+com.tinnove.mediacenter:string/hdd_no_content	-1	没有本地存储内容		В локальном хранилище ничего нет
+com.tinnove.mediacenter:string/hdd_no_lyric	-1	暂无歌词		Текста песни пока нет
+com.tinnove.mediacenter:string/hdd_no_music	-1	设备内无音乐		На устройстве нет музыки
+com.tinnove.mediacenter:string/integrated_media	-1	本地媒体		Локальные медиа
+com.tinnove.mediacenter:string/load_end_line	-1	到底了		Конец списка
+com.tinnove.mediacenter:string/load_fail_text	-1	加载失败，请检查网络或重试		Не удалось загрузить. Проверьте сеть или повторите попытку.
+com.tinnove.mediacenter:string/local_bt_unavailable	-1	手机互联连接中，蓝牙音乐不可用		Подключается телефон. Музыка Bluetooth недоступна.
+com.tinnove.mediacenter:string/local_search_clear_history	-1	删除		Удалить
+com.tinnove.mediacenter:string/local_search_confirm	-1	确定		ОК
+com.tinnove.mediacenter:string/local_search_content_desc_folder	-1	文件夹视图		Папки
+com.tinnove.mediacenter:string/local_search_content_desc_list	-1	列表视图		Список
+com.tinnove.mediacenter:string/local_search_content_desc_search	-1	搜索		Поиск
+com.tinnove.mediacenter:string/local_search_empty_toast	-1	请输入搜索内容		Введите поисковый запрос
+com.tinnove.mediacenter:string/local_search_history	-1	搜索历史		История поиска
+com.tinnove.mediacenter:string/local_warn_txt_empty_search	-1	未搜索到“%s”相关的结果		По запросу «%s» ничего не найдено
+com.tinnove.mediacenter:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.mediacenter:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.mediacenter:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.mediacenter:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.mediacenter:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.mediacenter:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.mediacenter:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.mediacenter:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.mediacenter:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.mediacenter:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.mediacenter:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.mediacenter:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.mediacenter:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.mediacenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.mediacenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.mediacenter:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.mediacenter:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.mediacenter:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.mediacenter:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.mediacenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.mediacenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.mediacenter:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.mediacenter:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.mediacenter:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.mediacenter:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.mediacenter:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.mediacenter:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.mediacenter:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.mediacenter:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.mediacenter:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.mediacenter:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.mediacenter:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.mediacenter:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.mediacenter:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.mediacenter:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.mediacenter:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.mediacenter:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.mediacenter:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.mediacenter:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.mediacenter:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.mediacenter:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.mediacenter:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.mediacenter:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.mediacenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.mediacenter:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.mediacenter:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.mediacenter:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.mediacenter:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.mediacenter:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.mediacenter:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.mediacenter:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.mediacenter:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.mediacenter:string/need_vip	-1	会员专属歌曲试听中，开通畅享完整版		Пробное прослушивание песни для подписчиков. Оформите подписку для полной версии.
+com.tinnove.mediacenter:string/no_music_in_the_device	-1	设备内无音乐		На устройстве нет музыки
+com.tinnove.mediacenter:string/no_music_in_the_hdd	-1	本地音乐无内容		В локальной музыке ничего нет
+com.tinnove.mediacenter:string/not_support_the_source	-1	暂不支持此音源		Этот источник звука пока не поддерживается
+com.tinnove.mediacenter:string/outside_music_external_play	-1	多媒体外放		Воспроизведение снаружи
+com.tinnove.mediacenter:string/outside_music_external_play_desc	-1	开启后，音乐将在车外播放		Музыка будет воспроизводиться снаружи автомобиля.
+com.tinnove.mediacenter:string/outside_music_speed_limit	-1	当前车速不支持车外音乐		При текущей скорости музыка снаружи недоступна
+com.tinnove.mediacenter:string/outside_music_title	-1	多媒体外放		Воспроизведение снаружи
+com.tinnove.mediacenter:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.mediacenter:string/phone_call_toast	-1	通话中，暂不支持操作		Во время звонка действие недоступно
+com.tinnove.mediacenter:string/play_detail_content_desc_pause	-1	暂停		Пауза
+com.tinnove.mediacenter:string/play_detail_content_desc_play	-1	播放		Воспроизвести
+com.tinnove.mediacenter:string/play_detail_content_desc_playmode	-1	播放模式		Режим воспроизведения
+com.tinnove.mediacenter:string/play_detail_content_desc_show	-1	灯光秀		Световое шоу
+com.tinnove.mediacenter:string/playlist_title	-1	播放列表		Очередь воспроизведения
+com.tinnove.mediacenter:string/privacy_string	-1	《隐私协议》		«Соглашение о конфиденциальности»
+com.tinnove.mediacenter:string/privacy_string_title	-1	本地媒体中心隐私政策		Политика конфиденциальности локального медиаплеера
+com.tinnove.mediacenter:string/root_app_dialog_move_sure	-1	知道了		Понятно
+com.tinnove.mediacenter:string/root_app_name	-1	媒体中心		Медиаплеер
+com.tinnove.mediacenter:string/root_bt	-1	蓝牙音乐		Музыка Bluetooth
+com.tinnove.mediacenter:string/root_default_lyric	-1	暂无歌词		Текста песни пока нет
+com.tinnove.mediacenter:string/root_hdd	-1	本地音乐		Локальная музыка
+com.tinnove.mediacenter:string/root_permission_record_audio_dialog_desc	-1	因媒体中心无麦克风权限，氛围灯“音乐律动”功能无法正常使用，如需重新授权请到“车辆中心-系统-授权管理”中设置		У медиаплеера нет разрешения на микрофон, поэтому синхронизация подсветки с музыкой недоступна. Выдайте разрешение: Настройки автомобиля → Система → Управление разрешениями.
+com.tinnove.mediacenter:string/root_permission_record_audio_dialog_title	-1	温馨提示		Обратите внимание
+com.tinnove.mediacenter:string/root_permission_record_audio_karaoke_desc	-1	因媒体中心无麦克风权限，无麦K歌功能无法正常使用，如需重新授权请到“车辆中心-系统-授权管理”中设置		У медиаплеера нет разрешения на микрофон, поэтому караоке без микрофона недоступно. Выдайте разрешение: Настройки автомобиля → Система → Управление разрешениями.
+com.tinnove.mediacenter:string/root_permission_record_audio_music_desc	-1	因媒体中心无麦克风权限，音乐灯光秀功能无法正常使用，如需重新授权请到“车辆中心-系统-授权管理”中设置		У медиаплеера нет разрешения на микрофон, поэтому музыкальное световое шоу недоступно. Выдайте разрешение: Настройки автомобиля → Система → Управление разрешениями.
+com.tinnove.mediacenter:string/root_privacy_policy	-1	隐私政策		Конфиденциальность
+com.tinnove.mediacenter:string/root_qqmusic	-1	QQ音乐		QQ Music
+com.tinnove.mediacenter:string/root_title_back	-1	返回		Назад
+com.tinnove.mediacenter:string/root_usb	-1	USB音乐		Музыка с USB
+com.tinnove.mediacenter:string/root_wangyiyun	-1	网易云音乐		NetEase Cloud Music
+com.tinnove.mediacenter:string/search_clear_history_cancel	-1	取消		Отмена
+com.tinnove.mediacenter:string/search_clear_history_confirm	-1	确定		ОК
+com.tinnove.mediacenter:string/search_clear_history_title	-1	您是要删除所有记录吗？		Удалить все записи истории?
+com.tinnove.mediacenter:string/search_load_footer_text	-1	到底了		Конец списка
+com.tinnove.mediacenter:string/speech_already_open	-1	已经打开啦		Уже открыто
+com.tinnove.mediacenter:string/system_memory_poor	-1	系统空间不足，无法正常使用媒体应用		Недостаточно системного места для работы медиаплеера
+com.tinnove.mediacenter:string/toast_bt_is_disconnect	-1	蓝牙连接已断开		Соединение Bluetooth разорвано
+com.tinnove.mediacenter:string/toast_file_not_exists	-1	文件已不存在		Файл больше не существует
+com.tinnove.mediacenter:string/toast_launch_app_failure	-1	启动失败，无此应用		Не удалось открыть: приложение отсутствует
+com.tinnove.mediacenter:string/toast_load_fail	-1	加载失败，请检查网络或重试		Не удалось загрузить. Проверьте сеть или повторите попытку.
+com.tinnove.mediacenter:string/toast_loading	-1	加载中，请稍后		Загрузка. Подождите.
+com.tinnove.mediacenter:string/toast_no_network	-1	暂无网络		Нет сети
+com.tinnove.mediacenter:string/toast_no_play_media	-1	暂无播放		Ничего не воспроизводится
+com.tinnove.mediacenter:string/toast_outside_music_speed_limit	-1	当前车速不支持车外音乐		При текущей скорости музыка снаружи недоступна
+com.tinnove.mediacenter:string/toast_permission_fail_tip	-1	未同意权限，暂不能使用		Разрешение не выдано. Использование недоступно.
+com.tinnove.mediacenter:string/toast_play_common_error	-1	播放错误		Ошибка воспроизведения
+com.tinnove.mediacenter:string/toast_play_file_error	-1	该文件无法播放		Этот файл нельзя воспроизвести
+com.tinnove.mediacenter:string/toast_play_format_error	-1	格式不支持,下一首		Формат не поддерживается. Следующий трек.
+com.tinnove.mediacenter:string/usb_no_content	-1	暂无内容		Содержимого пока нет
+com.tinnove.mediacenter:string/usb_no_folder	-1	暂无文件夹显示		Нет папок для отображения
+com.tinnove.mediacenter:string/usb_no_music	-1	USB无音乐		На USB нет музыки
+com.tinnove.mediacenter:string/usb_not_plugged	-1	USB未插入		USB не подключён
+com.tinnove.mediacenter:string/usb_reading	-1	USB读取中…		Чтение USB…
+com.tinnove.mediacenter:string/usb_reading_over	-1	U盘读取结束		Чтение USB завершено
+com.tinnove.mediacenter:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.mediacenter:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.mediacenter:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.mediacenter:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.mediacenter:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.mediacenter:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.mediacenter:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.mediacenter:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.mediacenter:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.mediacenter:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.mediacenter:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.mediacenter:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.mediacenter:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.mediacenter:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.mediacenter:string/wtsearch_text_hint	-1	请输入		Введите запрос

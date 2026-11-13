@@ -1,0 +1,19 @@
+com.tinnove.wecarspeech:string/cancel	-1	取消		Отмена
+com.tinnove.wecarspeech:string/confirm	-1	确认		Подтвердить
+com.tinnove.wecarspeech:string/dialog_cancel	-1	取消		Отмена
+com.tinnove.wecarspeech:string/hint	-1	提示		Уведомление
+com.tinnove.wecarspeech:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.wecarspeech:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.wecarspeech:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.wecarspeech:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.wecarspeech:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.wecarspeech:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.wecarspeech:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.wecarspeech:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.wecarspeech:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.wecarspeech:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.wecarspeech:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.wecarspeech:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.wecarspeech:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.wecarspeech:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.wecarspeech:string/wtsearch_text_hint	-1	请输入		Введите запрос

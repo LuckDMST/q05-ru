@@ -1,0 +1,209 @@
+com.incall.apps.sentry:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.incall.apps.sentry:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.incall.apps.sentry:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.incall.apps.sentry:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.incall.apps.sentry:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.incall.apps.sentry:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.incall.apps.sentry:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.incall.apps.sentry:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.incall.apps.sentry:string/abc_capital_on	-1	開啟		ВКЛ
+com.incall.apps.sentry:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.incall.apps.sentry:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.incall.apps.sentry:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.incall.apps.sentry:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.incall.apps.sentry:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.incall.apps.sentry:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.incall.apps.sentry:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.incall.apps.sentry:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.incall.apps.sentry:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.incall.apps.sentry:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.incall.apps.sentry:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.incall.apps.sentry:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.incall.apps.sentry:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.incall.apps.sentry:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.incall.apps.sentry:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.incall.apps.sentry:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.incall.apps.sentry:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.incall.apps.sentry:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.incall.apps.sentry:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.incall.apps.sentry:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.incall.apps.sentry:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.incall.apps.sentry:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.incall.apps.sentry:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.incall.apps.sentry:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.incall.apps.sentry:string/app_name_sentry	-1	哨塔模式		Режим охраны
+com.incall.apps.sentry:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.incall.apps.sentry:string/can_no_start_using_site	-1	可不启用的地点		Места без охраны
+com.incall.apps.sentry:string/cancel	-1	取消		Отмена
+com.incall.apps.sentry:string/caui_color_one	-1	颜色一		Цвет 1
+com.incall.apps.sentry:string/caui_color_two	-1	颜色二		Цвет 2
+com.incall.apps.sentry:string/caui_default_text_cancel	-1	取消		Отмена
+com.incall.apps.sentry:string/caui_default_text_network_exception	-1	网络异常		Ошибка сети
+com.incall.apps.sentry:string/caui_default_text_network_exception_desc	-1	请检查网络设置，或稍后再试		Проверьте настройки сети или повторите попытку позже
+com.incall.apps.sentry:string/caui_default_text_network_settings	-1	网络设置		Настройки сети
+com.incall.apps.sentry:string/caui_default_text_retry	-1	重试		Повторить
+com.incall.apps.sentry:string/caui_text_cancel	-1	取消		Отмена
+com.incall.apps.sentry:string/caui_text_download_success	-1	下载成功		Скачано
+com.incall.apps.sentry:string/caui_text_fail	-1	下载失败 		Не удалось скачать 
+com.incall.apps.sentry:string/caui_text_retry	-1	重新获取		Получить заново
+com.incall.apps.sentry:string/caui_text_timepicker_day	-1	日		д.
+com.incall.apps.sentry:string/caui_text_timepicker_day_temp	-1	日		д.
+com.incall.apps.sentry:string/caui_text_timepicker_end	-1	结束时间		Время окончания
+com.incall.apps.sentry:string/caui_text_timepicker_hour	-1	时		ч
+com.incall.apps.sentry:string/caui_text_timepicker_minute	-1	分		мин
+com.incall.apps.sentry:string/caui_text_timepicker_month	-1	月		мес.
+com.incall.apps.sentry:string/caui_text_timepicker_month_temp	-1	月		мес.
+com.incall.apps.sentry:string/caui_text_timepicker_second	-1	秒		с
+com.incall.apps.sentry:string/caui_text_timepicker_select_date	-1	选择日期		Выберите дату
+com.incall.apps.sentry:string/caui_text_timepicker_select_time	-1	选择时间		Выберите время
+com.incall.apps.sentry:string/caui_text_timepicker_start	-1	开始时间		Время начала
+com.incall.apps.sentry:string/caui_text_timepicker_year	-1	年		г.
+com.incall.apps.sentry:string/caui_text_timepicker_year_temp	-1	年		г.
+com.incall.apps.sentry:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.incall.apps.sentry:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.incall.apps.sentry:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.sentry:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.sentry:string/check_net_tips	-1	请检查网络设置，或稍后重试		Проверьте настройки сети или повторите попытку позже
+com.incall.apps.sentry:string/company	-1	公司		Работа
+com.incall.apps.sentry:string/confirm	-1	确定		ОК
+com.incall.apps.sentry:string/employ_notice	-1	使用须知		Правила использования
+com.incall.apps.sentry:string/go_map_setting	-1	去地图设置		Открыть настройки карты
+com.incall.apps.sentry:string/home	-1	家		Дом
+com.incall.apps.sentry:string/kind_reminder	-1	温馨提示		Обратите внимание
+com.incall.apps.sentry:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.sentry:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.sentry:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.sentry:string/material_hour_selection	-1	請選取時段		Выберите час
+com.incall.apps.sentry:string/material_hour_selection	-1	选择小时		Выберите час
+com.incall.apps.sentry:string/material_hour_selection	-1	選取時段		Выберите час
+com.incall.apps.sentry:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.incall.apps.sentry:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.incall.apps.sentry:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.incall.apps.sentry:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.incall.apps.sentry:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.incall.apps.sentry:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.incall.apps.sentry:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.sentry:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.sentry:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.sentry:string/material_timepicker_hour	-1	小時		Час
+com.incall.apps.sentry:string/material_timepicker_minute	-1	分鐘		Минуты
+com.incall.apps.sentry:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.incall.apps.sentry:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.sentry:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.sentry:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.sentry:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.incall.apps.sentry:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.incall.apps.sentry:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.incall.apps.sentry:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.incall.apps.sentry:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.incall.apps.sentry:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.incall.apps.sentry:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.incall.apps.sentry:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.incall.apps.sentry:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.incall.apps.sentry:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.incall.apps.sentry:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.incall.apps.sentry:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.incall.apps.sentry:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.incall.apps.sentry:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.incall.apps.sentry:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.incall.apps.sentry:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.incall.apps.sentry:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.incall.apps.sentry:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.incall.apps.sentry:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.incall.apps.sentry:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.incall.apps.sentry:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.sentry:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.sentry:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.sentry:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.incall.apps.sentry:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.incall.apps.sentry:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.incall.apps.sentry:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.incall.apps.sentry:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.incall.apps.sentry:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.incall.apps.sentry:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.incall.apps.sentry:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.incall.apps.sentry:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.incall.apps.sentry:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.incall.apps.sentry:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.incall.apps.sentry:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.incall.apps.sentry:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.incall.apps.sentry:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.sentry:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.sentry:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.sentry:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.sentry:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.incall.apps.sentry:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.incall.apps.sentry:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.incall.apps.sentry:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.incall.apps.sentry:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.incall.apps.sentry:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.incall.apps.sentry:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.incall.apps.sentry:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.incall.apps.sentry:string/mtrl_picker_save	-1	儲存		Сохранить
+com.incall.apps.sentry:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.incall.apps.sentry:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.incall.apps.sentry:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.incall.apps.sentry:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.incall.apps.sentry:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.sentry:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.sentry:string/on_scanning	-1	正在监控中		Идёт наблюдение
+com.incall.apps.sentry:string/open	-1	开启		Включить
+com.incall.apps.sentry:string/open_always	-1	自动开启		Включать автоматически
+com.incall.apps.sentry:string/open_once	-1	单次开启		Включить один раз
+com.incall.apps.sentry:string/open_way	-1	开启方式		Способ включения
+com.incall.apps.sentry:string/open_way_always	-1	每次闭锁下电后，车辆都会自动开启哨塔模式		Охрана автоматически включается после каждого запирания и выключения питания автомобиля.
+com.incall.apps.sentry:string/open_way_once	-1	仅本次闭锁下电周期内开启哨塔模式		Охрана действует только после этого запирания и выключения питания.
+com.incall.apps.sentry:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.incall.apps.sentry:string/rearview_mirror_fold	-1	外后视镜折叠		Складывание наружных зеркал
+com.incall.apps.sentry:string/rearview_mirror_fold_dialog_tip	-1	1.外后视镜折叠后会损失部分侧向视野，哨塔模式的侧向预警识别率会下降，可能出现车辆发生擦挂却没触发警报和录像的情况，请谨慎使用。\n2.开关开启后，哨塔模式启用将不再展开后视镜，闭锁折叠后视镜、手动调节后视镜等功能仍将生效，请注意相关功能状态。		1. Со сложенными зеркалами боковой обзор уменьшается, а точность распознавания угроз сбоку снижается. Возможны касания автомобиля без срабатывания тревоги и записи. Используйте осторожно.\n2. После включения охрана не будет раскладывать зеркала. Складывание при запирании и ручная регулировка продолжают работать. Учитывайте их состояние.
+com.incall.apps.sentry:string/rearview_mirror_fold_tip	-1	哨塔模式启⽤时折叠外后视镜		Складывать наружные зеркала в режиме охраны
+com.incall.apps.sentry:string/recall	-1	查看哨塔视频		Посмотреть видео охраны
+com.incall.apps.sentry:string/retry	-1	重试		Повторить
+com.incall.apps.sentry:string/sentry_battery_status_tip	-1	电量低于20%无法启用，充电后将自动恢复哨塔模式		При заряде ниже 20% охрана недоступна. После зарядки она восстановится автоматически.
+com.incall.apps.sentry:string/sentry_introduce_info1	-1	离车后，检测到车辆周围存在威胁时，车辆会发出警报并自动记录车周视频，可在“哨塔模式”APP、下拉快捷菜单和车主APP中快捷控制。		После вашего ухода автомобиль обнаруживает угрозы поблизости, подаёт сигнал и автоматически записывает окружение. Управлять охраной можно в её приложении, шторке быстрых настроек и приложении владельца.
+com.incall.apps.sentry:string/sentry_introduce_info2	-1	使用期间请注意以下内容：		Учитывайте следующее:
+com.incall.apps.sentry:string/sentry_introduce_info3	-1	哨塔模式记录的视频将仅保存在本地存储设备中，其中可能包含人脸信息、车牌信息等视频和图像数据，属于哨塔模式运行所必须的重要数据。请您遵守当地的相关法律法规，谨慎使用这些数据。		Видео охраны сохраняется только локально. Оно может содержать лица, номера автомобилей и другие изображения, необходимые для работы функции. Соблюдайте местные требования и осторожно обращайтесь с этими данными.
+com.incall.apps.sentry:string/sentry_mode_opened	-1	哨塔模式已激活		Режим охраны активен
+com.incall.apps.sentry:string/sentry_notes_1	-1	1、哨塔模式出厂默认仅单次生效，下一次上电并退出P挡后将自动关闭		1. Заводская настройка — однократная охрана. После следующего включения питания и выхода из P она выключится.
+com.incall.apps.sentry:string/sentry_notes_2	-1	2、使用哨塔模式会消耗车辆电量，开启前请确认车辆电量足够，当电量低于20%时哨塔模式将自动退出		2. Охрана расходует энергию. Перед включением убедитесь, что заряда достаточно. При снижении ниже 20% охрана выключится автоматически.
+com.incall.apps.sentry:string/sentry_notes_3	-1	3、哨塔模式启用期间，可能对摄像头、扬声器等零部件寿命有一定影响，建议仅在有需要时开启		3. Длительная охрана может влиять на ресурс камер, громкоговорителей и других компонентов. Включайте её по необходимости.
+com.incall.apps.sentry:string/sentry_notes_4	-1	4、车辆OTA过程中哨塔模式将暂时无法使用		4. Во время обновления OTA охрана временно недоступна.
+com.incall.apps.sentry:string/sentry_notes_5	-1	5、夜晚、雨雪天等环境下视觉识别可能会受到影响，请注意清洁摄像头镜面的灰尘污垢		5. Ночь, дождь и снег могут ухудшать распознавание. Очищайте объективы от пыли и грязи.
+com.incall.apps.sentry:string/sentry_notes_6	-1	6、请确保车主APP开启通知权限，以接收哨塔模式通知信息		6. Разрешите уведомления в приложении владельца, чтобы получать сообщения охраны.
+com.incall.apps.sentry:string/sentry_sd_tip	-1	当前存储设备空间所能录制哨塔视频较少，建议更换为64GB及以上的存储设备		На текущем накопителе мало места для видео охраны. Рекомендуется накопитель от 64 ГБ.
+com.incall.apps.sentry:string/sentry_sys_super_eco_tips	-1	超级省电模式下，该功能不可用		В максимальном энергосбережении функция недоступна
+com.incall.apps.sentry:string/set_net	-1	网络设置		Настройки сети
+com.incall.apps.sentry:string/smart_refresh_layout_footer_failed	-1	加载失败		Не удалось загрузить
+com.incall.apps.sentry:string/smart_refresh_layout_footer_finish	-1	加载完成		Загрузка завершена
+com.incall.apps.sentry:string/smart_refresh_layout_footer_loading	-1	正在加载…		Загрузка…
+com.incall.apps.sentry:string/smart_refresh_layout_footer_nothing	-1	没有更多数据了		Больше данных нет
+com.incall.apps.sentry:string/smart_refresh_layout_footer_pulling	-1	上拉加载更多		Потяните вверх для загрузки
+com.incall.apps.sentry:string/smart_refresh_layout_footer_refreshing	-1	等待头部刷新完成…		Ожидание обновления сверху…
+com.incall.apps.sentry:string/smart_refresh_layout_footer_release	-1	释放立即加载		Отпустите для загрузки
+com.incall.apps.sentry:string/to_map_company	-1	当前未设置公司的地址，即将离开当前页面，打开「地图」		Адрес работы не задан. Откроется приложение «Карты».
+com.incall.apps.sentry:string/to_map_home	-1	当前未设置家的地址，即将离开当前页面，打开「地图」		Домашний адрес не задан. Откроется приложение «Карты».
+com.incall.apps.sentry:string/to_map_home_and_company	-1	当前未设置家和公司的地址，即将离开当前页面，打开「地图」		Адреса дома и работы не заданы. Откроется приложение «Карты».
+com.incall.apps.sentry:string/wt_date_picker_friday	-1	五		Пт
+com.incall.apps.sentry:string/wt_date_picker_monday	-1	一		Пн
+com.incall.apps.sentry:string/wt_date_picker_saturday	-1	六		Сб
+com.incall.apps.sentry:string/wt_date_picker_sunday	-1	日		Вс
+com.incall.apps.sentry:string/wt_date_picker_thursday	-1	四		Чт
+com.incall.apps.sentry:string/wt_date_picker_tuesday	-1	二		Вт
+com.incall.apps.sentry:string/wt_date_picker_wednesday	-1	三		Ср
+com.incall.apps.sentry:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.incall.apps.sentry:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.incall.apps.sentry:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.incall.apps.sentry:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.incall.apps.sentry:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.incall.apps.sentry:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.incall.apps.sentry:string/wtinput_text_hint	-1	请输入		Введите текст
+com.incall.apps.sentry:string/wtsearch_text_hint	-1	请输入		Введите запрос

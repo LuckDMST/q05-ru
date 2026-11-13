@@ -1,0 +1,235 @@
+com.wt.funbox:array/cardAddSidebarItems	0	文字输入		Ввести текст
+com.wt.funbox:array/cardAddSidebarItems	1	语音录入		Записать голос
+com.wt.funbox:array/sidebarItems	0	音乐灯光秀		Музыкальное световое шоу
+com.wt.funbox:array/sidebarItems	1	车外喊话		Наружный громкоговоритель
+com.wt.funbox:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wt.funbox:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wt.funbox:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wt.funbox:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wt.funbox:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wt.funbox:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wt.funbox:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wt.funbox:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wt.funbox:string/abc_capital_on	-1	開啟		ВКЛ
+com.wt.funbox:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wt.funbox:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wt.funbox:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wt.funbox:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wt.funbox:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wt.funbox:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wt.funbox:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wt.funbox:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wt.funbox:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wt.funbox:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wt.funbox:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wt.funbox:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wt.funbox:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wt.funbox:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wt.funbox:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wt.funbox:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wt.funbox:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wt.funbox:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wt.funbox:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wt.funbox:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wt.funbox:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wt.funbox:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wt.funbox:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wt.funbox:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wt.funbox:string/app_name	-1	彩蛋箱		Сюрпризы
+com.wt.funbox:string/application_not_installed	-1	应用未安装		Приложение не установлено
+com.wt.funbox:string/battery_notice	-1	请保证蓄电池电量超过65%之后再启动此功能		Для включения заряд аккумулятора должен быть выше 65%
+com.wt.funbox:string/brake_notice	-1	请松开车辆制动踏板后再启动此功能		Перед включением отпустите педаль тормоза
+com.wt.funbox:string/cancel	-1	取消		Отмена
+com.wt.funbox:string/click_fast_notice	-1	请勿频繁点击		Не нажимайте слишком часто
+com.wt.funbox:string/custom_music_play_local	-1	本地音乐		Локальная музыка
+com.wt.funbox:string/custom_music_play_netease	-1	网易云音乐		NetEase Cloud Music
+com.wt.funbox:string/custom_music_play_qq	-1	QQ音乐		QQ Music
+com.wt.funbox:string/custom_music_play_usb	-1	USB音乐		Музыка с USB
+com.wt.funbox:string/driving_notice	-1	请将挡位置于P挡后再启动此功能		Перед включением переведите селектор в P
+com.wt.funbox:string/emergency_notice	-1	请关闭应急报警灯后再启动此功能		Перед включением выключите аварийную сигнализацию
+com.wt.funbox:string/engine_notice	-1	请将发动机熄火后再启动此功能		Перед включением выключите двигатель
+com.wt.funbox:string/exit	-1	退出		Выйти
+com.wt.funbox:string/full_dialog_title	-1	如何开始音乐灯光秀		Как запустить музыкальное световое шоу
+com.wt.funbox:string/introdution_music_light_show	-1	音乐灯光秀功能介绍		О музыкальном световом шоу
+com.wt.funbox:string/introdution_shouting	-1	车外喊话功能介绍		О наружном громкоговорителе
+com.wt.funbox:string/light_effect_custom_music	-1	自定义音乐		Своя музыка
+com.wt.funbox:string/light_effect_custom_music_new	-1	自定义音乐灯光秀		Своё музыкальное световое шоу
+com.wt.funbox:string/light_effect_one_music_1_name	-1	动感炫酷		Динамика
+com.wt.funbox:string/light_effect_one_music_2_name	-1	清新灵动		Лёгкость
+com.wt.funbox:string/light_effect_one_music_3_name	-1	自定义		Индивидуальное
+com.wt.funbox:string/light_show_exit_dialog_title	-1	退出音乐灯光秀		Выйти из музыкального светового шоу
+com.wt.funbox:string/light_show_exit_notice	-1	音乐灯光秀已退出		Музыкальное световое шоу выключено
+com.wt.funbox:string/light_show_play_all	-1	同时播放		Внутри и снаружи
+com.wt.funbox:string/light_show_play_in_side	-1	车内播放		В салоне
+com.wt.funbox:string/light_show_play_out_side	-1	车外播放		Снаружи
+com.wt.funbox:string/light_show_tip_outtime	-1	超时未下车按下解锁键将退出		Если не выйти вовремя и не нажать кнопку разблокировки, режим выключится
+com.wt.funbox:string/light_show_tip_volume	-1	系统将为您降低车窗，调大音量		Система опустит окна и повысит громкость
+com.wt.funbox:string/main_name	-1	彩蛋箱		Сюрпризы
+com.wt.funbox:string/main_page_musiclight_show_item	-1	音乐灯光秀		Музыкальное световое шоу
+com.wt.funbox:string/main_page_personal_speaker_item	-1	个性喇叭		Особый сигнал
+com.wt.funbox:string/main_page_shouting_outside_item	-1	车外喊话		Наружный громкоговоритель
+com.wt.funbox:string/music_help	-1	帮助		Справка
+com.wt.funbox:string/music_light_open_require_case_five	-1	应急报警灯未点亮时		Аварийная сигнализация выключена
+com.wt.funbox:string/music_light_open_require_case_four	-1	车辆制动踏板未踩下		Педаль тормоза не нажата
+com.wt.funbox:string/music_light_open_require_case_one	-1	车辆处于P挡		Селектор в P
+com.wt.funbox:string/music_light_open_require_case_six	-1	小电池电压低报警未激活		Нет предупреждения о низком напряжении аккумулятора
+com.wt.funbox:string/music_light_open_require_case_three	-1	蓄电池电量状态正常		Заряд аккумулятора в норме
+com.wt.funbox:string/music_light_open_require_case_title	-1	请确定开启条件		Проверьте условия включения
+com.wt.funbox:string/music_light_open_require_case_two	-1	电源处于非OFF挡		Питание не в OFF
+com.wt.funbox:string/music_light_show_lock_bt_tips	-1	%s 超时未下车按下解锁键将退出		%s Если не выйти вовремя и не нажать кнопку разблокировки, режим выключится
+com.wt.funbox:string/music_light_show_text1	-1	播放方式设置		Где воспроизводить
+com.wt.funbox:string/music_light_show_text2	-1	启动灯光秀		Запустить световое шоу
+com.wt.funbox:string/no_playing_while_driving	-1	请在车速低于7km/h时使用此功能		Функция доступна при скорости ниже 7 км/ч
+com.wt.funbox:string/only_play_inside_switch_text	-1	仅车内播放		Только в салоне
+com.wt.funbox:string/open	-1	开启		Включить
+com.wt.funbox:string/open_music_light_tip	-1	按下解锁键即可开启灯光秀\n将下降车窗，并调高音量，建议下车体验		Нажмите кнопку разблокировки для начала светового шоу.\nОкна опустятся, громкость повысится. Рекомендуется выйти из автомобиля.
+com.wt.funbox:string/open_qq_music	-1	立即前往		Открыть сейчас
+com.wt.funbox:string/open_qq_music_explain	-1	选择音乐，进入播放详情页点击 “		Выберите музыку и на странице воспроизведения нажмите «
+com.wt.funbox:string/open_qq_music_explain2	-1	” 立即开始灯光秀		», чтобы запустить световое шоу
+com.wt.funbox:string/page_one	-1	页面一		Страница 1
+com.wt.funbox:string/page_two	-1	页面二		Страница 2
+com.wt.funbox:string/power_notice	-1	请将车辆上电后，再启动此功能		Перед включением включите питание автомобиля
+com.wt.funbox:string/preparing_music_light	-1	灯光秀准备中		Подготовка светового шоу
+com.wt.funbox:string/reboot_engine	-1	为防止蓄电池电量不足，请启动发动机后开启本功能		Чтобы не разрядить аккумулятор, запустите двигатель перед включением функции
+com.wt.funbox:string/record_is_not_available	-1	来电或通话时，录音不可用		При входящем вызове или разговоре запись недоступна
+com.wt.funbox:string/recording_dialog_stop_recording_text	-1	点击结束录音		Нажмите для завершения записи
+com.wt.funbox:string/recording_end_text	-1	结束录音		Завершить запись
+com.wt.funbox:string/recording_finish_text	-1	重新录音		Записать заново
+com.wt.funbox:string/recording_shouting_pause_text	-1	暂停喊话		Приостановить сообщение
+com.wt.funbox:string/recording_start_text	-1	开始录音		Начать запись
+com.wt.funbox:string/recording_try_pause_text	-1	暂停试听		Приостановить прослушивание
+com.wt.funbox:string/shouting_is_not_available	-1	来电或通话时，实时喊话不可用		Во время вызова или разговора прямая трансляция голоса недоступна
+com.wt.funbox:string/shouting_notice	-1	正在喊话中，请等待喊话结束		Идёт сообщение. Дождитесь его окончания.
+com.wt.funbox:string/shouting_out_press_and_shouting	-1	按住喊话		Удерживайте, чтобы говорить
+com.wt.funbox:string/shouting_out_tip_text	-1	或长按方向盘语音按键直接喊话		Или удерживайте голосовую кнопку руля
+com.wt.funbox:string/shouting_outside_add_card	-1	新建卡片		Создать карточку
+com.wt.funbox:string/shouting_outside_audio_input_default_name	-1	录音%1$s		Запись %1$s
+com.wt.funbox:string/shouting_outside_backcar	-1	倒车注意		Осторожно, движение задним ходом
+com.wt.funbox:string/shouting_outside_backcar_tips	-1	挂入倒挡时车外将发出声音		При включении задней передачи снаружи прозвучит сообщение
+com.wt.funbox:string/shouting_outside_backcar_title	-1	自动播放		Автовоспроизведение
+com.wt.funbox:string/shouting_outside_custom_set	-1	自定义		Индивидуальный
+com.wt.funbox:string/shouting_outside_edit_cancel	-1	取消		Отмена
+com.wt.funbox:string/shouting_outside_edit_drop_menu_delete_card	-1	删除		Удалить
+com.wt.funbox:string/shouting_outside_edit_drop_menu_update_name	-1	编辑		Изменить
+com.wt.funbox:string/shouting_outside_edit_finish	-1	完成		Готово
+com.wt.funbox:string/shouting_outside_error_play	-1	文件损坏，请重新上传		Файл повреждён. Загрузите его заново.
+com.wt.funbox:string/shouting_outside_here	-1	我在这里		Я здесь
+com.wt.funbox:string/shouting_outside_input_fail_tips	-1	保存失败，请重试		Не удалось сохранить. Повторите попытку.
+com.wt.funbox:string/shouting_outside_input_success_tips	-1	保存成功		Сохранено
+com.wt.funbox:string/shouting_outside_jump_dialog_left_msg	-1	长按语音按键则触发“按住说话”功能		Удержание голосовой кнопки включает режим «Удерживайте, чтобы говорить»
+com.wt.funbox:string/shouting_outside_jump_dialog_msg	-1	可通过“车辆中心-车身-方向盘自定义按键”界面，选择“车外喊话”设置为自定义按键功能		В разделе Настройки автомобиля → Кузов → Настраиваемые кнопки руля назначьте «Наружный громкоговоритель»
+com.wt.funbox:string/shouting_outside_jump_dialog_ok	-1	去设置		Открыть настройки
+com.wt.funbox:string/shouting_outside_jump_dialog_right_msg	-1	短按自定义按键将喊话预设音频		Короткое нажатие назначенной кнопки воспроизводит подготовленную запись
+com.wt.funbox:string/shouting_outside_jump_dialog_title	-1	提示		Уведомление
+com.wt.funbox:string/shouting_outside_max_count_tips	-1	最多添加10个卡片，请删除后再添加		Можно добавить не более 10 карточек. Удалите ненужные.
+com.wt.funbox:string/shouting_outside_no_usb_tips	-1	请插入U盘		Подключите USB-накопитель
+com.wt.funbox:string/shouting_outside_oil_money_title	-1	金额		Сумма
+com.wt.funbox:string/shouting_outside_oil_set	-1	加油设置		Настройки заправки
+com.wt.funbox:string/shouting_outside_oil_type_title	-1	油号		Марка топлива
+com.wt.funbox:string/shouting_outside_pay_attention	-1	别看手机		Не смотрите в телефон
+com.wt.funbox:string/shouting_outside_petrol	-1	我要加油		Мне нужна заправка
+com.wt.funbox:string/shouting_outside_petrol_dialog_money_five_hundred	-1	500元		500 юаней
+com.wt.funbox:string/shouting_outside_petrol_dialog_money_hundred	-1	100元		100 юаней
+com.wt.funbox:string/shouting_outside_petrol_dialog_money_top_up	-1	加满		Полный бак
+com.wt.funbox:string/shouting_outside_petrol_dialog_money_two_hundred	-1	200元		200 юаней
+com.wt.funbox:string/shouting_outside_petrol_money_five_hundred	-1	500元		500 юаней
+com.wt.funbox:string/shouting_outside_petrol_money_hundred	-1	100元		100 юаней
+com.wt.funbox:string/shouting_outside_petrol_money_top_up	-1	加满		Полный бак
+com.wt.funbox:string/shouting_outside_petrol_money_two_hundred	-1	200元		200 юаней
+com.wt.funbox:string/shouting_outside_please_pass_first	-1	礼让行人		Пропустите пешехода
+com.wt.funbox:string/shouting_outside_real_time	-1	实时喊话		Прямая трансляция голоса
+com.wt.funbox:string/shouting_outside_record_less_one	-1	录音时间过短，请重新录制		Запись слишком короткая. Запишите ещё раз
+com.wt.funbox:string/shouting_outside_recording_notice	-1	等待中		Ожидание
+com.wt.funbox:string/shouting_outside_recording_text	-1	语音录入		Запись голоса
+com.wt.funbox:string/shouting_outside_set_menu_title	-1	设置		Настройки
+com.wt.funbox:string/shouting_outside_set_menu_tone_set	-1	音色设置		Выбор голоса
+com.wt.funbox:string/shouting_outside_set_menu_vehicle_set	-1	方向盘自定义		Настройка кнопок руля
+com.wt.funbox:string/shouting_outside_text_input_default_name	-1	文字%1$s		Текст %1$s
+com.wt.funbox:string/shouting_outside_text_input_empty_name_tips	-1	请输入名称		Введите название
+com.wt.funbox:string/shouting_outside_text_input_empty_toast_tips	-1	请输入喊话内容		Введите текст обращения
+com.wt.funbox:string/shouting_outside_text_input_exist_name_tips	-1	此名称已存在，请修改名称		Это название уже используется. Выберите другое
+com.wt.funbox:string/shouting_outside_text_input_illegal_toast_tips	-1	请输入“非符号”喊话内容		Введите текст обращения, а не только символы
+com.wt.funbox:string/shouting_outside_text_input_text	-1	文字输入		Ввод текста
+com.wt.funbox:string/shouting_outside_tone_doudou	-1	可爱童声		Детский голос
+com.wt.funbox:string/shouting_outside_tone_feichen	-1	暖心男声		Тёплый мужской голос
+com.wt.funbox:string/shouting_outside_tone_wenzhu	-1	巴适川语		Сычуаньский диалект
+com.wt.funbox:string/shouting_outside_tone_xiaoqi	-1	温柔女声		Мягкий женский голос
+com.wt.funbox:string/shouting_outside_tone_xiaoyueyu	-1	猴赛雷粤语		Кантонский диалект
+com.wt.funbox:string/shouting_outside_tts_input_text	-1	录音		Запись
+com.wt.funbox:string/shouting_outside_update_card_info_dialog_cancel	-1	取消		Отмена
+com.wt.funbox:string/shouting_outside_update_card_info_dialog_sure	-1	确定		ОК
+com.wt.funbox:string/shouting_outside_update_card_info_dialog_title	-1	确认删除“%1$s”		Удалить «%1$s»?
+com.wt.funbox:string/shouting_outside_usb_upload_no_data_text	-1	无音源文件		Аудиофайлов нет
+com.wt.funbox:string/shouting_outside_usb_upload_notice	-1	可上传10M以内的音频文件（MP3\\\\APE\\\\FLAC等格式）		Можно загрузить аудиофайлы до 10 МБ (MP3, APE, FLAC и другие)
+com.wt.funbox:string/shouting_outside_usb_upload_select	-1	已选择%1$d首		Выбрано: %1$d
+com.wt.funbox:string/shouting_outside_usb_upload_warning	-1	音频不得大于10M		Аудиофайл должен быть не больше 10 МБ
+com.wt.funbox:string/shouting_prumpet_applause	-1	掌声		Аплодисменты
+com.wt.funbox:string/shouting_prumpet_auto_play	-1	自动开启		Автоматическое включение
+com.wt.funbox:string/shouting_prumpet_auto_play_tips	-1	开启音效后，挡位变为D挡时，车外扬声器发出3s声音		При включённом эффекте после переключения в D внешний динамик воспроизводит звук в течение 3 с
+com.wt.funbox:string/shouting_prumpet_awkward_sheep	-1	尴尬绵羊		Овечка
+com.wt.funbox:string/shouting_prumpet_cough	-1	咳嗽		Кашель
+com.wt.funbox:string/shouting_prumpet_crow_awkwardness	-1	无语乌鸦		Карканье вороны
+com.wt.funbox:string/shouting_prumpet_hiccup	-1	打嗝		Икота
+com.wt.funbox:string/shouting_prumpet_mighty_lion	-1	威武狮子		Рёв льва
+com.wt.funbox:string/shouting_prumpet_single_cylinder_tractors	-1	单抗拖拉机		Одноцилиндровый трактор
+com.wt.funbox:string/shouting_prumpet_surprise	-1	吃惊		Удивление
+com.wt.funbox:string/shouting_prumpet_yawn	-1	哈欠		Зевок
+com.wt.funbox:string/shouting_recording_countDown	-1	%s’s后录音自动结束		Запись завершится через %s с
+com.wt.funbox:string/shouting_recording_real_time_countDown	-1	点击停止(%ss)		Нажмите для остановки (%s с)
+com.wt.funbox:string/shouting_recording_real_time_notice	-1	点击任意区域停止喊话		Нажмите в любом месте, чтобы закончить обращение
+com.wt.funbox:string/shouting_recording_real_time_text	-1	车外喊话中(%ss)		Трансляция наружу (%s с)
+com.wt.funbox:string/shouting_text1	-1	对外喊话		Обращение через внешний динамик
+com.wt.funbox:string/shouting_text2	-1	立即喊话		Начать обращение
+com.wt.funbox:string/shouting_text3	-1	卡片设置		Настройка карточек
+com.wt.funbox:string/show_is_not_available	-1	来电或通话时，灯光秀不可用		Световое шоу недоступно во время входящего вызова или разговора
+com.wt.funbox:string/sohuting_out_release_end_shouting	-1	松手结束喊话		Отпустите, чтобы закончить обращение
+com.wt.funbox:string/speech_play_notice	-1	请在语音助手退出后使用		Сначала закройте голосового помощника
+com.wt.funbox:string/starttext	-1	开始		Начать
+com.wt.funbox:string/text_input_cancel	-1	取消		Отмена
+com.wt.funbox:string/text_input_card_title	-1	名称		Название
+com.wt.funbox:string/text_input_card_title_hint	-1	请输入名称		Введите название
+com.wt.funbox:string/text_input_content_tips	-1	请输入文字		Введите текст
+com.wt.funbox:string/text_input_save	-1	保存		Сохранить
+com.wt.funbox:string/text_input_save_fail	-1	保存失败，请重试		Не удалось сохранить. Повторите попытку
+com.wt.funbox:string/text_input_save_success	-1	保存成功		Сохранено
+com.wt.funbox:string/text_input_shouting_content	-1	喊话内容		Текст обращения
+com.wt.funbox:string/text_input_shouting_content_hint	-1	输入文字，为您转为音频		Введите текст для преобразования в речь
+com.wt.funbox:string/text_input_shouting_outside	-1	喊话		Произнести
+com.wt.funbox:string/text_input_stop_shouting_outside	-1	停止喊话		Остановить обращение
+com.wt.funbox:string/text_input_stop_try_inside	-1	停止试听		Остановить прослушивание
+com.wt.funbox:string/text_input_title	-1	文字输入		Ввод текста
+com.wt.funbox:string/text_input_title_tips	-1	请输入名称		Введите название
+com.wt.funbox:string/text_input_try_inside	-1	试听		Прослушать
+com.wt.funbox:string/title_back	-1	返回		Назад
+com.wt.funbox:string/tone_set_dialog_tip_text	-1	切换音色后，语音助手的音色也会随之变化。\n但【自定义录音】及【实时喊话】功能不受音色设置影响，\n只会播放您录入的真实声音。		Выбранный голос также используется голосовым помощником.\nНастройка не влияет на собственные записи и прямую трансляцию:\nв этих режимах воспроизводится ваш настоящий голос.
+com.wt.funbox:string/usb_copying_msg	-1	正在上传文件		Загрузка файлов
+com.wt.funbox:string/usb_default_author	-1	未知作者		Неизвестный автор
+com.wt.funbox:string/usb_exist_name_tips	-1	该文件已存在		Этот файл уже существует
+com.wt.funbox:string/usb_upload_button_text	-1	上传		Загрузить
+com.wt.funbox:string/usb_upload_copy_usb_dialog_cancel	-1	取消		Отмена
+com.wt.funbox:string/usb_upload_no_usb_dialog_msg	-1	您可插入U盘上传自定义音频，文件大小不得超过10MB		Подключите USB-накопитель для загрузки своего аудиофайла размером не больше 10 МБ
+com.wt.funbox:string/usb_upload_no_usb_dialog_ok	-1	知道了		Понятно
+com.wt.funbox:string/usb_upload_success	-1	上传成功		Загрузка завершена
+com.wt.funbox:string/usb_upload_tip_text	-1	可上传10M以内的音频文件（MP3\\APE\\FLAC等格式）		Можно загрузить аудиофайлы до 10 МБ (MP3, APE, FLAC и другие)
+com.wt.funbox:string/usb_upload_title	-1	USB音频文件		Аудиофайлы на USB
+com.wt.funbox:string/user_agree_tip	-1	已阅读并同意以上内容		С условиями ознакомлен и согласен
+com.wt.funbox:string/user_agreement_loading	-1	用户协议加载中		Загрузка пользовательского соглашения
+com.wt.funbox:string/user_agreement_positive_button	-1	同意		Согласен
+com.wt.funbox:string/user_agreement_title	-1	使用彩蛋箱前需阅读并同意以下《用户协议》		Перед использованием «Сюрпризов» прочитайте и примите пользовательское соглашение
+com.wt.funbox:string/voice_ability_close_command	-1	目前仅支持关闭彩蛋箱		Сейчас поддерживается только закрытие «Сюрпризов»
+com.wt.funbox:string/voltage_notice	-1	请解除小电池电压低报警后再启动此功能		Сначала устраните причину предупреждения о низком напряжении аккумулятора 12 В
+com.wt.funbox:string/wt_date_picker_friday	-1	五		Пт
+com.wt.funbox:string/wt_date_picker_monday	-1	一		Пн
+com.wt.funbox:string/wt_date_picker_saturday	-1	六		Сб
+com.wt.funbox:string/wt_date_picker_sunday	-1	日		Вс
+com.wt.funbox:string/wt_date_picker_thursday	-1	四		Чт
+com.wt.funbox:string/wt_date_picker_tuesday	-1	二		Вт
+com.wt.funbox:string/wt_date_picker_wednesday	-1	三		Ср
+com.wt.funbox:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wt.funbox:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wt.funbox:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wt.funbox:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wt.funbox:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wt.funbox:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wt.funbox:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wt.funbox:string/wtsearch_text_hint	-1	请输入		Введите запрос

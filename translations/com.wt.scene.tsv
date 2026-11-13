@@ -1,0 +1,698 @@
+com.wt.scene:array/camp_bed_item	0	超级大床		Большая кровать
+com.wt.scene:array/camp_bed_item	1	左单人床		Односпальная слева
+com.wt.scene:array/camp_bed_item	2	右单人床		Односпальная справа
+com.wt.scene:array/rest_theme_names	0	眠谧梦谷		Долина сна
+com.wt.scene:array/rest_theme_names	1	温暖方居		Тёплый уют
+com.wt.scene:array/rest_theme_names	2	森林氧吧		Лесной воздух
+com.wt.scene:array/s_mode_vcar_massageTypes	0	波浪		Волна
+com.wt.scene:array/s_mode_vcar_massageTypes	1	猫步		Кошачьи шаги
+com.wt.scene:array/s_mode_vcar_massageTypes	2	腰部		Поясница
+com.wt.scene:array/s_mode_vcar_massageTypes	3	肩部		Плечи
+com.wt.scene:array/s_mode_vcar_massageTypes	4	蛇形		Змейка
+com.wt.scene:array/s_mode_vcar_massageTypes	5	脉冲		Пульсация
+com.wt.scene:array/s_mode_vcar_massageTypes	6	缓冲		Мягкий
+com.wt.scene:array/s_mode_vcar_massageTypes	7	推拿		Разминание
+com.wt.scene:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wt.scene:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wt.scene:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wt.scene:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wt.scene:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wt.scene:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wt.scene:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wt.scene:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wt.scene:string/abc_capital_on	-1	開啟		ВКЛ
+com.wt.scene:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wt.scene:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wt.scene:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wt.scene:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wt.scene:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wt.scene:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wt.scene:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wt.scene:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wt.scene:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wt.scene:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wt.scene:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wt.scene:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wt.scene:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wt.scene:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wt.scene:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wt.scene:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wt.scene:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wt.scene:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wt.scene:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wt.scene:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wt.scene:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wt.scene:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wt.scene:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wt.scene:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wt.scene:string/air_condition_setting	-1	空调联动		Связь с климатом
+com.wt.scene:string/air_title_tip	-1	打开开关，进入休憩模式时将自动调节空调，关闭开关，进入休憩模式时不调节空调状态。		Если включено, режим отдыха автоматически настраивает климат. Если выключено, состояние климата не меняется.
+com.wt.scene:string/air_title_tip_fugue	-1	打开开关，进入神游模式时将自动调节空调，关闭开关，进入神游模式时不调节空调状态。		Если включено, режим путешествия автоматически настраивает климат. Если выключено, состояние климата не меняется.
+com.wt.scene:string/air_title_tip_meditation	-1	打开开关，进入冥想模式时将自动调节空调，关闭开关，进入冥想模式时不调节空调状态。		Если включено, режим медитации автоматически настраивает климат. Если выключено, состояние климата не меняется.
+com.wt.scene:string/air_title_tip_movie	-1	打开开关，进入观影模式时将自动调节空调；关闭开关，进入观影模式时不调节空调状态。		Если включено, режим кино автоматически настраивает климат. Если выключено, состояние климата не меняется.
+com.wt.scene:string/alarm_switch_close	-1	关闭闹钟		Выключить будильник
+com.wt.scene:string/alarm_switch_open	-1	打开闹钟		Включить будильник
+com.wt.scene:string/alarm_volume_title	-1	闹钟音量		Громкость будильника
+com.wt.scene:string/app_name_main	-1	情景模式		Сценарии
+com.wt.scene:string/back_driver_seat	-1	后排		Задний ряд
+com.wt.scene:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.wt.scene:string/bs_seat_message	-1	座椅按摩		Массаж сидений
+com.wt.scene:string/bs_seat_message_copilot	-1	副驾座椅按摩		Массаж сиденья пассажира
+com.wt.scene:string/bs_seat_message_main	-1	主驾座椅按摩		Массаж сиденья водителя
+com.wt.scene:string/camp_alarm_set	-1	闹钟		Будильник
+com.wt.scene:string/camp_bed_collect	-1	一键收床		Сложить кровать
+com.wt.scene:string/camp_bed_hint_before_collect	-1	一键收床后，对应座椅状态自动恢复至成床前的状态		Сиденья автоматически вернутся в положения до раскладывания кровати.
+com.wt.scene:string/camp_bed_hint_before_start	-1	开启睡眠空间，将连通前后排座椅，请取下前排头枕并清理物品		Для спального места соединяются передние и задние сиденья. Снимите передние подголовники и уберите вещи.
+com.wt.scene:string/camp_bed_hint_on_start	-1	后将自动调节座椅，请乘客离开车内，注意安全		до автоматического перемещения сидений. Пассажиры должны выйти. Будьте осторожны.
+com.wt.scene:string/camp_bed_start	-1	一键成床		Разложить кровать
+com.wt.scene:string/camp_bed_start_hint	-1	手动退出睡眠空间或露营模式，将自动恢复座椅		При ручном выходе из спального пространства или кемпинга сиденья восстановят положение.
+com.wt.scene:string/camp_bed_title	-1	睡眠空间		Спальное пространство
+com.wt.scene:string/camp_bed_title_end	-1	睡眠空间（收床）		Спальное пространство: складывание
+com.wt.scene:string/camp_bed_title_start	-1	睡眠空间（成床）		Спальное пространство: раскладывание
+com.wt.scene:string/camp_exit_ready	-1	露营模式开启，已自动退出READY状态		Кемпинг включён. Автомобиль автоматически вышел из READY.
+com.wt.scene:string/camp_low_battery_tip	-1	主人，您的电池电量不足，为您退出露营模式		Недостаточно заряда. Режим кемпинга выключается.
+com.wt.scene:string/camp_mode_desc	-1	自动调节座舱环境，营造舒适的露营睡眠环境\n开启将调节座椅，建议后排无人时使用		Автоматически создаёт удобные условия для сна в кемпинге.\nСиденья будут перемещаться. Рекомендуется использовать без пассажиров сзади.
+com.wt.scene:string/camp_mode_end	-1	结束		Завершить
+com.wt.scene:string/camp_mode_has_exit	-1	露营模式已退出		Кемпинг выключен
+com.wt.scene:string/camp_mode_has_open	-1	露营模式已开启		Кемпинг включён
+com.wt.scene:string/camp_mode_name	-1	露营模式		Режим кемпинга
+com.wt.scene:string/camp_mode_name_simple	-1	露营		Кемпинг
+com.wt.scene:string/camp_mode_sleep_has_exit	-1	露营睡眠模式已退出		Сон в кемпинге выключен
+com.wt.scene:string/camp_mode_start	-1	开始		Начать
+com.wt.scene:string/camp_mode_success_toast	-1	正在为您开启露营模式，请注意后排乘客安全		Включение кемпинга. Следите за безопасностью пассажиров сзади.
+com.wt.scene:string/camp_user_hint_dialog_message	-1	即将移动座椅位置，请确认后排无人时使用		Сиденья будут перемещаться. Убедитесь, что сзади никого нет.
+com.wt.scene:string/cancel	-1	取消		Отмена
+com.wt.scene:string/car_sound_setting_five	-1	音效5		Эффект 5
+com.wt.scene:string/car_sound_setting_four	-1	音效4		Эффект 4
+com.wt.scene:string/car_sound_setting_one	-1	音效1		Эффект 1
+com.wt.scene:string/car_sound_setting_six	-1	音效6		Эффект 6
+com.wt.scene:string/car_sound_setting_three	-1	音效3		Эффект 3
+com.wt.scene:string/car_sound_setting_title	-1	音效选择		Выбор звукового эффекта
+com.wt.scene:string/car_sound_setting_two	-1	音效2		Эффект 2
+com.wt.scene:string/car_window_close	-1	关闭		Закрыть
+com.wt.scene:string/car_window_open	-1	开启		Открыть
+com.wt.scene:string/car_window_open_little	-1	通风		Проветривание
+com.wt.scene:string/car_window_title	-1	车窗设置		Настройки окон
+com.wt.scene:string/chair_massage_type_five	-1	猫步模式		Кошачьи шаги
+com.wt.scene:string/chair_massage_type_four	-1	背部舒缓		Расслабление спины
+com.wt.scene:string/chair_massage_type_one	-1	经典模式		Классический
+com.wt.scene:string/chair_massage_type_three	-1	腰部舒缓		Расслабление поясницы
+com.wt.scene:string/chair_massage_type_two	-1	松弛模式		Расслабляющий
+com.wt.scene:string/chair_setting_name	-1	主驾座椅按摩		Массаж сиденья водителя
+com.wt.scene:string/chair_setting_strength_high	-1	高		Высокая
+com.wt.scene:string/chair_setting_strength_low	-1	低		Низкая
+com.wt.scene:string/chair_setting_strength_middle	-1	中		Средняя
+com.wt.scene:string/chair_setting_strength_title	-1	按摩强度		Интенсивность массажа
+com.wt.scene:string/chair_setting_type_name_title	-1	按摩类型		Вид массажа
+com.wt.scene:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.wt.scene:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.wt.scene:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.scene:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.scene:string/charging_failed_toast	-1	请在电量20%%及以上，再打开休憩模式		Режим отдыха доступен при заряде не ниже 20%%
+com.wt.scene:string/child_mode_camera_connect_loading	-1	摄像头加载中...		Загрузка камеры...
+com.wt.scene:string/child_mode_camera_hardware_link_error	-1	摄像头连接异常，请检查摄像头		Ошибка подключения камеры. Проверьте её.
+com.wt.scene:string/child_mode_camera_loading	-1	摄像头加载中...		Загрузка камеры...
+com.wt.scene:string/child_mode_camera_no_permission	-1	没有相机权限,		Нет разрешения на камеру,
+com.wt.scene:string/child_mode_camera_un_use_fail	-1	摄像头被占用，%s无法开启		Камера занята. Нельзя включить %s.
+com.wt.scene:string/child_mode_desc	-1	当检测到儿童会播放儿童资源，打开实时视频和吸烟检测		При обнаружении ребёнка включает детские материалы, видеонаблюдение и обнаружение курения.
+com.wt.scene:string/child_mode_name	-1	儿童模式		Детский режим
+com.wt.scene:string/child_mode_name_simple	-1	儿童		Дети
+com.wt.scene:string/child_mode_screen_sleep_fail	-1	屏幕休眠，%s无法开启		Экран спит. Нельзя включить %s.
+com.wt.scene:string/child_mode_start_by_ims	-1	识别到儿童，已为您打开儿童模式		Обнаружен ребёнок. Детский режим включён.
+com.wt.scene:string/child_mode_toast_bye	-1	Bye！小朋友下次再见哦！		До свидания! До следующей встречи!
+com.wt.scene:string/children_close	-1	已关闭儿童模式		Детский режим выключен
+com.wt.scene:string/children_open_success	-1	已成功启动儿童模式		Детский режим включён
+com.wt.scene:string/children_window_camera_error	-1	摄像头链接异常		Ошибка подключения камеры
+com.wt.scene:string/children_window_camera_not_open	-1	摄像头未开启		Камера выключена
+com.wt.scene:string/children_window_confirm_bt	-1	知道了		Понятно
+com.wt.scene:string/children_window_guide_tv	-1	点击切换窗口大小\n长按拖动浮窗		Нажмите, чтобы изменить размер окна.\nУдерживайте, чтобы переместить его.
+com.wt.scene:string/city_beijing	-1	北京		Пекин
+com.wt.scene:string/city_dubai	-1	迪拜		Дубай
+com.wt.scene:string/city_new_york	-1	纽约		Нью-Йорк
+com.wt.scene:string/city_paris	-1	巴黎		Париж
+com.wt.scene:string/city_seoul	-1	首尔		Сеул
+com.wt.scene:string/city_sydney	-1	悉尼		Сидней
+com.wt.scene:string/city_tokyo	-1	东京		Токио
+com.wt.scene:string/close	-1	关闭		Выключить
+com.wt.scene:string/confirm	-1	确认		Подтвердить
+com.wt.scene:string/connect_error	-1	失败		Не удалось
+com.wt.scene:string/connect_succ	-1	成功		Выполнено
+com.wt.scene:string/copilot_driver_seat	-1	副驾		Пассажир
+com.wt.scene:string/copilot_driver_seat_full	-1	副驾驶		Передний пассажир
+com.wt.scene:string/dialog_alarm_tip	-1	闹钟提醒		Будильник
+com.wt.scene:string/dialog_cancel_button_name	-1	取消		Отмена
+com.wt.scene:string/dialog_context	-1	将恢复座椅，氛围灯等设置，您确定要退出吗		Положения сидений, подсветка и другие настройки восстановятся. Выйти?
+com.wt.scene:string/dialog_exit_button_name	-1	退出		Выйти
+com.wt.scene:string/dialog_title_meditation	-1	退出冥想模式		Выход из медитации
+com.wt.scene:string/door_failed_toast	-1	请关闭全车车门后，再打开休憩模式		Закройте все двери перед включением отдыха
+com.wt.scene:string/download	-1	下载		Скачать
+com.wt.scene:string/download_pause	-1	继续		Продолжить
+com.wt.scene:string/downloading_list_full	-1	下载列表已满，请稍等		Очередь скачивания заполнена. Подождите.
+com.wt.scene:string/electric_fail_exception	-1	您的电池温度低，正在为您退出%s		Батарея холодная. Выход из %s.
+com.wt.scene:string/electric_failed_toast	-1	当前电量低于20%，无法开启休憩模式		При заряде ниже 20% отдых недоступен
+com.wt.scene:string/electric_overheated_exception	-1	车辆有严重故障，请远离车辆并联系服务站		Серьёзная неисправность. Отойдите от автомобиля и свяжитесь с сервисом.
+com.wt.scene:string/error	-1	错误		Ошибка
+com.wt.scene:string/et_dialog_confirm	-1	确认		Подтвердить
+com.wt.scene:string/et_dialog_recommend	-1	推荐		Рекомендуется
+com.wt.scene:string/et_dialog_title_hint	-1	输入提示语		Введите сообщение
+com.wt.scene:string/exception_electric_overheated	-1	检测到电池热失控，系统将为您强制关闭露营模式		Обнаружен тепловой разгон батареи. Система принудительно выключит кемпинг.
+com.wt.scene:string/exception_fail_by_brake	-1	%s已退出		Режим «%s» выключен
+com.wt.scene:string/exception_fail_by_electric_not_full	-1	电池电量不足，正在为您退出%s		Недостаточно заряда. Режим «%s» выключается.
+com.wt.scene:string/exception_fail_by_electric_not_full_new	-1	电池电量不足，正在退出%s		Недостаточно заряда. Режим «%s» выключается.
+com.wt.scene:string/exception_fail_by_not_p	-1	检测到您连续踩了两次刹车，已为您退出%s		Два последовательных нажатия тормоза. Режим «%s» выключен.
+com.wt.scene:string/exception_power_off	-1	车辆已下电，正在为您退出露营模式		Питание выключено. Выход из кемпинга.
+com.wt.scene:string/exception_trouble_lamp_on	-1	您的电池温度低，正在为您退出（露营）睡眠模式		Батарея холодная. Выход из сна в кемпинге.
+com.wt.scene:string/exception_two_press_brake	-1	检测到您连续踩了两次刹车，系统将为您强制关闭露营模式		Обнаружено два последовательных нажатия тормоза. Система принудительно выключит кемпинг.
+com.wt.scene:string/exit_camp_by_no_p	-1	您已进入非P挡，正在为您退出露营模式		Селектор выведен из P. Выход из кемпинга.
+com.wt.scene:string/exit_camp_mode	-1	是否退出露营模式		Выйти из кемпинга?
+com.wt.scene:string/exit_camp_mode_tip	-1	是否退出露营模式？		Выйти из кемпинга?
+com.wt.scene:string/exit_camp_mode_with_low_battery	-1	电池电量不足,正在为您退出露营模式,请及时给车辆补能,并注意保持车内空气流通		Недостаточно заряда. Кемпинг выключается. Пополните энергию автомобиля и обеспечьте циркуляцию воздуха в салоне.
+com.wt.scene:string/exit_pet_mode_tip	-1	是否退出宠物模式？		Выйти из режима питомца?
+com.wt.scene:string/exit_ready_has	-1	露营模式开启，已⾃动退出READY状态		Кемпинг включён. Автомобиль автоматически вышел из READY.
+com.wt.scene:string/exit_ready_tip	-1	请手动退出Ready状态后，再打开露营模式哦		Перед включением кемпинга выйдите из READY вручную
+com.wt.scene:string/exo_controls_cc_disabled_description	-1	启用字幕		Включить субтитры
+com.wt.scene:string/exo_controls_cc_disabled_description	-1	啟用字幕		Включить субтитры
+com.wt.scene:string/exo_controls_cc_disabled_description	-1	啟用字幕 (Subtitle)		Включить субтитры
+com.wt.scene:string/exo_controls_cc_enabled_description	-1	停用字幕		Выключить субтитры
+com.wt.scene:string/exo_controls_cc_enabled_description	-1	停用字幕 (Subtitle)		Выключить субтитры
+com.wt.scene:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.wt.scene:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.wt.scene:string/exo_controls_fullscreen_enter_description	-1	进入全屏模式		Полноэкранный режим
+com.wt.scene:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕		Полноэкранный режим
+com.wt.scene:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕模式		Полноэкранный режим
+com.wt.scene:string/exo_controls_fullscreen_exit_description	-1	結束全螢幕模式		Выйти из полноэкранного режима
+com.wt.scene:string/exo_controls_fullscreen_exit_description	-1	退出全屏模式		Выйти из полноэкранного режима
+com.wt.scene:string/exo_controls_fullscreen_exit_description	-1	關閉全螢幕		Выйти из полноэкранного режима
+com.wt.scene:string/exo_controls_hide	-1	隐藏播放器控件		Скрыть панель управления
+com.wt.scene:string/exo_controls_hide	-1	隱藏播放器控制選項		Скрыть панель управления
+com.wt.scene:string/exo_controls_hide	-1	隱藏播放器控制項		Скрыть панель управления
+com.wt.scene:string/exo_controls_next_description	-1	繼續		Следующий трек
+com.wt.scene:string/exo_controls_overflow_hide_description	-1	隐藏其他设置		Скрыть дополнительные настройки
+com.wt.scene:string/exo_controls_overflow_hide_description	-1	隱藏其他設定		Скрыть дополнительные настройки
+com.wt.scene:string/exo_controls_overflow_show_description	-1	显示其他设置		Показать дополнительные настройки
+com.wt.scene:string/exo_controls_overflow_show_description	-1	顯示其他設定		Показать дополнительные настройки
+com.wt.scene:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.wt.scene:string/exo_controls_playback_speed	-1	速度		Скорость
+com.wt.scene:string/exo_controls_repeat_all_description	-1	全部重复播放		Повторять все
+com.wt.scene:string/exo_controls_repeat_all_description	-1	全部重複播放		Повторять все
+com.wt.scene:string/exo_controls_repeat_all_description	-1	重複播放所有項目		Повторять все
+com.wt.scene:string/exo_controls_repeat_off_description	-1	不重複播放		Не повторять
+com.wt.scene:string/exo_controls_repeat_one_description	-1	重複播放單一項目		Повторять трек
+com.wt.scene:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.wt.scene:string/exo_controls_seek_bar_description	-1	播放进度		Полоса прокрутки воспроизведения
+com.wt.scene:string/exo_controls_seek_bar_description	-1	播放進度		Полоса прокрутки воспроизведения
+com.wt.scene:string/exo_controls_settings_description	-1	設定		Настройки
+com.wt.scene:string/exo_controls_show	-1	显示播放器控件		Показать панель управления
+com.wt.scene:string/exo_controls_show	-1	顯示播放器控制選項		Показать панель управления
+com.wt.scene:string/exo_controls_show	-1	顯示播放器控制項		Показать панель управления
+com.wt.scene:string/exo_controls_shuffle_off_description	-1	已關閉隨機播放功能		Перемешивание отключено
+com.wt.scene:string/exo_controls_shuffle_off_description	-1	随机播放功能已关闭		Перемешивание отключено
+com.wt.scene:string/exo_controls_shuffle_off_description	-1	隨機播放已關閉		Перемешивание отключено
+com.wt.scene:string/exo_controls_shuffle_on_description	-1	已開啟隨機播放功能		Перемешивание включено
+com.wt.scene:string/exo_controls_shuffle_on_description	-1	随机播放功能已开启		Перемешивание включено
+com.wt.scene:string/exo_controls_shuffle_on_description	-1	隨機播放已開啟		Перемешивание включено
+com.wt.scene:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.wt.scene:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.wt.scene:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.wt.scene:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.wt.scene:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.wt.scene:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.wt.scene:string/exo_download_description	-1	下載		Скачать
+com.wt.scene:string/exo_download_downloading	-1	下載中		Скачивание…
+com.wt.scene:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.wt.scene:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.wt.scene:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.wt.scene:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.wt.scene:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.wt.scene:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.wt.scene:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.wt.scene:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.wt.scene:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.wt.scene:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.wt.scene:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.wt.scene:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.wt.scene:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.wt.scene:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.wt.scene:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.wt.scene:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.wt.scene:string/exo_track_mono	-1	单声道		Моно
+com.wt.scene:string/exo_track_mono	-1	單聲道		Моно
+com.wt.scene:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.wt.scene:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.wt.scene:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.wt.scene:string/exo_track_role_commentary	-1	評論		Комментарии
+com.wt.scene:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.wt.scene:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.wt.scene:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.wt.scene:string/exo_track_selection_auto	-1	自動		Авто
+com.wt.scene:string/exo_track_selection_none	-1	無		Нет
+com.wt.scene:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.wt.scene:string/exo_track_selection_title_text	-1	文字		Текст
+com.wt.scene:string/exo_track_selection_title_video	-1	影片		Видео
+com.wt.scene:string/exo_track_stereo	-1	立体声		Стерео
+com.wt.scene:string/exo_track_stereo	-1	立體聲		Стерео
+com.wt.scene:string/exo_track_surround	-1	环绕声		Объемный звук
+com.wt.scene:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.wt.scene:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.wt.scene:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.wt.scene:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.wt.scene:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.wt.scene:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.wt.scene:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.wt.scene:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.wt.scene:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.wt.scene:string/fragrance_concentration	-1	香氛浓度		Интенсивность аромата
+com.wt.scene:string/fragrance_concentration_high	-1	高		Высокая
+com.wt.scene:string/fragrance_concentration_low	-1	低		Низкая
+com.wt.scene:string/fragrance_concentration_middle	-1	中		Средняя
+com.wt.scene:string/fragrance_introduce_text	-1	璀璨星辰香水，宛如夜空中最明亮的那颗星辰，它就像一次感官上的盛宴，一段心灵的旅行。 \n\n玫瑰与茉莉的香气逐渐浮现，优雅而迷人。它们如同优雅的舞者，在香气的舞台上尽情舞动，散发出迷人的魅力。这不 仅仅是香气，更是一种情感的传递，一种优雅与浪漫的交融。		Аромат «Сияние звёзд» подобен яркой звезде в ночном небе: праздник чувств и путешествие души. \n\nНоты розы и жасмина постепенно раскрываются в изящном танце. Их очарование соединяет элегантность и романтику, передавая не только аромат, но и настроение.
+com.wt.scene:string/fragrance_name_one	-1	臻		Совершенство
+com.wt.scene:string/fragrance_name_three	-1	致		Изысканность
+com.wt.scene:string/fragrance_name_two	-1	悦		Радость
+com.wt.scene:string/fragrance_switch_title	-1	香氛开关		Включение ароматизации
+com.wt.scene:string/fragrance_type	-1	香氛类型		Аромат
+com.wt.scene:string/fugue_mode_desc	-1	打造极致城市氛围，感受不一样的\n喧嚣		Погрузитесь в атмосферу города\nи почувствуйте его особый ритм.
+com.wt.scene:string/fugue_mode_name	-1	神游模式		Режим путешествия
+com.wt.scene:string/fugue_mode_name_simple	-1	神游		Путешествие
+com.wt.scene:string/fw_item_setting	-1	设置		Настройки
+com.wt.scene:string/gear_failed_toast	-1	请将车辆置于P挡后，再打开休憩模式		Перед включением отдыха переведите селектор в P
+com.wt.scene:string/hour_name	-1	小时		ч
+com.wt.scene:string/icarlink_mode_desc	-1	手机投屏联动车辆硬件等，畅享无限内容\n驻车使用时，将移动座椅，请注意安全		Проекция телефона связана с оборудованием автомобиля для удобных развлечений.\nНа стоянке сиденья будут перемещаться. Будьте осторожны.
+com.wt.scene:string/icarlink_mode_name	-1	手车娱乐模式		Развлечения с телефоном
+com.wt.scene:string/icarlink_mode_name_simple	-1	手车娱乐		Развлечения с телефоном
+com.wt.scene:string/imgview_des_next	-1	下一个		Следующий
+com.wt.scene:string/imgview_des_pre	-1	上一个		Предыдущий
+com.wt.scene:string/imgview_des_xiuqi_settings	-1	设置		Настройки
+com.wt.scene:string/info_error	-1	数据错误		Ошибка данных
+com.wt.scene:string/inner_car_light_color_title	-1	氛围灯颜色		Цвет фоновой подсветки
+com.wt.scene:string/inner_car_light_light_title	-1	氛围灯亮度		Яркость фоновой подсветки
+com.wt.scene:string/inner_car_light_title	-1	氛围灯联动		Связь с фоновой подсветкой
+com.wt.scene:string/inner_car_light_title_hint	-1	氛围灯联动提示		Подсказка о фоновой подсветке
+com.wt.scene:string/inner_light_music_title_tip	-1	打开开关，进入嗨歌模式将自动调节氛围灯；关闭开关，进入嗨歌模式不自动调节氛围灯。		Если включено, караоке автоматически настраивает подсветку. Если выключено, состояние подсветки не меняется.
+com.wt.scene:string/inner_light_title_tip	-1	开启该开关，将按休憩模式主题色彩律动30s。		Подсветка будет меняться в цветах темы отдыха в течение 30 с.
+com.wt.scene:string/install	-1	安装重试		Повторить установку
+com.wt.scene:string/installing	-1	安装中…		Установка…
+com.wt.scene:string/introduce_title_text	-1	%s介绍		Описание: %s
+com.wt.scene:string/main_driver_seat	-1	主驾		Водитель
+com.wt.scene:string/main_driver_seat_full	-1	主驾驶		Водитель
+com.wt.scene:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.scene:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.scene:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.scene:string/material_hour_selection	-1	請選取時段		Выберите час
+com.wt.scene:string/material_hour_selection	-1	选择小时		Выберите час
+com.wt.scene:string/material_hour_selection	-1	選取時段		Выберите час
+com.wt.scene:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.wt.scene:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.wt.scene:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.wt.scene:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.wt.scene:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.wt.scene:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.wt.scene:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.wt.scene:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.scene:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.scene:string/material_timepicker_hour	-1	小時		Час
+com.wt.scene:string/material_timepicker_minute	-1	分鐘		Минуты
+com.wt.scene:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.wt.scene:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.scene:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.scene:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.scene:string/meditation_mode_desc	-1	静享冥想空间，一键释放压力，身心归宁		Тихое пространство для медитации, снятия напряжения и отдыха.
+com.wt.scene:string/meditation_mode_name	-1	冥想模式		Медитация
+com.wt.scene:string/meditation_mode_name_simple	-1	冥想		Медитация
+com.wt.scene:string/meditation_mode_open_toast	-1	正在为您开启冥想模式，请注意后排乘客安全		Включение медитации. Следите за безопасностью пассажиров сзади.
+com.wt.scene:string/meditation_mode_open_toast_no_move	-1	正在为您开启冥想模式		Включение медитации
+com.wt.scene:string/meditation_mode_out_common_hint_message	-1	正在退出冥想模式，已存储座椅与车窗状态		Выход из медитации. Положения сидений и окон сохранены.
+com.wt.scene:string/meditation_mode_prepare_text	-1	聆听自然白噪音，治愈浮躁心灵~		Расслабьтесь под звуки природы
+com.wt.scene:string/meditation_mode_simple_name	-1	冥想		Медитация
+com.wt.scene:string/meditation_mode_start_button	-1	结束		Завершить
+com.wt.scene:string/min_name	-1	分钟		мин
+com.wt.scene:string/mode_button_loading	-1	启动中		Запуск
+com.wt.scene:string/mode_button_open	-1	开启		Включить
+com.wt.scene:string/mode_button_stop	-1	结束		Завершить
+com.wt.scene:string/mode_close_status	-1	未开启		Не включено
+com.wt.scene:string/mode_exit_charging_anomaly	-1	当前充电中断，请及时处理。		Зарядка прервана. Проверьте подключение.
+com.wt.scene:string/mode_exit_electricOverheated	-1	电池异常，正在退出%s		Ошибка батареи. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_low_power	-1	电池电量不足，正在为您退出%s		Недостаточно заряда. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_not_p	-1	您已退出P挡，正在退出%s		Селектор выведен из P. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_not_pn	-1	已退出P挡或N挡，正在退出%s		Селектор выведен из P или N. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_power_off	-1	您已下电，正在为您退出%s		Питание выключено. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_power_save_mode_open	-1	超级省电模式已开启，正在退出%s		Максимальное энергосбережение включено. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_speed_limit10	-1	车速>10km/h，正在退出%s		Скорость выше 10 км/ч. Режим «%s» выключается.
+com.wt.scene:string/mode_exit_unknown	-1	正在为您退出%s		Режим «%s» выключается.
+com.wt.scene:string/mode_fail_all_door_close	-1	请关闭全车车门后，再打开%s		Закройте все двери перед включением %s.
+com.wt.scene:string/mode_fail_default	-1	条件不满足，打开%s失败		Условия не выполнены. Не удалось включить %s.
+com.wt.scene:string/mode_fail_door_close	-1	请关闭全车车门后，再打开休憩模式		Закройте все двери перед включением отдыха
+com.wt.scene:string/mode_fail_electricOverheated	-1	电池异常，无法打开%s		Ошибка батареи. Нельзя включить %s.
+com.wt.scene:string/mode_fail_electric_trouble	-1	电池温度低，打开%s失败		Батарея холодная. Нельзя включить %s.
+com.wt.scene:string/mode_fail_electron_low	-1	请保持充足电量，再打开该模式		Для включения режима нужен достаточный заряд
+com.wt.scene:string/mode_fail_electron_low_append	-1	请保持充足电量，再打开%s		Для включения %s нужен достаточный заряд.
+com.wt.scene:string/mode_fail_engine_open	-1	请将发动机熄灭后，再打开该模式		Сначала выключите двигатель
+com.wt.scene:string/mode_fail_engine_phev_close	-1	请将发动机开启后，再打开%s		Сначала запустите двигатель, затем включите %s.
+com.wt.scene:string/mode_fail_engine_phev_open	-1	请将增程器关闭后，再打开%s		Выключите генераторную установку перед включением %s.
+com.wt.scene:string/mode_fail_engine_phev_open_append	-1	请将增程器关闭后，再打开%s		Выключите генераторную установку перед включением %s.
+com.wt.scene:string/mode_fail_engine_phev_open_new	-1	请关闭发动机运行开关\n后再打开%s。		Выключите сервисный запуск двигателя,\nзатем включите %s.
+com.wt.scene:string/mode_fail_fail_p	-1	请在P挡下，再打开%s		Выберите P перед включением %s.
+com.wt.scene:string/mode_fail_no_charging	-1	请先连接充电枪，再打开该模式		Сначала подключите зарядный разъём
+com.wt.scene:string/mode_fail_no_charging_append	-1	请先连接充电枪，再打开%s		Подключите зарядный разъём перед включением %s.
+com.wt.scene:string/mode_fail_no_engin	-1	请将发动机开启后，再打开%s		Сначала запустите двигатель, затем включите %s.
+com.wt.scene:string/mode_fail_no_need_link	-1	请断开充电枪后，再打开%s		Отсоедините зарядный разъём перед включением %s.
+com.wt.scene:string/mode_fail_no_p2	-1	请在P挡下，再打开%s		Выберите P перед включением %s.
+com.wt.scene:string/mode_fail_outk_power_low2	-1	请在电量大于%s，再打开%s		Заряд должен быть выше %s для включения %s.
+com.wt.scene:string/mode_fail_over_heated	-1	车辆有严重故障，请远离车辆并联系服务站		Серьёзная неисправность. Отойдите от автомобиля и свяжитесь с сервисом.
+com.wt.scene:string/mode_fail_p_or_n_default	-1	请在P挡下或N挡下，再打开%s		Выберите P или N перед включением %s.
+com.wt.scene:string/mode_fail_powerSaveMode	-1	超级省电模式已开启，%s暂不可用		Максимальное энергосбережение включено. Режим %s временно недоступен.
+com.wt.scene:string/mode_fail_powerSaveMode_widget	-1	已开启超级省电模式，该功能不可用		В максимальном энергосбережении функция недоступна
+com.wt.scene:string/mode_fail_power_off	-1	请将车辆上电后，再打开该模式		Сначала включите питание автомобиля
+com.wt.scene:string/mode_fail_power_off2	-1	请在电源ON挡，再打开%s		Выберите питание ON перед включением %s.
+com.wt.scene:string/mode_fail_ready_new	-1	请退出READY状态再打开%s。		Выйдите из READY перед включением %s.
+com.wt.scene:string/mode_fail_ready_tip	-1	请在Ready状态下，再打开%s		Перейдите в READY перед включением %s.
+com.wt.scene:string/mode_fail_rest_power_low2	-1	请在电量大于20%%，再打开%s		Для включения %s заряд должен быть выше 20%%.
+com.wt.scene:string/mode_fail_speed_limit	-1	请在车速≤%dkm/h后，再打开%s		Снизьте скорость до ≤%d км/ч перед включением %s.
+com.wt.scene:string/mode_introduce_camp	-1	该模式为长时间在车内停留睡眠而设计。开启该模式，车辆将保证电量在20%及以上时，不会自动下电，同时座椅联动。车外灯光关闭，空调开启并设置到外循环，退出露营模式后恢复。_电量低于20%时或者踩两次刹车，将自动退出该模式，退出后，灯光将恢复到进入前的状态。		Режим для длительного пребывания и сна в автомобиле. При заряде не ниже 20% питание не выключается автоматически, а сиденья настраиваются совместно. Наружный свет выключается, климат работает с наружным воздухом. После выхода настройки восстанавливаются._При заряде ниже 20% или двух нажатиях тормоза режим автоматически выключается. Освещение возвращается к прежнему состоянию.
+com.wt.scene:string/mode_introduce_car_link	-1	手车娱乐式将为你提供高效、舒适的娱乐环境。连接手车互联应用后可开启，开启后座椅移动到您习惯的位置，并开启座椅；音效个性化调节；氛围灯自动调节。_您可通过连续踩2次刹车、语音控制等退出手车娱乐模式，退出后，各项设置将恢复到进入前的状态。		Создаёт удобные условия для развлечений после подключения телефона. Сиденья перемещаются в привычное положение, включаются их функции; настраиваются звук и подсветка._Для выхода дважды нажмите тормоз или используйте голосовое управление. После выхода настройки восстановятся.
+com.wt.scene:string/mode_introduce_meditation	-1	1.冥想模式通过声音SPA和导师引导帮助您进入冥想状态，有助于释放压力、放松身心。开启后，车窗根据您上一次设置的状态进行调节，氛围灯、车外灯光、阳帘等将自动调节。\n2.您可通过连续踩2次刹车、语音控制等退出冥想模式退出后，各项设置将恢复到进入前的状态。		1. Звуки природы и голосовые инструкции помогают расслабиться и перейти к медитации. Окна возвращаются к последним настройкам, подсветка, наружный свет и шторка регулируются автоматически.\n2. Для выхода дважды нажмите тормоз или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_meditation_lighting	-1	冥想模式通过声音SPA和导师引导帮助您进入冥想状态，有助于释放压力、放松身心。开启后，车窗根据您上一次设置的状态进行调节，车外灯光、遮阳帘等将自动调节。\n您可通过连续踩2次刹车、语音控制等退出冥想模式，退出后，各项设置将恢复到进入前的状态。		Звуки природы и голосовые инструкции помогают расслабиться и перейти к медитации. Окна возвращаются к последним настройкам, наружный свет и шторка регулируются автоматически.\nДля выхода дважды нажмите тормоз или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_movie	-1	观影模式将为你提供高效、舒适的观影环境。开启后，座椅移动到您习惯的位置，车窗根据您设置的状态自动调节；观影应用自动开启，音效自动变为影院音效*；氛围灯、空调自动调节。（*为部分车型配置搭载）_您可通过连续踩2次刹车、语音控制等退出观影模式，退出后，各项设置将恢复到进入前的状态。		Создаёт удобные условия для кино. Сиденья перемещаются в привычное положение, окна регулируются по настройке; открывается видеоприложение, включается звук кинотеатра*, настраиваются подсветка и климат. (*В зависимости от оснащения.)_Для выхода дважды нажмите тормоз или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_music	-1	嗨歌模式适用于K歌场景。\n开启后，车窗根据您设置的状态自动调节。嗨歌应用自动开启，并自动打开无麦K歌(无需麦克风，直接嗨唱)、氛围灯、香氛等自动调节。_您可通过退出K歌APP、语音控制等退出嗨歌模式，退出后，各项设置将恢复到进入前的状态。		Режим для караоке.\nОкна регулируются по настройке, открывается приложение караоке и включается пение без отдельного микрофона. Подсветка, ароматизация и другие функции настраиваются автоматически._Для выхода закройте приложение караоке или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_music	-1	嗨歌模式适用于K歌场景。\n开启后，车窗根据您设置的状态自动调节。嗨歌应用自动开启，并自动打开无麦K歌(无需麦克风，直接嗨唱)、氛围灯等自动调节。\n您可通过退出K歌APP、语音控制等退出嗨歌模式，退出后，各项设置将恢复到进入前的状态。		Режим для караоке.\nОкна регулируются по настройке, открывается приложение караоке и включается пение без отдельного микрофона. Подсветка и другие функции настраиваются автоматически.\nДля выхода закройте приложение караоке или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_music	-1	嗨歌模式适用于K歌场景。\n开启后，车窗根据您设置的状态自动调节。嗨歌应用自动开启，并自动打开无麦K歌(无需麦克风，直接嗨唱)、氛围灯等自动调节。_您可通过退出K歌APP、语音控制等退出嗨歌模式，退出后，各项设置将恢复到进入前的状态。		Режим для караоке.\nОкна регулируются по настройке, открывается приложение караоке и включается пение без отдельного микрофона. Подсветка и другие функции настраиваются автоматически._Для выхода закройте приложение караоке или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_pet	-1	该模式为暂时将宠物独立留在车内设计，请时刻关注车内状态并及时返回，避免发生危险。开启宠物模式后，从车外锁车后激活功能，此时空调将保持运行状态，中控屏将保持常亮，并展示当前空调设定温度。_电量过低时，将自动退出该模式，退出后，后排车窗将自动留缝。		Для краткого пребывания питомца без вас в автомобиле. Постоянно следите за салоном и своевременно возвращайтесь. После включения функция активируется запиранием снаружи: климат продолжает работать, центральный экран остаётся включённым и показывает заданную температуру._При низком заряде режим автоматически выключается. После выхода задние окна приоткрываются.
+com.wt.scene:string/mode_introduce_pure	-1	提神模式可以在您行车疲劳时开启。推荐您开启，开启后，将联动空调循环吹风，打开座椅通风，播放激昂的在线音乐，助您提神醒脑。		Режим бодрости можно включить при усталости во время поездки. Он меняет циркуляцию и обдув, включает вентиляцию сиденья и энергичную онлайн-музыку.
+com.wt.scene:string/mode_introduce_rest	-1	休憩模式中包含三个主题：眠谧梦谷、温暖方居、森林氧吧，每个主题下都包含了与动效匹配的白噪音，适用于休息、缓解疲劳。_开启后，将自动调节座椅*到您习惯的休息位置，开启按摩*；车窗根据您设置的状态自动调节；同时氛围灯*、灯光、香氛*等将自动调节。（*为部分车型配置搭载），开启后如果您在30s内无操作，屏幕和氛围灯将自动熄灭直到闹钟响起。_您可通过连续踩2次刹车、语音控制等退出休憩模式，退出后，各项设置将恢复到进入前的状态。		Три темы отдыха: «Долина сна», «Тёплый уют» и «Лесной воздух». В каждой есть звуки природы, соответствующие анимации, для отдыха и снятия усталости._Сиденья* перемещаются в привычное положение отдыха, включается массаж*, окна регулируются по настройке. Подсветка*, свет и ароматизация* настраиваются автоматически. (*В зависимости от оснащения.) Через 30 с без действий экран и подсветка гаснут до будильника._Для выхода дважды нажмите тормоз или используйте голосовое управление. Прежние настройки восстановятся.
+com.wt.scene:string/mode_introduce_wash	-1	该模式为用户洗车场景设计。启动模式后自动关闭车窗、禁用感应解闭锁、禁用自动雨刮、关闭雷达检测蜂鸣等，避免洗车过程对车辆造成损坏，如果车速超过 10km/h 将会退出洗车模式。		Режим мойки автоматически закрывает окна, отключает бесконтактное запирание и отпирание, автоматические стеклоочистители и звуковые предупреждения парковочных датчиков. При скорости выше 10 км/ч режим выключается.
+com.wt.scene:string/mode_introduce_wash	-1	该模式为用户洗车场景设计。开启模式时将自动关闭所有车窗、禁用自动雨刮、关闭雷达检测蜂鸣等，避免洗车过程对车辆造成损坏，如果车速超过 10km/h 将会退出洗车模式。		Режим мойки автоматически закрывает все окна, отключает автоматические стеклоочистители и звуковые предупреждения парковочных датчиков, защищая автомобиль во время мойки. При скорости выше 10 км/ч режим выключается.
+com.wt.scene:string/mode_name_camp	-1	露营模式		Режим кемпинга
+com.wt.scene:string/mode_name_child	-1	儿童模式		Детский режим
+com.wt.scene:string/mode_name_link_car	-1	手车娱乐模式		Развлечения с телефоном
+com.wt.scene:string/mode_name_meditation	-1	冥想模式		Медитация
+com.wt.scene:string/mode_name_movie	-1	观影模式		Кино
+com.wt.scene:string/mode_name_music	-1	嗨歌模式		Караоке
+com.wt.scene:string/mode_name_none	-1	无模式		Без режима
+com.wt.scene:string/mode_name_pet	-1	宠物模式		Режим питомца
+com.wt.scene:string/mode_name_pure	-1	提神模式		Бодрость
+com.wt.scene:string/mode_name_rest	-1	休憩模式		Отдых
+com.wt.scene:string/mode_name_smoke	-1	抽烟模式		Режим курения
+com.wt.scene:string/mode_name_systemui_card	-1	屏幕清洁		Очистка экрана
+com.wt.scene:string/mode_name_wash	-1	洗车模式		Режим мойки
+com.wt.scene:string/mode_name_winter	-1	冬季模式		Зимний режим
+com.wt.scene:string/mode_not_support_toast2	-1	暂不支持%s哦		Режим %s пока не поддерживается
+com.wt.scene:string/mode_open_status	-1	已开启		Включено
+com.wt.scene:string/mode_start_dialog_message	-1	1.即将移动所选座椅位置，请确认后排⽆⼈时使⽤。\n 2.露营模式中，当整⻋电量＜ 20%或踩2次刹⻋时，将⾃动退出此模式。		1. Выбранные сиденья будут перемещаться. Убедитесь, что сзади никого нет.\n2. Кемпинг автоматически выключается при заряде ниже 20% или двух нажатиях тормоза.
+com.wt.scene:string/movie_alert_cancel	-1	取消		Отмена
+com.wt.scene:string/movie_alert_exit	-1	退出		Выйти
+com.wt.scene:string/movie_alert_exit_message	-1	将恢复座椅，氛围灯等设置，您确定要退出吗？		Положения сидений, подсветка и другие настройки восстановятся. Выйти?
+com.wt.scene:string/movie_alert_exit_title	-1	退出观影模式		Выход из кино
+com.wt.scene:string/movie_mode_aleady_open	-1	观影模式已打开		Кино уже включено
+com.wt.scene:string/movie_mode_desc	-1	联动观影app和车内硬件，座舱秒变影院\n开启将调节座椅、车窗，建议后排无人时使用		Связывает видеоприложение и оборудование салона, превращая автомобиль в кинотеатр.\nСиденья и окна будут перемещаться. Рекомендуется использовать без пассажиров сзади.
+com.wt.scene:string/movie_mode_exit	-1	结束观影模式		Завершить кино
+com.wt.scene:string/movie_mode_exit_by_not_page	-1	您已离开腾讯视频，正在为您退出观影模式。		Вы закрыли Tencent Video. Режим кино выключается.
+com.wt.scene:string/movie_mode_exit_toast	-1	观影模式已退出		Кино выключено
+com.wt.scene:string/movie_mode_gear_n_p_hint	-1	请将车辆置于P挡后，再开启观影模式哦		Перед включением кино переведите селектор в P
+com.wt.scene:string/movie_mode_name	-1	观影模式		Режим кино
+com.wt.scene:string/movie_mode_name_simple	-1	观影		Кино
+com.wt.scene:string/movie_mode_power_off_hint	-1	请将电源置于ON挡后，再开启观影模式哦		Перед включением кино включите питание ON
+com.wt.scene:string/movie_mode_setting	-1	设置		Настройки
+com.wt.scene:string/movie_mode_star	-1	打开观影模式		Включить кино
+com.wt.scene:string/movie_mode_start_hint	-1	正在为您开启观影模式，请注意后排乘客安全		Включение кино. Следите за безопасностью пассажиров сзади.
+com.wt.scene:string/movie_mode_stop_hint	-1	踩 2 次刹车即可退出观影模式哦～		Для выхода из кино дважды нажмите тормоз
+com.wt.scene:string/movie_position	-1	观影位置		Положение для кино
+com.wt.scene:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.wt.scene:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.wt.scene:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.wt.scene:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.wt.scene:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.wt.scene:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.wt.scene:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.wt.scene:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.wt.scene:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.wt.scene:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.wt.scene:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.wt.scene:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.wt.scene:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.wt.scene:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.wt.scene:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.wt.scene:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.wt.scene:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.wt.scene:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.wt.scene:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.wt.scene:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.wt.scene:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.wt.scene:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.wt.scene:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.wt.scene:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.wt.scene:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.wt.scene:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.wt.scene:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.wt.scene:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.wt.scene:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.wt.scene:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.wt.scene:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.wt.scene:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.wt.scene:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.wt.scene:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.wt.scene:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.wt.scene:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.wt.scene:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.wt.scene:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.wt.scene:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.wt.scene:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.wt.scene:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.wt.scene:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.wt.scene:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.wt.scene:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.wt.scene:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.wt.scene:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.wt.scene:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.wt.scene:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.wt.scene:string/mtrl_picker_save	-1	儲存		Сохранить
+com.wt.scene:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.wt.scene:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.wt.scene:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.wt.scene:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.wt.scene:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.wt.scene:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.wt.scene:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.wt.scene:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.wt.scene:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.wt.scene:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.wt.scene:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.wt.scene:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.wt.scene:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.wt.scene:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.wt.scene:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.wt.scene:string/music_alert_cancel	-1	取消		Отмена
+com.wt.scene:string/music_alert_distract_message	-1	驾驶中唱歌容易分心哦，您确认要继续嗨歌吗？		Пение во время движения может отвлекать. Продолжить караоке?
+com.wt.scene:string/music_alert_distract_title	-1	继续使用嗨歌模式		Продолжить караоке
+com.wt.scene:string/music_alert_exit	-1	退出		Выйти
+com.wt.scene:string/music_alert_exit_message	-1	将恢复香氛、氛围灯等设置，您确定要退出吗？		Настройки ароматизации, подсветки и другие параметры восстановятся. Выйти?
+com.wt.scene:string/music_alert_exit_title	-1	结束嗨歌模式		Завершить караоке
+com.wt.scene:string/music_mode_desc	-1	营造K歌氛围，打造移动K歌房，让快乐随行\n开启将调节车窗、开启无麦K歌等		Создаёт атмосферу караоке в автомобиле.\nНастраивает окна и включает пение без отдельного микрофона.
+com.wt.scene:string/music_mode_exit	-1	结束嗨歌模式		Завершить караоке
+com.wt.scene:string/music_mode_first_tip_bubble	-1	开启嗨歌模式，畅享无麦K歌。		Включите караоке и пойте без отдельного микрофона
+com.wt.scene:string/music_mode_name	-1	嗨歌模式		Режим караоке
+com.wt.scene:string/music_mode_name_simple	-1	嗨歌		Караоке
+com.wt.scene:string/music_mode_power_off_hint	-1	请将电源置于ON挡后后，再打开嗨歌模式哦		Перед включением караоке включите питание ON
+com.wt.scene:string/music_mode_setting	-1	设置		Настройки
+com.wt.scene:string/music_time_always	-1	始终开启		Всегда включено
+com.wt.scene:string/music_time_one	-1	15分钟		15 минут
+com.wt.scene:string/music_time_three	-1	60分钟		60 минут
+com.wt.scene:string/music_time_title	-1	播放时长		Длительность воспроизведения
+com.wt.scene:string/music_time_two	-1	30分钟		30 минут
+com.wt.scene:string/music_volume_title	-1	音乐音量		Громкость музыки
+com.wt.scene:string/natural_bamboo	-1	竹林		Бамбуковый лес
+com.wt.scene:string/natural_ml	-1	麦浪		Пшеничное поле
+com.wt.scene:string/natural_rain	-1	绵雨		Тихий дождь
+com.wt.scene:string/natural_snow	-1	雪山		Снежные горы
+com.wt.scene:string/natural_summer	-1	夏夜		Летняя ночь
+com.wt.scene:string/network_error	-1	网络未连接，请检查网络设置		Нет сети. Проверьте настройки подключения.
+com.wt.scene:string/network_error_code	-1	请求数据时出现错误，错误码：%d		Ошибка запроса данных. Код: %d
+com.wt.scene:string/network_unavailable	-1	网络连接失败，请连接网络！		Не удалось подключиться. Подключитесь к сети.
+com.wt.scene:string/no	-1	否		Нет
+com.wt.scene:string/no_enough_space	-1	没有足够的存储空间		Недостаточно места
+com.wt.scene:string/no_enough_space_install	-1	存储空间不足，无法安装		Недостаточно места для установки
+com.wt.scene:string/no_mic_close_toast	-1	⽆⻨K歌已关闭		Караоке без отдельного микрофона выключено
+com.wt.scene:string/no_mic_open_toast	-1	⽆⻨K歌已开启，随时随地，想唱就唱！		Караоке без отдельного микрофона включено. Можно петь!
+com.wt.scene:string/no_mic_open_toast_calling	-1	通话中，暂不能使⽤无麦k歌		Во время разговора караоке недоступно
+com.wt.scene:string/no_mic_open_toast_no_permit	-1	请先授权麦克风后，再开启无麦k歌		Сначала разрешите доступ к микрофону
+com.wt.scene:string/no_mic_tip	-1	"使⽤⻋载⻨克⻛，让您的爱⻋变⾝为移动的⻋载k歌房，""唱""快出⾏"		Использует микрофоны автомобиля, превращая его в караоке-комнату.
+com.wt.scene:string/no_seat_outside	-1	车外		Снаружи
+com.wt.scene:string/no_third_app	-1	无应用		Нет приложения
+com.wt.scene:string/open	-1	打开		Открыть
+com.wt.scene:string/other_not_finished_yet	-1	其它应用还未下载完成		Другие приложения ещё не скачаны
+com.wt.scene:string/out_side_k_intro	-1	15s后将为您启动车外K歌，请带上手持麦克风\n移步车外尽情享受嗨歌乐趣！		Караоке снаружи включится через 15 с. Возьмите ручной микрофон\nи выйдите из автомобиля.
+com.wt.scene:string/over_heated_failed_toast	-1	车辆有严重故障，请远离车辆并联系服务站		Серьёзная неисправность. Отойдите от автомобиля и свяжитесь с сервисом.
+com.wt.scene:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.wt.scene:string/pet_air_temp_tip	-1	当前空调温度		Заданная температура климата
+com.wt.scene:string/pet_content_tip	-1	我家主人很快回来。请不用担心！		Хозяин скоро вернётся. Не беспокойтесь!
+com.wt.scene:string/pet_content_tip1	-1	请放心，我的主人只是离开一小会呢。		Не волнуйтесь, хозяин отошёл ненадолго.
+com.wt.scene:string/pet_edit_hint	-1	请输入提示告知车外行人		Введите сообщение для прохожих
+com.wt.scene:string/pet_mode_desc	-1	给您的爱宠创造一个安全舒适的恒温空间\n开启模式，离车锁车时保持车内恒温环境		Создаёт для питомца комфортную постоянную температуру.\nПоддерживает климат после вашего выхода и запирания автомобиля.
+com.wt.scene:string/pet_mode_name	-1	宠物模式		Режим питомца
+com.wt.scene:string/pet_mode_name_simple	-1	宠物		Питомец
+com.wt.scene:string/pet_mode_tip_no_text	-1	点击上方文字，可自动填入相关内容哦		Нажмите на текст выше, чтобы подставить его
+com.wt.scene:string/pet_mode_tip_size_text	-1	请输入10-40个字符的相关内容哦		Введите сообщение от 10 до 40 символов
+com.wt.scene:string/pet_question_tip	-1	注意:\n1.宠物模式中，换挡将退出该模式;\n2.宠物模式中，车辆闭锁后舱内仍可维持舒适状态;\n3.若电量低于25%，或连续踩2次刹车，将自动退出宠物模式。		Обратите внимание:\n1. Переключение передачи выключает режим питомца.\n2. После запирания климат продолжает поддерживать комфорт в салоне.\n3. При заряде ниже 25% или двух последовательных нажатиях тормоза режим выключается.
+com.wt.scene:string/play_setting_all	-1	全车播放		Все динамики
+com.wt.scene:string/play_setting_car_and_head	-1	头枕辅助		Подголовник как дополнительный динамик
+com.wt.scene:string/play_setting_driver_head	-1	主驾头枕		Подголовник водителя
+com.wt.scene:string/play_setting_entire_car	-1	全车播放		Все динамики
+com.wt.scene:string/play_setting_head	-1	主驾头枕		Подголовник водителя
+com.wt.scene:string/play_setting_title	-1	播放设置		Настройки воспроизведения
+com.wt.scene:string/power_failed_toast	-1	请将车辆上电后，再开启休憩模式		Перед включением отдыха включите питание автомобиля
+com.wt.scene:string/pure_mode_air_fail_base	-1	前除霜已开启，暂不能使用%s		Включён обдув ветрового стекла. Режим %s недоступен.
+com.wt.scene:string/pure_mode_desc	-1	多感官联动，提神醒脑，一扫疲劳状态\n开启将自动设置空调、播放醒神音乐等		Помогает взбодриться с помощью нескольких функций.\nНастраивает климат, включает бодрящую музыку и другие функции.
+com.wt.scene:string/pure_mode_exit	-1	提神模式已退出		Бодрость выключена
+com.wt.scene:string/pure_mode_name	-1	提神模式		Режим бодрости
+com.wt.scene:string/pure_mode_name_simple	-1	提神		Бодрость
+com.wt.scene:string/pure_mode_open	-1	提神模式已开启		Бодрость включена
+com.wt.scene:string/pure_open_fail_by_phone	-1	通话中,暂不支持操作		Во время разговора действие недоступно
+com.wt.scene:string/pure_open_fail_by_phone_base	-1	通话中,暂不能使用%s		Во время разговора режим %s недоступен
+com.wt.scene:string/rear_mirror_state_close	-1	后视镜折叠		Наружные зеркала сложены
+com.wt.scene:string/rear_mirror_state_open	-1	后视镜展开		Наружные зеркала разложены
+com.wt.scene:string/remember_screen_delight	-1	即将为您熄灭屏幕，是否继续？		Экран сейчас погаснет. Продолжить?
+com.wt.scene:string/remind_dialog_message	-1	即将调节主驾座椅状态，请在后排无人时使用		Сиденье водителя будет перемещаться. Убедитесь, что сзади никого нет.
+com.wt.scene:string/remind_dialog_negative_text	-1	取消		Отмена
+com.wt.scene:string/remind_dialog_positive_text	-1	继续		Продолжить
+com.wt.scene:string/remind_dialog_title	-1	安全贴士		Рекомендации по безопасности
+com.wt.scene:string/request_error	-1	请求错误，请稍后重试		Ошибка запроса. Повторите попытку позже.
+com.wt.scene:string/rest_mode_desc	-1	一键营造舒适的休憩空间，感受极致放松解压\n开启将调节座椅、车窗，建议后排无人时使用		Создаёт комфортное пространство для отдыха и расслабления.\nСиденья и окна будут перемещаться. Рекомендуется использовать без пассажиров сзади.
+com.wt.scene:string/rest_mode_name	-1	休憩模式		Режим отдыха
+com.wt.scene:string/rest_mode_name_simple	-1	休憩		Отдых
+com.wt.scene:string/rest_mode_out_common_hint_message	-1	正在退出休憩模式，已存储座椅与车窗状态		Выход из отдыха. Положения сидений и окон сохранены.
+com.wt.scene:string/rest_mode_simple_name	-1	休憩		Отдых
+com.wt.scene:string/rest_theme_first	-1	眠谧梦谷		Долина сна
+com.wt.scene:string/rest_theme_second	-1	温暖方居		Тёплый уют
+com.wt.scene:string/rest_theme_third	-1	森林氧吧		Лесной воздух
+com.wt.scene:string/save	-1	保存		Сохранить
+com.wt.scene:string/scene_ac_open	-1	打开		Открыть
+com.wt.scene:string/scene_filed	-1	田园		Сельский пейзаж
+com.wt.scene:string/scene_fire	-1	篝火		Костёр
+com.wt.scene:string/scene_mode_open_already	-1	当前已是%s中哦		Режим %s уже включён
+com.wt.scene:string/scene_name_bamboo_forest	-1	竹林		Бамбуковый лес
+com.wt.scene:string/scene_name_beijing	-1	北京		Пекин
+com.wt.scene:string/scene_name_billowing_wheat	-1	麦浪		Пшеничное поле
+com.wt.scene:string/scene_name_continuous_rain	-1	绵雨		Тихий дождь
+com.wt.scene:string/scene_name_dubai	-1	迪拜		Дубай
+com.wt.scene:string/scene_name_new_york	-1	纽约		Нью-Йорк
+com.wt.scene:string/scene_name_paris	-1	巴黎		Париж
+com.wt.scene:string/scene_name_reduce_pressure	-1	冥想练习		Практика медитации
+com.wt.scene:string/scene_name_relieve_anxiety	-1	颂钵疗愈		Поющие чаши
+com.wt.scene:string/scene_name_seoul	-1	首尔		Сеул
+com.wt.scene:string/scene_name_snow_mountain	-1	雪山		Снежные горы
+com.wt.scene:string/scene_name_summer_night	-1	夏夜		Летняя ночь
+com.wt.scene:string/scene_name_sydney	-1	悉尼		Сидней
+com.wt.scene:string/scene_name_tokyo	-1	东京		Токио
+com.wt.scene:string/scene_ocean	-1	海洋		Океан
+com.wt.scene:string/scene_rain	-1	春雨		Весенний дождь
+com.wt.scene:string/scene_snow_mountain	-1	雪山		Снежные горы
+com.wt.scene:string/scene_wheat	-1	麦浪		Пшеничное поле
+com.wt.scene:string/see_music_first_desc	-1	白噪音		Звуки природы
+com.wt.scene:string/see_music_first_name	-1	夜阑听雨		Ночной дождь
+com.wt.scene:string/see_music_play	-1	播放		Воспроизвести
+com.wt.scene:string/see_setting	-1	设置		Настройки
+com.wt.scene:string/see_voice	-1	音量		Громкость
+com.wt.scene:string/set_time_confirm	-1	结束		Завершить
+com.wt.scene:string/smoke_mode_desc	-1	抽烟时保持空气清晰，不再烟雾缭绕		Помогает поддерживать свежий воздух во время курения.
+com.wt.scene:string/smoke_mode_name	-1	抽烟模式		Режим курения
+com.wt.scene:string/smoke_mode_name_simple	-1	抽烟		Курение
+com.wt.scene:string/speech_close_camp	-1	您可以唤醒语音说“结束露营模式”直接退出模式		Чтобы выйти, вызовите штатного помощника и скажите по-китайски «结束露营模式» («Заверши режим кемпинга»).
+com.wt.scene:string/speech_close_rest	-1	您可以唤醒语音说“结束休憩模式”直接退出模式		Чтобы выйти, вызовите штатного помощника и скажите по-китайски «结束休憩模式» («Заверши режим отдыха»).
+com.wt.scene:string/ss_mode_state_active	-1	已激活		Активно
+com.wt.scene:string/ss_seat_adjust	-1	正在调节座椅至露营位置		Сиденья перемещаются в положение кемпинга
+com.wt.scene:string/ss_seat_adjust_front	-1	正在调节副驾座椅至露营位置		Сиденье пассажира перемещается в положение кемпинга
+com.wt.scene:string/ss_seat_adjust_main	-1	正在调节主驾座椅至露营位置		Сиденье водителя перемещается в положение кемпинга
+com.wt.scene:string/ss_seat_is_adujusting	-1	待座椅完全停止后，再进行操作		Дождитесь полной остановки сиденья
+com.wt.scene:string/ss_seat_is_out_side_all_audio	-1	全部扬声器		Все динамики
+com.wt.scene:string/ss_seat_is_out_side_only_out_audio	-1	车外扬声器		Наружные динамики
+com.wt.scene:string/ss_seat_recover	-1	正在恢复座椅位置		Восстановление положения сидений
+com.wt.scene:string/ss_seat_recover_front	-1	正在恢复副驾座椅位置		Восстановление положения сиденья пассажира
+com.wt.scene:string/ss_seat_recover_main	-1	正在恢复主驾座椅位置		Восстановление положения сиденья водителя
+com.wt.scene:string/store_buy	-1	购买		Купить
+com.wt.scene:string/store_pause	-1	暂停		Пауза
+com.wt.scene:string/store_pay	-1	支付		Оплатить
+com.wt.scene:string/time_hint	-1	唤醒您		Разбудить вас
+com.wt.scene:string/tips	-1	小贴士		Подсказки
+com.wt.scene:string/token_null	-1	车机请求token出现问题，请稍后重试		Ошибка получения токена. Повторите попытку позже.
+com.wt.scene:string/trigger_tip_door_fail	-1	请关闭全车车门后，再打开露营模式哦		Перед включением кемпинга закройте все двери
+com.wt.scene:string/trigger_tip_electric_fail	-1	请在电量充足时，再打开露营模式哦		Для включения кемпинга нужен достаточный заряд
+com.wt.scene:string/trigger_tip_engine_fail	-1	请将发动机熄灭后，再打开露营模式哦		Перед включением кемпинга выключите двигатель
+com.wt.scene:string/trigger_tip_p_fail	-1	请将车辆置于P挡后，再打开露营模式哦		Перед включением кемпинга переведите селектор в P
+com.wt.scene:string/trigger_tip_power_fail	-1	请将车辆上电后，再开启露营模式哦		Перед включением кемпинга включите питание
+com.wt.scene:string/turn_on	-1	%s已开启		Режим «%s» включён
+com.wt.scene:string/update	-1	更新		Обновить
+com.wt.scene:string/user_hint_dialog_message_meditation	-1	即将移动座椅位置，请确认后排无人时使用		Сиденья будут перемещаться. Убедитесь, что сзади никого нет.
+com.wt.scene:string/user_hint_dialog_message_movie	-1	即将调节主驾座椅状态，请在后排无人时使用		Сиденье водителя будет перемещаться. Убедитесь, что сзади никого нет.
+com.wt.scene:string/user_hint_dialog_message_movie_copilot	-1	即将调节副驾座椅状态，请在后排无人时使用		Сиденье пассажира будет перемещаться. Убедитесь, что сзади никого нет.
+com.wt.scene:string/user_hint_dialog_negative_button_name	-1	取消		Отмена
+com.wt.scene:string/user_hint_dialog_positive_button_name	-1	继续		Продолжить
+com.wt.scene:string/user_hint_dialog_title	-1	小贴士		Подсказки
+com.wt.scene:string/v_mas_type_7	-1	舒适		Комфортный
+com.wt.scene:string/v_play_setting_car_and_head	-1	头枕辅助		Подголовник как дополнительный динамик
+com.wt.scene:string/v_play_setting_driver_head	-1	主驾头枕		Подголовник водителя
+com.wt.scene:string/v_play_setting_entire_car	-1	全车播放		Все динамики
+com.wt.scene:string/video_pause	-1	暂停		Пауза
+com.wt.scene:string/video_play	-1	播放		Воспроизвести
+com.wt.scene:string/wait	-1	等待		Подождите
+com.wt.scene:string/wait_cancelled	-1	已取消等待		Ожидание отменено
+com.wt.scene:string/wake_up	-1	起床		Проснуться
+com.wt.scene:string/wash_alert_dialog_message	-1	即将关闭所有车窗，禁用自动雨刷，关闭雷达检测蜂鸣，关闭感应解闭锁等功能，当车速超过10km/h将自动退出此模式。		Все окна закроются, автоматические стеклоочистители, сигналы парковочных датчиков и бесконтактное отпирание и запирание отключатся. При скорости выше 10 км/ч режим выключится автоматически.
+com.wt.scene:string/wash_check_driver_assistant	-1	副驾、		пассажирская,
+com.wt.scene:string/wash_check_driver_main	-1	主驾、		водительская,
+com.wt.scene:string/wash_check_left_near	-1	左后、		левая задняя,
+com.wt.scene:string/wash_check_nearback	-1	后背、		багажная,
+com.wt.scene:string/wash_check_right_near	-1	右后、		правая задняя,
+com.wt.scene:string/wash_check_state_off	-1	关闭		Закрыто
+com.wt.scene:string/wash_check_state_on	-1	未关闭		Не закрыто
+com.wt.scene:string/wash_check_sunroof	-1	天窗、		люк,
+com.wt.scene:string/wash_check_title_door	-1	车门及背门		Двери и багажник
+com.wt.scene:string/wash_check_title_speed	-1	车速		Скорость
+com.wt.scene:string/wash_check_title_thunder_tips	-1	雷达提示音		Сигналы датчиков парковки
+com.wt.scene:string/wash_check_title_unlock	-1	感应解闭锁		Бесконтактное отпирание и запирание
+com.wt.scene:string/wash_check_title_window	-1	车窗		Окна
+com.wt.scene:string/wash_check_title_wiper	-1	雨刮		Стеклоочистители
+com.wt.scene:string/wash_clean_btn_exit_str	-1	长按3s结束屏幕清洁		Для завершения очистки экрана удерживайте 3 с
+com.wt.scene:string/wash_door_tips_not_close	-1	门未关闭		Дверь не закрыта
+com.wt.scene:string/wash_mode_desc	-1	启动后自动关闭车窗、禁用感应解闭锁、禁用\n自动雨刮等，避免洗车过程对车辆造成损坏		Автоматически закрывает окна, отключает бесконтактные замки\nи автоматические стеклоочистители, защищая автомобиль во время мойки.
+com.wt.scene:string/wash_mode_fail_electron_toast	-1	请在电源ON挡，再打开洗车模式		Перед включением мойки включите питание ON
+com.wt.scene:string/wash_mode_name	-1	洗车模式		Режим мойки
+com.wt.scene:string/wash_mode_name_simple	-1	洗车		Мойка
+com.wt.scene:string/wash_mode_simple_name	-1	洗车		Мойка
+com.wt.scene:string/wash_unlock_tips_not_close	-1	感应解闭锁未关闭		Бесконтактное отпирание и запирание не выключены
+com.wt.scene:string/wash_window_tips_not_close	-1	车窗未关闭		Окно не закрыто
+com.wt.scene:string/wash_wiper_check_front	-1	前、		передние,
+com.wt.scene:string/wash_wiper_check_near	-1	后、		задние,
+com.wt.scene:string/wash_wiper_check_off	-1	感应闭锁、		бесконтактное запирание,
+com.wt.scene:string/wash_wiper_check_on	-1	感应解锁、		бесконтактное отпирание,
+com.wt.scene:string/wash_wiper_tips_not_close	-1	雨刮未关闭		Стеклоочистители не выключены
+com.wt.scene:string/winter_force_ev_sysinf_dis	-1	强制纯电已退出		Принудительный электрический режим выключен
+com.wt.scene:string/winter_mode_desc	-1	当电池低温时，空调将开启快速制热模式，发动机随车速智能启动。		При холодной батарее климат включает быстрый обогрев, а двигатель запускается автоматически с учётом скорости.
+com.wt.scene:string/winter_mode_exit	-1	冬季模式已退出		Зимний режим выключен
+com.wt.scene:string/winter_mode_name	-1	冬季模式		Зимний режим
+com.wt.scene:string/winter_mode_name_simple	-1	冬季		Зима
+com.wt.scene:string/wt_date_picker_friday	-1	五		Пт
+com.wt.scene:string/wt_date_picker_monday	-1	一		Пн
+com.wt.scene:string/wt_date_picker_saturday	-1	六		Сб
+com.wt.scene:string/wt_date_picker_sunday	-1	日		Вс
+com.wt.scene:string/wt_date_picker_thursday	-1	四		Чт
+com.wt.scene:string/wt_date_picker_tuesday	-1	二		Вт
+com.wt.scene:string/wt_date_picker_wednesday	-1	三		Ср
+com.wt.scene:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wt.scene:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wt.scene:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wt.scene:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wt.scene:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wt.scene:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wt.scene:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wt.scene:string/wtsearch_text_hint	-1	请输入		Введите запрос
+com.wt.scene:string/xi_che_mode_door_open	-1	当前处于洗车模式中，请注意%s门已打开哦		Включён режим мойки. Внимание: открыта дверь «%s».
+com.wt.scene:string/xi_che_mode_fail_charging	-1	请断开充电枪后，再打开洗车模式		Перед включением мойки отсоедините зарядный разъём
+com.wt.scene:string/xi_che_mode_fail_p_or_n	-1	请在P挡或N挡下，再打开洗车模式		Перед включением мойки выберите P или N
+com.wt.scene:string/xi_che_mode_fail_ready	-1	请在Ready状态，再打开洗车模式		Для включения мойки перейдите в READY
+com.wt.scene:string/xi_che_mode_fail_speed	-1	请在车速≤3KM/h后，再打开洗车模式		Для включения мойки снизьте скорость до ≤3 км/ч
+com.wt.scene:string/xi_che_mode_name	-1	洗车模式		Режим мойки
+com.wt.scene:string/xi_che_mode_window_open	-1	当前处于洗车模式中，请注意车窗已打开哦		Включён режим мойки. Внимание: окно открыто.
+com.wt.scene:string/xi_che_mode_wiper_open	-1	当前处于洗车模式中，请注意雨刮已开启		Включён режим мойки. Внимание: стеклоочистители включены.
+com.wt.scene:string/xi_che_sub_title	-1	若在传送带上自动洗车，请挂入N挡		На конвейерной автомойке включите N
+com.wt.scene:string/xi_che_tips	-1	当前处于勿扰状态，蓝牙电话将会转移到手机		Режим «Не беспокоить»: звонки Bluetooth будут переведены на телефон
+com.wt.scene:string/xi_che_top_tips	-1	洗车模式中，请保持车速≤10km/h，且挡位为P挡或N挡，否则将自动退出洗车模式。		В режиме мойки поддерживайте скорость ≤10 км/ч и положение P или N, иначе режим выключится автоматически.
+com.wt.scene:string/yes	-1	是		Да

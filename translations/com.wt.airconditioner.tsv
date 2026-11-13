@@ -1,0 +1,206 @@
+com.wt.airconditioner:array/air_comfort_eco_mode	0	舒适		Комфорт
+com.wt.airconditioner:array/air_comfort_eco_mode	1	节能		Эко
+com.wt.airconditioner:array/fresh_air_system_capsule_text	0	自动		Автоматически
+com.wt.airconditioner:array/fresh_air_system_capsule_text	1	自定义通风时间		Задать время проветривания
+com.wt.airconditioner:array/main_tab_titles	0	空调控制		Климат-контроль
+com.wt.airconditioner:array/main_tab_titles	1	座椅舒适		Комфорт сидений
+com.wt.airconditioner:array/massage_mode_group	0	波浪		Волна
+com.wt.airconditioner:array/massage_mode_group	1	猫步		Кошачьи шаги
+com.wt.airconditioner:array/massage_mode_group	2	腰部		Поясница
+com.wt.airconditioner:array/massage_mode_group	3	肩部		Плечи
+com.wt.airconditioner:array/massage_mode_group	4	蛇形		Змейка
+com.wt.airconditioner:array/massage_mode_group	5	脉冲		Пульсация
+com.wt.airconditioner:array/massage_mode_group	6	舒适		Комфорт
+com.wt.airconditioner:array/massage_mode_group	7	推拿		Разминание
+com.wt.airconditioner:array/seat_massage_times	0	15分钟		15 минут
+com.wt.airconditioner:array/seat_massage_times	1	20分钟		20 минут
+com.wt.airconditioner:array/seat_massage_times	2	30分钟		30 минут
+com.wt.airconditioner:array/seat_vent_heat_massage	0	通风加热		Вентиляция и подогрев
+com.wt.airconditioner:array/seat_vent_heat_massage	1	放松按摩		Расслабляющий массаж
+com.wt.airconditioner:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wt.airconditioner:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wt.airconditioner:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wt.airconditioner:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wt.airconditioner:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wt.airconditioner:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wt.airconditioner:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wt.airconditioner:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wt.airconditioner:string/abc_capital_on	-1	開啟		ВКЛ
+com.wt.airconditioner:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wt.airconditioner:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wt.airconditioner:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wt.airconditioner:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wt.airconditioner:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wt.airconditioner:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wt.airconditioner:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wt.airconditioner:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wt.airconditioner:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wt.airconditioner:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wt.airconditioner:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wt.airconditioner:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wt.airconditioner:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wt.airconditioner:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wt.airconditioner:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wt.airconditioner:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wt.airconditioner:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wt.airconditioner:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wt.airconditioner:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wt.airconditioner:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wt.airconditioner:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wt.airconditioner:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wt.airconditioner:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wt.airconditioner:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wt.airconditioner:string/air_level_excellent	-1	优		Отлично
+com.wt.airconditioner:string/air_level_good	-1	良		Хорошо
+com.wt.airconditioner:string/air_level_middle_pollution	-1	中度污染		Умеренное загрязнение
+com.wt.airconditioner:string/air_level_severity_pollution	-1	严重污染		Очень сильное загрязнение
+com.wt.airconditioner:string/air_level_slight_pollution	-1	轻度污染		Небольшое загрязнение
+com.wt.airconditioner:string/air_level_very_severity_pollution	-1	重度污染		Сильное загрязнение
+com.wt.airconditioner:string/air_settings_title_text	-1	空调设置		Настройки климата
+com.wt.airconditioner:string/auto_defog_tip	-1	自动除雾已开启！		Автоустранение запотевания включено.
+com.wt.airconditioner:string/automaticCycleErrorTip	-1	自动内外循环功能异常		Неисправность автоматического переключения рециркуляции.
+com.wt.airconditioner:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.wt.airconditioner:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.wt.airconditioner:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.wt.airconditioner:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.airconditioner:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.airconditioner:string/frontWindshieldWarmTips	-1	单次开启时长4分钟，怠速下请勿频繁开启		Включается на 4 минуты. Не включайте часто при работе двигателя на холостом ходу.
+com.wt.airconditioner:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.airconditioner:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.airconditioner:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.airconditioner:string/material_hour_selection	-1	請選取時段		Выберите час
+com.wt.airconditioner:string/material_hour_selection	-1	选择小时		Выберите час
+com.wt.airconditioner:string/material_hour_selection	-1	選取時段		Выберите час
+com.wt.airconditioner:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.wt.airconditioner:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.wt.airconditioner:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.wt.airconditioner:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.wt.airconditioner:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.wt.airconditioner:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.wt.airconditioner:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.wt.airconditioner:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.airconditioner:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.airconditioner:string/material_timepicker_hour	-1	小時		Час
+com.wt.airconditioner:string/material_timepicker_minute	-1	分鐘		Минуты
+com.wt.airconditioner:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.wt.airconditioner:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.airconditioner:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.airconditioner:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.airconditioner:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.wt.airconditioner:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.wt.airconditioner:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.wt.airconditioner:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.wt.airconditioner:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.wt.airconditioner:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.wt.airconditioner:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.wt.airconditioner:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.wt.airconditioner:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.wt.airconditioner:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.wt.airconditioner:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.wt.airconditioner:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.wt.airconditioner:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.wt.airconditioner:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.wt.airconditioner:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.wt.airconditioner:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.wt.airconditioner:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.wt.airconditioner:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.wt.airconditioner:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.wt.airconditioner:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.wt.airconditioner:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.wt.airconditioner:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.wt.airconditioner:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.wt.airconditioner:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.wt.airconditioner:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.wt.airconditioner:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.wt.airconditioner:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.wt.airconditioner:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.wt.airconditioner:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.wt.airconditioner:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.wt.airconditioner:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.wt.airconditioner:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.wt.airconditioner:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.wt.airconditioner:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.wt.airconditioner:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.wt.airconditioner:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.wt.airconditioner:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.wt.airconditioner:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.wt.airconditioner:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.wt.airconditioner:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.wt.airconditioner:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.wt.airconditioner:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.wt.airconditioner:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.wt.airconditioner:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.wt.airconditioner:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.wt.airconditioner:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.wt.airconditioner:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.wt.airconditioner:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.wt.airconditioner:string/mtrl_picker_save	-1	儲存		Сохранить
+com.wt.airconditioner:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.wt.airconditioner:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.wt.airconditioner:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.wt.airconditioner:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.wt.airconditioner:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.wt.airconditioner:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.wt.airconditioner:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.wt.airconditioner:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.wt.airconditioner:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.wt.airconditioner:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.wt.airconditioner:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.wt.airconditioner:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.wt.airconditioner:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.wt.airconditioner:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.wt.airconditioner:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.wt.airconditioner:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.wt.airconditioner:string/stv_auto_breath_desc	-1	遥控解锁时，空调自动通风换气		При отпирании с ключа климатическая система автоматически проветривает салон.
+com.wt.airconditioner:string/stv_auto_breath_name	-1	解锁自动换气		Проветривание при отпирании
+com.wt.airconditioner:string/stv_auto_defrost_desc	-1	前挡风玻璃将要起雾时，自动开启除雾		Если лобовое стекло начинает запотевать, автоматически включается устранение запотевания.
+com.wt.airconditioner:string/stv_auto_defrost_name	-1	自动除霜		Автоустранение запотевания
+com.wt.airconditioner:string/stv_auto_dry_desc	-1	停车前使用过空调，锁车后空调自动通风换气		Если перед парковкой использовался климат-контроль, после запирания автоматически проветривается климатическая система.
+com.wt.airconditioner:string/stv_auto_dry_name	-1	空调自干燥		Просушка климатической системы
+com.wt.airconditioner:string/stv_auto_purify_desc	-1	车内PM值过高，自动进行空气净化		При повышенном уровне частиц PM в салоне автоматически включается очистка воздуха.
+com.wt.airconditioner:string/stv_auto_purify_name	-1	自动空气净化		Автоматическая очистка воздуха
+com.wt.airconditioner:string/stv_fall_window_vent_desc	-1	长按钥匙解锁降窗时，空调自动通风换气		При опускании окон долгим нажатием кнопки отпирания на ключе климатическая система проветривает салон.
+com.wt.airconditioner:string/stv_fall_window_vent_name	-1	解锁降窗通风		Проветривание при открытии окон с ключа
+com.wt.airconditioner:string/stv_fresh_air_system_desc	-1	锁车后也可进行外循环通风		Приточная вентиляция может работать и после запирания автомобиля.
+com.wt.airconditioner:string/stv_fresh_air_system_name	-1	座舱新风系统		Свежий воздух в салоне
+com.wt.airconditioner:string/stv_purify_voice_tip_desc	-1	车内PM值过高，自动进行空气净化		При повышенном уровне частиц PM в салоне автоматически включается очистка воздуха.
+com.wt.airconditioner:string/stv_purify_voice_tip_name	-1	空气净化语音提示		Голосовые сообщения об очистке воздуха
+com.wt.airconditioner:string/text_massage_finish_tip	-1	座椅按摩循环结束，如需继续，请重新开启按摩功能		Цикл массажа завершён. Чтобы продолжить, включите массаж снова.
+com.wt.airconditioner:string/tips_activate_at_4s	-1	请到4s店开通该功能		Для активации функции обратитесь к дилеру.
+com.wt.airconditioner:string/tips_low_battery_unavailable_massage	-1	电量过低，无法使用座椅按摩		Массаж сидений недоступен: низкий заряд батареи.
+com.wt.airconditioner:string/tv_at_ease_driver_title_text	-1	安心驾驶		Комфорт в поездке
+com.wt.airconditioner:string/tv_auto_engine_low_temp_desc_text	-1	当环境温度低于设定值时，空调可以启动发动机进行采暖		Если температура снаружи ниже заданной, климатическая система может запустить двигатель для обогрева.
+com.wt.airconditioner:string/tv_auto_engine_low_temp_name_text	-1	自动启动发动机采暖的最低温度设置		Температура запуска двигателя для обогрева
+com.wt.airconditioner:string/tv_fresh_air_system_auto_tip_text	-1	锁⻋后，空调每隔4小时进行一次外循环通⻛，最多通⻛3次		После запирания автомобиля приточная вентиляция включается каждые 4 часа, но не более 3 раз.
+com.wt.airconditioner:string/tv_fresh_air_system_time_evening_text_text	-1	晚上		Вечер
+com.wt.airconditioner:string/tv_fresh_air_system_time_morning_text_text	-1	上午		Утро
+com.wt.airconditioner:string/tv_fresh_air_system_time_noon_text_text	-1	下午		День
+com.wt.airconditioner:string/tv_front_seat_position_text	-1	前排按摩		Массаж передних сидений
+com.wt.airconditioner:string/tv_left_driver_name_main	-1	主驾		Водитель
+com.wt.airconditioner:string/tv_left_driver_name_rear_left	-1	主驾后排		Сзади слева
+com.wt.airconditioner:string/tv_lock_car_convoy_title_text	-1	锁车护航		После запирания
+com.wt.airconditioner:string/tv_outside_air_quality_name_text	-1	外		Снаружи
+com.wt.airconditioner:string/tv_outside_air_quality_value_text	-1	中度 36		Умеренное загрязнение 36
+com.wt.airconditioner:string/tv_purge_text	-1	净化		Очистка
+com.wt.airconditioner:string/tv_rear_seat_position_text	-1	后排按摩		Массаж задних сидений
+com.wt.airconditioner:string/tv_right_driver_name_copilot	-1	副驾		Передний пассажир
+com.wt.airconditioner:string/tv_right_driver_name_rear_right	-1	副驾后排		Сзади справа
+com.wt.airconditioner:string/tv_temp_sync_text	-1	温度同步		Синхронизация температуры
+com.wt.airconditioner:string/tv_ventilate_text	-1	通风		Вентиляция
+com.wt.airconditioner:string/tv_within_air_quality_name_text	-1	内		В салоне
+com.wt.airconditioner:string/tv_within_air_quality_value_text	-1	良 25		Хорошо 25
+com.wt.airconditioner:string/wt_date_picker_friday	-1	五		Пт
+com.wt.airconditioner:string/wt_date_picker_monday	-1	一		Пн
+com.wt.airconditioner:string/wt_date_picker_saturday	-1	六		Сб
+com.wt.airconditioner:string/wt_date_picker_sunday	-1	日		Вс
+com.wt.airconditioner:string/wt_date_picker_thursday	-1	四		Чт
+com.wt.airconditioner:string/wt_date_picker_tuesday	-1	二		Вт
+com.wt.airconditioner:string/wt_date_picker_wednesday	-1	三		Ср
+com.wt.airconditioner:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wt.airconditioner:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wt.airconditioner:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wt.airconditioner:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wt.airconditioner:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wt.airconditioner:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wt.airconditioner:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wt.airconditioner:string/wtsearch_text_hint	-1	请输入		Введите запрос

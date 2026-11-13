@@ -1,0 +1,230 @@
+com.incall.apps.dvr:array/recycle_time_item	0	1分钟		1 минута
+com.incall.apps.dvr:array/recycle_time_item	1	2分钟		2 минуты
+com.incall.apps.dvr:array/recycle_time_item	2	5分钟		5 минут
+com.incall.apps.dvr:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.incall.apps.dvr:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.incall.apps.dvr:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.incall.apps.dvr:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.incall.apps.dvr:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.incall.apps.dvr:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.incall.apps.dvr:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.incall.apps.dvr:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.incall.apps.dvr:string/abc_capital_on	-1	開啟		ВКЛ
+com.incall.apps.dvr:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.incall.apps.dvr:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.incall.apps.dvr:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.incall.apps.dvr:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.incall.apps.dvr:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.incall.apps.dvr:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.incall.apps.dvr:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.incall.apps.dvr:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.incall.apps.dvr:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.incall.apps.dvr:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.incall.apps.dvr:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.incall.apps.dvr:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.incall.apps.dvr:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.incall.apps.dvr:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.incall.apps.dvr:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.incall.apps.dvr:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.incall.apps.dvr:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.incall.apps.dvr:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.incall.apps.dvr:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.incall.apps.dvr:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.incall.apps.dvr:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.incall.apps.dvr:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.incall.apps.dvr:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.incall.apps.dvr:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.incall.apps.dvr:string/album	-1	相册		Альбом
+com.incall.apps.dvr:string/app_name	-1	行车记录仪		Видеорегистратор
+com.incall.apps.dvr:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.incall.apps.dvr:string/c518_no_sign	-1	暂无信号		Нет сигнала
+com.incall.apps.dvr:string/caui_color_one	-1	颜色一		Цвет 1
+com.incall.apps.dvr:string/caui_color_two	-1	颜色二		Цвет 2
+com.incall.apps.dvr:string/caui_default_text_cancel	-1	取消		Отмена
+com.incall.apps.dvr:string/caui_default_text_network_exception	-1	网络异常		Ошибка сети
+com.incall.apps.dvr:string/caui_default_text_network_exception_desc	-1	请检查网络设置，或稍后再试		Проверьте настройки сети или повторите попытку позже
+com.incall.apps.dvr:string/caui_default_text_network_settings	-1	网络设置		Настройки сети
+com.incall.apps.dvr:string/caui_default_text_retry	-1	重试		Повторить
+com.incall.apps.dvr:string/caui_text_cancel	-1	取消		Отмена
+com.incall.apps.dvr:string/caui_text_download_success	-1	下载成功		Скачано
+com.incall.apps.dvr:string/caui_text_fail	-1	下载失败 		Не удалось скачать 
+com.incall.apps.dvr:string/caui_text_retry	-1	重新获取		Получить заново
+com.incall.apps.dvr:string/caui_text_timepicker_day	-1	日		д.
+com.incall.apps.dvr:string/caui_text_timepicker_day_temp	-1	日		д.
+com.incall.apps.dvr:string/caui_text_timepicker_end	-1	结束时间		Время окончания
+com.incall.apps.dvr:string/caui_text_timepicker_hour	-1	时		ч
+com.incall.apps.dvr:string/caui_text_timepicker_minute	-1	分		мин
+com.incall.apps.dvr:string/caui_text_timepicker_month	-1	月		мес.
+com.incall.apps.dvr:string/caui_text_timepicker_month_temp	-1	月		мес.
+com.incall.apps.dvr:string/caui_text_timepicker_second	-1	秒		с
+com.incall.apps.dvr:string/caui_text_timepicker_select_date	-1	选择日期		Выберите дату
+com.incall.apps.dvr:string/caui_text_timepicker_select_time	-1	选择时间		Выберите время
+com.incall.apps.dvr:string/caui_text_timepicker_start	-1	开始时间		Время начала
+com.incall.apps.dvr:string/caui_text_timepicker_year	-1	年		г.
+com.incall.apps.dvr:string/caui_text_timepicker_year_temp	-1	年		г.
+com.incall.apps.dvr:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.incall.apps.dvr:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.incall.apps.dvr:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.dvr:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.dvr:string/combination	-1	组合		Совмещённый вид
+com.incall.apps.dvr:string/dvr_click_urgency_record_warning	-1	操作过快，请稍后尝试		Слишком частые действия. Попробуйте позже.
+com.incall.apps.dvr:string/dvr_close_left_500	-1	关闭直到离开当前位置500米重启		Выключить до удаления на 500 м от текущего места
+com.incall.apps.dvr:string/dvr_close_next_elec	-1	关闭直到下次上电后开启		Выключить до следующего включения питания
+com.incall.apps.dvr:string/dvr_close_until_24	-1	关闭直到24小时后开启		Выключить на 24 часа
+com.incall.apps.dvr:string/dvr_confirm	-1	好的		ОК
+com.incall.apps.dvr:string/dvr_loop_open_fail	-1	循环录制开启失败		Не удалось включить циклическую запись
+com.incall.apps.dvr:string/dvr_recycle_remind	-1	循环时长已修改，将在下个循环视频生效		Длительность изменена. Настройка вступит в силу со следующего ролика.
+com.incall.apps.dvr:string/dvr_resolution_remind	-1	视频分辨率已修改为		Разрешение видео изменено на
+com.incall.apps.dvr:string/dvr_sd_error_tip	-1	无存储卡或存储卡不可用，请插入容量为8～64G，速度CLASS10以上存储卡		Карты памяти нет или она неисправна. Вставьте карту 8–64 ГБ класса скорости CLASS10 или выше.
+com.incall.apps.dvr:string/dvr_sd_not_mount	-1	存储卡未挂载		Карта памяти не подключена
+com.incall.apps.dvr:string/dvr_take_photo_fail	-1	拍照失败		Не удалось сделать фото
+com.incall.apps.dvr:string/dvr_urgency_fail	-1	紧急录制开启失败		Не удалось включить экстренную запись
+com.incall.apps.dvr:string/dvr_urgency_record_success	-1	紧急视频录制中		Экстренная запись видео
+com.incall.apps.dvr:string/dvr_urgency_saving	-1	紧急视频保存中		Сохранение экстренного видео
+com.incall.apps.dvr:string/front	-1	前		Спереди
+com.incall.apps.dvr:string/left	-1	左		Слева
+com.incall.apps.dvr:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.dvr:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.dvr:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.dvr:string/material_hour_selection	-1	請選取時段		Выберите час
+com.incall.apps.dvr:string/material_hour_selection	-1	选择小时		Выберите час
+com.incall.apps.dvr:string/material_hour_selection	-1	選取時段		Выберите час
+com.incall.apps.dvr:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.incall.apps.dvr:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.incall.apps.dvr:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.incall.apps.dvr:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.incall.apps.dvr:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.incall.apps.dvr:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.incall.apps.dvr:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.dvr:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.dvr:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.dvr:string/material_timepicker_hour	-1	小時		Час
+com.incall.apps.dvr:string/material_timepicker_minute	-1	分鐘		Минуты
+com.incall.apps.dvr:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.incall.apps.dvr:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.dvr:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.dvr:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.dvr:string/min_five	-1	5分钟		5 минут
+com.incall.apps.dvr:string/min_one	-1	1分钟		1 минута
+com.incall.apps.dvr:string/min_two	-1	2分钟		2 минуты
+com.incall.apps.dvr:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.incall.apps.dvr:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.incall.apps.dvr:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.incall.apps.dvr:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.incall.apps.dvr:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.incall.apps.dvr:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.incall.apps.dvr:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.incall.apps.dvr:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.incall.apps.dvr:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.incall.apps.dvr:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.incall.apps.dvr:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.incall.apps.dvr:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.incall.apps.dvr:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.incall.apps.dvr:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.incall.apps.dvr:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.incall.apps.dvr:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.incall.apps.dvr:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.incall.apps.dvr:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.incall.apps.dvr:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.incall.apps.dvr:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.incall.apps.dvr:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.dvr:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.dvr:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.dvr:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.incall.apps.dvr:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.incall.apps.dvr:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.incall.apps.dvr:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.incall.apps.dvr:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.incall.apps.dvr:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.incall.apps.dvr:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.incall.apps.dvr:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.incall.apps.dvr:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.incall.apps.dvr:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.incall.apps.dvr:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.incall.apps.dvr:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.incall.apps.dvr:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.incall.apps.dvr:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.dvr:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.dvr:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.dvr:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.dvr:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.incall.apps.dvr:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.incall.apps.dvr:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.incall.apps.dvr:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.incall.apps.dvr:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.incall.apps.dvr:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.incall.apps.dvr:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.incall.apps.dvr:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.incall.apps.dvr:string/mtrl_picker_save	-1	儲存		Сохранить
+com.incall.apps.dvr:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.incall.apps.dvr:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.incall.apps.dvr:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.incall.apps.dvr:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.incall.apps.dvr:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.dvr:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.dvr:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.incall.apps.dvr:string/rear	-1	后		Сзади
+com.incall.apps.dvr:string/rec_loop	-1	循环录制		Циклическая запись
+com.incall.apps.dvr:string/rec_loop_ing	-1	视频循环录制中		Идёт циклическая запись видео
+com.incall.apps.dvr:string/rec_off	-1	已关闭		Выключено
+com.incall.apps.dvr:string/rec_on	-1	已开启		Включено
+com.incall.apps.dvr:string/resolution	-1	视频分辨率		Разрешение видео
+com.incall.apps.dvr:string/right	-1	右		Справа
+com.incall.apps.dvr:string/sd_know	-1	知道了		Понятно
+com.incall.apps.dvr:string/sd_load_insufficient_msg	-1	存储卡可用容量不足，建议插入容量为64G及以上、速度CLASS10（10MB/s以上的存储卡）		Недостаточно места. Рекомендуется карта от 64 ГБ класса CLASS10 со скоростью более 10 МБ/с.
+com.incall.apps.dvr:string/sd_load_msg	-1	无存储卡或存储卡不可用，建议插入容量为8~64G、速度CLASS10 (10MB/s)以上的存储卡。		Карты памяти нет или она неисправна. Рекомендуется карта 8–64 ГБ класса CLASS10 со скоростью не менее 10 МБ/с.
+com.incall.apps.dvr:string/sd_no_insufficient	-1	存储卡容量不足		Недостаточно места на карте
+com.incall.apps.dvr:string/sd_no_load	-1	存储卡不可用		Карта памяти недоступна
+com.incall.apps.dvr:string/sd_ok	-1	好的		ОК
+com.incall.apps.dvr:string/setting	-1	设置		Настройки
+com.incall.apps.dvr:string/sig_no	-1	无信号		Нет сигнала
+com.incall.apps.dvr:string/sig_no_rec_fail	-1	无视频信号，录制失败		Нет видеосигнала. Запись не удалась.
+com.incall.apps.dvr:string/smart_refresh_layout_footer_failed	-1	加载失败		Не удалось загрузить
+com.incall.apps.dvr:string/smart_refresh_layout_footer_finish	-1	加载完成		Загрузка завершена
+com.incall.apps.dvr:string/smart_refresh_layout_footer_loading	-1	正在加载…		Загрузка…
+com.incall.apps.dvr:string/smart_refresh_layout_footer_nothing	-1	没有更多数据了		Больше данных нет
+com.incall.apps.dvr:string/smart_refresh_layout_footer_pulling	-1	上拉加载更多		Потяните вверх для загрузки
+com.incall.apps.dvr:string/smart_refresh_layout_footer_refreshing	-1	等待头部刷新完成…		Ожидание обновления сверху…
+com.incall.apps.dvr:string/smart_refresh_layout_footer_release	-1	释放立即加载		Отпустите для загрузки
+com.incall.apps.dvr:string/sound_inside	-1	车内声音		Звук в салоне
+com.incall.apps.dvr:string/time_loop	-1	循环时长		Длительность ролика
+com.incall.apps.dvr:string/tips_close_voice	-1	车内声音已关闭		Запись звука салона выключена
+com.incall.apps.dvr:string/tips_close_water	-1	水印已关闭		Водяной знак выключен
+com.incall.apps.dvr:string/tips_open_water	-1	水印已打开		Водяной знак включён
+com.incall.apps.dvr:string/tips_sd_clear	-1	去清理		Перейти к очистке
+com.incall.apps.dvr:string/tips_sd_msg	-1	存储卡空间不足,将影响紧急视频、哨兵视频等录制,请清理存储卡。		Недостаточно места на карте: экстренная запись и запись охраны могут не работать. Очистите карту памяти.
+com.incall.apps.dvr:string/tips_sd_title	-1	存储空间不足		Недостаточно места
+com.incall.apps.dvr:string/tips_sd_wait	-1	稍后再去		Позже
+com.incall.apps.dvr:string/video_rec	-1	循环录制		Циклическая запись
+com.incall.apps.dvr:string/view_360	-1	360视角		Круговой обзор
+com.incall.apps.dvr:string/view_bottom	-1	后视角		Вид сзади
+com.incall.apps.dvr:string/view_combination	-1	组合视角		Совмещённый вид
+com.incall.apps.dvr:string/view_left	-1	左视角		Вид слева
+com.incall.apps.dvr:string/view_main	-1	主视角		Основной вид
+com.incall.apps.dvr:string/view_right	-1	右视角		Вид справа
+com.incall.apps.dvr:string/view_top	-1	前视角		Вид спереди
+com.incall.apps.dvr:string/water_mark	-1	水印		Водяной знак
+com.incall.apps.dvr:string/wt_date_picker_friday	-1	五		Пт
+com.incall.apps.dvr:string/wt_date_picker_monday	-1	一		Пн
+com.incall.apps.dvr:string/wt_date_picker_saturday	-1	六		Сб
+com.incall.apps.dvr:string/wt_date_picker_sunday	-1	日		Вс
+com.incall.apps.dvr:string/wt_date_picker_thursday	-1	四		Чт
+com.incall.apps.dvr:string/wt_date_picker_tuesday	-1	二		Вт
+com.incall.apps.dvr:string/wt_date_picker_wednesday	-1	三		Ср
+com.incall.apps.dvr:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.incall.apps.dvr:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.incall.apps.dvr:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.incall.apps.dvr:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.incall.apps.dvr:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.incall.apps.dvr:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.incall.apps.dvr:string/wtinput_text_hint	-1	请输入		Введите текст
+com.incall.apps.dvr:string/wtsearch_text_hint	-1	请输入		Введите запрос

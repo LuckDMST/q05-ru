@@ -1,0 +1,333 @@
+com.wt.phonelink:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wt.phonelink:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wt.phonelink:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wt.phonelink:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wt.phonelink:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wt.phonelink:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wt.phonelink:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wt.phonelink:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wt.phonelink:string/abc_capital_on	-1	開啟		ВКЛ
+com.wt.phonelink:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wt.phonelink:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wt.phonelink:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wt.phonelink:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wt.phonelink:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wt.phonelink:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wt.phonelink:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wt.phonelink:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wt.phonelink:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wt.phonelink:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wt.phonelink:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wt.phonelink:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wt.phonelink:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wt.phonelink:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wt.phonelink:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wt.phonelink:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wt.phonelink:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wt.phonelink:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wt.phonelink:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wt.phonelink:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wt.phonelink:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wt.phonelink:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wt.phonelink:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wt.phonelink:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wt.phonelink:string/app_name	-1	手机互联		Подключение телефона
+com.wt.phonelink:string/app_not_support	-1	手机互联暂未上线		Подключение телефона пока недоступно
+com.wt.phonelink:string/blue_tooth_sub_title	-1	HUAWEI HiCar 连接过程需要使用蓝牙		Для подключения HUAWEI HiCar нужен Bluetooth
+com.wt.phonelink:string/blue_tooth_title	-1	蓝牙开启中...		Включение Bluetooth...
+com.wt.phonelink:string/bluetooth_connect_notice_msg1	-1	已连接HUAWEI HiCar，为保证通话体验，建议进行蓝牙配对，是否连接？		HUAWEI HiCar подключён. Для качественных звонков рекомендуется сопряжение Bluetooth. Подключить?
+com.wt.phonelink:string/bluetooth_connect_notice_msg2	-1	您已连接HUAWEI HiCar，断开蓝牙会影响HUAWEI HiCar通话体验，是否重新连接？		HUAWEI HiCar подключён. Отключение Bluetooth ухудшает работу звонков. Подключить заново?
+com.wt.phonelink:string/bluetooth_connect_notice_msg3	-1	检测到HUAWEI HiCar通话，建议连接车机蓝牙后接听，您也可以通过手机直接接听		Обнаружен звонок HUAWEI HiCar. Рекомендуется подключить Bluetooth автомобиля перед ответом. Также можно ответить на телефоне.
+com.wt.phonelink:string/bluetooth_connect_notice_msg4	-1	为保障通话体验，建议进行蓝牙配对，是否允许？		Для качественных звонков рекомендуется сопряжение Bluetooth. Разрешить?
+com.wt.phonelink:string/bluetooth_connect_notice_title1	-1	蓝牙配对请求		Запрос сопряжения Bluetooth
+com.wt.phonelink:string/bluetooth_connect_notice_title2	-1	断开蓝牙		Отключение Bluetooth
+com.wt.phonelink:string/bluetooth_connect_notice_title3	-1	来电提示		Входящий вызов
+com.wt.phonelink:string/bluetooth_connect_notice_title4	-1	去电提示		Исходящий вызов
+com.wt.phonelink:string/bluetooth_connect_notice_title_prompt	-1	温馨提示		Обратите внимание
+com.wt.phonelink:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.wt.phonelink:string/cancel	-1	取消		Отмена
+com.wt.phonelink:string/carLink	-1	ICCOA Carlink车机互联助手		Помощник подключения ICCOA Carlink
+com.wt.phonelink:string/carlink_bluetooth_connect_notice_msg	-1	ICCOA Carlink已连接，为保证通话体验，需进行蓝牙配对，确定前往配对吗？		ICCOA Carlink подключён. Для звонков нужно сопряжение Bluetooth. Перейти к сопряжению?
+com.wt.phonelink:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.wt.phonelink:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.wt.phonelink:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.phonelink:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.phonelink:string/common_connect_fail	-1	连接失败，您可以重新尝试		Не удалось подключиться. Повторите попытку.
+com.wt.phonelink:string/common_quit	-1	手机互联已断开连接		Телефон отключён
+com.wt.phonelink:string/conn_fail_tips	-1	绑定异常，可能原因如下		Ошибка привязки. Возможные причины:
+com.wt.phonelink:string/conn_fail_tips1	-1	未开启手机蓝牙/WIFI，请检查手机蓝牙/WIFI是否开启		На телефоне выключены Bluetooth или Wi-Fi. Проверьте их.
+com.wt.phonelink:string/conn_fail_tips2	-1	手机未联网，请检查手机网络状态		Телефон не подключён к интернету. Проверьте сеть.
+com.wt.phonelink:string/conn_fail_tips3	-1	PIN码输入错误，请检查手机端是否输入正确PIN码		Неверный PIN-код. Проверьте код, введённый на телефоне.
+com.wt.phonelink:string/conn_fail_tips4	-1	手机与车机距离过远，请用手机靠近车机后重试		Телефон слишком далеко. Поднесите его ближе к мультимедийной системе и повторите попытку.
+com.wt.phonelink:string/conn_fail_tips_hotpot	-1	连接失败，请断开车机热点		Не удалось подключиться. Выключите точку доступа автомобиля.
+com.wt.phonelink:string/conn_fail_tips_p2p	-1	连接失败		Не удалось подключиться
+com.wt.phonelink:string/conn_jion_honor_ring	-1	荣耀车联连接码		Код подключения HONOR Connect
+com.wt.phonelink:string/conn_succ_tips	-1	已加入Owner的信任环：		Добавлено в доверенную сеть Owner:
+com.wt.phonelink:string/conn_succ_tips2	-1	多种内容和服务可在信任环设备和车辆间流转		Содержимое и сервисы можно передавать между автомобилем и устройствами доверенной сети.
+com.wt.phonelink:string/conn_tips	-1	"保持手机蓝牙开启靠近车载中控，\n 发现车辆后在手机上根据指引输入连接码绑定""荣耀信任环"""		Включите Bluetooth на телефоне и поднесите его к центральному экрану.\nПосле обнаружения автомобиля введите на телефоне код для привязки к доверенной сети HONOR.
+com.wt.phonelink:string/connect	-1	连接		Подключить
+com.wt.phonelink:string/connect_failed	-1	连接失败，您可以尝试以下方法恢复		Не удалось подключиться. Попробуйте следующие способы восстановления.
+com.wt.phonelink:string/connect_label	-1	连接		Подключить
+com.wt.phonelink:string/connect_phone	-1	连接手机		Подключить телефон
+com.wt.phonelink:string/desktop_toast	-1	请先连接手机后再获取列表		Сначала подключите телефон для получения списка
+com.wt.phonelink:string/device_name	-1	设备名：		Устройство:
+com.wt.phonelink:string/dialog_bt_confirm	-1	允许		Разрешить
+com.wt.phonelink:string/dialog_cancel	-1	取消		Отмена
+com.wt.phonelink:string/dialog_confirm	-1	确定		ОК
+com.wt.phonelink:string/dialog_file_jump_file_manager	-1	文件管理		Файлы
+com.wt.phonelink:string/dialog_file_jump_pic	-1	相册		Альбом
+com.wt.phonelink:string/dialog_file_trans_cancel	-1	取消		Отмена
+com.wt.phonelink:string/dialog_file_trans_confirm	-1	确认		Подтвердить
+com.wt.phonelink:string/dialog_file_trans_hint_1	-1	将发送		Будет отправлено
+com.wt.phonelink:string/dialog_file_trans_hint_2	-1	个文件给		файлов получателю
+com.wt.phonelink:string/dialog_file_trans_hint_3	-1	请在手机上确认是否接收		Подтвердите приём на телефоне
+com.wt.phonelink:string/dialog_file_trans_know	-1	知道了		Понятно
+com.wt.phonelink:string/dialog_file_trans_receive_cancel	-1	拒绝		Отклонить
+com.wt.phonelink:string/dialog_file_trans_receive_look	-1	查看		Посмотреть
+com.wt.phonelink:string/dialog_file_trans_receive_ok	-1	接收		Принять
+com.wt.phonelink:string/dialog_file_trans_send_finish_hint	-1	可在手机相册中查看		Можно посмотреть в галерее телефона
+com.wt.phonelink:string/dialog_file_trans_send_finish_sub_hint	-1	确定前往“应用中心 > 文件管理”查看吗？		Открыть «Приложения → Файлы» для просмотра?
+com.wt.phonelink:string/dialog_file_trans_sending_hint	-1	可前往⼿机端查看传输进度		Ход передачи можно посмотреть на телефоне
+com.wt.phonelink:string/dialog_file_trans_title_receive_finish	-1	文件接收成功		Файлы получены
+com.wt.phonelink:string/dialog_file_trans_title_receive_ing	-1	文件接收中		Приём файлов
+com.wt.phonelink:string/dialog_file_trans_title_send	-1	手车互传		Обмен файлами с телефоном
+com.wt.phonelink:string/dialog_file_trans_title_send_finish	-1	文件发送成功		Файлы отправлены
+com.wt.phonelink:string/dialog_file_trans_title_sending	-1	文件发送中		Отправка файлов
+com.wt.phonelink:string/dialog_navigation_destination_desc	-1	收到一条来自手机的地址，确定导航到这里吗？		С телефона получен адрес. Построить маршрут к нему?
+com.wt.phonelink:string/dialog_navigation_destination_title	-1	荣耀任意门 一拖导航		Навигация перетаскиванием HONOR Magic Portal
+com.wt.phonelink:string/dialog_net_share_hint	-1	确定使用 “手机互联” 的手机网络么？		Использовать интернет телефона через его подключение?
+com.wt.phonelink:string/dialog_net_share_title	-1	流量共享		Общий интернет
+com.wt.phonelink:string/dialog_phone_cancel	-1	暂不需要		Пока не нужно
+com.wt.phonelink:string/dialog_phone_confirm	-1	确定		ОК
+com.wt.phonelink:string/exit	-1	退出		Выйти
+com.wt.phonelink:string/exit_cancel	-1	取消		Отмена
+com.wt.phonelink:string/exit_confirm	-1	确定		ОК
+com.wt.phonelink:string/exit_content	-1	是否确定断开与手机的连接		Отключиться от телефона?
+com.wt.phonelink:string/failed_cancel	-1	取消		Отмена
+com.wt.phonelink:string/failed_content	-1	原因如下：\n1. 未开启手机蓝牙/WIFI，请检查手机蓝牙/WIFI是否开启。\n2. 手机未联网，请检查手机网络状态。\n3. PIN码输入错误，请检查手机端是否输入正确PIN码。\n4. 手机与车机距离过远，请用手机靠近车机后重试。		Возможные причины:\n1. На телефоне выключены Bluetooth или Wi-Fi. Проверьте их.\n2. Телефон не подключён к интернету. Проверьте сеть.\n3. Неверный PIN-код. Проверьте код на телефоне.\n4. Телефон слишком далеко. Поднесите его ближе к мультимедийной системе.
+com.wt.phonelink:string/failed_retry	-1	重试		Повторить
+com.wt.phonelink:string/failed_title	-1	绑定异常！		Ошибка привязки
+com.wt.phonelink:string/hicar_auto_connect_default	-1	正在连接HUAWEI HiCar		Подключение HUAWEI HiCar
+com.wt.phonelink:string/hicar_auto_connect_fail	-1	HUAWEI HiCar连接失败，重新进行连接		Не удалось подключить HUAWEI HiCar. Повторите подключение.
+com.wt.phonelink:string/hicar_auto_connect_fail_switch	-1	HUAWEI HiCar连接失败，请打开手机HiCar智行自动连接		Не удалось подключить HUAWEI HiCar. Включите автоматическое подключение HiCar на телефоне.
+com.wt.phonelink:string/hicar_auto_connect_hint	-1	正在连接		Подключение
+com.wt.phonelink:string/hicar_bluetooth_connect_notice_msg	-1	已连接HUAWEI HiCar，为保证通话体验，建议进行蓝牙配对，是否允许？		HUAWEI HiCar подключён. Для качественных звонков рекомендуется сопряжение Bluetooth. Разрешить?
+com.wt.phonelink:string/hicar_click_quit_cancel	-1	取消		Отмена
+com.wt.phonelink:string/hicar_click_quit_confirm	-1	确定		ОК
+com.wt.phonelink:string/hicar_click_quit_title	-1	确定要断开手机互联？		Отключить подключение телефона?
+com.wt.phonelink:string/hicar_connect_hint	-1	连接中...		Подключение...
+com.wt.phonelink:string/hicar_failure_content	-1	原因如下：\n1、未开启⼿机蓝⽛/WIFI，请检查⼿机蓝⽛/WIFI是否开启\n2、排查手机是否连接车机热点 ，请断开手机与车机热点\n3、⼿机未联⽹，请检查⼿机⽹络状态\n4、PIN码输⼊错误，请检查⼿机端是否输⼊正确PIN码\n5、⼿机与⻋机距离过远，请⽤⼿机靠近⻋机后重试		Возможные причины:\n1. На телефоне выключены Bluetooth или Wi-Fi. Проверьте их.\n2. Телефон подключён к точке доступа автомобиля. Отключитесь от неё.\n3. Телефон не подключён к интернету. Проверьте сеть.\n4. Неверный PIN-код. Проверьте код на телефоне.\n5. Телефон слишком далеко. Поднесите его ближе к мультимедийной системе.
+com.wt.phonelink:string/hicar_failure_retry	-1	重试		Повторить
+com.wt.phonelink:string/hicar_failure_title	-1	连接异常		Ошибка подключения
+com.wt.phonelink:string/hicar_init_failure_content	-1	1、重新关闭、打开车机蓝牙和WIFI\n2、退出此页面,过5S后再重新打开尝试连接		1. Выключите и снова включите Bluetooth и Wi-Fi автомобиля.\n2. Выйдите с этой страницы, подождите 5 с и снова попробуйте подключиться.
+com.wt.phonelink:string/hicar_init_failure_subtitle	-1	您可以通过以下方法修复:		Попробуйте восстановить соединение так:
+com.wt.phonelink:string/hicar_init_failure_title	-1	连接初始化失败		Не удалось начать подключение
+com.wt.phonelink:string/hicar_open_in_main_screen	-1	手机互联已经在中控屏打开了哦		Подключение телефона уже открыто на центральном экране
+com.wt.phonelink:string/hicar_park_app_cancel	-1	取消		Отмена
+com.wt.phonelink:string/hicar_park_app_title	-1	为了您的安全，行车中请不要播放视频		Для вашей безопасности не воспроизводите видео во время движения
+com.wt.phonelink:string/hicar_park_app_use	-1	继续播放		Продолжить воспроизведение
+com.wt.phonelink:string/hicar_phone_device_connect_hint	-1	HUAWEI HiCar已连接，请连接手机蓝牙		HUAWEI HiCar подключён. Подключите Bluetooth телефона.
+com.wt.phonelink:string/hicar_pin_code_refresh	-1	HUAWEI HiCar正在重连中，请退出稍后再试		HUAWEI HiCar переподключается. Выйдите и повторите попытку позже.
+com.wt.phonelink:string/hicar_return_between_applications	-1	返回		Назад
+com.wt.phonelink:string/hihonor_title	-1	荣耀车联连接码		Код подключения HONOR Connect
+com.wt.phonelink:string/hihonor_title_bar	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/hint	-1	提示		Уведомление
+com.wt.phonelink:string/honor_auto_connect_default	-1	荣耀车联正在连接		Подключение HONOR Connect
+com.wt.phonelink:string/honor_auto_connect_hint	-1	正在连接		Подключение
+com.wt.phonelink:string/honor_back	-1	返回		Назад
+com.wt.phonelink:string/honor_connect_fail	-1	手机互联连接失败，请稍后重试		Не удалось подключить телефон. Повторите попытку позже.
+com.wt.phonelink:string/honor_connect_loading_hint	-1	连接中，请不要退出页面...		Подключение. Не закрывайте страницу...
+com.wt.phonelink:string/honor_connect_success_tip	-1	手机互联已连接		Телефон подключён
+com.wt.phonelink:string/honor_connect_tab_name	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/honor_connect_tip	-1	手机互联已断开连接		Телефон отключён
+com.wt.phonelink:string/honor_phone_introduce_bottom_tip	-1	*以上内容仅作参考，由手机厂商提供内容		*Сведения предоставлены производителем телефона только для справки
+com.wt.phonelink:string/honor_phone_introduce_step1_title	-1	1.扫码查看荣耀车联支持的手机型号，以及对手机版本的要求。		1. Отсканируйте код, чтобы узнать поддерживаемые телефоны HONOR и требования к версии ПО.
+com.wt.phonelink:string/honor_phone_introduce_step2_tip1	-1	·导航任意门：在手机上长按文字或定位信息，然后拖拽至侧边栏“荣耀车联”，将自动获取地址信息发送到车机地图。		• Навигация Magic Portal: удерживайте текст или местоположение на телефоне и перетащите в боковую панель HONOR Connect. Адрес будет отправлен в карты автомобиля.
+com.wt.phonelink:string/honor_phone_introduce_step2_tip2	-1	·应用流转：打开手机应用，可点击手机应用内的“应用流转”按钮，将内容无缝接续到车机。		• Перенос приложения: нажмите кнопку переноса в приложении телефона, чтобы продолжить работу на экране автомобиля.
+com.wt.phonelink:string/honor_phone_introduce_step2_title	-1	2.荣耀车联的特色功能有哪些？		2. Какие функции есть в HONOR Connect?
+com.wt.phonelink:string/honor_pin_code_tip	-1	保持手机蓝牙开启靠近车载中控，发现车辆后输入连接码，进行首次验证。		Включите Bluetooth и поднесите телефон к центральному экрану. После обнаружения автомобиля введите код для первой проверки.
+com.wt.phonelink:string/honor_pin_code_tip_usb	-1	保持手机蓝牙开启靠近车载中控，发现车辆后输入连接码，进行首次验证。你也可以通过USB线连接你的手机。		Включите Bluetooth и поднесите телефон к центральному экрану. После обнаружения автомобиля введите код для первой проверки. Также можно подключить телефон по USB.
+com.wt.phonelink:string/honor_pin_code_tips	-1	保持手机蓝牙开启靠近车载中控，发现车辆后输入连接码，进行首次验证。		Включите Bluetooth и поднесите телефон к центральному экрану. После обнаружения автомобиля введите код для первой проверки.
+com.wt.phonelink:string/honor_pin_code_title	-1	荣耀车联连接码		Код подключения HONOR Connect
+com.wt.phonelink:string/honor_title	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/honor_title_bar	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/honor_toast_app_on_native_display	-1	应用在手机侧打开		Приложение открыто на телефоне
+com.wt.phonelink:string/icc_auto_connect_fail	-1	ICCOA Carlink连接失败，请重新进行连接		Не удалось подключить ICCOA Carlink. Повторите подключение.
+com.wt.phonelink:string/icc_cast_click_quit_cancel	-1	取消		Отмена
+com.wt.phonelink:string/icc_cast_click_quit_confirm	-1	确定		ОК
+com.wt.phonelink:string/icc_cast_connect_hint	-1	连接中，请不要退出页面...		Подключение. Не закрывайте страницу...
+com.wt.phonelink:string/icc_cast_disconnect	-1	断开连接		Отключиться
+com.wt.phonelink:string/icc_cast_load_hint	-1	正在加载页面，请稍候...		Загрузка страницы. Подождите...
+com.wt.phonelink:string/icc_cast_quit_title	-1	是否确定断开与手机的连接？		Отключиться от телефона?
+com.wt.phonelink:string/icc_park_app_cancel	-1	取消		Отмена
+com.wt.phonelink:string/icc_park_app_title	-1	为了您的安全，行车中请不要播放视频		Для вашей безопасности не воспроизводите видео во время движения
+com.wt.phonelink:string/icc_park_app_use	-1	继续播放		Продолжить воспроизведение
+com.wt.phonelink:string/icc_phone_device_connect_hint	-1	CarLink已连接，请连接手机蓝牙		CarLink подключён. Подключите Bluetooth телефона.
+com.wt.phonelink:string/icc_pin_code_quit	-1	取消		Отмена
+com.wt.phonelink:string/icc_pin_code_tip	-1	请将手机开启蓝牙靠近中控，发现连接弹窗后输入PIN码进行连接验证		Включите Bluetooth, поднесите телефон к центральному экрану и введите PIN-код в появившемся окне подключения.
+com.wt.phonelink:string/icc_pin_code_tip_usb	-1	USB投屏已配置\n请连接USB进行投屏		Проекция по USB настроена.\nПодключите USB для вывода изображения.
+com.wt.phonelink:string/icc_pin_code_tips	-1	请将手机开启蓝牙靠近中控，发现连接弹窗后输入PIN码进行连接验证。你也可以通过USB线连接你的手机		Включите Bluetooth, поднесите телефон к центральному экрану и введите PIN-код в окне подключения. Также можно подключиться по USB.
+com.wt.phonelink:string/icc_pin_code_tips_ap	-1	请将手机开启蓝牙靠近中控，发现连接弹窗后输入PIN码进行连接验证。		Включите Bluetooth, поднесите телефон к центральному экрану и введите PIN-код в окне подключения.
+com.wt.phonelink:string/icc_pin_code_tips_usb	-1	你也可以通过USB线连接你的手机		Также можно подключить телефон по USB
+com.wt.phonelink:string/icc_pin_code_title	-1	ICCOA Carlink 连接码		Код подключения ICCOA Carlink
+com.wt.phonelink:string/icc_pin_code_title_assist	-1	ICCOA Carlink车机互联助手		Помощник подключения ICCOA Carlink
+com.wt.phonelink:string/icc_pin_connect_failed	-1	连接失败，您可以重新尝试		Не удалось подключиться. Повторите попытку.
+com.wt.phonelink:string/icc_return_between_applications	-1	返回		Назад
+com.wt.phonelink:string/init_sdk_failed	-1	启动车机投屏失败，请稍后再试！		Не удалось запустить проекцию. Повторите попытку позже.
+com.wt.phonelink:string/initializing	-1	初始化中，请等待！		Инициализация. Подождите.
+com.wt.phonelink:string/loding_app_list	-1	应用列表加载中....		Загрузка списка приложений....
+com.wt.phonelink:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.phonelink:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.phonelink:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.phonelink:string/material_hour_selection	-1	請選取時段		Выберите час
+com.wt.phonelink:string/material_hour_selection	-1	选择小时		Выберите час
+com.wt.phonelink:string/material_hour_selection	-1	選取時段		Выберите час
+com.wt.phonelink:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.wt.phonelink:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.wt.phonelink:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.wt.phonelink:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.wt.phonelink:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.wt.phonelink:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.wt.phonelink:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.wt.phonelink:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.phonelink:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.phonelink:string/material_timepicker_hour	-1	小時		Час
+com.wt.phonelink:string/material_timepicker_minute	-1	分鐘		Минуты
+com.wt.phonelink:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.wt.phonelink:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.phonelink:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.phonelink:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.phonelink:string/move_app_main_confirm	-1	这个应用已经在中控打开，要移动过来吗?		Приложение уже открыто на центральном экране. Перенести сюда?
+com.wt.phonelink:string/move_app_secondary_confirm	-1	这个应用已经在副驾屏上打开，要移动过来吗?		Приложение уже открыто на пассажирском экране. Перенести сюда?
+com.wt.phonelink:string/mqtt_trunk_operation_denied	-1	行车中无法操作背门		Нельзя управлять багажником во время движения
+com.wt.phonelink:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.wt.phonelink:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.wt.phonelink:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.wt.phonelink:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.wt.phonelink:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.wt.phonelink:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.wt.phonelink:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.wt.phonelink:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.wt.phonelink:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.wt.phonelink:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.wt.phonelink:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.wt.phonelink:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.wt.phonelink:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.wt.phonelink:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.wt.phonelink:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.wt.phonelink:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.wt.phonelink:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.wt.phonelink:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.wt.phonelink:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.wt.phonelink:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.wt.phonelink:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.wt.phonelink:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.wt.phonelink:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.wt.phonelink:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.wt.phonelink:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.wt.phonelink:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.wt.phonelink:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.wt.phonelink:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.wt.phonelink:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.wt.phonelink:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.wt.phonelink:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.wt.phonelink:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.wt.phonelink:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.wt.phonelink:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.wt.phonelink:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.wt.phonelink:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.wt.phonelink:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.wt.phonelink:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.wt.phonelink:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.wt.phonelink:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.wt.phonelink:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.wt.phonelink:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.wt.phonelink:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.wt.phonelink:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.wt.phonelink:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.wt.phonelink:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.wt.phonelink:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.wt.phonelink:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.wt.phonelink:string/mtrl_picker_save	-1	儲存		Сохранить
+com.wt.phonelink:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.wt.phonelink:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.wt.phonelink:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.wt.phonelink:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.wt.phonelink:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.wt.phonelink:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.wt.phonelink:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.wt.phonelink:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.wt.phonelink:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.wt.phonelink:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.wt.phonelink:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.wt.phonelink:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.wt.phonelink:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.wt.phonelink:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.wt.phonelink:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.wt.phonelink:string/need_user_intervention_method	-1	• 请检测手机端是否存在连接弹窗未确认，确认后将继续连接		• Проверьте, не ожидает ли окно подключения подтверждения на телефоне. Подтвердите для продолжения.
+com.wt.phonelink:string/negative_cancel	-1	取消		Отмена
+com.wt.phonelink:string/never_remind	-1	不再提醒		Больше не напоминать
+com.wt.phonelink:string/park_app_cancel	-1	取消		Отмена
+com.wt.phonelink:string/park_app_title	-1	为了您的安全，行车中请不要播放视频		Для вашей безопасности не воспроизводите видео во время движения
+com.wt.phonelink:string/park_app_use	-1	继续播放		Продолжить воспроизведение
+com.wt.phonelink:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.wt.phonelink:string/pin_cast_connect_hint	-1	连接中，请不要退出页面...		Подключение. Не закрывайте страницу...
+com.wt.phonelink:string/pin_code_hint	-1	PIN 码：		PIN-код:
+com.wt.phonelink:string/pin_code_quit	-1	取消		Отмена
+com.wt.phonelink:string/pin_code_tips	-1	手机需先与汽车完成蓝牙配对，手机开启蓝牙靠近中控，发现汽车后输入连接码，进行首次验证； \n使用时请勿将手机连接至车机热点		Сначала выполните сопряжение Bluetooth с автомобилем. Включите Bluetooth, поднесите телефон к центральному экрану, найдите автомобиль и введите код для первой проверки. \nНе подключайте телефон к точке доступа автомобиля при использовании.
+com.wt.phonelink:string/pin_code_tips_1	-1	手机需先与汽车完成蓝牙配对，手机开启蓝牙靠近中控，发现汽车后输入连接码，进行首次验证；		Сначала выполните сопряжение Bluetooth с автомобилем. Включите Bluetooth, поднесите телефон к центральному экрану, найдите автомобиль и введите код для первой проверки.
+com.wt.phonelink:string/pin_code_tips_2	-1	使用时请勿将手机连接至车机热点		Не подключайте телефон к точке доступа автомобиля при использовании
+com.wt.phonelink:string/pin_code_title	-1	HUAWEI HiCar 连接码		Код подключения HUAWEI HiCar
+com.wt.phonelink:string/pin_phone_introduce	-1	支持手机型号 & 功能介绍		Поддерживаемые телефоны и функции
+com.wt.phonelink:string/positive_ok	-1	确定		ОК
+com.wt.phonelink:string/quit_label	-1	取消		Отмена
+com.wt.phonelink:string/reconnect	-1	重连		Подключить заново
+com.wt.phonelink:string/restart_car_method	-1	• 熄火后，重启车机系统后重新进行连接		• Выключите двигатель, перезапустите мультимедийную систему и подключитесь заново.
+com.wt.phonelink:string/retry	-1	重试		Повторить
+com.wt.phonelink:string/share_network_notification_text	-1	正在使用手机网络		Используется интернет телефона
+com.wt.phonelink:string/share_network_notification_title	-1	网络共享		Общий интернет
+com.wt.phonelink:string/share_network_service_session	-1	网络共享服务		Служба общего интернета
+com.wt.phonelink:string/smartcabin_introduce_navi_text_content	-1	手机使用“高德地图”导航时，可将导航信息一键接续到智能座舱继续导航		Навигацию Amap с телефона можно одним нажатием перенести в автомобиль и продолжить маршрут.
+com.wt.phonelink:string/smartcabin_introduce_navi_text_title	-1	导航接续		Продолжить навигацию
+com.wt.phonelink:string/smartcabin_introduce_screen_content	-1	手机的应用可在车上显示并使用		Приложения телефона можно показывать и использовать на экране автомобиля.
+com.wt.phonelink:string/smartcabin_introduce_screen_title	-1	屏幕共享		Общий экран
+com.wt.phonelink:string/smartcabin_introduce_text_content	-1	通过本机“荣耀分享”和智能座舱“手机互联”，手机和车机可互相传输文件		HONOR Share на телефоне и «Подключение телефона» в автомобиле позволяют обмениваться файлами.
+com.wt.phonelink:string/smartcabin_introduce_text_title	-1	文件互传		Обмен файлами
+com.wt.phonelink:string/tab_connect_phone	-1	连接手机		Подключить телефон
+com.wt.phonelink:string/tab_service_center	-1	服务中心		Сервисный центр
+com.wt.phonelink:string/tab_super_desktop	-1	超级桌面		Суперрабочий стол
+com.wt.phonelink:string/tip_change_projection_to_phone	-1	投屏关闭，已切换至手机端		Проекция выключена. Переключено на телефон.
+com.wt.phonelink:string/tip_device_offline	-1	手机互联已断开连接		Телефон отключён
+com.wt.phonelink:string/tip_none_nav_app	-1	请安装导航应用		Установите приложение навигации
+com.wt.phonelink:string/title_card_near_use	-1	上次使用		Последнее использование
+com.wt.phonelink:string/title_dlna_link	-1	视频投屏		Проекция видео
+com.wt.phonelink:string/title_hihonor	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/title_honor_link	-1	荣耀车联		HONOR Connect
+com.wt.phonelink:string/title_sub_car_link	-1	OPPO、vivo、小米等手机支持		Для OPPO, vivo, Xiaomi и других телефонов
+com.wt.phonelink:string/title_sub_dlna_link	-1	不限品牌，视频投屏		Проекция видео с устройств любых брендов
+com.wt.phonelink:string/title_sub_honor_link	-1	荣耀手机专享		Только для телефонов HONOR
+com.wt.phonelink:string/title_sub_hua_wei	-1	华为手机专享		Только для телефонов Huawei
+com.wt.phonelink:string/title_sub_wu_tong	-1	安卓手机镜像投屏		Зеркальное отображение Android
+com.wt.phonelink:string/toast_carplay_connect	-1	苹果CarPlay已连接，请断开后尝试		Apple CarPlay подключён. Сначала отключите его.
+com.wt.phonelink:string/toast_disconect_phone	-1	请先断开与手机的连接，再进行尝试		Сначала отключитесь от телефона и повторите попытку
+com.wt.phonelink:string/ucar_wifi_hint	-1	WIFI无线投屏		Беспроводная проекция Wi-Fi
+com.wt.phonelink:string/unsupport_wireless_method	-1	• 当前手机或者车机可能不支持无线连接，请插入USB线进行连接		• Телефон или автомобиль может не поддерживать беспроводное подключение. Используйте USB-кабель.
+com.wt.phonelink:string/usb_reconnect_method	-1	• 如果使用USB连接，请检测USB线是否松动，尝试重新插拔连接		• При USB-подключении проверьте кабель и попробуйте переподключить его.
+com.wt.phonelink:string/usb_usb_hint	-1	usb投屏已配置\n请连接USB进行投屏		Проекция по USB настроена.\nПодключите USB для вывода изображения.
+com.wt.phonelink:string/wifi_connect_hint	-1	请将手机开启蓝牙靠近中控，发现连接弹窗后输入PIN码进行连接验证		Включите Bluetooth, поднесите телефон к центральному экрану и введите PIN-код в окне подключения.
+com.wt.phonelink:string/wireless_reconnect_method	-1	• 点击重连按钮，重新进行连接		• Нажмите кнопку повторного подключения.
+com.wt.phonelink:string/wt_date_picker_friday	-1	五		Пт
+com.wt.phonelink:string/wt_date_picker_monday	-1	一		Пн
+com.wt.phonelink:string/wt_date_picker_saturday	-1	六		Сб
+com.wt.phonelink:string/wt_date_picker_sunday	-1	日		Вс
+com.wt.phonelink:string/wt_date_picker_thursday	-1	四		Чт
+com.wt.phonelink:string/wt_date_picker_tuesday	-1	二		Вт
+com.wt.phonelink:string/wt_date_picker_wednesday	-1	三		Ср
+com.wt.phonelink:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wt.phonelink:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wt.phonelink:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wt.phonelink:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wt.phonelink:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wt.phonelink:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wt.phonelink:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wt.phonelink:string/wtsearch_text_hint	-1	请输入		Введите запрос

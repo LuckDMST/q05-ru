@@ -1,0 +1,268 @@
+com.wtcl.filemanager:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wtcl.filemanager:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wtcl.filemanager:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wtcl.filemanager:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wtcl.filemanager:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wtcl.filemanager:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wtcl.filemanager:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wtcl.filemanager:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wtcl.filemanager:string/abc_capital_on	-1	開啟		ВКЛ
+com.wtcl.filemanager:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wtcl.filemanager:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wtcl.filemanager:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wtcl.filemanager:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wtcl.filemanager:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wtcl.filemanager:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wtcl.filemanager:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wtcl.filemanager:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wtcl.filemanager:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wtcl.filemanager:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wtcl.filemanager:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wtcl.filemanager:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wtcl.filemanager:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wtcl.filemanager:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wtcl.filemanager:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wtcl.filemanager:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wtcl.filemanager:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wtcl.filemanager:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wtcl.filemanager:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wtcl.filemanager:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wtcl.filemanager:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wtcl.filemanager:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wtcl.filemanager:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wtcl.filemanager:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wtcl.filemanager:string/all_doc	-1	全部		Все
+com.wtcl.filemanager:string/app_name	-1	文件管理		Файлы
+com.wtcl.filemanager:string/available_space	-1	可用空间%s		Доступно: %s
+com.wtcl.filemanager:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.wtcl.filemanager:string/calculating_size	-1	正在计算大小		Расчёт размера
+com.wtcl.filemanager:string/calling_tip	-1	通话中，暂不支持操作		Во время звонка действие недоступно
+com.wtcl.filemanager:string/cancel	-1	取消		Отмена
+com.wtcl.filemanager:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.wtcl.filemanager:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.wtcl.filemanager:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wtcl.filemanager:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wtcl.filemanager:string/complete	-1	完成		Готово
+com.wtcl.filemanager:string/copy	-1	复制		Копировать
+com.wtcl.filemanager:string/copy_failed	-1	复制失败		Не удалось скопировать
+com.wtcl.filemanager:string/copy_success	-1	复制成功		Скопировано
+com.wtcl.filemanager:string/copy_title	-1	复制到		Копировать в
+com.wtcl.filemanager:string/copying_files	-1	正在复制文件（%s）		Копирование файлов (%s)
+com.wtcl.filemanager:string/cover	-1	覆盖		Заменить
+com.wtcl.filemanager:string/delete	-1	删除		Удалить
+com.wtcl.filemanager:string/delete_failed	-1	删除失败		Не удалось удалить
+com.wtcl.filemanager:string/delete_success	-1	删除成功		Удалено
+com.wtcl.filemanager:string/deleting_files	-1	正在删除文件（%s）		Удаление файлов (%s)
+com.wtcl.filemanager:string/disable_hud	-1	请在P挡下使用HUD投屏功能		Проекция на HUD доступна только в положении P
+com.wtcl.filemanager:string/edit	-1	编辑		Изменить
+com.wtcl.filemanager:string/empty	-1	无内容		Нет содержимого
+com.wtcl.filemanager:string/empty_audios	-1	暂无音频文件		Аудиофайлов пока нет
+com.wtcl.filemanager:string/empty_files	-1	暂无文件		Файлов пока нет
+com.wtcl.filemanager:string/empty_images	-1	暂无图片文件		Изображений пока нет
+com.wtcl.filemanager:string/empty_videos	-1	暂无视频文件		Видео пока нет
+com.wtcl.filemanager:string/enlarge	-1	放大		Увеличить
+com.wtcl.filemanager:string/exit_hud	-1	退出投屏		Завершить проекцию
+com.wtcl.filemanager:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.wtcl.filemanager:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.wtcl.filemanager:string/exo_controls_fullscreen_description	-1	全屏模式		Полноэкранный режим
+com.wtcl.filemanager:string/exo_controls_fullscreen_description	-1	全螢幕模式		Полноэкранный режим
+com.wtcl.filemanager:string/exo_controls_next_description	-1	下一首曲目		Следующий трек
+com.wtcl.filemanager:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.wtcl.filemanager:string/exo_controls_previous_description	-1	上一曲		Предыдущий трек
+com.wtcl.filemanager:string/exo_controls_previous_description	-1	上一首曲目		Предыдущий трек
+com.wtcl.filemanager:string/exo_controls_repeat_all_description	-1	全部重复播放		Повторять все
+com.wtcl.filemanager:string/exo_controls_repeat_all_description	-1	全部重複播放		Повторять все
+com.wtcl.filemanager:string/exo_controls_repeat_all_description	-1	重複播放所有項目		Повторять все
+com.wtcl.filemanager:string/exo_controls_repeat_off_description	-1	不重複播放		Не повторять
+com.wtcl.filemanager:string/exo_controls_repeat_one_description	-1	重複播放單一項目		Повторять трек
+com.wtcl.filemanager:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.wtcl.filemanager:string/exo_controls_shuffle_off_description	-1	已關閉隨機播放功能		Перемешивание отключено
+com.wtcl.filemanager:string/exo_controls_shuffle_off_description	-1	随机播放功能已关闭		Перемешивание отключено
+com.wtcl.filemanager:string/exo_controls_shuffle_off_description	-1	隨機播放已關閉		Перемешивание отключено
+com.wtcl.filemanager:string/exo_controls_shuffle_on_description	-1	已開啟隨機播放功能		Перемешивание включено
+com.wtcl.filemanager:string/exo_controls_shuffle_on_description	-1	随机播放功能已开启		Перемешивание включено
+com.wtcl.filemanager:string/exo_controls_shuffle_on_description	-1	隨機播放已開啟		Перемешивание включено
+com.wtcl.filemanager:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.wtcl.filemanager:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.wtcl.filemanager:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.wtcl.filemanager:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.wtcl.filemanager:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.wtcl.filemanager:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.wtcl.filemanager:string/exo_download_description	-1	下載		Скачать
+com.wtcl.filemanager:string/exo_download_downloading	-1	下載中		Скачивание…
+com.wtcl.filemanager:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.wtcl.filemanager:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.wtcl.filemanager:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.wtcl.filemanager:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.wtcl.filemanager:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.wtcl.filemanager:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.wtcl.filemanager:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.wtcl.filemanager:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.wtcl.filemanager:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.wtcl.filemanager:string/exo_track_mono	-1	单声道		Моно
+com.wtcl.filemanager:string/exo_track_mono	-1	單聲道		Моно
+com.wtcl.filemanager:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.wtcl.filemanager:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.wtcl.filemanager:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.wtcl.filemanager:string/exo_track_role_commentary	-1	評論		Комментарии
+com.wtcl.filemanager:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.wtcl.filemanager:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.wtcl.filemanager:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.wtcl.filemanager:string/exo_track_selection_auto	-1	自動		Авто
+com.wtcl.filemanager:string/exo_track_selection_none	-1	無		Нет
+com.wtcl.filemanager:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.wtcl.filemanager:string/exo_track_selection_title_text	-1	文字		Текст
+com.wtcl.filemanager:string/exo_track_selection_title_video	-1	影片		Видео
+com.wtcl.filemanager:string/exo_track_stereo	-1	立体声		Стерео
+com.wtcl.filemanager:string/exo_track_stereo	-1	立體聲		Стерео
+com.wtcl.filemanager:string/exo_track_surround	-1	环绕声		Объемный звук
+com.wtcl.filemanager:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.wtcl.filemanager:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.wtcl.filemanager:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.wtcl.filemanager:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.wtcl.filemanager:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.wtcl.filemanager:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.wtcl.filemanager:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.wtcl.filemanager:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.wtcl.filemanager:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.wtcl.filemanager:string/file_can_not_play	-1	文件无法播放		Невозможно воспроизвести файл
+com.wtcl.filemanager:string/folder_exist_is_overwrite	-1	文件名已被占用，是否覆盖原有文件？		Файл с таким именем уже есть. Заменить его?
+com.wtcl.filemanager:string/full	-1	全屏		На весь экран
+com.wtcl.filemanager:string/hud_screening	-1	HUD投屏中		Проекция на HUD
+com.wtcl.filemanager:string/last	-1	上一个		Предыдущий
+com.wtcl.filemanager:string/local_storage	-1	本地文件		Локальные файлы
+com.wtcl.filemanager:string/local_storage_route	-1	全部文件		Все файлы
+com.wtcl.filemanager:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wtcl.filemanager:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wtcl.filemanager:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wtcl.filemanager:string/material_hour_selection	-1	請選取時段		Выберите час
+com.wtcl.filemanager:string/material_hour_selection	-1	选择小时		Выберите час
+com.wtcl.filemanager:string/material_hour_selection	-1	選取時段		Выберите час
+com.wtcl.filemanager:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.wtcl.filemanager:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.wtcl.filemanager:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.wtcl.filemanager:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.wtcl.filemanager:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.wtcl.filemanager:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.wtcl.filemanager:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.wtcl.filemanager:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wtcl.filemanager:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wtcl.filemanager:string/material_timepicker_hour	-1	小時		Час
+com.wtcl.filemanager:string/material_timepicker_minute	-1	分鐘		Минуты
+com.wtcl.filemanager:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.wtcl.filemanager:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wtcl.filemanager:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wtcl.filemanager:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wtcl.filemanager:string/move	-1	移动		Переместить
+com.wtcl.filemanager:string/move_failed	-1	移动失败		Не удалось переместить
+com.wtcl.filemanager:string/move_success	-1	移动成功		Перемещено
+com.wtcl.filemanager:string/move_title	-1	移动到		Переместить в
+com.wtcl.filemanager:string/moving_files	-1	正在移动文件（%s）		Перемещение файлов (%s)
+com.wtcl.filemanager:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.wtcl.filemanager:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.wtcl.filemanager:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.wtcl.filemanager:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.wtcl.filemanager:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.wtcl.filemanager:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.wtcl.filemanager:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.wtcl.filemanager:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.wtcl.filemanager:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.wtcl.filemanager:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.wtcl.filemanager:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.wtcl.filemanager:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.wtcl.filemanager:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.wtcl.filemanager:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.wtcl.filemanager:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.wtcl.filemanager:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.wtcl.filemanager:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.wtcl.filemanager:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.wtcl.filemanager:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.wtcl.filemanager:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.wtcl.filemanager:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.wtcl.filemanager:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.wtcl.filemanager:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.wtcl.filemanager:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.wtcl.filemanager:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.wtcl.filemanager:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.wtcl.filemanager:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.wtcl.filemanager:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.wtcl.filemanager:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.wtcl.filemanager:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.wtcl.filemanager:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.wtcl.filemanager:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.wtcl.filemanager:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.wtcl.filemanager:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.wtcl.filemanager:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.wtcl.filemanager:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.wtcl.filemanager:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.wtcl.filemanager:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.wtcl.filemanager:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.wtcl.filemanager:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.wtcl.filemanager:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.wtcl.filemanager:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.wtcl.filemanager:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.wtcl.filemanager:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.wtcl.filemanager:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.wtcl.filemanager:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.wtcl.filemanager:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.wtcl.filemanager:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.wtcl.filemanager:string/mtrl_picker_save	-1	儲存		Сохранить
+com.wtcl.filemanager:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.wtcl.filemanager:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.wtcl.filemanager:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.wtcl.filemanager:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.wtcl.filemanager:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.wtcl.filemanager:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.wtcl.filemanager:string/music	-1	音频		Аудио
+com.wtcl.filemanager:string/next	-1	下一个		Следующий
+com.wtcl.filemanager:string/not_allow_read_write_tip	-1	文件管理需要授权读写文件，请先授权！		Файловому менеджеру нужен доступ к чтению и записи файлов. Выдайте разрешение.
+com.wtcl.filemanager:string/ok	-1	确定		ОК
+com.wtcl.filemanager:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.wtcl.filemanager:string/pause	-1	暂停		Пауза
+com.wtcl.filemanager:string/picture	-1	图片		Изображения
+com.wtcl.filemanager:string/play	-1	播放		Воспроизвести
+com.wtcl.filemanager:string/play_next_time	-1	播放(%ds)		Воспроизвести (%d с)
+com.wtcl.filemanager:string/play_next_video_coming	-1	即将播放下一个视频		Скоро начнётся следующее видео
+com.wtcl.filemanager:string/play_not_allow_ok	-1	知道了		Понятно
+com.wtcl.filemanager:string/play_video_back	-1	返回(%dS)		Назад (%d с)
+com.wtcl.filemanager:string/play_video_back_list_now	-1	即将返回播放列表		Возврат в список воспроизведения
+com.wtcl.filemanager:string/reduce	-1	缩小		Уменьшить
+com.wtcl.filemanager:string/root_directory	-1	根目录		Корневой каталог
+com.wtcl.filemanager:string/rotate	-1	旋转		Повернуть
+com.wtcl.filemanager:string/select_all	-1	全选		Выбрать всё
+com.wtcl.filemanager:string/select_all_cancel	-1	取消全选		Снять выбор
+com.wtcl.filemanager:string/select_file_number	-1	已选择（%d）个文件		Выбрано файлов: %d
+com.wtcl.filemanager:string/state_hud	-1	请先开启HUD后投屏		Сначала включите HUD
+com.wtcl.filemanager:string/storage_tip	-1	此处总空间指文件管理应用内资源存储总空间		Общий объём здесь означает место для ресурсов файлового менеджера.
+com.wtcl.filemanager:string/str_loading	-1	加载中…		Загрузка…
+com.wtcl.filemanager:string/str_loading_waiting	-1	文件过多，请耐心等待		Много файлов. Подождите.
+com.wtcl.filemanager:string/str_picture_not_preview	-1	文件无法预览		Предпросмотр файла недоступен
+com.wtcl.filemanager:string/sure_delete_selected_files	-1	确定删除所选文件？		Удалить выбранные файлы?
+com.wtcl.filemanager:string/system_not_has_enough_space_copy	-1	存储空间不足，无法复制		Недостаточно места для копирования
+com.wtcl.filemanager:string/system_not_has_enough_space_move	-1	存储空间不足，无法移动		Недостаточно места для перемещения
+com.wtcl.filemanager:string/usb_is_pull_in_doing	-1	外部设备不存在		Внешнее устройство отсутствует
+com.wtcl.filemanager:string/video	-1	视频		Видео
+com.wtcl.filemanager:string/wt_date_picker_friday	-1	五		Пт
+com.wtcl.filemanager:string/wt_date_picker_monday	-1	一		Пн
+com.wtcl.filemanager:string/wt_date_picker_saturday	-1	六		Сб
+com.wtcl.filemanager:string/wt_date_picker_sunday	-1	日		Вс
+com.wtcl.filemanager:string/wt_date_picker_thursday	-1	四		Чт
+com.wtcl.filemanager:string/wt_date_picker_tuesday	-1	二		Вт
+com.wtcl.filemanager:string/wt_date_picker_wednesday	-1	三		Ср
+com.wtcl.filemanager:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wtcl.filemanager:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wtcl.filemanager:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wtcl.filemanager:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wtcl.filemanager:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wtcl.filemanager:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wtcl.filemanager:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wtcl.filemanager:string/wtsearch_text_hint	-1	请输入		Введите запрос

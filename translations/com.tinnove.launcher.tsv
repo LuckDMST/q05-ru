@@ -1,0 +1,612 @@
+com.tinnove.launcher:array/adas_alc_frequency_array	0	高频		Часто
+com.tinnove.launcher:array/adas_alc_frequency_array	1	中频		Умеренно
+com.tinnove.launcher:array/adas_alc_frequency_array	2	低频		Редко
+com.tinnove.launcher:array/adas_interactive_preference_array	0	陪练助手		С подробными подсказками
+com.tinnove.launcher:array/adas_interactive_preference_array	1	标准		Стандартные
+com.tinnove.launcher:array/adas_interactive_preference_array	2	简洁		Краткие
+com.tinnove.launcher:array/adas_preference_array	0	车道巡航辅助		Помощь при движении по полосе
+com.tinnove.launcher:array/adas_preference_array	1	领航辅助		Навигационный ассистент
+com.tinnove.launcher:array/adas_style_array	0	柔和		Плавный
+com.tinnove.launcher:array/adas_style_array	1	标准		Стандартный
+com.tinnove.launcher:array/adas_style_array	2	激进		Динамичный
+com.tinnove.launcher:array/adas_style_array	3	自定义		Свой
+com.tinnove.launcher:array/app_titles	0	应用中心		Приложения
+com.tinnove.launcher:array/exo_controls_playback_speeds	0	0.25 倍		0,25
+com.tinnove.launcher:array/exo_controls_playback_speeds	1	0.5 倍		0,5
+com.tinnove.launcher:array/exo_controls_playback_speeds	2	0.75 倍		0,75
+com.tinnove.launcher:array/exo_controls_playback_speeds	4	1.25 倍		1,25
+com.tinnove.launcher:array/exo_controls_playback_speeds	5	1.5 倍		1,5
+com.tinnove.launcher:array/exo_controls_playback_speeds	6	2 倍		2
+com.tinnove.launcher:array/wallpaper_titles	0	卡片		Карточки
+com.tinnove.launcher:array/wallpaper_titles	1	应用		Приложения
+com.tinnove.launcher:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.launcher:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.launcher:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.launcher:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.launcher:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.launcher:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.launcher:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.launcher:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.launcher:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.launcher:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.launcher:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.launcher:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.launcher:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.launcher:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.launcher:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.launcher:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.launcher:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.launcher:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.launcher:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.launcher:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.launcher:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.launcher:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.launcher:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.launcher:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.launcher:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.launcher:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.launcher:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.launcher:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.launcher:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.launcher:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.launcher:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.launcher:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.launcher:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.launcher:string/adas_style_dialog_title	-1	辅助驾驶风格自定义		Настройка стиля ассистентов вождения
+com.tinnove.launcher:string/app_edit_done	-1	完成		Готово
+com.tinnove.launcher:string/app_name	-1	桌面		Главный экран
+com.tinnove.launcher:string/applist_history_empty	-1	当前暂无应用使用...		Приложения пока не использовались…
+com.tinnove.launcher:string/applist_history_title	-1	常用应用		Часто используемые
+com.tinnove.launcher:string/applist_title	-1	应用列表		Приложения
+com.tinnove.launcher:string/applist_uninstall	-1	推荐应用		Рекомендуемые приложения
+com.tinnove.launcher:string/applist_uninstall_recommend	-1	更多应用推荐		Другие рекомендации
+com.tinnove.launcher:string/arrive_company	-1	到公司		На работу
+com.tinnove.launcher:string/arrive_home	-1	到家		Домой
+com.tinnove.launcher:string/arrive_via	-1	到达途经点		До промежуточного пункта
+com.tinnove.launcher:string/assembly_btn	-1	设集合点		Задать место встречи
+com.tinnove.launcher:string/assembly_none_tv	-1	还未设置集合点~		Место встречи ещё не задано.
+com.tinnove.launcher:string/assembly_tv	-1	快去设置集合点吧~		Задайте место встречи.
+com.tinnove.launcher:string/auto_park_title	-1	泊车		Парковка
+com.tinnove.launcher:string/bank	-1	银行		Банки
+com.tinnove.launcher:string/blue_tooth_add_friend	-1	添加联系人		Добавить контакт
+com.tinnove.launcher:string/blue_tooth_friend_book	-1	通讯录		Контакты
+com.tinnove.launcher:string/bluetooth_card_name	-1	蓝牙电话		Телефон по Bluetooth
+com.tinnove.launcher:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.launcher:string/bt_error_sync_tip	-1	同步通话记录和通讯录出现问题		Не удалось синхронизировать контакты и журнал вызовов.
+com.tinnove.launcher:string/bt_not_connected_tip	-1	蓝牙未连接		Bluetooth не подключён.
+com.tinnove.launcher:string/bt_not_sync_tip	-1	尚未同步通话记录和通讯录		Контакты и журнал вызовов ещё не синхронизированы.
+com.tinnove.launcher:string/bt_syncing_tip	-1	正在同步通话记录和通讯录		Синхронизация контактов и журнала вызовов…
+com.tinnove.launcher:string/btn_again	-1	再试一次		Повторить
+com.tinnove.launcher:string/btn_bt_handoff	-1	切换蓝牙设备		Выбрать устройство Bluetooth
+com.tinnove.launcher:string/btn_cancel	-1	取消		Отмена
+com.tinnove.launcher:string/btn_confirm	-1	确定		ОК
+com.tinnove.launcher:string/btn_dialog_save	-1	完成		Готово
+com.tinnove.launcher:string/btn_go_connect	-1	去连接		Подключить
+com.tinnove.launcher:string/btn_go_sync	-1	立即同步		Синхронизировать
+com.tinnove.launcher:string/bus_station	-1	长途汽车站		Автовокзалы
+com.tinnove.launcher:string/bus_stop	-1	公交站		Автобусные остановки
+com.tinnove.launcher:string/call_in_progress	-1	通话中，请结束后再试		Сначала завершите текущий вызов.
+com.tinnove.launcher:string/car_maintenance	-1	汽车保养		Техобслуживание
+com.tinnove.launcher:string/car_repair	-1	维修		Ремонт
+com.tinnove.launcher:string/car_wash	-1	洗车		Автомойки
+com.tinnove.launcher:string/card_add_text	-1	添加		Добавить
+com.tinnove.launcher:string/card_full_notice	-1	添加个数已达上限		Достигнуто максимальное количество карточек.
+com.tinnove.launcher:string/card_go_to_login	-1	去登录		Войти
+com.tinnove.launcher:string/card_no_score_data	-1	暂无驾驶行为记录		Данных о стиле вождения пока нет.
+com.tinnove.launcher:string/card_title	-1	驾驶行为记录		Стиль вождения
+com.tinnove.launcher:string/card_unlogin_text	-1	驾驶员中心未登录		Вход в профиль водителя не выполнен.
+com.tinnove.launcher:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.launcher:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.launcher:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.launcher:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.launcher:string/charging	-1	充电		Зарядка
+com.tinnove.launcher:string/charging_station	-1	充电站		Зарядные станции
+com.tinnove.launcher:string/check_net	-1	请检查网络设置		Проверьте настройки сети.
+com.tinnove.launcher:string/cinema	-1	电影院		Кинотеатры
+com.tinnove.launcher:string/click_fast_notice	-1	请勿频繁点击		Не нажимайте слишком часто.
+com.tinnove.launcher:string/click_to_fast	-1	点击过快稍后尝试！		Слишком частые нажатия. Попробуйте позже.
+com.tinnove.launcher:string/club	-1	酒吧		Бары
+com.tinnove.launcher:string/coffeenet	-1	网吧		Интернет-кафе
+com.tinnove.launcher:string/company	-1	去公司		На работу
+com.tinnove.launcher:string/confirm_that_contacts	-1	是否确认打开同步通讯录开关？		Включить синхронизацию контактов?
+com.tinnove.launcher:string/connect_card_btn_text	-1	一键报平安		Сообщить, что всё в порядке
+com.tinnove.launcher:string/connect_card_content_login_text	-1	给“%1$s”分享当前位置		Отправить своё местоположение контакту «%1$s»
+com.tinnove.launcher:string/connect_card_content_text	-1	一键发送当前位置给TA		Отправьте своё местоположение одним нажатием.
+com.tinnove.launcher:string/connect_card_send_fail_text	-1	分享失败请重试		Не удалось отправить. Повторите попытку.
+com.tinnove.launcher:string/connect_card_send_succ_text	-1	分享成功		Местоположение отправлено.
+com.tinnove.launcher:string/connect_card_title_text	-1	报平安		Я в порядке
+com.tinnove.launcher:string/connect_error	-1	失败		Не удалось
+com.tinnove.launcher:string/connect_succ	-1	成功		Успешно
+com.tinnove.launcher:string/contact_abnormal_tips	-1	请您在手机端确认是否开启了获取通讯录的权限\n常见操作方式：设置-蓝牙-车机蓝牙名称旁“i”图标。\n若开启权限后仍无法同步，请您忽略/删除设备后重新配对。		Разрешите доступ к контактам в настройках телефона.\nОбычно это: Настройки → Bluetooth → значок «i» рядом с названием автомобиля.\nЕсли синхронизация не работает после выдачи разрешения, удалите сопряжение и подключите телефон заново.
+com.tinnove.launcher:string/copilot_driver	-1	副驾		Передний пассажир
+com.tinnove.launcher:string/cosmetology	-1	美容美发		Салоны красоты
+com.tinnove.launcher:string/create_team	-1	创建队伍		Создать группу
+com.tinnove.launcher:string/dialog_adas_alc_frequency	-1	换道频率		Частота перестроений
+com.tinnove.launcher:string/dialog_adas_preference	-1	辅助驾驶偏好		Настройки ассистентов вождения
+com.tinnove.launcher:string/dialog_adas_setting_save	-1	保存		Сохранить
+com.tinnove.launcher:string/dialog_adas_style	-1	辅助驾驶风格		Стиль ассистентов вождения
+com.tinnove.launcher:string/dialog_btn_uninstall	-1	卸载		Удалить
+com.tinnove.launcher:string/dialog_cancel	-1	取消		Отмена
+com.tinnove.launcher:string/dialog_confirm	-1	确认		Подтвердить
+com.tinnove.launcher:string/dialog_know	-1	我知道了		Понятно
+com.tinnove.launcher:string/disconnect	-1	断开连接		Отключить
+com.tinnove.launcher:string/download	-1	下载		Скачать
+com.tinnove.launcher:string/download_install_app_confirm	-1	下载并安装“%s”？		Скачать и установить «%s»?
+com.tinnove.launcher:string/download_pause	-1	继续		Продолжить
+com.tinnove.launcher:string/downloading_list_full	-1	下载列表已满，请稍等		Список загрузок заполнен. Подождите.
+com.tinnove.launcher:string/drive	-1	行驶		В движении
+com.tinnove.launcher:string/drive_card_city_mode_text	-1	市区模式		Город
+com.tinnove.launcher:string/drive_card_energy_icon_text	-1	能量管理		Управление энергией
+com.tinnove.launcher:string/drive_card_high_speed_mode_text	-1	高速模式		Трасса
+com.tinnove.launcher:string/drive_card_mountain_text	-1	山地模式		Горы
+com.tinnove.launcher:string/drive_style_icon_text	-1	驾驶模式		Режим движения
+com.tinnove.launcher:string/drive_style_mode_ai	-1	智能(iEM)		Умный (iEM)
+com.tinnove.launcher:string/drive_style_mode_comfort	-1	舒适		Комфорт
+com.tinnove.launcher:string/drive_style_mode_custom	-1	个性化		Индивидуальный
+com.tinnove.launcher:string/drive_style_mode_eco	-1	经济		Эко
+com.tinnove.launcher:string/drive_style_mode_normal	-1	节能		Энергосбережение
+com.tinnove.launcher:string/drive_style_mode_sport	-1	运动		Спорт
+com.tinnove.launcher:string/drugstore	-1	药店		Аптеки
+com.tinnove.launcher:string/dudu_background_music_text	-1	背景音乐		Фоновая музыка
+com.tinnove.launcher:string/dudu_base	-1	基础嘟嘟		Обычный Дуду
+com.tinnove.launcher:string/dudu_bomb	-1	炸弹嘟嘟		Дуду-бомба
+com.tinnove.launcher:string/dudu_card_name	-1	暴打嘟嘟		Игра с Дуду
+com.tinnove.launcher:string/dudu_coin	-1	金币嘟嘟		Золотой Дуду
+com.tinnove.launcher:string/dudu_current_score_record	-1	本次得分：		Очки за игру:
+com.tinnove.launcher:string/dudu_dodge	-1	闪避嘟嘟		Ускользающий Дуду
+com.tinnove.launcher:string/dudu_driving_safety_dialog_cancel_btn	-1	好的		Хорошо
+com.tinnove.launcher:string/dudu_driving_safety_dialog_content	-1	为了您的安全，建议行车中不要使用该功能		Для вашей безопасности не используйте эту функцию во время движения.
+com.tinnove.launcher:string/dudu_driving_safety_dialog_sure_btn	-1	仍要使用		Всё равно использовать
+com.tinnove.launcher:string/dudu_driving_safety_dialog_title_text	-1	温馨提示		Внимание
+com.tinnove.launcher:string/dudu_driving_safety_text	-1	安全限制		Ограничение безопасности
+com.tinnove.launcher:string/dudu_happy	-1	欢乐嘟嘟		Весёлый Дуду
+com.tinnove.launcher:string/dudu_motion_text	-1	互动音效		Звуковые эффекты
+com.tinnove.launcher:string/dudu_notice	-1	无聊就来打嘟嘟吧\n点击卡片立即开打		Сыграйте в «Поймай Дуду».\nНажмите на карточку, чтобы начать.
+com.tinnove.launcher:string/dudu_play_again	-1	再打一次		Играть ещё
+com.tinnove.launcher:string/dudu_sad	-1	伤心嘟嘟		Грустный Дуду
+com.tinnove.launcher:string/dudu_score	-1	得分：		Очки:
+com.tinnove.launcher:string/dudu_score_count	-1	%s分		%s очков
+com.tinnove.launcher:string/dudu_score_record	-1	最高得分：		Лучший результат:
+com.tinnove.launcher:string/dudu_score_recording_count	-1	剩余时间：		Оставшееся время:
+com.tinnove.launcher:string/dudu_shy	-1	害羞嘟嘟		Застенчивый Дуду
+com.tinnove.launcher:string/dudu_time_count	-1	%s秒		%s секунд
+com.tinnove.launcher:string/dudu_warning	-1	车辆行驶中，功能已禁用		Функция недоступна во время движения.
+com.tinnove.launcher:string/dynamic_area	-1	动态服务区展示区域		Область динамических карточек
+com.tinnove.launcher:string/dynamic_edit_min_limit_hint	-1	请至少添加3张卡片		Добавьте не менее 3 карточек.
+com.tinnove.launcher:string/dynamic_edit_no_card_hint	-1	暂无卡片		Карточек пока нет.
+com.tinnove.launcher:string/edit_main_title	-1	车外喊话卡片编辑		Изменить карточки наружного громкоговорителя
+com.tinnove.launcher:string/empty_schedules	-1	暂无日程		Запланированных событий нет.
+com.tinnove.launcher:string/error	-1	错误		Ошибка
+com.tinnove.launcher:string/error_msg_no_data	-1	没有数据		Нет данных.
+com.tinnove.launcher:string/exit_over_team_text	-1	退出集结		Выйти из группы
+com.tinnove.launcher:string/exo_controls_cc_disabled_description	-1	启用字幕		Включить субтитры
+com.tinnove.launcher:string/exo_controls_cc_disabled_description	-1	啟用字幕		Включить субтитры
+com.tinnove.launcher:string/exo_controls_cc_disabled_description	-1	啟用字幕 (Subtitle)		Включить субтитры
+com.tinnove.launcher:string/exo_controls_cc_enabled_description	-1	停用字幕		Выключить субтитры
+com.tinnove.launcher:string/exo_controls_cc_enabled_description	-1	停用字幕 (Subtitle)		Выключить субтитры
+com.tinnove.launcher:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.tinnove.launcher:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.tinnove.launcher:string/exo_controls_fullscreen_enter_description	-1	进入全屏模式		Полноэкранный режим
+com.tinnove.launcher:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕		Полноэкранный режим
+com.tinnove.launcher:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕模式		Полноэкранный режим
+com.tinnove.launcher:string/exo_controls_fullscreen_exit_description	-1	結束全螢幕模式		Выйти из полноэкранного режима
+com.tinnove.launcher:string/exo_controls_fullscreen_exit_description	-1	退出全屏模式		Выйти из полноэкранного режима
+com.tinnove.launcher:string/exo_controls_fullscreen_exit_description	-1	關閉全螢幕		Выйти из полноэкранного режима
+com.tinnove.launcher:string/exo_controls_hide	-1	隐藏播放器控件		Скрыть панель управления
+com.tinnove.launcher:string/exo_controls_hide	-1	隱藏播放器控制選項		Скрыть панель управления
+com.tinnove.launcher:string/exo_controls_hide	-1	隱藏播放器控制項		Скрыть панель управления
+com.tinnove.launcher:string/exo_controls_next_description	-1	繼續		Следующий трек
+com.tinnove.launcher:string/exo_controls_overflow_hide_description	-1	隐藏其他设置		Скрыть дополнительные настройки
+com.tinnove.launcher:string/exo_controls_overflow_hide_description	-1	隱藏其他設定		Скрыть дополнительные настройки
+com.tinnove.launcher:string/exo_controls_overflow_show_description	-1	显示其他设置		Показать дополнительные настройки
+com.tinnove.launcher:string/exo_controls_overflow_show_description	-1	顯示其他設定		Показать дополнительные настройки
+com.tinnove.launcher:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.tinnove.launcher:string/exo_controls_playback_speed	-1	速度		Скорость
+com.tinnove.launcher:string/exo_controls_repeat_all_description	-1	宜家嘅模式：重複播放所有項目。轉做重複播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_all_description	-1	当前模式：重复播放所有项目。切换重复播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_all_description	-1	目前模式：重複播放所有項目。切換重複播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_off_description	-1	宜家嘅模式：唔重複播放。轉做重複播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_off_description	-1	当前模式：不重复。切换重复播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_off_description	-1	目前模式：不重複播放。切換重複播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_one_description	-1	宜家嘅模式：重複播放一個項目。轉做重複播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_one_description	-1	当前模式：重复播放当前项目。切换重复播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_repeat_one_description	-1	目前模式：重複播放單一項目。切換重複播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.tinnove.launcher:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.tinnove.launcher:string/exo_controls_seek_bar_description	-1	播放进度		Полоса прокрутки воспроизведения
+com.tinnove.launcher:string/exo_controls_seek_bar_description	-1	播放進度		Полоса прокрутки воспроизведения
+com.tinnove.launcher:string/exo_controls_settings_description	-1	設定		Настройки
+com.tinnove.launcher:string/exo_controls_show	-1	显示播放器控件		Показать панель управления
+com.tinnove.launcher:string/exo_controls_show	-1	顯示播放器控制選項		Показать панель управления
+com.tinnove.launcher:string/exo_controls_show	-1	顯示播放器控制項		Показать панель управления
+com.tinnove.launcher:string/exo_controls_shuffle_off_description	-1	启用随机播放模式		Включить перемешивание
+com.tinnove.launcher:string/exo_controls_shuffle_off_description	-1	啟用隨機播放模式		Включить перемешивание
+com.tinnove.launcher:string/exo_controls_shuffle_on_description	-1	停用随机播放模式		Отключить перемешивание
+com.tinnove.launcher:string/exo_controls_shuffle_on_description	-1	停用隨機播放模式		Отключить перемешивание
+com.tinnove.launcher:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.tinnove.launcher:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.tinnove.launcher:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.tinnove.launcher:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.tinnove.launcher:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.tinnove.launcher:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.tinnove.launcher:string/exo_download_description	-1	下載		Скачать
+com.tinnove.launcher:string/exo_download_downloading	-1	下載中		Скачивание…
+com.tinnove.launcher:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.tinnove.launcher:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.tinnove.launcher:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.tinnove.launcher:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.tinnove.launcher:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.tinnove.launcher:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.tinnove.launcher:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.tinnove.launcher:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.tinnove.launcher:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.tinnove.launcher:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.tinnove.launcher:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.tinnove.launcher:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.tinnove.launcher:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.tinnove.launcher:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.tinnove.launcher:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.tinnove.launcher:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.tinnove.launcher:string/exo_track_mono	-1	单声道		Моно
+com.tinnove.launcher:string/exo_track_mono	-1	單聲道		Моно
+com.tinnove.launcher:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.tinnove.launcher:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.tinnove.launcher:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.tinnove.launcher:string/exo_track_role_commentary	-1	評論		Комментарии
+com.tinnove.launcher:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.tinnove.launcher:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.tinnove.launcher:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.tinnove.launcher:string/exo_track_selection_auto	-1	自動		Авто
+com.tinnove.launcher:string/exo_track_selection_none	-1	無		Нет
+com.tinnove.launcher:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.tinnove.launcher:string/exo_track_selection_title_text	-1	文字		Текст
+com.tinnove.launcher:string/exo_track_selection_title_video	-1	影片		Видео
+com.tinnove.launcher:string/exo_track_stereo	-1	立体声		Стерео
+com.tinnove.launcher:string/exo_track_stereo	-1	立體聲		Стерео
+com.tinnove.launcher:string/exo_track_surround	-1	环绕声		Объемный звук
+com.tinnove.launcher:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.tinnove.launcher:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.tinnove.launcher:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.tinnove.launcher:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.tinnove.launcher:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.tinnove.launcher:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.tinnove.launcher:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.tinnove.launcher:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.tinnove.launcher:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.tinnove.launcher:string/failed_msg_unknown	-1	未知错误		Неизвестная ошибка.
+com.tinnove.launcher:string/features_of_a_mobile_phone_model	-1	支持手机型号&功能介绍		Совместимые телефоны и функции
+com.tinnove.launcher:string/flow_card_remaining	-1	流量剩余		Остаток трафика
+com.tinnove.launcher:string/flow_card_title	-1	流量概况		Мобильный интернет
+com.tinnove.launcher:string/flow_data_source	-1	数据来源：- -		Источник данных: —
+com.tinnove.launcher:string/flow_data_source_operator	-1	数据来源：运营商		Источник данных: оператор связи
+com.tinnove.launcher:string/flow_data_time	-1	截止至：- - - -		По состоянию на: —
+com.tinnove.launcher:string/flow_data_time_prefix	-1	截止至：%1$s		По состоянию на: %1$s
+com.tinnove.launcher:string/flow_data_update_tips	-1	*数据更新可能存在延迟		* Данные могут обновляться с задержкой.
+com.tinnove.launcher:string/food	-1	美食		Рестораны
+com.tinnove.launcher:string/food_brand	-1	面包甜点		Выпечка и десерты
+com.tinnove.launcher:string/food_chinese	-1	中餐		Китайская кухня
+com.tinnove.launcher:string/food_hotpot	-1	火锅		Хого
+com.tinnove.launcher:string/food_quick	-1	小吃快餐		Быстрое питание
+com.tinnove.launcher:string/food_west	-1	西餐		Европейская кухня
+com.tinnove.launcher:string/gas_station	-1	加油		Заправка
+com.tinnove.launcher:string/gas_station_station	-1	加油站		АЗС
+com.tinnove.launcher:string/guild_0_txt	-1	桌面上三指左右滑动可进行桌面快速切换		Чтобы быстро переключить главный экран, проведите по нему тремя пальцами влево или вправо.
+com.tinnove.launcher:string/guild_1_txt	-1	在风量、温度上\n单指左右滑动即可调节相关内容		В области температуры и скорости вентилятора\nпроводите одним пальцем влево или вправо для регулировки.
+com.tinnove.launcher:string/guild_2_txt	-1	此区域内左滑可隐藏左侧动态服务区		Проведите в этой области влево, чтобы скрыть динамические карточки слева.
+com.tinnove.launcher:string/guild_3_txt	-1	创客桌面上长按即可进行卡片编辑，根据自身需求来自由添加删除或移动换位		Удерживайте палец на главном экране с карточками, чтобы добавлять, удалять и перемещать их.
+com.tinnove.launcher:string/guild_4_txt	-1	应用内三指下滑可快速返回桌面		Чтобы вернуться на главный экран из приложения, проведите тремя пальцами вниз.
+com.tinnove.launcher:string/guild_5_txt	-1	卡片上长按可上下拖动调换位置		Удерживайте карточку и перетаскивайте вверх или вниз, чтобы изменить её положение.
+com.tinnove.launcher:string/guild_6_txt	-1	应用内双指左右滑动即可将当前应用飞屏至另一侧		Чтобы перенести приложение на другую сторону экрана, проведите двумя пальцами влево или вправо.
+com.tinnove.launcher:string/guild_7_txt	-1	长按单个icon可触发编辑功能		Удерживайте значок, чтобы перейти к редактированию.
+com.tinnove.launcher:string/guild_8_txt	-1	地图内\n三指左滑动可将导航信息飞屏至仪表\n三指右滑可取消投屏		В приложении карты\nпроведите тремя пальцами влево для вывода навигации на приборную панель.\nПроведите тремя пальцами вправо, чтобы отключить проекцию.
+com.tinnove.launcher:string/history	-1	历史目的地		Недавние места
+com.tinnove.launcher:string/history_title	-1	历史目的地		Недавние места
+com.tinnove.launcher:string/home	-1	回家		Домой
+com.tinnove.launcher:string/horoscopes_card_name	-1	今日运势		Гороскоп на сегодня
+com.tinnove.launcher:string/hospital	-1	医院		Больницы
+com.tinnove.launcher:string/hotel_all	-1	住宿		Где остановиться
+com.tinnove.launcher:string/hotel_hostel	-1	旅馆招待所		Гостевые дома
+com.tinnove.launcher:string/hotel_star	-1	星级酒店		Отели
+com.tinnove.launcher:string/hotel_youth	-1	青年旅社		Хостелы
+com.tinnove.launcher:string/idd_energy_save_mode_function_disable_with_ads_toast	-1	已开启超级省电模式，该功能不可用		В режиме максимального энергосбережения эта функция недоступна.
+com.tinnove.launcher:string/info_error	-1	数据错误		Ошибка данных.
+com.tinnove.launcher:string/install	-1	安装重试		Повторить установку
+com.tinnove.launcher:string/installing	-1	安装中…		Установка…
+com.tinnove.launcher:string/interactive_preference	-1	交互提示偏好		Подсказки ассистента
+com.tinnove.launcher:string/invite_btn	-1	邀请好友		Пригласить участников
+com.tinnove.launcher:string/invite_tv	-1	快邀请同伴加入队伍吧~		Пригласите спутников в группу.
+com.tinnove.launcher:string/join_team	-1	加入队伍		Присоединиться к группе
+com.tinnove.launcher:string/lane_navi_start	-1	开始体验		Попробовать
+com.tinnove.launcher:string/lane_navi_text	-1	车道级导航		Навигация по полосам
+com.tinnove.launcher:string/leader	-1	队长		Организатор
+com.tinnove.launcher:string/link_title_default	-1	手机		Телефон
+com.tinnove.launcher:string/little_secen_center	-1	小场景中心		Сценарии
+com.tinnove.launcher:string/loading	-1	数据加载中...		Загрузка данных…
+com.tinnove.launcher:string/local_app_center	-1	应用中心		Приложения
+com.tinnove.launcher:string/look_over_team_text	-1	查看集结		Посмотреть группу
+com.tinnove.launcher:string/main_driver	-1	主驾		Водитель
+com.tinnove.launcher:string/main_title	-1	车外喊话		Наружный громкоговоритель
+com.tinnove.launcher:string/map_gaode	-1	高德地图		Amap
+com.tinnove.launcher:string/map_tencent	-1	腾讯地图		Tencent Maps
+com.tinnove.launcher:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.launcher:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.launcher:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.launcher:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.launcher:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.launcher:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.launcher:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.launcher:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.launcher:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.launcher:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.launcher:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.launcher:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.launcher:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.launcher:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.launcher:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.launcher:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.launcher:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.launcher:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.launcher:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.launcher:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.launcher:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.launcher:string/me	-1	我		Я
+com.tinnove.launcher:string/mini_app	-1	小程序		Мини-программы
+com.tinnove.launcher:string/more	-1	详情		Подробнее
+com.tinnove.launcher:string/motion_sickness_relief_open_toast	-1	晕车舒缓已开启，暂无法切换显示模式		Функция уменьшения укачивания включена. Переключение режима отображения недоступно.
+com.tinnove.launcher:string/move_app_confirm	-1	这个应用已经在%s屏上打开，要移动过来吗？		Приложение уже открыто на экране %s. Перенести его сюда?
+com.tinnove.launcher:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.launcher:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.launcher:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.launcher:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.launcher:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.launcher:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.launcher:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.launcher:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.launcher:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.launcher:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.launcher:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.launcher:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.launcher:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.launcher:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.launcher:string/mtrl_picker_confirm	-1	確定		ОК
+com.tinnove.launcher:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.launcher:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.launcher:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.launcher:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.launcher:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.launcher:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.launcher:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.launcher:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.launcher:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.launcher:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.launcher:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.launcher:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.launcher:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.launcher:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.launcher:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.launcher:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.launcher:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.launcher:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.launcher:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.launcher:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.launcher:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.launcher:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.launcher:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.launcher:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.launcher:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.launcher:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.launcher:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.launcher:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.launcher:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.launcher:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.launcher:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.launcher:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.launcher:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.launcher:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.launcher:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.launcher:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.launcher:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.launcher:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.launcher:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.launcher:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.launcher:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.launcher:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.launcher:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.launcher:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.launcher:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.launcher:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.launcher:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.launcher:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.launcher:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.launcher:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.launcher:string/mtrl_timepicker_confirm	-1	確定		ОК
+com.tinnove.launcher:string/music_name_init	-1	暂无播放		Ничего не воспроизводится
+com.tinnove.launcher:string/my_text	-1	我		Я
+com.tinnove.launcher:string/n_btn_go_navi	-1	去这里		Поехать сюда
+com.tinnove.launcher:string/n_maphome_tip_check_network	-1	检查网络		Проверьте подключение к сети.
+com.tinnove.launcher:string/n_tbt_arrive	-1	到达		Прибытие
+com.tinnove.launcher:string/n_tbt_arrive_tip	-1	到达目的地		Вы прибыли в пункт назначения.
+com.tinnove.launcher:string/n_tbt_arrive_via_tip	-1	到达途径点		Вы прибыли в промежуточный пункт.
+com.tinnove.launcher:string/n_tbt_gps_low_tip	-1	卫星信号弱		Слабый сигнал спутников.
+com.tinnove.launcher:string/n_tbt_yaw_fail_tip	-1	已偏离路线		Вы отклонились от маршрута.
+com.tinnove.launcher:string/n_tbt_yaw_tip	-1	重新规划中		Перестроение маршрута…
+com.tinnove.launcher:string/n_team_trip_join_title	-1	开启集结吧！设置共同集结点, \n还能边导航边查看伙伴实时位置！		Задайте общее место встречи. \nВо время навигации можно видеть местоположение участников группы.
+com.tinnove.launcher:string/n_team_trip_launch_title	-1	车队出游, 开车接人, 还在操心 \n“你到哪儿了？哪儿见面？”		Едете вместе или забираете друзей? \nДелитесь местоположением, чтобы проще встретиться.
+com.tinnove.launcher:string/net_error	-1	无数据请检查网络设置		Нет данных. Проверьте настройки сети.
+com.tinnove.launcher:string/network_error	-1	网络未连接，请检查网络设置		Нет подключения. Проверьте настройки сети.
+com.tinnove.launcher:string/network_error_code	-1	请求数据时出现错误，错误码：%d		Не удалось получить данные. Код ошибки: %d
+com.tinnove.launcher:string/network_error_try_later	-1	网络异常，请稍后重试		Ошибка сети. Повторите попытку позже.
+com.tinnove.launcher:string/network_unavailable	-1	网络连接失败，请连接网络！		Не удалось подключиться к сети. Проверьте соединение.
+com.tinnove.launcher:string/never_remind	-1	不再提醒		Больше не напоминать
+com.tinnove.launcher:string/nid_card_alc_count	-1	换道次数		Перестроения
+com.tinnove.launcher:string/nid_card_alc_count_unit	-1	次		раз
+com.tinnove.launcher:string/nid_card_alc_emergency_avoid_count	-1	紧急避让		Экстренные уклонения
+com.tinnove.launcher:string/nid_card_alc_emergency_avoid_count_unit	-1	次		раз
+com.tinnove.launcher:string/nid_card_miles	-1	行驶里程		Пройденный путь
+com.tinnove.launcher:string/nid_card_summary_title	-1	本次辅助驾驶行程总结		Итоги поездки с ассистентами вождения
+com.tinnove.launcher:string/nid_card_use_time	-1	使用时间		Время использования
+com.tinnove.launcher:string/nid_full_view_acc	-1	自适应巡航		Адаптивный круиз-контроль
+com.tinnove.launcher:string/nid_full_view_iacc	-1	巡航辅助		Помощь при круизном движении
+com.tinnove.launcher:string/nid_full_view_nca	-1	领航辅助		Навигационный ассистент
+com.tinnove.launcher:string/no_collection	-1	暂无收藏小程序		Нет избранных мини-программ.
+com.tinnove.launcher:string/no_data	-1	暂无数据		Нет данных.
+com.tinnove.launcher:string/no_date	-1	无数据		Нет данных.
+com.tinnove.launcher:string/no_enough_space	-1	没有足够的存储空间		Недостаточно свободного места.
+com.tinnove.launcher:string/no_enough_space_install	-1	存储空间不足，无法安装		Недостаточно места для установки.
+com.tinnove.launcher:string/no_limit	-1	不限行		Ограничений движения нет.
+com.tinnove.launcher:string/no_location	-1	无位置信息		Нет данных о местоположении.
+com.tinnove.launcher:string/no_location_btn	-1	去打开		Разрешить
+com.tinnove.launcher:string/no_location_btn_857_3	-1	去连接		Подключить
+com.tinnove.launcher:string/no_location_content	-1	请打开导航获取位置权限		Откройте навигацию и разрешите доступ к местоположению.
+com.tinnove.launcher:string/no_net_connect	-1	无网络连接		Нет подключения к сети.
+com.tinnove.launcher:string/no_phone_book_contact	-1	暂无联系人		Контактов пока нет.
+com.tinnove.launcher:string/no_playing_while_driving	-1	请在车速低于7km/h时使用此功能		Используйте эту функцию при скорости ниже 7 км/ч.
+com.tinnove.launcher:string/no_power	-1	电量不可达		Заряда не хватит.
+com.tinnove.launcher:string/no_recently_used	-1	暂无最近使用		Недавних приложений нет.
+com.tinnove.launcher:string/no_search_contact	-1	未搜索到联系人		Контакты не найдены.
+com.tinnove.launcher:string/not_have_app	-1	暂无手机应用		Приложений телефона пока нет.
+com.tinnove.launcher:string/oil_station	-1	加气站		Газовые заправки
+com.tinnove.launcher:string/open_aqt_content	-1	没有可播放的音频，\n请打开爱趣听选择你要听的音乐		Нет аудио для воспроизведения.\nОткройте приложение Ai Qu Ting и выберите музыку.
+com.tinnove.launcher:string/open_aqt_continue	-1	继续打开		Продолжить
+com.tinnove.launcher:string/open_aqt_no	-1	不		Нет
+com.tinnove.launcher:string/open_aqt_title	-1	打开爱趣听		Открыть Ai Qu Ting
+com.tinnove.launcher:string/other_not_finished_yet	-1	其它应用还未下载完成		Загрузка других приложений ещё не завершена.
+com.tinnove.launcher:string/out_port	-1	港口码头		Порты и причалы
+com.tinnove.launcher:string/p_gear_try	-1	请将车辆静止后挂入P档再试		Остановите автомобиль и включите режим P, затем повторите попытку.
+com.tinnove.launcher:string/panorama_title	-1	360全景		Круговой обзор 360°
+com.tinnove.launcher:string/parking	-1	停车场		Парковки
+com.tinnove.launcher:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.launcher:string/railway_station	-1	火车站		Железнодорожные вокзалы
+com.tinnove.launcher:string/real_time_shouting_notice	-1	点击停止		Нажмите, чтобы остановить.
+com.tinnove.launcher:string/record_text	-1	按住说话		Удерживайте, чтобы говорить
+com.tinnove.launcher:string/refuel_no_date_tips	-1	附近暂无加油站		Поблизости нет АЗС.
+com.tinnove.launcher:string/renovate_tips	-1	正在加载中		Загрузка…
+com.tinnove.launcher:string/repair	-1	汽车维修		Ремонт автомобилей
+com.tinnove.launcher:string/request_error	-1	请求错误，请稍后重试		Ошибка запроса. Повторите попытку позже.
+com.tinnove.launcher:string/s_any_card	-1	某某卡		Карточка
+com.tinnove.launcher:string/s_app_not_suport_fly	-1	当前应用不支持飞屏		Это приложение не поддерживает перенос на другой экран.
+com.tinnove.launcher:string/s_card_edit	-1	编辑		Изменить
+com.tinnove.launcher:string/s_dynamic_cancel	-1	取消		Отмена
+com.tinnove.launcher:string/s_dynamic_cannot_edit	-1	当前卡片不支持移动		Эту карточку нельзя переместить.
+com.tinnove.launcher:string/s_dynamic_cannot_operate	-1	为了您的驾驶安全，请驻车后尝试		Для вашей безопасности сначала припаркуйте автомобиль.
+com.tinnove.launcher:string/s_dynamic_done	-1	完成		Готово
+com.tinnove.launcher:string/s_dynamic_edit_title	-1	支持点击添加/删除功能,长按拖动编辑顺序		Нажмите, чтобы добавить или удалить. Удерживайте и перетаскивайте, чтобы изменить порядок.
+com.tinnove.launcher:string/s_edit	-1	编辑		Изменить
+com.tinnove.launcher:string/s_media_card	-1	音乐媒体		Музыка
+com.tinnove.launcher:string/s_no_card	-1	暂无应用		Приложений пока нет.
+com.tinnove.launcher:string/s_open_error_no_net	-1	打开失败了，请检查网络~		Не удалось открыть. Проверьте подключение к сети.
+com.tinnove.launcher:string/scene_quick_card_add	-1	添加		Добавить
+com.tinnove.launcher:string/scene_quick_card_detail	-1	查看详情>		Подробнее >
+com.tinnove.launcher:string/scene_quick_card_execute_starting	-1	停止执行		Остановить выполнение
+com.tinnove.launcher:string/scene_quick_card_get_date_fail	-1	盲盒获取失败		Не удалось получить сюрприз.
+com.tinnove.launcher:string/scene_quick_card_no_net	-1	请检查网络设置		Проверьте настройки сети.
+com.tinnove.launcher:string/scene_quick_card_no_net_tip	-1	当前网络不佳,请稍后重试		Нестабильное подключение. Повторите попытку позже.
+com.tinnove.launcher:string/scene_quick_card_stopping	-1	正在停止…		Остановка…
+com.tinnove.launcher:string/scene_quick_card_system_error	-1	系统繁忙,请稍后重试		Система занята. Повторите попытку позже.
+com.tinnove.launcher:string/scene_quick_card_title	-1	场景魔方		Сценарии
+com.tinnove.launcher:string/scene_quick_list_blind_box	-1	猜盲盒		Сюрприз
+com.tinnove.launcher:string/scene_quick_list_blind_box_tip	-1	 有惊喜哦~		 Вас ждёт сюрприз.
+com.tinnove.launcher:string/scene_quick_net_off	-1	无网络连接		Нет подключения к сети.
+com.tinnove.launcher:string/scenic	-1	景点		Достопримечательности
+com.tinnove.launcher:string/schedule_card_name	-1	今日行程		Планы на сегодня
+com.tinnove.launcher:string/sdk_mr_day	-1	天		дн.
+com.tinnove.launcher:string/sdk_mr_hour	-1	时		ч
+com.tinnove.launcher:string/sdk_mr_kilometer	-1	公里		км
+com.tinnove.launcher:string/sdk_mr_meters	-1	米		м
+com.tinnove.launcher:string/sdk_mr_min	-1	分		мин
+com.tinnove.launcher:string/sdk_poidetail_no_date_sub_tips	-1	未知区域		Неизвестный район
+com.tinnove.launcher:string/sdk_poidetail_no_network_tips	-1	加载失败, 点击重试		Не удалось загрузить. Нажмите, чтобы повторить.
+com.tinnove.launcher:string/search_contact_phone_number	-1	搜索联系人电话		Поиск контакта или номера
+com.tinnove.launcher:string/select_dialog_sub_title	-1	长按可以拖动卡片位置		Удерживайте карточку, чтобы переместить её.
+com.tinnove.launcher:string/select_dialog_title	-1	编辑卡片		Изменить карточки
+com.tinnove.launcher:string/select_launcher_car	-1	车控桌面		Управление автомобилем
+com.tinnove.launcher:string/select_launcher_car_msg	-1	聚焦车辆自身的全场景超空间服务		Доступ к функциям автомобиля для разных ситуаций.
+com.tinnove.launcher:string/select_launcher_msg1	-1	点击即可选择，后续可在下拉中心更改当前选择		Нажмите, чтобы выбрать. Позже выбор можно изменить в шторке быстрого доступа.
+com.tinnove.launcher:string/select_launcher_nav	-1	导航桌面		Навигация
+com.tinnove.launcher:string/select_launcher_nav_msg	-1	聚焦车辆自身的全场景超空间服务		Доступ к функциям автомобиля для разных ситуаций.
+com.tinnove.launcher:string/select_launcher_wall	-1	创客桌面		Экран с карточками
+com.tinnove.launcher:string/select_launcher_wall_msg	-1	千人千面的多样化内容服务		Содержимое главного экрана под ваши предпочтения.
+com.tinnove.launcher:string/select_launcher_welcome	-1	根据自己的喜好选择一个常用的桌面吧～		Выберите удобный для вас главный экран.
+com.tinnove.launcher:string/select_save_bt_text	-1	完成		Готово
+com.tinnove.launcher:string/service_area	-1	服务区		Зоны отдыха
+com.tinnove.launcher:string/set_applets_info	-1	当前未设置联系人/车牌，是否跳转到小程序进行设置		Контакт или номер автомобиля ещё не задан. Открыть настройки в мини-программе?
+com.tinnove.launcher:string/set_horoscopes	-1	设置星座，掌握专属运势		Выберите знак зодиака для своего гороскопа.
+com.tinnove.launcher:string/shopping	-1	购物		Магазины
+com.tinnove.launcher:string/shopping_market	-1	超市		Супермаркеты
+com.tinnove.launcher:string/shopping_store	-1	便利店		Небольшие магазины
+com.tinnove.launcher:string/shortcut_edit_not_empty	-1	桌面位置已满，清理后再试吧~		На главном экране нет свободного места. Удалите ненужное и повторите попытку.
+com.tinnove.launcher:string/shouting_play_text	-1	喊话		Говорить снаружи
+com.tinnove.launcher:string/store_buy	-1	购买		Купить
+com.tinnove.launcher:string/store_pause	-1	暂停		Приостановить
+com.tinnove.launcher:string/store_pay	-1	支付		Оплатить
+com.tinnove.launcher:string/subway	-1	地铁站		Станции метро
+com.tinnove.launcher:string/super_power_open_tip	-1	已开启超级省电模式，该功能不可用		В режиме максимального энергосбережения эта функция недоступна.
+com.tinnove.launcher:string/super_power_saving_mode_tip	-1	已开启超级省电模式，该功能不可用		В режиме максимального энергосбережения эта функция недоступна.
+com.tinnove.launcher:string/switch_launcher_car	-1	车控		Автомобиль
+com.tinnove.launcher:string/switch_launcher_car_content	-1	3D车控 身临其境		Наглядное управление 3D-моделью автомобиля
+com.tinnove.launcher:string/switch_launcher_car_title	-1	车桌面		Экран автомобиля
+com.tinnove.launcher:string/switch_launcher_content	-1	开启导航 说走就走		Откройте навигацию и отправляйтесь в путь.
+com.tinnove.launcher:string/switch_launcher_navi	-1	出行		Поездки
+com.tinnove.launcher:string/switch_launcher_navi_content	-1	沉浸壁纸 松解身心		Расслабляющие обои
+com.tinnove.launcher:string/switch_launcher_navi_title	-1	地图桌面		Экран карты
+com.tinnove.launcher:string/switch_launcher_title	-1	出行桌面		Экран поездок
+com.tinnove.launcher:string/switch_launcher_wallpaper	-1	壁纸		Обои
+com.tinnove.launcher:string/switch_music_tips	-1	左右滑动可切歌		Проведите влево или вправо, чтобы сменить композицию.
+com.tinnove.launcher:string/tbt_advance_in	-1	随后		Затем
+com.tinnove.launcher:string/tbt_arrive	-1	目的地已到达		Вы прибыли в пункт назначения.
+com.tinnove.launcher:string/tbt_default_distance	-1	--公里		— км
+com.tinnove.launcher:string/tbt_default_time	-1	--时--分		— ч — мин
+com.tinnove.launcher:string/tbt_energy_tv	-1	到达后剩余		Заряд по прибытии
+com.tinnove.launcher:string/tbt_gps_lane_low_tip	-1	卫星信号弱		Слабый сигнал спутников.
+com.tinnove.launcher:string/tbt_gps_low_tip	-1	卫星信号弱		Слабый сигнал спутников.
+com.tinnove.launcher:string/tbt_in	-1	进入		Въезд
+com.tinnove.launcher:string/tbt_one_minute	-1	<1分钟		<1 мин
+com.tinnove.launcher:string/tbt_via_tv	-1	距途经点		До промежуточного пункта
+com.tinnove.launcher:string/tbt_yaw_tip	-1	请驶入开阔地带		Выезжайте на открытое место.
+com.tinnove.launcher:string/team_assembly_tv	-1	距离集合点		До места встречи
+com.tinnove.launcher:string/team_person_tv	-1	人		чел.
+com.tinnove.launcher:string/team_rank_tv	-1	排名		Место в рейтинге
+com.tinnove.launcher:string/team_tv	-1	队伍		Группа
+com.tinnove.launcher:string/team_up	-1	组队		Совместная поездка
+com.tinnove.launcher:string/team_up_tv	-1	实时共享位置，轻松结伴出行		Делитесь местоположением в реальном времени и путешествуйте вместе.
+com.tinnove.launcher:string/timer_date	-1	7月8日·星期四		8 июля · четверг
+com.tinnove.launcher:string/tips_guide_tunnel_out	-1	即将驶出		Скоро выезд
+com.tinnove.launcher:string/tips_loading	-1	加载中…		Загрузка…
+com.tinnove.launcher:string/tire_text	-1	胎压		Давление в шинах
+com.tinnove.launcher:string/toast_limit_add	-1	已添加到上限		Достигнуто максимальное количество.
+com.tinnove.launcher:string/toast_no_num_not_support_add	-1	此联系人无电话号码		У этого контакта нет номера телефона.
+com.tinnove.launcher:string/toast_no_repeat_add	-1	请勿添加重复号码		Этот номер уже добавлен.
+com.tinnove.launcher:string/toast_no_support_call	-1	请您在通话结束后拨号		Сначала завершите текущий вызов.
+com.tinnove.launcher:string/token_null	-1	车机请求token出现问题，请稍后重试		Ошибка авторизации автомобиля. Повторите попытку позже.
+com.tinnove.launcher:string/trace_punch_tv	-1	打卡成功		Отметка сохранена.
+com.tinnove.launcher:string/trip_memory	-1	的路程回忆		 — воспоминания о поездке
+com.tinnove.launcher:string/tv_item_default_name	-1	添加联系人		Добавить контакт
+com.tinnove.launcher:string/uninstall_app_confirm	-1	卸载“%s”？		Удалить «%s»?
+com.tinnove.launcher:string/update	-1	更新		Обновить
+com.tinnove.launcher:string/wait	-1	等待		Ожидание
+com.tinnove.launcher:string/wait_cancelled	-1	已取消等待		Ожидание отменено.
+com.tinnove.launcher:string/wallpaper_app	-1	应用		Приложения
+com.tinnove.launcher:string/wallpaper_card_cannot_edit	-1	当前卡片不支持编辑		Эту карточку нельзя изменить.
+com.tinnove.launcher:string/wallpaper_edit_add	-1	添加		Добавить
+com.tinnove.launcher:string/wallpaper_edit_done	-1	完成		Готово
+com.tinnove.launcher:string/wallpaper_edit_no_app	-1	暂无应用		Приложений пока нет.
+com.tinnove.launcher:string/wallpaper_edit_no_card	-1	暂无卡片		Карточек пока нет.
+com.tinnove.launcher:string/wallpaper_widget	-1	卡片		Карточки
+com.tinnove.launcher:string/washroom	-1	卫生间		Туалеты
+com.tinnove.launcher:string/wc	-1	公厕		Общественные туалеты
+com.tinnove.launcher:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.launcher:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.launcher:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.launcher:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.launcher:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.launcher:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.launcher:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.launcher:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.launcher:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.launcher:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.launcher:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.launcher:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.launcher:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.launcher:string/wthotel_empty_data	-1	附近没有推荐的酒店		Поблизости нет рекомендуемых отелей.
+com.tinnove.launcher:string/wthotel_net_error	-1	无网络		Нет подключения к сети.
+com.tinnove.launcher:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.launcher:string/wtsearch_text_hint	-1	请输入		Введите запрос

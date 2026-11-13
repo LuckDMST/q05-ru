@@ -1,0 +1,1861 @@
+com.tinnove.wecarnavi:array/audiowarnstyle_array	0	陪练助手		Помощник по вождению
+com.tinnove.wecarnavi:array/audiowarnstyle_array	1	标准		Стандартный
+com.tinnove.wecarnavi:array/audiowarnstyle_array	2	简洁		Краткий
+com.tinnove.wecarnavi:array/autodrive_array	0	柔和		Плавный
+com.tinnove.wecarnavi:array/autodrive_array	1	标准		Стандартный
+com.tinnove.wecarnavi:array/autodrive_array	2	激进		Активный
+com.tinnove.wecarnavi:array/autodrive_array	3	自定义		Индивидуальный
+com.tinnove.wecarnavi:array/cruise_array	0	车道巡航辅助		Помощь при движении по полосе
+com.tinnove.wecarnavi:array/cruise_array	1	领航辅助		Навигационная помощь
+com.tinnove.wecarnavi:array/lane_change_frequency_array	0	高频		Часто
+com.tinnove.wecarnavi:array/lane_change_frequency_array	1	中频		Умеренно
+com.tinnove.wecarnavi:array/lane_change_frequency_array	2	低频		Редко
+com.tinnove.wecarnavi:array/lane_level_key	0	地图服务提供商		Поставщик картографического сервиса
+com.tinnove.wecarnavi:array/lane_level_key	1	地图数据提供商		Поставщик картографических данных
+com.tinnove.wecarnavi:array/lane_level_key	2	互联网审图号		Номер разрешения интернет-карт
+com.tinnove.wecarnavi:array/lane_level_key	3	甲测资字		Лицензия на геодезические работы
+com.tinnove.wecarnavi:array/lane_level_key	4	备案号		Регистрационный номер
+com.tinnove.wecarnavi:array/lane_level_key	5	商品版权		Авторские права
+com.tinnove.wecarnavi:array/navi_res_week	0	周日		Вс
+com.tinnove.wecarnavi:array/navi_res_week	1	周一		Пн
+com.tinnove.wecarnavi:array/navi_res_week	2	周二		Вт
+com.tinnove.wecarnavi:array/navi_res_week	3	周三		Ср
+com.tinnove.wecarnavi:array/navi_res_week	4	周四		Чт
+com.tinnove.wecarnavi:array/navi_res_week	5	周五		Пт
+com.tinnove.wecarnavi:array/navi_res_week	6	周六		Сб
+com.tinnove.wecarnavi:array/tai_app_names	0	腾讯地图		Tencent Maps
+com.tinnove.wecarnavi:array/tai_app_names	1	腾讯语音		Голосовой помощник Tencent
+com.tinnove.wecarnavi:array/theme_types	0	标准		Стандартный
+com.tinnove.wecarnavi:array/trip_tips	0	身体和灵魂，总有一个在路上		Пусть дорога зовёт и тело, и душу
+com.tinnove.wecarnavi:array/trip_tips	1	以梦为马，不负韶华		Следуйте мечте и берегите время
+com.tinnove.wecarnavi:array/trip_tips	2	世界那么大，我想去看看		Мир так велик — пора увидеть его
+com.tinnove.wecarnavi:array/trip_tips	3	寻梦，旅行，趁诗书年华		Путешествуйте навстречу мечте
+com.tinnove.wecarnavi:array/trip_tips	4	最好的时光一直在路上		Лучшие мгновения ждут в пути
+com.tinnove.wecarnavi:array/trip_tips	5	眼中有景，心中有花		Красота вокруг, радость внутри
+com.tinnove.wecarnavi:array/trip_tips	6	人生天地间，忽如远行客		В жизни мы все путешественники
+com.tinnove.wecarnavi:array/trip_tips	7	赏花，看月，以梦为马		Цветы, луна и дорога к мечте
+com.tinnove.wecarnavi:array/trip_tips	8	勇敢做梦，勇敢生活		Смело мечтайте, смело живите
+com.tinnove.wecarnavi:array/trip_tips	9	往前走，会更靠近阳光		Каждый шаг приближает к солнцу
+com.tinnove.wecarnavi:array/trip_tips	10	愿你有梦，有坦荡的远方		Пусть мечта зовёт в открытые дали
+com.tinnove.wecarnavi:array/trip_tips	11	心之所向，就是最好的旅行		Лучшее путешествие — по зову сердца
+com.tinnove.wecarnavi:array/trip_tips	12	愿你踏遍山河，仍觉人间值得		Пусть новые дороги дарят любовь к жизни
+com.tinnove.wecarnavi:array/trip_tips	13	不用奔赴大海，也能春暖花开		Весна может быть совсем рядом
+com.tinnove.wecarnavi:array/trip_tips	14	人生本就自由，何不就此漂泊		Жизнь свободна — отправляйтесь в путь
+com.tinnove.wecarnavi:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.wecarnavi:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.wecarnavi:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.wecarnavi:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.wecarnavi:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.wecarnavi:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.wecarnavi:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.wecarnavi:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.wecarnavi:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.wecarnavi:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.wecarnavi:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.wecarnavi:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.wecarnavi:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.wecarnavi:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.wecarnavi:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.wecarnavi:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.wecarnavi:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.wecarnavi:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.wecarnavi:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.wecarnavi:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.wecarnavi:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.wecarnavi:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.wecarnavi:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.wecarnavi:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.wecarnavi:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.wecarnavi:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.wecarnavi:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.wecarnavi:string/about_adas_number_title	-1	ADAS审图号		Номер разрешения карт ADAS
+com.tinnove.wecarnavi:string/about_app_name	-1	高德地图车机版		Amap для автомобиля
+com.tinnove.wecarnavi:string/about_book_number_title	-1	书号		Номер издания
+com.tinnove.wecarnavi:string/about_internet_number_title	-1	互联网审图号		Номер разрешения интернет-карт
+com.tinnove.wecarnavi:string/about_lane_number_title	-1	车道级审图号		Номер разрешения полосной карты
+com.tinnove.wecarnavi:string/about_map	-1	关于		О приложении
+com.tinnove.wecarnavi:string/about_map_title	-1	地图产品名称		Название картографического продукта
+com.tinnove.wecarnavi:string/about_official_website	-1	官方网址：www.amapauto.com		Официальный сайт: www.amapauto.com
+com.tinnove.wecarnavi:string/about_privacy_statement	-1	隐私声明		Конфиденциальность
+com.tinnove.wecarnavi:string/about_public_number_title	-1	出版物审图号		Разрешение на публикацию карт
+com.tinnove.wecarnavi:string/about_publish_title	-1	出版社		Издатель
+com.tinnove.wecarnavi:string/about_supplier_content	-1	高德软件有限公司		AutoNavi Software Co., Ltd.
+com.tinnove.wecarnavi:string/about_supplier_title	-1	数据及引擎供应商		Поставщик данных и движка
+com.tinnove.wecarnavi:string/about_terms_service	-1	服务条款		Условия использования
+com.tinnove.wecarnavi:string/about_version_info_title	-1	版次信息		Сведения об издании
+com.tinnove.wecarnavi:string/account_login_no_net	-1	当前车机无网络，可通过手机热点联网后操作		Нет сети автомобиля. Подключитесь через точку доступа телефона.
+com.tinnove.wecarnavi:string/activate	-1	激活		Активировать
+com.tinnove.wecarnavi:string/activate_activate_code	-1	激活码：		Код активации:
+com.tinnove.wecarnavi:string/activate_call_tip	-1	请联系供应商或拨打客服电话400-810-0080		Свяжитесь с поставщиком или поддержкой: 400-810-0080
+com.tinnove.wecarnavi:string/activate_check	-1	请输入数字、字母类型的序列号或激活码		Введите серийный номер или код активации из цифр и букв
+com.tinnove.wecarnavi:string/activate_check_error	-1	激活信息校验失败，请检查已输入内容并重新再试。		Проверка активации не пройдена. Проверьте введённые данные и повторите попытку.
+com.tinnove.wecarnavi:string/activate_check_error_title	-1	校验失败		Проверка не пройдена
+com.tinnove.wecarnavi:string/activate_check_length	-1	输入的序列号或激活码位数不对		Неверная длина серийного номера или кода активации
+com.tinnove.wecarnavi:string/activate_customer_service	-1	请联系供应商或拨打客服电话400-810-0080		Свяжитесь с поставщиком или поддержкой: 400-810-0080
+com.tinnove.wecarnavi:string/activate_device_number	-1	设备号：		Номер устройства:
+com.tinnove.wecarnavi:string/activate_failed	-1	激活失败		Не удалось активировать
+com.tinnove.wecarnavi:string/activate_hardid_error	-1	硬件错误		Аппаратная ошибка
+com.tinnove.wecarnavi:string/activate_input_activate_code_error	-1	输入错误，请检查激活码是否正确		Ошибка ввода. Проверьте код активации.
+com.tinnove.wecarnavi:string/activate_input_error_title	-1	输入错误		Ошибка ввода
+com.tinnove.wecarnavi:string/activate_input_serial_number_error	-1	输入错误，请检查序列号是否正确		Ошибка ввода. Проверьте серийный номер.
+com.tinnove.wecarnavi:string/activate_loading	-1	正在激活中，请稍后...		Активация. Подождите...
+com.tinnove.wecarnavi:string/activate_manual_tip	-1	请联系供应商或拨打客服电话400-810-0080获取序列号或激活码		Для получения серийного номера или кода активации свяжитесь с поставщиком или поддержкой: 400-810-0080
+com.tinnove.wecarnavi:string/activate_manual_title	-1	手动激活		Ручная активация
+com.tinnove.wecarnavi:string/activate_net	-1	联网激活		Активация через интернет
+com.tinnove.wecarnavi:string/activate_net_error	-1	网络异常，请稍后再试		Ошибка сети. Повторите попытку позже.
+com.tinnove.wecarnavi:string/activate_no_device_id	-1	硬件ID不存在，联网激活失败		Аппаратный ID отсутствует. Активация через интернет не удалась.
+com.tinnove.wecarnavi:string/activate_no_hardid	-1	设备号不存在		Номер устройства отсутствует
+com.tinnove.wecarnavi:string/activate_no_net	-1	无网络连接，请检查网络设置		Нет подключения к сети. Проверьте настройки.
+com.tinnove.wecarnavi:string/activate_no_upan	-1	未检测到U盘，请检查是否连接成功或尝试进行手动激活		USB-накопитель не обнаружен. Проверьте подключение или используйте ручную активацию.
+com.tinnove.wecarnavi:string/activate_no_upan_file	-1	未发现激活文件，请检查U盘中是否有激活文件或尝试进行手动激活		Файл активации не найден. Проверьте USB-накопитель или используйте ручную активацию.
+com.tinnove.wecarnavi:string/activate_over_num	-1	激活次数超限，联网激活失败		Превышено число активаций. Активация через интернет не удалась.
+com.tinnove.wecarnavi:string/activate_retry	-1	重试自动激活		Повторить автоактивацию
+com.tinnove.wecarnavi:string/activate_retry_net	-1	重试联网激活		Повторить активацию через интернет
+com.tinnove.wecarnavi:string/activate_retry_upan	-1	重试获取U盘数据		Снова прочитать USB
+com.tinnove.wecarnavi:string/activate_serial_number	-1	序列号：		Серийный номер:
+com.tinnove.wecarnavi:string/activate_unknown_reason	-1	未知原因，联网激活失败		Неизвестная причина. Активация через интернет не удалась.
+com.tinnove.wecarnavi:string/activate_unknown_reason_error	-1	未知原因，激活失败		Не удалось активировать по неизвестной причине
+com.tinnove.wecarnavi:string/activate_unknown_reason_error_content	-1	设备号：%1$s		Номер устройства: %1$s
+com.tinnove.wecarnavi:string/activate_unknown_reason_error_content2	-1	错误码：%1$s		Код ошибки: %1$s
+com.tinnove.wecarnavi:string/activate_upan	-1	获取U盘数据		Прочитать данные с USB
+com.tinnove.wecarnavi:string/activation_activating	-1	激活中		Активация
+com.tinnove.wecarnavi:string/adas_map_server_disconnect_tips_1	-1	智能行车App启动失败		Не удалось запустить приложение помощи при движении
+com.tinnove.wecarnavi:string/adas_map_server_disconnect_tips_2	-1	智能行车App异常退出		Приложение помощи при движении аварийно закрылось
+com.tinnove.wecarnavi:string/adas_style_dialog_title	-1	辅助驾驶风格自定义		Индивидуальный стиль помощи водителю
+com.tinnove.wecarnavi:string/add_fail_because_of_company	-1	添加失败，该地点为公司		Нельзя добавить: это место работы
+com.tinnove.wecarnavi:string/add_fail_because_of_fav	-1	添加失败，该地点为家/公司		Нельзя добавить: это дом или работа
+com.tinnove.wecarnavi:string/add_fail_because_of_home	-1	添加失败，该地点为家		Нельзя добавить: это дом
+com.tinnove.wecarnavi:string/add_forecast_txt	-1	模拟算路成功		Пробный маршрут построен
+com.tinnove.wecarnavi:string/add_frequent	-1	添加常去地		Добавить частое место
+com.tinnove.wecarnavi:string/add_frequent_already	-1	已添加		Уже добавлено
+com.tinnove.wecarnavi:string/add_frequent_failed	-1	位置获取失败		Не удалось определить место
+com.tinnove.wecarnavi:string/add_frequent_max	-1	最多添加8个地址		Можно добавить не более 8 адресов
+com.tinnove.wecarnavi:string/add_frequent_success	-1	添加成功		Добавлено
+com.tinnove.wecarnavi:string/add_location_txt	-1	本地收藏常去地		Локальные частые места
+com.tinnove.wecarnavi:string/add_via_success	-1	副驾屏添加了途经点		Пассажир добавил промежуточную точку
+com.tinnove.wecarnavi:string/alert_txt	-1	添加提醒		Добавить напоминание
+com.tinnove.wecarnavi:string/along_search	-1	沿途搜		Поиск по маршруту
+com.tinnove.wecarnavi:string/along_search_car_chang_an	-1	长安4S店		Сервис Changan
+com.tinnove.wecarnavi:string/along_search_car_repair	-1	汽车维修		Автосервис
+com.tinnove.wecarnavi:string/along_search_car_repair_alias	-1	维修站		Сервисная станция
+com.tinnove.wecarnavi:string/along_search_charging	-1	充电站		Зарядная станция
+com.tinnove.wecarnavi:string/along_search_food	-1	美食		Где поесть
+com.tinnove.wecarnavi:string/along_search_gas	-1	加气站		Газовая заправка
+com.tinnove.wecarnavi:string/along_search_label_closest	-1	最近		Ближайшее
+com.tinnove.wecarnavi:string/along_search_label_fast	-1	最快		Быстрее всего
+com.tinnove.wecarnavi:string/along_search_label_on_the_way	-1	最顺路		Удобнее по пути
+com.tinnove.wecarnavi:string/along_search_long_detail_title	-1	长途服务		Сервисы дальней поездки
+com.tinnove.wecarnavi:string/along_search_no_data_offline	-1	网络异常，顺路无结果，已为您离线搜索		Ошибка сети. По пути ничего не найдено. Выполнен офлайн-поиск.
+com.tinnove.wecarnavi:string/along_search_no_data_online	-1	沿途无结果，已为您找到其他结果		По пути ничего нет. Найдены другие варианты.
+com.tinnove.wecarnavi:string/along_search_no_data_toast	-1	路线周边未搜索到%s信息		Рядом с маршрутом не найдено: %s
+com.tinnove.wecarnavi:string/along_search_no_result_main_tip	-1	沿途没有为你搜到结果		По маршруту ничего не найдено
+com.tinnove.wecarnavi:string/along_search_no_result_sub_tip	-1	尝试周边搜索或切换路线查看		Попробуйте поиск поблизости или другой маршрут
+com.tinnove.wecarnavi:string/along_search_nonet_tips	-1	离线模式下暂不支持		В офлайн-режиме пока не поддерживается
+com.tinnove.wecarnavi:string/along_search_oil	-1	加油站		АЗС
+com.tinnove.wecarnavi:string/along_search_pref_title	-1	油站偏好		Предпочтительные АЗС
+com.tinnove.wecarnavi:string/along_search_pref_title2	-1	充电偏好		Предпочтения зарядки
+com.tinnove.wecarnavi:string/along_search_preference_all	-1	全部		Все
+com.tinnove.wecarnavi:string/along_search_preference_mobil	-1	美孚		Mobil
+com.tinnove.wecarnavi:string/along_search_preference_petrochina	-1	中石油		PetroChina
+com.tinnove.wecarnavi:string/along_search_preference_shell	-1	壳牌		Shell
+com.tinnove.wecarnavi:string/along_search_preference_sinopec	-1	中石化		Sinopec
+com.tinnove.wecarnavi:string/along_search_service_area	-1	服务区		Зона отдыха
+com.tinnove.wecarnavi:string/along_search_service_area_no_data_toast	-1	沿途暂未搜到服务区		Зоны отдыха по пути пока не найдены
+com.tinnove.wecarnavi:string/along_search_store	-1	便利店		Магазин
+com.tinnove.wecarnavi:string/along_search_subtitle	-1	沿途信息		По маршруту
+com.tinnove.wecarnavi:string/along_search_toilet	-1	卫生间		Туалет
+com.tinnove.wecarnavi:string/along_search_toilet_alias	-1	厕所		Туалет
+com.tinnove.wecarnavi:string/along_search_via	-1	途经路		Проезд через
+com.tinnove.wecarnavi:string/along_search_weather	-1	天气		Погода
+com.tinnove.wecarnavi:string/along_search_wisdom_label	-1	附近最便宜		Самое дешёвое поблизости
+com.tinnove.wecarnavi:string/along_way_via_road	-1	途经路		Проезд через
+com.tinnove.wecarnavi:string/along_way_weather	-1	天气		Погода
+com.tinnove.wecarnavi:string/along_way_weather_type	-1	途经%s		Через %s
+com.tinnove.wecarnavi:string/already_in_navi	-1	已经在导航了		Навигация уже запущена
+com.tinnove.wecarnavi:string/alternative	-1	备选%s		Альтернатива %s
+com.tinnove.wecarnavi:string/alternative_charging_time	-1	预计充电用时 %s		Расчётное время зарядки: %s
+com.tinnove.wecarnavi:string/alternative_without_index	-1	备选		Альтернатива
+com.tinnove.wecarnavi:string/android_version	-1	Android版本：		Версия Android:
+com.tinnove.wecarnavi:string/app_name	-1	高德地图		Amap
+com.tinnove.wecarnavi:string/around_map_pick_point	-1	在地图选点附近		Рядом с точкой на карте
+com.tinnove.wecarnavi:string/around_search	-1	周边搜		Поиск поблизости
+com.tinnove.wecarnavi:string/around_somewhere	-1	在%s附近		Рядом с %s
+com.tinnove.wecarnavi:string/arrive	-1	到达		Прибытие
+com.tinnove.wecarnavi:string/arrive_then_left_km	-1	剩%1$s公里		Останется %1$s км
+com.tinnove.wecarnavi:string/asr_favorite_existed_tips	-1	您已经收藏过该地点了		Это место уже в избранном
+com.tinnove.wecarnavi:string/asr_favorite_no_existed_tips	-1	您还未收藏过该地点		Этого места ещё нет в избранном
+com.tinnove.wecarnavi:string/attention_txt	-1	注意		Внимание
+com.tinnove.wecarnavi:string/auto_sync_tip	-1	收藏夹、历史记录自动同步		Избранное и история синхронизируются автоматически
+com.tinnove.wecarnavi:string/average_speed	-1	平均车速		Средняя скорость
+com.tinnove.wecarnavi:string/avoid_offline	-1	离线模式下暂不支持		В офлайн-режиме пока не поддерживается
+com.tinnove.wecarnavi:string/back_door_hint	-1	请输入密码		Введите пароль
+com.tinnove.wecarnavi:string/back_door_password_error	-1	密码错误		Неверный пароль
+com.tinnove.wecarnavi:string/back_home	-1	返回首页		На главный экран
+com.tinnove.wecarnavi:string/back_home_countdown	-1	返回首页 %ss		На главный экран через %s с
+com.tinnove.wecarnavi:string/back_home_page	-1	回桌面		На рабочий стол
+com.tinnove.wecarnavi:string/back_to_car	-1	回车位		К автомобилю
+com.tinnove.wecarnavi:string/bluetooth_not_connected	-1	请连接手机蓝牙		Подключите Bluetooth телефона
+com.tinnove.wecarnavi:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.wecarnavi:string/bridge_to_main	-1	高架下主路		Основная дорога под эстакадой
+com.tinnove.wecarnavi:string/bridge_to_side	-1	高架下辅路		Боковая дорога под эстакадой
+com.tinnove.wecarnavi:string/calculate_txt	-1	算路		Построить маршрут
+com.tinnove.wecarnavi:string/cancel	-1	取消		Отмена
+com.tinnove.wecarnavi:string/cancel_sb_voice	-1	取消下载%s语音？		Отменить скачивание голоса «%s»?
+com.tinnove.wecarnavi:string/cannot_arrive	-1	不可到达		Недостижимо
+com.tinnove.wecarnavi:string/car_logo_changed	-1	车标已更改		Значок автомобиля изменён
+com.tinnove.wecarnavi:string/car_logo_logo_car	-1	汽车车标		Значок автомобиля
+com.tinnove.wecarnavi:string/car_logo_logo_car_changed	-1	汽车车标设置成功		Значок автомобиля установлен
+com.tinnove.wecarnavi:string/car_logo_logo_car_model	-1	车模车标		Объёмный автомобиль
+com.tinnove.wecarnavi:string/car_logo_logo_car_model_changed	-1	车模车标设置成功		Объёмный значок установлен
+com.tinnove.wecarnavi:string/car_logo_logo_default	-1	默认车标		Стандартный значок
+com.tinnove.wecarnavi:string/car_logo_logo_default_changed	-1	默认车标设置成功		Стандартный значок установлен
+com.tinnove.wecarnavi:string/car_logo_logo_dynamic	-1	个性车标		Особый значок
+com.tinnove.wecarnavi:string/car_logo_logo_plane	-1	飞机车标		Самолёт
+com.tinnove.wecarnavi:string/car_logo_logo_space_ship	-1	飞船车标		Космический корабль
+com.tinnove.wecarnavi:string/car_logo_logo_space_ship_changed	-1	飞船车标设置成功		Значок корабля установлен
+com.tinnove.wecarnavi:string/car_logo_logo_speed	-1	车速车标		Значок со скоростью
+com.tinnove.wecarnavi:string/car_logo_logo_speed_changed	-1	车速车标设置成功		Значок со скоростью установлен
+com.tinnove.wecarnavi:string/car_logo_logo_three	-1	三角车标		Треугольник
+com.tinnove.wecarnavi:string/car_logo_logo_three_changed	-1	三角车标设置成功		Треугольный значок установлен
+com.tinnove.wecarnavi:string/car_logo_logo_title_classic	-1	经典车标		Классические значки
+com.tinnove.wecarnavi:string/car_logo_logo_title_dynamic	-1	个性车标		Особые значки
+com.tinnove.wecarnavi:string/car_logo_use	-1	使用		Использовать
+com.tinnove.wecarnavi:string/car_logo_using	-1	使用中		Используется
+com.tinnove.wecarnavi:string/change_main_path_to_search	-1	主驾导航更换路线，已为你重新检索		Водитель изменил маршрут. Поиск выполнен заново.
+com.tinnove.wecarnavi:string/change_navigation	-1	当前已有进行中导航，是否发起新的导航？		Навигация уже идёт. Начать новый маршрут?
+com.tinnove.wecarnavi:string/change_route	-1	换路		Другой маршрут
+com.tinnove.wecarnavi:string/change_success_destination	-1	目的地修改成功		Пункт назначения изменён
+com.tinnove.wecarnavi:string/change_to_bridge_down	-1	切到桥下		Под эстакаду
+com.tinnove.wecarnavi:string/change_to_bridge_up	-1	切到桥上		На эстакаду
+com.tinnove.wecarnavi:string/change_to_main	-1	切到主路		На основную дорогу
+com.tinnove.wecarnavi:string/change_to_side	-1	切到辅路		На боковую дорогу
+com.tinnove.wecarnavi:string/changed_des_success	-1	副驾屏修改了目的地		Пассажир изменил пункт назначения
+com.tinnove.wecarnavi:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.wecarnavi:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.wecarnavi:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.wecarnavi:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.wecarnavi:string/charge_cost	-1	充电费用		Стоимость зарядки
+com.tinnove.wecarnavi:string/charge_ele_tips_one	-1	电量高于		С зарядом выше
+com.tinnove.wecarnavi:string/charge_ele_tips_three	-1	离开		Уехать
+com.tinnove.wecarnavi:string/charge_ele_tips_two	-1	进站，电量充至		Прибыть на станцию, зарядить до
+com.tinnove.wecarnavi:string/charge_page_title	-1	充电站		Зарядные станции
+com.tinnove.wecarnavi:string/charge_policy_tip_txt	-1	电量高于 20% 进站，电量充至 80% 离开		Прибыть с зарядом выше 20%, уехать после зарядки до 80%
+com.tinnove.wecarnavi:string/charge_policy_tips	-1	修改进出电站电量，可调整沿途充电站推荐的数量和距离		Изменение заряда прибытия и выезда влияет на число и расположение предлагаемых зарядных станций по пути.
+com.tinnove.wecarnavi:string/charging	-1	充电站		Зарядные станции
+com.tinnove.wecarnavi:string/charging_map	-1	充电地图		Карта зарядных станций
+com.tinnove.wecarnavi:string/charging_station	-1	充电站		Зарядная станция
+com.tinnove.wecarnavi:string/charging_station_tips	-1	有电量风险，已为您自动推荐沿途充电路线		Есть риск нехватки заряда. Автоматически предложен маршрут с зарядкой по пути.
+com.tinnove.wecarnavi:string/chat_page_guide_accident_report_failed	-1	每个用户只允许上报一次		Каждый пользователь может сообщить только один раз
+com.tinnove.wecarnavi:string/check_net	-1	检查网络		Проверить сеть
+com.tinnove.wecarnavi:string/choose_destination_please	-1	请在地图内选择目的地		Выберите пункт назначения на карте
+com.tinnove.wecarnavi:string/clear_push_poi_history	-1	确认清空所有收到的历史记录？		Очистить всю историю полученных мест?
+com.tinnove.wecarnavi:string/click_to_setting	-1	点击设置		Нажмите для настройки
+com.tinnove.wecarnavi:string/close	-1	关闭		Закрыть
+com.tinnove.wecarnavi:string/closure	-1	关闭		Закрыть
+com.tinnove.wecarnavi:string/closure_countdown	-1	关闭%1$ss		Закрыть через %1$s с
+com.tinnove.wecarnavi:string/common_tools_box	-1	常用工具箱		Полезные инструменты
+com.tinnove.wecarnavi:string/common_tools_box_detail_play	-1	详细播报		Подробные сообщения
+com.tinnove.wecarnavi:string/common_tools_box_most_simple_play	-1	极简播报		Минимум сообщений
+com.tinnove.wecarnavi:string/common_tools_box_simple_play	-1	简洁播报		Краткие сообщения
+com.tinnove.wecarnavi:string/common_txt	-1	共		Всего
+com.tinnove.wecarnavi:string/complete	-1	完成		Готово
+com.tinnove.wecarnavi:string/confirm	-1	确定		ОК
+com.tinnove.wecarnavi:string/connect_net	-1	连接手机热点		Подключить точку доступа телефона
+com.tinnove.wecarnavi:string/continuation_point_via_success	-1	添加成功		Добавлено
+com.tinnove.wecarnavi:string/continue_guide	-1	继续导航		Продолжить навигацию
+com.tinnove.wecarnavi:string/continue_guide_countdown	-1	继续导航 %ss		Продолжить навигацию через %s с
+com.tinnove.wecarnavi:string/continue_guide_no_countdown	-1	继续导航		Продолжить навигацию
+com.tinnove.wecarnavi:string/continue_guide_play	-1	继续为您导航		Навигация продолжается
+com.tinnove.wecarnavi:string/continue_journey	-1	继续行程		Продолжить поездку
+com.tinnove.wecarnavi:string/continue_journey_countdown	-1	继续行程 %ss		Продолжить поездку через %s с
+com.tinnove.wecarnavi:string/continue_station_arrive	-1	需补能%s次到达终点		До пункта назначения потребуется остановок для зарядки: %s
+com.tinnove.wecarnavi:string/copilot_map_add_via	-1	副驾已添加途经点		Пассажир добавил промежуточную точку
+com.tinnove.wecarnavi:string/copilot_map_change_dest	-1	副驾已修改目的地		Пассажир изменил пункт назначения
+com.tinnove.wecarnavi:string/copilot_map_result_send_via_failed_with_state	-1	主驾导航/路线已退出，无法设为途经点，要发送目的地么？		Маршрут водителя закрыт. Нельзя добавить промежуточную точку. Отправить как пункт назначения?
+com.tinnove.wecarnavi:string/copilot_map_search_no_route_path	-1	当前没有导航路线哦		Сейчас нет маршрута навигации
+com.tinnove.wecarnavi:string/copilot_map_setting_dest	-1	副驾已设置目的地		Пассажир задал пункт назначения
+com.tinnove.wecarnavi:string/copilot_route_plan_duplicate_point	-1	发送失败，该点已在行程中		Не удалось отправить: точка уже есть в маршруте
+com.tinnove.wecarnavi:string/copilot_route_plan_failed	-1	发送失败，请重试		Не удалось отправить. Повторите попытку.
+com.tinnove.wecarnavi:string/cruise_btn_exit	-1	退出巡航		Выйти из обзора дороги
+com.tinnove.wecarnavi:string/cruise_tool_box	-1	工具箱		Инструменты
+com.tinnove.wecarnavi:string/current_time	-1	当前时段		Текущий период
+com.tinnove.wecarnavi:string/debug_title	-1	开发者模式		Режим разработчика
+com.tinnove.wecarnavi:string/degree_txt	-1	/度		/кВт·ч
+com.tinnove.wecarnavi:string/delete	-1	删除		Удалить
+com.tinnove.wecarnavi:string/delete_city_data_first	-1	全国包为必备项，请先删除城市数据		Общенациональный пакет обязателен. Сначала удалите данные городов.
+com.tinnove.wecarnavi:string/delete_sb_voice	-1	删除%s语音？		Удалить голос «%s»?
+com.tinnove.wecarnavi:string/delete_system_voice	-1	经典语音不支持删除		Стандартный голос нельзя удалить
+com.tinnove.wecarnavi:string/delete_system_voice_confirm	-1	我知道了		Понятно
+com.tinnove.wecarnavi:string/delete_via_point_fail	-1	删除途经点失败		Не удалось удалить промежуточную точку
+com.tinnove.wecarnavi:string/deleted_successfully	-1	删除成功		Удалено
+com.tinnove.wecarnavi:string/destination_around_search	-1	终点搜		Поиск у пункта назначения
+com.tinnove.wecarnavi:string/dialog_adas_alc_frequency	-1	换道频率		Частота перестроений
+com.tinnove.wecarnavi:string/dialog_adas_preference	-1	辅助驾驶偏好		Предпочтения помощи водителю
+com.tinnove.wecarnavi:string/dialog_adas_setting_save	-1	保存		Сохранить
+com.tinnove.wecarnavi:string/dialog_adas_style	-1	辅助驾驶风格		Стиль помощи водителю
+com.tinnove.wecarnavi:string/disconnect_net	-1	解除互联		Отвязать подключение
+com.tinnove.wecarnavi:string/disconnect_net_tip	-1	解除绑定后，将无法使用高德互联		После отвязки подключение Amap будет недоступно
+com.tinnove.wecarnavi:string/download_action_bar_all	-1	全部任务		Все задачи
+com.tinnove.wecarnavi:string/download_complete_action_bar_all	-1	待更新		Доступны обновления
+com.tinnove.wecarnavi:string/downloaded	-1	已下载		Скачано
+com.tinnove.wecarnavi:string/downloaded_empty	-1	暂无已下载内容		Скачанных данных пока нет
+com.tinnove.wecarnavi:string/downloaded_empty_tips	-1	1.下载离线资源，没网也能搜索和导航		1. Скачайте офлайн-ресурсы для поиска и навигации без сети.
+com.tinnove.wecarnavi:string/downloaded_empty_tips2	-1	2.已下载的资源，点选或长按可以进行删除		2. Нажмите или удерживайте скачанные ресурсы для удаления.
+com.tinnove.wecarnavi:string/downloaded_empty_title	-1	无下载任务		Нет задач скачивания
+com.tinnove.wecarnavi:string/edit	-1	编辑		Изменить
+com.tinnove.wecarnavi:string/ele_power_txt	-1	电站信息		Сведения о зарядной станции
+com.tinnove.wecarnavi:string/ele_price	-1	¥%s/度		¥%s/кВт·ч
+com.tinnove.wecarnavi:string/electric_rate	-1	剩余电量比		Остаток заряда
+com.tinnove.wecarnavi:string/electric_txt	-1	当前电量		Текущий заряд
+com.tinnove.wecarnavi:string/end	-1	终点		Пункт назначения
+com.tinnove.wecarnavi:string/engine_txt	-1	引擎平台：		Платформа движка:
+com.tinnove.wecarnavi:string/engine_version_txt	-1	引擎版本号：		Версия движка:
+com.tinnove.wecarnavi:string/entertainment	-1	娱乐		Развлечения
+com.tinnove.wecarnavi:string/exit_app	-1	是否退出高德地图车机版？		Выйти из автомобильного Amap?
+com.tinnove.wecarnavi:string/familiar_nonsupport	-1	探路模式暂不支持		В режиме обзора маршрута пока недоступно
+com.tinnove.wecarnavi:string/familiar_nonsupport_auto_scale	-1	探路模式时保持正北向上		В режиме обзора маршрута север всегда сверху
+com.tinnove.wecarnavi:string/favorite_change_company_tips	-1	您已收藏该地点，确认修改为公司？		Место уже в избранном. Назначить его работой?
+com.tinnove.wecarnavi:string/favorite_change_home_tips	-1	您已收藏该地点，确认修改为家？		Место уже в избранном. Назначить его домом?
+com.tinnove.wecarnavi:string/favorite_company_address	-1	公司的地址是？		Какой адрес работы?
+com.tinnove.wecarnavi:string/favorite_dialog_item_cancel_favorite	-1	取消收藏		Убрать из избранного
+com.tinnove.wecarnavi:string/favorite_dialog_item_cancel_top	-1	取消置顶		Открепить
+com.tinnove.wecarnavi:string/favorite_dialog_item_delete	-1	删除		Удалить
+com.tinnove.wecarnavi:string/favorite_dialog_item_edit_address	-1	修改地址		Изменить адрес
+com.tinnove.wecarnavi:string/favorite_dialog_item_rename	-1	重命名		Переименовать
+com.tinnove.wecarnavi:string/favorite_dialog_item_rename_succeed	-1	重命名成功		Переименовано
+com.tinnove.wecarnavi:string/favorite_dialog_item_top	-1	置  顶		Закрепить
+com.tinnove.wecarnavi:string/favorite_existed_tips	-1	你已收藏过此点，是否要替换？		Место уже сохранено. Заменить?
+com.tinnove.wecarnavi:string/favorite_home_address	-1	家的地址是？		Какой адрес дома?
+com.tinnove.wecarnavi:string/favorite_list_item_top_tag	-1	置顶		Закреплено
+com.tinnove.wecarnavi:string/favorite_no_favorite_record_tips	-1	当前暂无收藏记录		Избранного пока нет
+com.tinnove.wecarnavi:string/favorite_not_login_sync_text	-1	登录后可同步手机端收藏夹		Войдите для синхронизации избранного с телефоном
+com.tinnove.wecarnavi:string/favorite_page_company	-1	公司		Работа
+com.tinnove.wecarnavi:string/favorite_page_home	-1	家		Дом
+com.tinnove.wecarnavi:string/favorite_page_title	-1	收藏夹		Избранное
+com.tinnove.wecarnavi:string/favorite_rename_format_error	-1	格式输入错误		Неверный формат
+com.tinnove.wecarnavi:string/favorite_rename_limit	-1	最多输入20个字		Не более 20 символов
+com.tinnove.wecarnavi:string/favorite_rename_name_repetition	-1	该名称已存在		Такое имя уже есть
+com.tinnove.wecarnavi:string/favorite_rename_page_confirm	-1	确认		Подтвердить
+com.tinnove.wecarnavi:string/favorite_rename_page_title	-1	重命名		Переименовать
+com.tinnove.wecarnavi:string/favorite_set_company	-1	设置为公司		Назначить работой
+com.tinnove.wecarnavi:string/favorite_set_company_success	-1	已设为公司		Назначено работой
+com.tinnove.wecarnavi:string/favorite_set_company_successfully	-1	设置公司成功		Адрес работы задан
+com.tinnove.wecarnavi:string/favorite_set_home	-1	设置为家		Назначить домом
+com.tinnove.wecarnavi:string/favorite_set_home_success	-1	已设为家		Назначено домом
+com.tinnove.wecarnavi:string/favorite_set_home_successfully	-1	设置家成功		Адрес дома задан
+com.tinnove.wecarnavi:string/favorite_sync_time	-1	最新同步 %s		Последняя синхронизация: %s
+com.tinnove.wecarnavi:string/favorite_toast_cancel_favorite	-1	已取消收藏		Убрано из избранного
+com.tinnove.wecarnavi:string/favorite_toast_delete	-1	已删除		Удалено
+com.tinnove.wecarnavi:string/favorite_toast_delete_fail	-1	取消失败，请重试		Не удалось отменить. Повторите попытку.
+com.tinnove.wecarnavi:string/favorite_toast_favorite_fail	-1	取消收藏失败，请重试		Не удалось убрать из избранного. Повторите попытку.
+com.tinnove.wecarnavi:string/favorite_toast_succeed_favorite	-1	收藏成功		Добавлено в избранное
+com.tinnove.wecarnavi:string/food	-1	美食		Где поесть
+com.tinnove.wecarnavi:string/free_park	-1	停车免费		Бесплатная парковка
+com.tinnove.wecarnavi:string/frequent_dest	-1	常去地		Частые места
+com.tinnove.wecarnavi:string/frequent_dest_setting	-1	常去地设置		Настройка частых мест
+com.tinnove.wecarnavi:string/frequent_existed_tips	-1	您已添加过此点，是否要替换？		Это место уже добавлено. Заменить?
+com.tinnove.wecarnavi:string/function_developing	-1	功能正在开发中		Функция в разработке
+com.tinnove.wecarnavi:string/gas_station	-1	加气站		Газовая заправка
+com.tinnove.wecarnavi:string/geo_around_map_poi_pickup	-1	%1$s，在%2$s附近		%1$s, рядом с %2$s
+com.tinnove.wecarnavi:string/geo_not_in_china_address_text	-1	未知区域		Неизвестный регион
+com.tinnove.wecarnavi:string/geo_not_in_china_name_text	-1	无法获取当前位置		Не удалось определить местоположение
+com.tinnove.wecarnavi:string/gesture_change_destination_to_company	-1	当前目的地是家，是否更换目的地为公司?		Сейчас маршрут домой. Сменить пункт назначения на работу?
+com.tinnove.wecarnavi:string/gesture_change_destination_to_home	-1	当前目的地是公司，是否更换目的地为家?		Сейчас маршрут на работу. Сменить пункт назначения на дом?
+com.tinnove.wecarnavi:string/gesture_company_already_destination	-1	当前目的地已经是公司了		Работа уже задана пунктом назначения
+com.tinnove.wecarnavi:string/gesture_company_no_set_tts	-1	您好像没有设置公司的地址，请设置		Адрес работы ещё не задан. Укажите его.
+com.tinnove.wecarnavi:string/gesture_home_already_destination	-1	当前目的地已经是家了		Дом уже задан пунктом назначения
+com.tinnove.wecarnavi:string/gesture_home_no_set_tts	-1	您好像没有设置家的地址，请设置		Домашний адрес ещё не задан. Укажите его.
+com.tinnove.wecarnavi:string/go_bluetooth_fail	-1	无法使用车载电话，请重试		Телефон автомобиля недоступен. Повторите попытку.
+com.tinnove.wecarnavi:string/go_here	-1	去这里		Ехать сюда
+com.tinnove.wecarnavi:string/go_home	-1	回家		Домой
+com.tinnove.wecarnavi:string/go_login_txt	-1	去登录		Войти
+com.tinnove.wecarnavi:string/go_navigation	-1	发起导航		Начать навигацию
+com.tinnove.wecarnavi:string/go_refuel	-1	去加油		На заправку
+com.tinnove.wecarnavi:string/go_work	-1	去公司		На работу
+com.tinnove.wecarnavi:string/good_charge_station	-1	优选站点		Рекомендуемые станции
+com.tinnove.wecarnavi:string/grade_kill	-1	飙车之王		Король скорости
+com.tinnove.wecarnavi:string/grade_old_hander	-1	老司机		Опытный водитель
+com.tinnove.wecarnavi:string/grade_qiuming	-1	秋名山车神		Мастер горных дорог
+com.tinnove.wecarnavi:string/grade_road_killer	-1	马路杀手		Гроза дорог
+com.tinnove.wecarnavi:string/grade_safe	-1	平稳行驶		Спокойная езда
+com.tinnove.wecarnavi:string/guess_above_fifty_kilometers	-1	大于50公里		Более 50 км
+com.tinnove.wecarnavi:string/guess_your_destination	-1	猜你想去		Возможно, вам сюда
+com.tinnove.wecarnavi:string/guide_accident_detail_report	-1	事件上报		Сообщение о событии
+com.tinnove.wecarnavi:string/guide_accident_report	-1	上报		Сообщить
+com.tinnove.wecarnavi:string/guide_accident_report_failed	-1	上报失败		Не удалось отправить
+com.tinnove.wecarnavi:string/guide_accident_report_succeed	-1	上报成功		Отправлено
+com.tinnove.wecarnavi:string/guide_along_to_around_search	-1	沿途无结果，已为您进行周边搜索		По маршруту ничего нет. Выполнен поиск поблизости.
+com.tinnove.wecarnavi:string/guide_around_search_no_result	-1	抱歉，未找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/guide_around_search_result	-1	沿途无结果，已为您推荐周边结果		По маршруту ничего нет. Предложены варианты поблизости.
+com.tinnove.wecarnavi:string/guide_change_dest	-1	切换目的地？		Сменить пункт назначения?
+com.tinnove.wecarnavi:string/guide_change_dest_in_route	-1	您已经在导航中了，确认切换目的地吗？		Навигация уже идёт. Сменить пункт назначения?
+com.tinnove.wecarnavi:string/guide_change_path_fail	-1	路线切换失败，请稍后再试		Не удалось сменить маршрут. Повторите попытку позже.
+com.tinnove.wecarnavi:string/guide_cruise_auto_enter_cruise	-1	自动进入巡航		Автоматически включать обзор дороги
+com.tinnove.wecarnavi:string/guide_cruise_background_broadcast	-1	巡航播报		Сообщения без маршрута
+com.tinnove.wecarnavi:string/guide_cruise_e_eye_broadcast	-1	电子眼播报		Сообщения о камерах
+com.tinnove.wecarnavi:string/guide_cruise_entered_cruise_mode	-1	您已进入巡航模式		Обзор дороги без маршрута включён
+com.tinnove.wecarnavi:string/guide_cruise_entered_offline_cruise_mode	-1	您已进入离线巡航模式		Офлайн-обзор дороги включён
+com.tinnove.wecarnavi:string/guide_cruise_exited_cruise_mode	-1	已退出巡航模式		Обзор дороги выключен
+com.tinnove.wecarnavi:string/guide_cruise_quit	-1	退出巡航		Выйти из обзора дороги
+com.tinnove.wecarnavi:string/guide_cruise_safety_reminder	-1	安全提醒		Напоминания о безопасности
+com.tinnove.wecarnavi:string/guide_cruise_setting	-1	巡航设置		Настройки обзора дороги
+com.tinnove.wecarnavi:string/guide_cruise_traffic_broadcast	-1	路况播报		Сообщения о дорожной обстановке
+com.tinnove.wecarnavi:string/guide_cruise_traffic_closed	-1	路况关		Дорожная обстановка: выкл.
+com.tinnove.wecarnavi:string/guide_cruise_traffic_opened	-1	路况开		Дорожная обстановка: вкл.
+com.tinnove.wecarnavi:string/guide_current_route_best	-1	当前已经是最优路线了		Текущий маршрут уже оптимален
+com.tinnove.wecarnavi:string/guide_end_accelerate	-1	急加速		Резкое ускорение
+com.tinnove.wecarnavi:string/guide_end_decelerate	-1	急减速		Резкое замедление
+com.tinnove.wecarnavi:string/guide_end_destination_floor_tips_text	-1	提示：终点位于%s		Пункт назначения находится: %s
+com.tinnove.wecarnavi:string/guide_end_drive_distance	-1	行驶里程		Пройденное расстояние
+com.tinnove.wecarnavi:string/guide_end_drive_speed	-1	平均速度		Средняя скорость
+com.tinnove.wecarnavi:string/guide_end_drive_time	-1	行驶时间		Время в пути
+com.tinnove.wecarnavi:string/guide_end_overspeed	-1	超速		Превышение скорости
+com.tinnove.wecarnavi:string/guide_end_walk_continue_tips_text	-1	手机高德查看：步行%s，%s到达		Продолжите в Amap на телефоне: пешком %s, прибытие через %s.
+com.tinnove.wecarnavi:string/guide_eta_arrive_charge_detail	-1	到达后剩余		Остаток по прибытии
+com.tinnove.wecarnavi:string/guide_eta_arrive_charge_no	-1	电量不可达		Заряда не хватит
+com.tinnove.wecarnavi:string/guide_eta_via_detail	-1	距途经点		До промежуточной точки
+com.tinnove.wecarnavi:string/guide_exit_preview	-1	退出全览		Закрыть обзор маршрута
+com.tinnove.wecarnavi:string/guide_familiar_tip_content	-1	· 路线全览：全程路况一览知；\n· 播报精简：专心开车不打扰；		• Весь маршрут: дорожная обстановка на всём пути.\n• Меньше сообщений: ничто не отвлекает от дороги.
+com.tinnove.wecarnavi:string/guide_familiar_tip_title	-1	什么是小安探路？		Что такое обзор маршрута Сяоань?
+com.tinnove.wecarnavi:string/guide_fixed_preview	-1	固定全览		Закрепить обзор маршрута
+com.tinnove.wecarnavi:string/guide_gps_low_subtitle	-1	请驶入开阔地带		Выезжайте на открытое место
+com.tinnove.wecarnavi:string/guide_gps_low_title	-1	卫星信号弱		Слабый спутниковый сигнал
+com.tinnove.wecarnavi:string/guide_green_wave_recommended_speed	-1	建议车速		Рекомендуемая скорость
+com.tinnove.wecarnavi:string/guide_green_wave_remaining_green_lights	-1	剩余绿灯		Осталось зелёных сигналов
+com.tinnove.wecarnavi:string/guide_green_wave_speed	-1	绿波车速		Скорость зелёной волны
+com.tinnove.wecarnavi:string/guide_low_voice_toast	-1	当前导航音量较小，请调高音量		Громкость навигации низкая. Увеличьте её.
+com.tinnove.wecarnavi:string/guide_mute	-1	静音		Без звука
+com.tinnove.wecarnavi:string/guide_no_name_road	-1	无名路		Дорога без названия
+com.tinnove.wecarnavi:string/guide_parking_distance	-1	距离%1$d米		Расстояние: %1$d м
+com.tinnove.wecarnavi:string/guide_parking_distance_miles	-1	距离%1$s公里		Расстояние: %1$s км
+com.tinnove.wecarnavi:string/guide_parking_fold	-1	收起		Свернуть
+com.tinnove.wecarnavi:string/guide_parking_here	-1	停这里		Припарковаться здесь
+com.tinnove.wecarnavi:string/guide_parking_num	-1	%s个停车场		Парковок: %s
+com.tinnove.wecarnavi:string/guide_poi_label_fast	-1	最快		Быстрее всего
+com.tinnove.wecarnavi:string/guide_poi_label_recommend	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/guide_poi_label_way	-1	最顺路		Удобнее по пути
+com.tinnove.wecarnavi:string/guide_preview	-1	全览		Обзор маршрута
+com.tinnove.wecarnavi:string/guide_quit	-1	退出导航		Завершить навигацию
+com.tinnove.wecarnavi:string/guide_range	-1	区间		Участок
+com.tinnove.wecarnavi:string/guide_remain_time	-1	剩余时间		Осталось времени
+com.tinnove.wecarnavi:string/guide_report_accident_multi	-1	多车事故		ДТП с несколькими автомобилями
+com.tinnove.wecarnavi:string/guide_report_accident_single	-1	单车事故		ДТП с одним автомобилем
+com.tinnove.wecarnavi:string/guide_report_accident_title	-1	事件类型（选填）		Тип события (необязательно)
+com.tinnove.wecarnavi:string/guide_report_closure_long	-1	长期封路		Долговременное перекрытие
+com.tinnove.wecarnavi:string/guide_report_closure_temp	-1	临时封路		Временное перекрытие
+com.tinnove.wecarnavi:string/guide_report_construction_block	-1	影响通行		Затрудняет проезд
+com.tinnove.wecarnavi:string/guide_report_construction_forbid	-1	无法通行		Проезд невозможен
+com.tinnove.wecarnavi:string/guide_report_jam_light	-1	轻微拥堵		Небольшой затор
+com.tinnove.wecarnavi:string/guide_report_jam_weight	-1	严重拥堵		Сильный затор
+com.tinnove.wecarnavi:string/guide_report_lane_left	-1	左		Слева
+com.tinnove.wecarnavi:string/guide_report_lane_mid	-1	中		Посередине
+com.tinnove.wecarnavi:string/guide_report_lane_reverse	-1	对向		Встречная
+com.tinnove.wecarnavi:string/guide_report_lane_right	-1	右		Справа
+com.tinnove.wecarnavi:string/guide_report_lane_same	-1	同向		Попутная
+com.tinnove.wecarnavi:string/guide_report_lane_title	-1	车道信息（选填）		Полоса (необязательно)
+com.tinnove.wecarnavi:string/guide_report_loading	-1	正在上报中…		Отправка…
+com.tinnove.wecarnavi:string/guide_report_pond_block	-1	影响通行		Затрудняет проезд
+com.tinnove.wecarnavi:string/guide_report_pond_forbid	-1	无法通行		Проезд невозможен
+com.tinnove.wecarnavi:string/guide_route_default	-1	无名路		Дорога без названия
+com.tinnove.wecarnavi:string/guide_route_switch_invalid_path	-1	无效的路线		Неверный маршрут
+com.tinnove.wecarnavi:string/guide_route_switch_success	-1	路线切换成功		Маршрут изменён
+com.tinnove.wecarnavi:string/guide_search_no_result	-1	未查找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/guide_share_journey	-1	分享行程		Поделиться поездкой
+com.tinnove.wecarnavi:string/guide_share_sms	-1	短信分享		Отправить по SMS
+com.tinnove.wecarnavi:string/guide_share_sms_history_clear	-1	清空历史记录		Очистить историю
+com.tinnove.wecarnavi:string/guide_share_sms_history_clear_tip	-1	确认清空所有联系人的历史记录？		Очистить всю историю контактов?
+com.tinnove.wecarnavi:string/guide_share_sms_history_no	-1	暂无历史联系人		Истории контактов пока нет
+com.tinnove.wecarnavi:string/guide_share_sms_tip	-1	输入手机号或选取联系人，即可分享给对方		Введите номер или выберите контакт, чтобы поделиться поездкой
+com.tinnove.wecarnavi:string/guide_share_wechat	-1	微信分享		Отправить в WeChat
+com.tinnove.wecarnavi:string/guide_share_wechat_tip	-1	微信扫描二维码，即可将线路和位置分享给微信联系人		Отсканируйте QR-код в WeChat, чтобы отправить маршрут и местоположение контактам
+com.tinnove.wecarnavi:string/guide_to_via	-1	到达途经点		Промежуточная точка достигнута
+com.tinnove.wecarnavi:string/guide_tollgate_pay_about	-1	预计		Примерно
+com.tinnove.wecarnavi:string/guide_tollgate_pay_yuan	-1	元		юан.
+com.tinnove.wecarnavi:string/guide_turn_now	-1	现在		Сейчас
+com.tinnove.wecarnavi:string/guide_via_fail	-1	途经点获取失败		Не удалось получить промежуточную точку
+com.tinnove.wecarnavi:string/guide_yaw_calculate	-1	已偏航，重新规划中...		Вы отклонились от маршрута. Перестроение...
+com.tinnove.wecarnavi:string/guide_yaw_success	-1	已重新规划路线		Маршрут перестроен
+com.tinnove.wecarnavi:string/handcart_amap	-1	高德互联		Подключение Amap
+com.tinnove.wecarnavi:string/handcart_bind	-1	已关联		Привязано
+com.tinnove.wecarnavi:string/handcart_exit_title	-1	退出账号可解除互联，是否确认退出？		Выход из аккаунта разорвёт привязку. Выйти?
+com.tinnove.wecarnavi:string/handcart_help	-1	如何将地点发送至车机导航？		Как отправить место в автомобильную навигацию?
+com.tinnove.wecarnavi:string/handcart_help1_text1	-1	第 1 步		Шаг 1
+com.tinnove.wecarnavi:string/handcart_help1_text2	-1	高德手机端点击		В Amap на телефоне нажмите
+com.tinnove.wecarnavi:string/handcart_help1_text3	-1	，将地点/路线发送		, чтобы отправить место или маршрут
+com.tinnove.wecarnavi:string/handcart_help1_text4	-1	至车		в автомобиль
+com.tinnove.wecarnavi:string/handcart_help2_text1	-1	第 2 步		Шаг 2
+com.tinnove.wecarnavi:string/handcart_help2_text2	-1	"在手机高德地图查找地点或路线时，点击""手车互联""图标即可发送到车机"		При поиске места или маршрута в Amap на телефоне нажмите значок подключения к автомобилю.
+com.tinnove.wecarnavi:string/handcart_help2_text3	-1	打开车机，将自动为您规划路线并导航		При включении автомобильного приложения маршрут будет построен и навигация начнётся автоматически.
+com.tinnove.wecarnavi:string/handcart_help3_text1	-1	手机、车机实时同步历史记录		Синхронизация истории телефона и автомобиля
+com.tinnove.wecarnavi:string/handcart_help3_text2	-1	手机和车机上搜索历史，收藏夹会相互同步，可在手机和车机的搜索页中查看		История поиска и избранное синхронизируются. Их можно посмотреть на странице поиска телефона или автомобиля.
+com.tinnove.wecarnavi:string/handcart_linkage_navi	-1	登录高德，手机发送地点到车导航并同步数据		Войдите в Amap, чтобы отправлять места с телефона в автомобиль и синхронизировать данные
+com.tinnove.wecarnavi:string/handcart_linkage_navi_tip	-1	打开车载高德地图，自动规划路线		Откройте Amap в автомобиле для автоматического построения маршрута
+com.tinnove.wecarnavi:string/handcart_sync_data	-1	数据同步		Синхронизация данных
+com.tinnove.wecarnavi:string/handcart_sync_data_tip	-1	收藏夹、历史记录，双端自动同步		Избранное и история автоматически синхронизируются на обоих устройствах
+com.tinnove.wecarnavi:string/handcart_think_again	-1	再想想		Подумать ещё
+com.tinnove.wecarnavi:string/handcart_title	-1	手车互联		Подключение телефона
+com.tinnove.wecarnavi:string/handcart_wechat	-1	微信互联		Подключение WeChat
+com.tinnove.wecarnavi:string/has_been_deleted	-1	已删除		Удалено
+com.tinnove.wecarnavi:string/head_2d	-1	2D车头向上		2D по направлению движения
+com.tinnove.wecarnavi:string/head_3d	-1	3D车头向上		3D по направлению движения
+com.tinnove.wecarnavi:string/heavy_rain	-1	大雨		Сильный дождь
+com.tinnove.wecarnavi:string/home_charge_station	-1	首页充电站		Зарядные станции на главном экране
+com.tinnove.wecarnavi:string/home_page_tip_restrict_car_plate	-1	您的车辆今日限行，请合理安排出行		Сегодня для вашего автомобиля действуют ограничения движения. Планируйте поездку с учётом них.
+com.tinnove.wecarnavi:string/home_page_tip_restrict_download	-1	下载		Скачать
+com.tinnove.wecarnavi:string/home_page_tip_restrict_no_car_plate	-1	%1$s今日限行%2$s和%3$s		%1$s: сегодня ограничено движение для %2$s и %3$s
+com.tinnove.wecarnavi:string/home_page_tip_restrict_no_car_plate_one	-1	%1$s今日限行%2$s		%1$s: сегодня ограничено движение для %2$s
+com.tinnove.wecarnavi:string/home_page_tip_restrict_no_offline	-1	缺少离线数据，请下载或使用在线导航		Нет офлайн-данных. Скачайте их или используйте онлайн-навигацию.
+com.tinnove.wecarnavi:string/home_page_tip_restrict_setting	-1	设置		Настройки
+com.tinnove.wecarnavi:string/home_page_tip_restrict_update	-1	查看		Посмотреть
+com.tinnove.wecarnavi:string/home_page_tip_restrict_update_offline	-1	离线地图数据更新		Обновление офлайн-карт
+com.tinnove.wecarnavi:string/ignore_continue_guide	-1	忽略		Игнорировать
+com.tinnove.wecarnavi:string/ignore_text	-1	不需要		Не нужно
+com.tinnove.wecarnavi:string/in_business	-1	营业中		Открыто
+com.tinnove.wecarnavi:string/in_end	-1	到底了！		Конец списка
+com.tinnove.wecarnavi:string/in_limit	-1	限行中		Действует ограничение движения
+com.tinnove.wecarnavi:string/input_company_please	-1	请在地图内设置公司的地址		Укажите адрес работы на карте
+com.tinnove.wecarnavi:string/input_destination_please	-1	请在地图内输入目的地		Введите пункт назначения на карте
+com.tinnove.wecarnavi:string/input_home_please	-1	请在地图内设置家的地址		Укажите адрес дома на карте
+com.tinnove.wecarnavi:string/input_most_11	-1	最多输入11位号码		Номер не длиннее 11 цифр
+com.tinnove.wecarnavi:string/intelligent_navi	-1	智能领航		Умная навигационная помощь
+com.tinnove.wecarnavi:string/interactive_preference	-1	交互提示偏好		Объём подсказок
+com.tinnove.wecarnavi:string/invalid_route_data_try_again	-1	请重新刷新路线		Обновите маршрут
+com.tinnove.wecarnavi:string/join	-1	加入		Присоединиться
+com.tinnove.wecarnavi:string/join_team	-1	集结		Собраться в группу
+com.tinnove.wecarnavi:string/journey_share_fail	-1	行程分享失败		Не удалось поделиться поездкой
+com.tinnove.wecarnavi:string/journey_share_success	-1	行程分享成功		Поездка отправлена
+com.tinnove.wecarnavi:string/journey_sharing	-1	正在分享行程		Отправка поездки
+com.tinnove.wecarnavi:string/jump_to_system_setting	-1	跳转到系统设置页		Открыть системные настройки
+com.tinnove.wecarnavi:string/keep_north_up_while_preview	-1	全览路线时保持正北向上		Север сверху при обзоре маршрута
+com.tinnove.wecarnavi:string/kilometer	-1	公里		км
+com.tinnove.wecarnavi:string/kilometre_txt	-1	公里		км
+com.tinnove.wecarnavi:string/lane_level_title	-1	车道级导航		Навигация по полосам
+com.tinnove.wecarnavi:string/limit_city	-1	限行城市		Город с ограничениями движения
+com.tinnove.wecarnavi:string/limit_city_no_rules	-1	本城市无本地限行规定		В этом городе нет местных ограничений движения
+com.tinnove.wecarnavi:string/limit_city_policy	-1	限行政策		Правила ограничений движения
+com.tinnove.wecarnavi:string/load_fail_click_retry	-1	加载失败，点击重试		Не удалось загрузить. Нажмите для повтора.
+com.tinnove.wecarnavi:string/load_qrcode_error	-1	加载二维码失败		Не удалось загрузить QR-код
+com.tinnove.wecarnavi:string/login	-1	登录		Войти
+com.tinnove.wecarnavi:string/login_agreement_and	-1	和		и
+com.tinnove.wecarnavi:string/login_amap	-1	登录高德，和微信建立互联		Войдите в Amap для подключения WeChat
+com.tinnove.wecarnavi:string/login_chat_qrcode_tip	-1	⼿机⾼德APP扫码登录\n查看更多实时路况		Отсканируйте код в Amap на телефоне,\nчтобы видеть больше дорожной информации
+com.tinnove.wecarnavi:string/login_check_register_failed	-1	查询是否已注册失败		Не удалось проверить регистрацию
+com.tinnove.wecarnavi:string/login_clause	-1	《高德服务条款》		«Условия использования Amap»
+com.tinnove.wecarnavi:string/login_click_agree	-1	点击同意		Нажмите «Согласен»
+com.tinnove.wecarnavi:string/login_code_error	-1	验证码格式错误		Неверный формат кода подтверждения
+com.tinnove.wecarnavi:string/login_error_code	-1	验证码错误		Неверный код подтверждения
+com.tinnove.wecarnavi:string/login_error_retry	-1	登录失败，请稍后重试		Не удалось войти. Повторите попытку позже.
+com.tinnove.wecarnavi:string/login_get_code	-1	获取验证码		Получить код
+com.tinnove.wecarnavi:string/login_get_code_failed	-1	验证码获取失败，请稍后重试		Не удалось получить код. Повторите попытку позже.
+com.tinnove.wecarnavi:string/login_get_code_fast	-1	验证码获取过快		Слишком частые запросы кода
+com.tinnove.wecarnavi:string/login_geting_code	-1	正在获取验证码		Получение кода
+com.tinnove.wecarnavi:string/login_input_code	-1	请输入验证码		Введите код подтверждения
+com.tinnove.wecarnavi:string/login_input_code_hint	-1	输入验证码		Введите код
+com.tinnove.wecarnavi:string/login_input_mobile	-1	请输入手机号		Введите номер телефона
+com.tinnove.wecarnavi:string/login_loading	-1	加载中		Загрузка
+com.tinnove.wecarnavi:string/login_mobile	-1	手机号登录		Вход по номеру телефона
+com.tinnove.wecarnavi:string/login_mobile_already_unbind	-1	手机号未注册，请注册后登录		Номер не зарегистрирован. Сначала зарегистрируйтесь.
+com.tinnove.wecarnavi:string/login_mobile_error	-1	手机号格式错误		Неверный формат номера
+com.tinnove.wecarnavi:string/login_net_error	-1	无网络信号，请检查设置		Нет сигнала сети. Проверьте настройки.
+com.tinnove.wecarnavi:string/login_policy	-1	《高德隐私权政策》		«Политика конфиденциальности Amap»
+com.tinnove.wecarnavi:string/login_qrcode	-1	二维码登录		Вход по QR-коду
+com.tinnove.wecarnavi:string/login_qrcode_failed	-1	获取二维码失败		Не удалось получить QR-код
+com.tinnove.wecarnavi:string/login_qrcode_failed_try_again	-1	获取⼆维码失败，请检查\n⽹络后重试		Не удалось получить QR-код. Проверьте\nсеть и повторите попытку.
+com.tinnove.wecarnavi:string/login_qrcode_refresh	-1	请检查网络后刷新		Проверьте сеть и обновите
+com.tinnove.wecarnavi:string/login_qrcode_refresh1	-1	尝试刷新，或检查网络后重试		Обновите или проверьте сеть и повторите попытку
+com.tinnove.wecarnavi:string/login_qrcode_tip1	-1	使用高德地图手机版扫码登录		Отсканируйте код в Amap на телефоне для входа
+com.tinnove.wecarnavi:string/login_qrcode_tip2	-1	（需要8.3.0及以上版本）		(нужна версия 8.3.0 или новее)
+com.tinnove.wecarnavi:string/login_qrcode_tip3	-1	手机高德扫码登录即可使用互联		Войдите по коду в Amap на телефоне для подключения
+com.tinnove.wecarnavi:string/login_qrcode_wait	-1	登录中，请稍等		Вход. Подождите.
+com.tinnove.wecarnavi:string/login_read_agreement	-1	请先阅读并勾选条款		Прочитайте и отметьте условия
+com.tinnove.wecarnavi:string/login_refresh	-1	点击刷新		Нажмите для обновления
+com.tinnove.wecarnavi:string/login_second_retry	-1	S后重试		с до повтора
+com.tinnove.wecarnavi:string/login_send_to_mobile	-1	已发送到手机号		Отправлено на номер телефона
+com.tinnove.wecarnavi:string/login_wait	-1	登录中，请稍等		Вход. Подождите.
+com.tinnove.wecarnavi:string/loginout_error	-1	退出失败，请稍后重试		Не удалось выйти. Повторите попытку позже.
+com.tinnove.wecarnavi:string/main_license_electric	-1	纯电动		Электромобиль
+com.tinnove.wecarnavi:string/main_license_energy_types	-1	能源类型		Тип силовой установки
+com.tinnove.wecarnavi:string/main_license_energy_types_tram	-1	纯电车		Электромобиль
+com.tinnove.wecarnavi:string/main_license_gas	-1	燃油车		Автомобиль с ДВС
+com.tinnove.wecarnavi:string/main_license_gas_both	-1	油气两用		Бензин и газ
+com.tinnove.wecarnavi:string/main_license_hint	-1	请输入车牌号		Введите госномер
+com.tinnove.wecarnavi:string/main_license_hybrid	-1	油电混动		Гибрид
+com.tinnove.wecarnavi:string/main_license_name	-1	车牌号码		Госномер
+com.tinnove.wecarnavi:string/main_license_power_type	-1	能源类型		Тип силовой установки
+com.tinnove.wecarnavi:string/main_license_save	-1	保存		Сохранить
+com.tinnove.wecarnavi:string/main_license_save_success	-1	保存成功		Сохранено
+com.tinnove.wecarnavi:string/main_license_title	-1	车牌设置		Настройка госномера
+com.tinnove.wecarnavi:string/main_map_tips_btn	-1	查看		Посмотреть
+com.tinnove.wecarnavi:string/main_sdk_overdue_tips	-1	SDK已过期，请联系开发人员!		Срок SDK истёк. Свяжитесь с разработчиком.
+com.tinnove.wecarnavi:string/map_pick_point	-1	地图选点		Выбрать точку на карте
+com.tinnove.wecarnavi:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.wecarnavi:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.wecarnavi:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.wecarnavi:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.wecarnavi:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.wecarnavi:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.wecarnavi:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.wecarnavi:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.wecarnavi:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.wecarnavi:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.wecarnavi:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.wecarnavi:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.wecarnavi:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.wecarnavi:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.wecarnavi:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.wecarnavi:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.wecarnavi:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.wecarnavi:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.wecarnavi:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.wecarnavi:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.wecarnavi:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.wecarnavi:string/max_electric_txt	-1	最大电量		Максимальный заряд
+com.tinnove.wecarnavi:string/meter	-1	米		м
+com.tinnove.wecarnavi:string/meter_txt	-1	还能行驶多少米		Оставшийся путь в метрах
+com.tinnove.wecarnavi:string/mobile_register	-1	手机号注册		Регистрация по телефону
+com.tinnove.wecarnavi:string/modify_txt	-1	修改		Изменить
+com.tinnove.wecarnavi:string/more_fast_route	-1	更快路线		Более быстрый маршрут
+com.tinnove.wecarnavi:string/more_fast_route_cancel	-1	忽略%ss		Игнорировать (%s с)
+com.tinnove.wecarnavi:string/more_fast_route_tip	-1	找到更快路线，节省%s		Найден маршрут быстрее на %s
+com.tinnove.wecarnavi:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.wecarnavi:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.wecarnavi:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.wecarnavi:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.wecarnavi:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.wecarnavi:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.wecarnavi:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.wecarnavi:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.wecarnavi:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.wecarnavi:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.wecarnavi:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.wecarnavi:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.wecarnavi:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.wecarnavi:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.wecarnavi:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.wecarnavi:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.wecarnavi:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.wecarnavi:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.wecarnavi:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.wecarnavi:string/multiple_routes_add_via_success	-1	途经点添加成功		Промежуточная точка добавлена
+com.tinnove.wecarnavi:string/multiple_routes_continuation_points_add_via_success	-1	添加成功		Добавлено
+com.tinnove.wecarnavi:string/multiple_routes_delete_via_point_success	-1	已删除途经点		Промежуточная точка удалена
+com.tinnove.wecarnavi:string/multiple_routes_familiar_mode	-1	探路		Обзор маршрута
+com.tinnove.wecarnavi:string/multiple_routes_start_navi	-1	开始导航		Начать навигацию
+com.tinnove.wecarnavi:string/multiple_routes_start_navi_with_countdown	-1	开始导航 %sS		Начать навигацию (%s с)
+com.tinnove.wecarnavi:string/multiroute_dest_search_charging_ele_v2_title	-1	终点附近的充电站		Зарядные станции у пункта назначения
+com.tinnove.wecarnavi:string/multiroute_dest_search_charging_title	-1	终点有以下充电站，请提前选择		Выберите заранее зарядную станцию у пункта назначения
+com.tinnove.wecarnavi:string/multiroute_dest_search_parking_title	-1	终点有以下停车点，请提前选择		Выберите заранее парковку у пункта назначения
+com.tinnove.wecarnavi:string/multiroute_dest_search_parking_v2_title	-1	终点附近的停车场		Парковки у пункта назначения
+com.tinnove.wecarnavi:string/mute	-1	静音		Без звука
+com.tinnove.wecarnavi:string/my_position	-1	我的位置		Моё местоположение
+com.tinnove.wecarnavi:string/my_position_tips_loading	-1	位置获取中…		Определение местоположения…
+com.tinnove.wecarnavi:string/n_add_point_add_via_point	-1	添加途经点		Добавить промежуточную точку
+com.tinnove.wecarnavi:string/n_add_point_address_input_hint	-1	输入途经点		Введите промежуточную точку
+com.tinnove.wecarnavi:string/n_add_point_del_via_point	-1	删除途经点		Удалить промежуточную точку
+com.tinnove.wecarnavi:string/n_add_point_dialog_cancel	-1	放弃		Отказаться
+com.tinnove.wecarnavi:string/n_add_point_dialog_content	-1	放弃已编辑的内容？		Не сохранять изменения?
+com.tinnove.wecarnavi:string/n_add_point_dialog_sure	-1	继续编辑		Продолжить редактирование
+com.tinnove.wecarnavi:string/n_add_point_my_location	-1	我的位置		Моё местоположение
+com.tinnove.wecarnavi:string/n_car_plate_setting_error_tip1	-1	请输入正确的车牌		Введите правильный госномер
+com.tinnove.wecarnavi:string/n_car_plate_setting_error_tip2	-1	最多输入%1$s位数		Не более %1$s символов
+com.tinnove.wecarnavi:string/n_car_plate_setting_error_tip3	-1	车牌号格式不正确		Неверный формат госномера
+com.tinnove.wecarnavi:string/n_gps_content_locating	-1	定位中		Определение местоположения
+com.tinnove.wecarnavi:string/n_gps_content_locating_tip	-1	请行驶到开阔地带		Выезжайте на открытое место
+com.tinnove.wecarnavi:string/n_gps_direction_speed_text	-1	航向速度		Курс и скорость
+com.tinnove.wecarnavi:string/n_gps_signal	-1	信号强度：%1$s		Сила сигнала: %1$s
+com.tinnove.wecarnavi:string/n_gps_signal_count_beidou	-1	北斗:%1$d		BeiDou: %1$d
+com.tinnove.wecarnavi:string/n_gps_signal_level1	-1	很好		Отличный
+com.tinnove.wecarnavi:string/n_gps_signal_level2	-1	好		Хороший
+com.tinnove.wecarnavi:string/n_gps_signal_level3	-1	中等		Средний
+com.tinnove.wecarnavi:string/n_gps_signal_level4	-1	差		Слабый
+com.tinnove.wecarnavi:string/n_gps_signal_level5	-1	很差		Очень слабый
+com.tinnove.wecarnavi:string/n_gps_signal_text	-1	信号强度		Сила сигнала
+com.tinnove.wecarnavi:string/n_gps_title_cost_time	-1	耗时：		Затрачено времени:
+com.tinnove.wecarnavi:string/n_gps_title_sat_all_text	-1	卫星总数		Всего спутников
+com.tinnove.wecarnavi:string/n_gps_title_sat_use_text	-1	可用卫星		Доступные спутники
+com.tinnove.wecarnavi:string/navi_res_along_fastest	-1	最快		Быстрее всего
+com.tinnove.wecarnavi:string/navi_res_along_on_the_way	-1	最顺路		Удобнее по пути
+com.tinnove.wecarnavi:string/navi_res_along_on_the_way_time	-1	时间相近		Похожее время
+com.tinnove.wecarnavi:string/navi_res_charge_alternative	-1	备选%s		Альтернатива %s
+com.tinnove.wecarnavi:string/navi_res_charge_alternative_all_info	-1	空%s/共%s		Свободно: %s / всего: %s
+com.tinnove.wecarnavi:string/navi_res_charge_alternative_focus	-1	丨充电 %s		| Зарядка: %s
+com.tinnove.wecarnavi:string/navi_res_charge_alternative_total	-1	共%s		Всего: %s
+com.tinnove.wecarnavi:string/navi_res_charge_alternative_without_index	-1	备选		Альтернатива
+com.tinnove.wecarnavi:string/navi_res_charge_fast	-1	快%s		Быстрых: %s
+com.tinnove.wecarnavi:string/navi_res_charge_recommend	-1	推荐%s		Рекомендуется: %s
+com.tinnove.wecarnavi:string/navi_res_charge_recommend_without_index	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/navi_res_charge_slow	-1	慢%s		Медленных: %s
+com.tinnove.wecarnavi:string/navi_res_custom_mix_fork_name	-1	路口%d		Перекрёсток %d
+com.tinnove.wecarnavi:string/navi_res_dest_charging_title	-1	终点找充电站		Найти зарядку у пункта назначения
+com.tinnove.wecarnavi:string/navi_res_dest_parking_title	-1	终点找停车		Найти парковку у пункта назначения
+com.tinnove.wecarnavi:string/navi_res_estimate_arrive_time	-1	%s 到达		Прибытие: %s
+com.tinnove.wecarnavi:string/navi_res_exhausted	-1	预计电量耗尽		Заряд, предположительно, закончится
+com.tinnove.wecarnavi:string/navi_res_exhausted2	-1	电量耗尽		Заряд исчерпан
+com.tinnove.wecarnavi:string/navi_res_guide_interval_velocity_end	-1	区间终点		Конец участка контроля
+com.tinnove.wecarnavi:string/navi_res_guide_interval_velocity_start	-1	区间起点		Начало участка контроля
+com.tinnove.wecarnavi:string/navi_res_guide_traffic_rounds	-1	轮		цикл
+com.tinnove.wecarnavi:string/navi_res_guide_traffic_second	-1	秒		с
+com.tinnove.wecarnavi:string/navi_res_guide_traffic_wait	-1	等		Ожидание
+com.tinnove.wecarnavi:string/navi_res_lane	-1	%s车道		Полоса %s
+com.tinnove.wecarnavi:string/navi_res_route_through	-1	经%s		Через %s
+com.tinnove.wecarnavi:string/navi_res_spend_more	-1	多%s		На %s больше
+com.tinnove.wecarnavi:string/navi_res_user_group_bubble_offline	-1	[离线] %1$s		[Не в сети] %1$s
+com.tinnove.wecarnavi:string/navi_res_user_group_bubble_time	-1	最近更新%1$s前		Обновлено %1$s назад
+com.tinnove.wecarnavi:string/near_by_search_arboretum	-1	植物园		Ботанический сад
+com.tinnove.wecarnavi:string/near_by_search_car_bank	-1	银行		Банк
+com.tinnove.wecarnavi:string/near_by_search_car_maintaince	-1	汽车保养		Обслуживание автомобиля
+com.tinnove.wecarnavi:string/near_by_search_car_service	-1	汽车服务		Автосервисы
+com.tinnove.wecarnavi:string/near_by_search_car_shopping	-1	购物		Покупки
+com.tinnove.wecarnavi:string/near_by_search_car_wash	-1	洗车		Мойка
+com.tinnove.wecarnavi:string/near_by_search_covid	-1	核酸		ПЦР-тест
+com.tinnove.wecarnavi:string/near_by_search_delicious_cafe	-1	咖啡店		Кофейня
+com.tinnove.wecarnavi:string/near_by_search_delicious_chinese_food	-1	中餐		Китайская кухня
+com.tinnove.wecarnavi:string/near_by_search_delicious_dessert	-1	面包甜点		Выпечка и десерты
+com.tinnove.wecarnavi:string/near_by_search_delicious_hot_pot	-1	火锅		Хого
+com.tinnove.wecarnavi:string/near_by_search_delicious_sicuan_food	-1	川菜		Сычуаньская кухня
+com.tinnove.wecarnavi:string/near_by_search_delicious_tea	-1	茶餐厅		Кафе
+com.tinnove.wecarnavi:string/near_by_search_delicious_title	-1	美食餐饮		Еда и рестораны
+com.tinnove.wecarnavi:string/near_by_search_delicious_western_food	-1	西餐		Европейская кухня
+com.tinnove.wecarnavi:string/near_by_search_entertainment_bar	-1	酒吧		Бар
+com.tinnove.wecarnavi:string/near_by_search_entertainment_bath	-1	洗浴足疗		Бани и массаж стоп
+com.tinnove.wecarnavi:string/near_by_search_entertainment_cinema	-1	电影院		Кинотеатр
+com.tinnove.wecarnavi:string/near_by_search_entertainment_fitness	-1	健身		Фитнес
+com.tinnove.wecarnavi:string/near_by_search_entertainment_net_bar	-1	网吧		Интернет-кафе
+com.tinnove.wecarnavi:string/near_by_search_entertainment_title	-1	休闲娱乐		Досуг
+com.tinnove.wecarnavi:string/near_by_search_fast_food	-1	小吃快餐		Быстрое питание
+com.tinnove.wecarnavi:string/near_by_search_hotel	-1	酒店		Отель
+com.tinnove.wecarnavi:string/near_by_search_hotel_apartment_hotel	-1	公寓式酒店		Апарт-отель
+com.tinnove.wecarnavi:string/near_by_search_hotel_express_hotel	-1	快捷酒店		Бюджетный отель
+com.tinnove.wecarnavi:string/near_by_search_hotel_hostel	-1	旅馆招待所		Гостиница
+com.tinnove.wecarnavi:string/near_by_search_hotel_starred_hotel	-1	星级酒店		Звёздочный отель
+com.tinnove.wecarnavi:string/near_by_search_hotel_title	-1	酒店住宿		Гостиницы и жильё
+com.tinnove.wecarnavi:string/near_by_search_hotel_youth_hotel	-1	青年旅社		Хостел
+com.tinnove.wecarnavi:string/near_by_search_living_services_bank	-1	网吧		Интернет-кафе
+com.tinnove.wecarnavi:string/near_by_search_living_services_beauty_hair_salon	-1	美容美发		Салон красоты и парикмахерская
+com.tinnove.wecarnavi:string/near_by_search_living_services_beauty_salon	-1	美容院		Салон красоты
+com.tinnove.wecarnavi:string/near_by_search_living_services_express_delivery	-1	快递		Доставка
+com.tinnove.wecarnavi:string/near_by_search_living_services_hospital	-1	医院		Больница
+com.tinnove.wecarnavi:string/near_by_search_living_services_pharmacy	-1	药店		Аптека
+com.tinnove.wecarnavi:string/near_by_search_living_services_title	-1	生活服务		Бытовые услуги
+com.tinnove.wecarnavi:string/near_by_search_living_services_wc	-1	公厕		Общественный туалет
+com.tinnove.wecarnavi:string/near_by_search_parent_child	-1	亲子		С детьми
+com.tinnove.wecarnavi:string/near_by_search_park	-1	公园		Парк
+com.tinnove.wecarnavi:string/near_by_search_parking_lot	-1	停车场		Парковка
+com.tinnove.wecarnavi:string/near_by_search_search_bar_content	-1	在%1$s周边搜		Поиск рядом с %1$s
+com.tinnove.wecarnavi:string/near_by_search_shopping_convenience_store	-1	便利店		Магазин у дома
+com.tinnove.wecarnavi:string/near_by_search_shopping_mall	-1	商场		Торговый центр
+com.tinnove.wecarnavi:string/near_by_search_shopping_supermarket	-1	超市		Супермаркет
+com.tinnove.wecarnavi:string/near_by_search_shopping_title	-1	购物消费		Покупки
+com.tinnove.wecarnavi:string/near_by_search_title	-1	周边搜		Поиск поблизости
+com.tinnove.wecarnavi:string/near_by_search_title_delicious	-1	美食		Еда
+com.tinnove.wecarnavi:string/near_by_search_title_entertainment	-1	娱乐		Развлечения
+com.tinnove.wecarnavi:string/near_by_search_title_hotel	-1	住宿		Жильё
+com.tinnove.wecarnavi:string/near_by_search_title_interesting	-1	景点		Достопримечательности
+com.tinnove.wecarnavi:string/near_by_search_title_living	-1	生活		Повседневное
+com.tinnove.wecarnavi:string/near_by_search_title_recommend	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/near_by_search_title_service	-1	服务		Услуги
+com.tinnove.wecarnavi:string/near_by_search_title_shopping	-1	购物		Покупки
+com.tinnove.wecarnavi:string/near_by_search_title_transit	-1	出行		Транспорт
+com.tinnove.wecarnavi:string/near_by_search_tour_title	-1	旅游景点		Достопримечательности
+com.tinnove.wecarnavi:string/near_by_search_transit_airport	-1	飞机场		Аэропорт
+com.tinnove.wecarnavi:string/near_by_search_transit_bus_station	-1	公交站		Автобусная остановка
+com.tinnove.wecarnavi:string/near_by_search_transit_long_trip_station	-1	长途车站		Автовокзал
+com.tinnove.wecarnavi:string/near_by_search_transit_railway_station	-1	火车站		Железнодорожный вокзал
+com.tinnove.wecarnavi:string/near_by_search_transit_service_area	-1	服务区		Зона отдыха
+com.tinnove.wecarnavi:string/near_by_search_transit_subway_station	-1	地铁站		Станция метро
+com.tinnove.wecarnavi:string/near_by_search_transit_title	-1	交通出行		Транспорт
+com.tinnove.wecarnavi:string/near_by_search_zoo	-1	动物园		Зоопарк
+com.tinnove.wecarnavi:string/near_the_map_pick	-1	地图选点附近		Рядом с выбранной точкой карты
+com.tinnove.wecarnavi:string/nearby	-1	附近		Поблизости
+com.tinnove.wecarnavi:string/nearby_placeholder	-1	%1$s%2$s附近		Рядом с %1$s%2$s
+com.tinnove.wecarnavi:string/need_to_charge	-1	需充电%1$s次		Зарядок: %1$s
+com.tinnove.wecarnavi:string/need_to_charge_add	-1	需要补能%1$s次到达终点为您推荐沿途充电站		До пункта назначения потребуется зарядок: %1$s. Предлагаем станции по пути.
+com.tinnove.wecarnavi:string/need_to_charge_time	-1	,约%1$s		, примерно %1$s
+com.tinnove.wecarnavi:string/network_error_try_again	-1	⽹络错误，请重试		Ошибка сети. Повторите попытку.
+com.tinnove.wecarnavi:string/next_remaining_meter	-1	随后%s		Затем %s
+com.tinnove.wecarnavi:string/nid_full_view_acc	-1	自适应巡航		Адаптивный круиз-контроль
+com.tinnove.wecarnavi:string/nid_full_view_iacc	-1	车道巡航		Помощь при движении по полосе
+com.tinnove.wecarnavi:string/nid_full_view_nca	-1	领航辅助		Навигационная помощь
+com.tinnove.wecarnavi:string/no_filter_result	-1	抱歉，未找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/no_history	-1	无痕模式		Режим без истории
+com.tinnove.wecarnavi:string/no_net_late_try	-1	当前网络异常，请稍后再试		Ошибка сети. Повторите попытку позже.
+com.tinnove.wecarnavi:string/no_net_not_support_limit_city_detail	-1	无网络，不支持查看限行政策		Без сети сведения об ограничениях движения недоступны
+com.tinnove.wecarnavi:string/no_net_tip	-1	无网络连接，请检查网络后重试		Нет сети. Проверьте подключение и повторите попытку.
+com.tinnove.wecarnavi:string/no_network_no_download_offline_map	-1	路线规划失败，所在城市未下载离线数据		Не удалось построить маршрут. Для этого города не скачаны офлайн-данные.
+com.tinnove.wecarnavi:string/no_network_no_download_offline_map_for_choose_city	-1	当前网络异常，定位城市无离线数据		Ошибка сети. Нет офлайн-данных для текущего города.
+com.tinnove.wecarnavi:string/no_network_please_check	-1	无网络信号，请检查设置		Нет сигнала сети. Проверьте настройки.
+com.tinnove.wecarnavi:string/no_network_please_check_and_try_again	-1	无网络信号，请检查重试		Нет сигнала сети. Проверьте подключение и повторите попытку.
+com.tinnove.wecarnavi:string/no_network_please_check_or_download_offline_map	-1	请检查网络，或下载离线地图		Проверьте сеть или скачайте офлайн-карты
+com.tinnove.wecarnavi:string/no_network_please_try_again	-1	当前网络异常，请联网后重试		Ошибка сети. Подключитесь и повторите попытку.
+com.tinnove.wecarnavi:string/norma_guide	-1	经典导航		Классическая навигация
+com.tinnove.wecarnavi:string/north_2d	-1	2D正北向上		2D севером вверх
+com.tinnove.wecarnavi:string/not_downloaded	-1	未下载		Не скачано
+com.tinnove.wecarnavi:string/not_in_business	-1	未营业		Закрыто
+com.tinnove.wecarnavi:string/notice_txt	-1	公告信息		Объявления
+com.tinnove.wecarnavi:string/num_navi_txt	-1	次导航		поездок с навигацией
+com.tinnove.wecarnavi:string/num_send	-1	发送		Отправить
+com.tinnove.wecarnavi:string/offline_download_all_pause	-1	全部暂停		Приостановить всё
+com.tinnove.wecarnavi:string/offline_download_all_start	-1	全部开始		Начать всё
+com.tinnove.wecarnavi:string/offline_download_all_update	-1	全部更新		Обновить всё
+com.tinnove.wecarnavi:string/offline_download_allcity	-1	全部城市		Все города
+com.tinnove.wecarnavi:string/offline_download_completed	-1	下载完成		Скачано
+com.tinnove.wecarnavi:string/offline_download_confirm_cancel_alldata	-1	确定要取消全省数据下载么		Отменить скачивание всей области?
+com.tinnove.wecarnavi:string/offline_download_confirm_cancel_data	-1	确定要取消下载吗		Отменить скачивание?
+com.tinnove.wecarnavi:string/offline_download_confirm_cancel_tips	-1	当前处于移动数据网络，是否继续下载？		Используются мобильные данные. Продолжить скачивание?
+com.tinnove.wecarnavi:string/offline_download_confirm_delete_alldata	-1	确定要删除全省数据么		Удалить данные всей области?
+com.tinnove.wecarnavi:string/offline_download_confirm_delete_alldata_sub	-1	"将会删除全部的""已下载""、""下载中""和""更新中""数据"		Будут удалены все скачанные, скачиваемые и обновляемые данные
+com.tinnove.wecarnavi:string/offline_download_confirm_delete_data	-1	确定要删除数据吗		Удалить данные?
+com.tinnove.wecarnavi:string/offline_download_current_city	-1	%1$s（当前城市）		%1$s (текущий город)
+com.tinnove.wecarnavi:string/offline_download_download	-1	下载		Скачать
+com.tinnove.wecarnavi:string/offline_download_fail	-1	下载失败，请重试		Не удалось скачать. Повторите попытку.
+com.tinnove.wecarnavi:string/offline_download_hasupdate	-1	有更新		Есть обновление
+com.tinnove.wecarnavi:string/offline_download_mine	-1	正在下载		Скачивание
+com.tinnove.wecarnavi:string/offline_download_net_error	-1	网络较差，已暂停下载		Слабая сеть. Скачивание приостановлено.
+com.tinnove.wecarnavi:string/offline_download_no_space	-1	存储空间不足		Недостаточно места
+com.tinnove.wecarnavi:string/offline_download_resume	-1	继续		Продолжить
+com.tinnove.wecarnavi:string/offline_download_unzipping	-1	解压中		Распаковка
+com.tinnove.wecarnavi:string/offline_download_up2date	-1	已下载		Скачано
+com.tinnove.wecarnavi:string/offline_download_update	-1	更新		Обновить
+com.tinnove.wecarnavi:string/offline_download_voice_net_error	-1	网络异常，已暂停下载		Ошибка сети. Скачивание приостановлено.
+com.tinnove.wecarnavi:string/offline_download_wait	-1	等待中		Ожидание
+com.tinnove.wecarnavi:string/offline_not_support	-1	离线模式下暂不支持		В офлайн-режиме пока не поддерживается
+com.tinnove.wecarnavi:string/offline_search_bar_hint	-1	请输入简体中文、拼音或首字母		Введите упрощённые иероглифы, пиньинь или начальные буквы
+com.tinnove.wecarnavi:string/offline_search_city_no_match	-1	没有找到相关城市		Подходящий город не найден
+com.tinnove.wecarnavi:string/offline_search_city_no_offline	-1	未下载城市数据，无法离线检索		Данные города не скачаны. Офлайн-поиск недоступен.
+com.tinnove.wecarnavi:string/offline_search_city_switched	-1	已切换至%s		Выбрано: %s
+com.tinnove.wecarnavi:string/offlinedownload_totlesize	-1	共%s		Всего: %s
+com.tinnove.wecarnavi:string/oil_station	-1	加油站		АЗС
+com.tinnove.wecarnavi:string/on_opposite	-1	在对面		На другой стороне
+com.tinnove.wecarnavi:string/on_the_way_txt	-1	最顺路		Удобнее по пути
+com.tinnove.wecarnavi:string/open_go_here	-1	去这里		Маршрут сюда
+com.tinnove.wecarnavi:string/open_multiple_routes_charge_station	-1	充电站		Зарядная станция
+com.tinnove.wecarnavi:string/open_setting_font_size_standard	-1	标准		Обычный
+com.tinnove.wecarnavi:string/operation_failed	-1	操作失败		Не удалось выполнить
+com.tinnove.wecarnavi:string/out_limit	-1	未限行		Ограничения движения нет
+com.tinnove.wecarnavi:string/over_speed	-1	超速 		Превышение скорости 
+com.tinnove.wecarnavi:string/parallel_road_error	-1	道路切换失败，请稍后再试		Не удалось сменить дорогу. Повторите попытку позже.
+com.tinnove.wecarnavi:string/park_fee_txt	-1	停车费用		Стоимость парковки
+com.tinnove.wecarnavi:string/park_search_switched_offline	-1	网络异常，已切换至离线		Ошибка сети. Включён офлайн-режим.
+com.tinnove.wecarnavi:string/parking	-1	停车场		Парковка
+com.tinnove.wecarnavi:string/parking_recommend_adas_right_tip	-1	查看		Посмотреть
+com.tinnove.wecarnavi:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.wecarnavi:string/permission_dialog_cancel	-1	取消		Отмена
+com.tinnove.wecarnavi:string/permission_dialog_setting	-1	设置		Настройки
+com.tinnove.wecarnavi:string/permission_dialog_tips	-1	已禁用相应权限，请手动授予		Разрешения отключены. Выдайте их вручную.
+com.tinnove.wecarnavi:string/phone_connect	-1	手机已连接		Телефон подключён
+com.tinnove.wecarnavi:string/phone_in_calling	-1	已在通话中		Уже идёт разговор
+com.tinnove.wecarnavi:string/phone_unconnect	-1	手机未连接		Телефон не подключён
+com.tinnove.wecarnavi:string/poi_detail_around_search	-1	周边搜		Поиск поблизости
+com.tinnove.wecarnavi:string/poi_detail_btn_add_via	-1	添加途经点		Добавить промежуточную точку
+com.tinnove.wecarnavi:string/poi_detail_btn_del_via	-1	删除途经点		Удалить промежуточную точку
+com.tinnove.wecarnavi:string/poi_detail_btn_set_end_destination	-1	设为目的地		Назначить пунктом назначения
+com.tinnove.wecarnavi:string/poi_detail_btn_set_terminal	-1	设为终点		Назначить конечной точкой
+com.tinnove.wecarnavi:string/poi_detail_btn_set_via	-1	设为途经点		Назначить промежуточной точкой
+com.tinnove.wecarnavi:string/poi_detail_btn_set_via_default	-1	先拖动地图选择位置		Сначала переместите карту и выберите место
+com.tinnove.wecarnavi:string/poi_detail_collect	-1	收藏		В избранное
+com.tinnove.wecarnavi:string/poi_detail_phone_title	-1	商户电话		Телефон организации
+com.tinnove.wecarnavi:string/poi_txt	-1	最顺路		Удобнее по пути
+com.tinnove.wecarnavi:string/previous_dest	-1	上一次目的地		Предыдущий пункт назначения
+com.tinnove.wecarnavi:string/price_txt	-1	¥2.24/度		¥2.24/кВт·ч
+com.tinnove.wecarnavi:string/protocol_qrcode_tip1	-1	请使用手机扫码查看		Отсканируйте код телефоном для просмотра
+com.tinnove.wecarnavi:string/protocol_qrcode_tip2	-1	请在确保驾驶安全的情况下使用		Используйте только при безопасных условиях вождения
+com.tinnove.wecarnavi:string/push_poi_no_data	-1	暂无收到的点		Полученных мест пока нет
+com.tinnove.wecarnavi:string/quit	-1	退出		Выйти
+com.tinnove.wecarnavi:string/rain	-1	雨		Дождь
+com.tinnove.wecarnavi:string/ready_go	-1	准备出发		Готовы к выезду
+com.tinnove.wecarnavi:string/recommend	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/recommend_departure_level	-1	出发层		Уровень отправления
+com.tinnove.wecarnavi:string/recommend_entrance	-1	进站口		Въезд на станцию
+com.tinnove.wecarnavi:string/recommend_following_pois	-1	为您推荐以下地点		Рекомендуемые места
+com.tinnove.wecarnavi:string/recommend_title	-1	推荐%s		Рекомендуется: %s
+com.tinnove.wecarnavi:string/recommend_title_without_index	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/recommend_txt	-1	推荐		Рекомендуется
+com.tinnove.wecarnavi:string/refresh	-1	刷新		Обновить
+com.tinnove.wecarnavi:string/register	-1	注册		Регистрация
+com.tinnove.wecarnavi:string/register_failed	-1	注册失败，请稍后重试		Не удалось зарегистрироваться. Повторите попытку позже.
+com.tinnove.wecarnavi:string/register_mobile_already_bind	-1	手机号已注册过		Номер уже зарегистрирован
+com.tinnove.wecarnavi:string/register_wait	-1	注册中，请稍等		Регистрация. Подождите.
+com.tinnove.wecarnavi:string/remaining_distance_km	-1	剩余公里		Осталось километров
+com.tinnove.wecarnavi:string/remaining_distance_m	-1	剩余米		Осталось метров
+com.tinnove.wecarnavi:string/remaining_time	-1	剩余时间		Осталось времени
+com.tinnove.wecarnavi:string/replace	-1	替换		Заменить
+com.tinnove.wecarnavi:string/reroute_avoid_limit_success	-1	已开启避开限行功能		Объезд ограничений движения включён
+com.tinnove.wecarnavi:string/reroute_cancel	-1	取消		Отмена
+com.tinnove.wecarnavi:string/reroute_closure	-1	前方封路		Впереди перекрытие
+com.tinnove.wecarnavi:string/reroute_closure_desc	-1	前方道路封闭，发现绕行路线		Впереди дорога закрыта. Найден объезд.
+com.tinnove.wecarnavi:string/reroute_jam	-1	更优路线		Более удобный маршрут
+com.tinnove.wecarnavi:string/reroute_jam_desc	-1	前方道拥堵，发现绕行路线		Впереди затор. Найден объезд.
+com.tinnove.wecarnavi:string/reroute_more_fast	-1	更快路线		Более быстрый маршрут
+com.tinnove.wecarnavi:string/reroute_more_fast_desc	-1	找到更快路线，节省%s		Найден маршрут быстрее на %s
+com.tinnove.wecarnavi:string/reroute_refresh_success	-1	路线更新成功		Маршрут обновлён
+com.tinnove.wecarnavi:string/reroute_restrict	-1	前方限行		Впереди ограничение движения
+com.tinnove.wecarnavi:string/reroute_restrict_desc	-1	前方有时间段限行，发现绕行路线		Впереди ограничение по времени. Найден объезд.
+com.tinnove.wecarnavi:string/reset	-1	重置		Сбросить
+com.tinnove.wecarnavi:string/resolving_route	-1	开始导航...		Запуск навигации...
+com.tinnove.wecarnavi:string/restricted_travel	-1	限行		Ограничение движения
+com.tinnove.wecarnavi:string/restricted_travel_no	-1	不限行		Без ограничений движения
+com.tinnove.wecarnavi:string/restricted_travel_today	-1	今日限行		Ограничения сегодня
+com.tinnove.wecarnavi:string/result_send_dis	-1	发送目的地		Отправить пункт назначения
+com.tinnove.wecarnavi:string/result_send_dis_succeed	-1	已将目的地发送至中控屏		Пункт назначения отправлен на центральный экран
+com.tinnove.wecarnavi:string/result_send_via	-1	发送途经点		Отправить промежуточную точку
+com.tinnove.wecarnavi:string/result_send_via_failed_with_state	-1	主驾已经退出导航，无法添加途经点		Водитель завершил навигацию. Добавить промежуточную точку нельзя.
+com.tinnove.wecarnavi:string/result_send_via_succeed	-1	已将途经点发送至中控屏		Промежуточная точка отправлена на центральный экран
+com.tinnove.wecarnavi:string/retry	-1	重试		Повторить
+com.tinnove.wecarnavi:string/roadBook_detail_text_know	-1	我知道了		Понятно
+com.tinnove.wecarnavi:string/road_accident	-1	事故		ДТП
+com.tinnove.wecarnavi:string/road_book_add_trip_already_have_content	-1	此日期下已有待出发行程，是否继续添加？		На эту дату уже есть запланированная поездка. Добавить ещё?
+com.tinnove.wecarnavi:string/road_book_add_trip_change_date	-1	更换日期		Изменить дату
+com.tinnove.wecarnavi:string/road_book_add_trip_continue	-1	继续添加		Продолжить добавление
+com.tinnove.wecarnavi:string/road_book_add_trip_success	-1	行程添加成功		Поездка добавлена
+com.tinnove.wecarnavi:string/road_book_agreement_one_title	-1	桐行自驾游用户服务协议		Условия сервиса автомобильных путешествий
+com.tinnove.wecarnavi:string/road_book_agreement_three_title	-1	网络信息侵权通知指引		Порядок уведомления о нарушении прав в интернете
+com.tinnove.wecarnavi:string/road_book_agreement_two_title	-1	桐行自驾游隐私协议		Конфиденциальность сервиса автомобильных путешествий
+com.tinnove.wecarnavi:string/road_book_bind_abandon	-1	账号用户已确认放弃账号合并操作		Пользователь отказался от объединения аккаунтов
+com.tinnove.wecarnavi:string/road_book_bind_fail	-1	账号合并操作失败		Не удалось объединить аккаунты
+com.tinnove.wecarnavi:string/road_book_bind_succeed	-1	账号合并操作成功		Аккаунты объединены
+com.tinnove.wecarnavi:string/road_book_bind_text	-1	去绑定 >		Привязать >
+com.tinnove.wecarnavi:string/road_book_bind_text_content	-1	去绑定		Привязать
+com.tinnove.wecarnavi:string/road_book_bind_time_out	-1	账号合并操作超时		Истекло время объединения аккаунтов
+com.tinnove.wecarnavi:string/road_book_bind_tip	-1	关联自驾小程序，手车数据互通		Привяжите мини-приложение путешествий для обмена данными телефона и автомобиля
+com.tinnove.wecarnavi:string/road_book_bind_wx_button	-1	去关联		Привязать
+com.tinnove.wecarnavi:string/road_book_bind_wx_tip	-1	请先关联自驾小程序，再去定制专属自驾线路		Сначала привяжите мини-приложение путешествий, затем создавайте свои маршруты
+com.tinnove.wecarnavi:string/road_book_bind_wx_tip_shape	-1	请先关联自驾小程序，再去分享游记		Сначала привяжите мини-приложение путешествий, затем отправляйте дневник поездки
+com.tinnove.wecarnavi:string/road_book_calendar_title	-1	计划出行日期		Планируемая дата поездки
+com.tinnove.wecarnavi:string/road_book_collect_fail	-1	收藏失败		Не удалось добавить в избранное
+com.tinnove.wecarnavi:string/road_book_copilot_add_trip_success	-1	行程添加成功，请在中控地图内查看		Поездка добавлена. Посмотрите её в картах центрального экрана.
+com.tinnove.wecarnavi:string/road_book_copilot_load_fail	-1	加载失败，		Не удалось загрузить,
+com.tinnove.wecarnavi:string/road_book_copilot_load_fail_retry	-1	点击重试		нажмите для повтора
+com.tinnove.wecarnavi:string/road_book_copilot_load_fail_sub	-1	或在中控屏检查网络设置		или проверьте сеть на центральном экране
+com.tinnove.wecarnavi:string/road_book_create_trip	-1	创建行程		Создать поездку
+com.tinnove.wecarnavi:string/road_book_delete_journey	-1	删除游记		Удалить дневник
+com.tinnove.wecarnavi:string/road_book_delete_trip	-1	删除行程		Удалить поездку
+com.tinnove.wecarnavi:string/road_book_edit_tip	-1	微信扫描二维码，实现多端数据同步		Отсканируйте QR-код в WeChat для синхронизации устройств
+com.tinnove.wecarnavi:string/road_book_first_add_trip_content	-1	设定计划出行日期，我们将在出发日提醒你		Задайте дату поездки. Мы напомним о ней в день выезда.
+com.tinnove.wecarnavi:string/road_book_go_settings	-1	网络设置		Настройки сети
+com.tinnove.wecarnavi:string/road_book_guide_detail_kilometer	-1	公里 | 		км | 
+com.tinnove.wecarnavi:string/road_book_guide_detail_meter	-1	米 | 		м | 
+com.tinnove.wecarnavi:string/road_book_journey_deleted	-1	游记已删除		Дневник удалён
+com.tinnove.wecarnavi:string/road_book_jump_self_drive_dialog_btn_cancel	-1	取消		Отмена
+com.tinnove.wecarnavi:string/road_book_jump_self_drive_dialog_btn_confirm	-1	确认		Подтвердить
+com.tinnove.wecarnavi:string/road_book_jump_self_drive_dialog_title	-1	确认去自驾游\n查看更多路书内容吗？		Открыть автомобильные путешествия\nдля просмотра других маршрутов?
+com.tinnove.wecarnavi:string/road_book_login_bind_tip	-1	微信扫码关联账号		Отсканируйте код в WeChat для привязки аккаунта
+com.tinnove.wecarnavi:string/road_book_login_dialog_refresh	-1	点击重试		Нажмите для повтора
+com.tinnove.wecarnavi:string/road_book_login_share_journey	-1	微信扫码分享游记		Отсканируйте код в WeChat, чтобы поделиться дневником
+com.tinnove.wecarnavi:string/road_book_login_tip	-1	微信扫描二维码，轻松定制专属自驾线路		Отсканируйте QR-код в WeChat и создавайте свои автомобильные маршруты
+com.tinnove.wecarnavi:string/road_book_main_collect_manage	-1	收藏管理		Управление избранным
+com.tinnove.wecarnavi:string/road_book_main_list_item_detail_avgScore	-1	%s分		%s балл.
+com.tinnove.wecarnavi:string/road_book_main_list_item_detail_content	-1	%1$d日 | %2$d景点 | %3$s		%1$d д. | мест: %2$d | %3$s
+com.tinnove.wecarnavi:string/road_book_main_list_item_detail_content_meters	-1	%d日 | %d景点 | %d米		%d д. | мест: %d | %d м
+com.tinnove.wecarnavi:string/road_book_main_list_item_detail_content_miles	-1	%d日 | %d景点 | %d公里		%d д. | мест: %d | %d км
+com.tinnove.wecarnavi:string/road_book_main_list_no_result	-1	没有找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/road_book_main_list_no_result_more	-1	去自驾游查看更多路书		Другие маршруты в автомобильных путешествиях
+com.tinnove.wecarnavi:string/road_book_main_list_rec_item_distance	-1	%d公里		%d км
+com.tinnove.wecarnavi:string/road_book_main_list_rec_item_pois	-1	%d景点		Мест: %d
+com.tinnove.wecarnavi:string/road_book_main_list_title_around	-1	路书		Маршруты путешествий
+com.tinnove.wecarnavi:string/road_book_main_list_title_my	-1	我的		Моё
+com.tinnove.wecarnavi:string/road_book_main_list_title_recommend	-1	景点		Достопримечательности
+com.tinnove.wecarnavi:string/road_book_main_tag_autumn	-1	赏秋		Осень
+com.tinnove.wecarnavi:string/road_book_main_tag_coast	-1	滨海		Побережье
+com.tinnove.wecarnavi:string/road_book_main_tag_culture	-1	人文		Культура
+com.tinnove.wecarnavi:string/road_book_main_tag_culture_and_history	-1	人文历史		Культура и история
+com.tinnove.wecarnavi:string/road_book_main_tag_currentseason	-1	当季		По сезону
+com.tinnove.wecarnavi:string/road_book_main_tag_delicious	-1	美食		Еда
+com.tinnove.wecarnavi:string/road_book_main_tag_ice_sport	-1	冰雪运动		Зимний спорт
+com.tinnove.wecarnavi:string/road_book_main_tag_leisure	-1	休闲养身		Отдых и оздоровление
+com.tinnove.wecarnavi:string/road_book_main_tag_mustplay	-1	必玩		Обязательно посетить
+com.tinnove.wecarnavi:string/road_book_main_tag_nature	-1	自然		Природа
+com.tinnove.wecarnavi:string/road_book_main_tag_oldtown	-1	古镇		Старые города
+com.tinnove.wecarnavi:string/road_book_main_tag_outdoor	-1	户外		На открытом воздухе
+com.tinnove.wecarnavi:string/road_book_main_tag_parentchild	-1	亲子		С детьми
+com.tinnove.wecarnavi:string/road_book_main_tag_park	-1	公园乐园		Парки развлечений
+com.tinnove.wecarnavi:string/road_book_main_tag_photo	-1	行摄		Фотопутешествия
+com.tinnove.wecarnavi:string/road_book_main_tag_prairie	-1	草原		Степи
+com.tinnove.wecarnavi:string/road_book_main_tag_red_culture	-1	红色文化		Революционная история
+com.tinnove.wecarnavi:string/road_book_main_tag_religion	-1	宗教场所		Религиозные места
+com.tinnove.wecarnavi:string/road_book_main_tag_scenic	-1	风景名胜		Красивые места
+com.tinnove.wecarnavi:string/road_book_main_tag_snow	-1	冰雪		Лёд и снег
+com.tinnove.wecarnavi:string/road_book_main_tag_spring	-1	温泉		Горячие источники
+com.tinnove.wecarnavi:string/road_book_main_tag_town	-1	城镇		Города
+com.tinnove.wecarnavi:string/road_book_main_tag_zen	-1	禅修		Медитация
+com.tinnove.wecarnavi:string/road_book_map	-1	出游地图		Карта путешествий
+com.tinnove.wecarnavi:string/road_book_mask_back	-1	返回		Назад
+com.tinnove.wecarnavi:string/road_book_my_agreement_one	-1	《桐行自驾游用户服务协议》		«Условия сервиса автомобильных путешествий»
+com.tinnove.wecarnavi:string/road_book_my_agreement_three	-1	《网络信息侵权通知指引》		«Порядок уведомления о нарушении прав в интернете»
+com.tinnove.wecarnavi:string/road_book_my_agreement_two	-1	《桐行自驾游隐私协议》		«Конфиденциальность сервиса автомобильных путешествий»
+com.tinnove.wecarnavi:string/road_book_my_city_text	-1	探索城市		Исследованные города
+com.tinnove.wecarnavi:string/road_book_my_distance_text	-1	自驾里程		Пробег путешествий
+com.tinnove.wecarnavi:string/road_book_my_distance_text_short	-1	里程		Пробег
+com.tinnove.wecarnavi:string/road_book_my_location_text	-1	打卡景点		Посещённые места
+com.tinnove.wecarnavi:string/road_book_my_page_favorite	-1	全部收藏		Всё избранное
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_all	-1	全部		Все
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_poi	-1	景点		Места
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_poi_title	-1	景点收藏		Избранные места
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_route	-1	路书		Маршруты путешествий
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_route_info	-1	%d%s游 | %d个景点		Поездка: %d%s | мест: %d
+com.tinnove.wecarnavi:string/road_book_my_page_favorite_route_title	-1	路书收藏		Избранные маршруты
+com.tinnove.wecarnavi:string/road_book_my_page_finish	-1	确认结束		Подтвердить завершение
+com.tinnove.wecarnavi:string/road_book_my_page_finish_journey	-1	生成游记需要结束当前行程，并停止记录此行程的轨迹，是否结束？		Для создания дневника нужно завершить поездку и остановить запись её пути. Завершить?
+com.tinnove.wecarnavi:string/road_book_my_page_finish_journey_second	-1	结束行程我们将终止记录，并为你生成专属游记，是否结束？		Запись прекратится, и будет создан дневник поездки. Завершить?
+com.tinnove.wecarnavi:string/road_book_my_page_finish_journey_third	-1	结束行程我们将终止记录，是否结束？		Запись поездки прекратится. Завершить?
+com.tinnove.wecarnavi:string/road_book_my_page_go_login	-1	登录		Войти
+com.tinnove.wecarnavi:string/road_book_my_page_go_login_content	-1	您尚未登录自驾游账号，请先登录？		Вы не вошли в аккаунт путешествий. Войти?
+com.tinnove.wecarnavi:string/road_book_my_page_go_login_first	-1	请先登录		Сначала войдите
+com.tinnove.wecarnavi:string/road_book_my_page_image_tip	-1	未关联		Не привязано
+com.tinnove.wecarnavi:string/road_book_my_page_journey_info_second_title	-1	从%S出发		Старт: %S
+com.tinnove.wecarnavi:string/road_book_my_page_journey_sub_item_content	-1	打卡%d个景点, %.1f%s		Посещено мест: %d, %.1f%s
+com.tinnove.wecarnavi:string/road_book_my_page_journey_sub_item_content_zero	-1	打卡%d个景点, %d%s		Посещено мест: %d, %d%s
+com.tinnove.wecarnavi:string/road_book_my_page_no_checked_in	-1	你还没有打卡过景点哦~		Вы ещё не отмечали посещённые места
+com.tinnove.wecarnavi:string/road_book_my_page_no_collect	-1	暂无收藏		Избранного пока нет
+com.tinnove.wecarnavi:string/road_book_my_page_no_collect_poi	-1	暂无收藏景点		Избранных мест пока нет
+com.tinnove.wecarnavi:string/road_book_my_page_no_collect_route	-1	暂无收藏路书		Избранных маршрутов пока нет
+com.tinnove.wecarnavi:string/road_book_my_page_no_login	-1	登录查看更多		Войдите, чтобы видеть больше
+com.tinnove.wecarnavi:string/road_book_my_page_no_travels	-1	暂无游记		Дневников пока нет
+com.tinnove.wecarnavi:string/road_book_my_page_no_trip	-1	暂无行程，不如去创建一个		Поездок пока нет. Создайте первую.
+com.tinnove.wecarnavi:string/road_book_my_page_out_login	-1	退出登录		Выйти из аккаунта
+com.tinnove.wecarnavi:string/road_book_my_page_start_trip_force	-1	当前自驾游进行中的行程将被强制结束，是否继续？		Текущая поездка будет принудительно завершена. Продолжить?
+com.tinnove.wecarnavi:string/road_book_my_page_start_trip_new	-1	开始新行程		Начать новую поездку
+com.tinnove.wecarnavi:string/road_book_my_page_travels	-1	游记		Дневники
+com.tinnove.wecarnavi:string/road_book_my_page_trip	-1	行程		Поездки
+com.tinnove.wecarnavi:string/road_book_my_page_trip_delete_title	-1	是否删除		Удалить?
+com.tinnove.wecarnavi:string/road_book_my_page_trip_delete_title_second	-1	确定删除该行程？		Удалить эту поездку?
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_has_checkedin	-1	已到达		Посещено
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_info	-1	相距%dkm, 约%d小时%d分		Расстояние: %d км, примерно %d ч %d мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_info_no_hour	-1	相距%skm, 约%d分钟		Расстояние: %s км, примерно %d мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_info_sub	-1	相距%d%s, 约%d分		Расстояние: %d%s, примерно %d мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_info_sub_two	-1	%d%s, 约%s分		%d%s, примерно %s мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_info_two	-1	%d%s, 约%d小时%d分		%d%s, примерно %d ч %d мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_main	-1	%s公里		%s км
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_main_info_no_hour	-1	约%s分钟		Примерно %s мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_item_distance_main_info_sub	-1	约%d小时%d分		Примерно %d ч %d мин
+com.tinnove.wecarnavi:string/road_book_my_page_trip_info_on_going	-1	前往中		В пути
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_detail_title_one	-1	%s年%s月%s日出发		Выезд: %s-%s-%s
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_detail_title_one_sub	-1	%s年%s月%s日		%s-%s-%s
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_detail_title_two	-1	%d天行程丨%d个景点丨%d%s		%d д. | мест: %d | %d%s
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_generate_journey	-1	生成游记		Создать дневник
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_title	-1	正在前往		В пути
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_title_arrived	-1	已到达		Прибыли
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_title_last	-1	已到达最后一站		Последняя остановка достигнута
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_title_next	-1	下一站		Следующая остановка
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_on_going_title_two	-1	前往中...		В пути...
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_ready_sub_one	-1	%d天 | %d个景点		%d д. | мест: %d
+com.tinnove.wecarnavi:string/road_book_my_page_trip_item_ready_sub_two	-1	行驶里程%s%s		Пробег: %s%s
+com.tinnove.wecarnavi:string/road_book_my_page_trip_not_started	-1	待出行		Запланировано
+com.tinnove.wecarnavi:string/road_book_my_page_trip_on_going	-1	进行中		Выполняется
+com.tinnove.wecarnavi:string/road_book_my_page_trip_start_date	-1	%s月%s日出发		Выезд: месяц %s, день %s
+com.tinnove.wecarnavi:string/road_book_my_page_trip_start_tomorrow	-1	明日出发		Выезд завтра
+com.tinnove.wecarnavi:string/road_book_my_page_trip_status_no_date	-1	无日期		Без даты
+com.tinnove.wecarnavi:string/road_book_my_page_trip_title_no_date	-1	未设置出发日		Дата выезда не задана
+com.tinnove.wecarnavi:string/road_book_my_page_trip_title_no_date_set	-1	设置出发日期		Задать дату выезда
+com.tinnove.wecarnavi:string/road_book_my_page_trip_today	-1	今日行程		Сегодняшняя поездка
+com.tinnove.wecarnavi:string/road_book_my_time_cost	-1	用时		Время в пути
+com.tinnove.wecarnavi:string/road_book_net_error	-1	网络错误，请检查网络连接		Ошибка сети. Проверьте подключение.
+com.tinnove.wecarnavi:string/road_book_no_result	-1	未查找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/road_book_number_kilometer_double	-1	%.1f万km		%.1f × 10 000 км
+com.tinnove.wecarnavi:string/road_book_offline	-1	网络错误，请重试		Ошибка сети. Повторите попытку.
+com.tinnove.wecarnavi:string/road_book_poi_explain_title_down	-1	展开		Развернуть
+com.tinnove.wecarnavi:string/road_book_poi_explain_title_up	-1	收起		Свернуть
+com.tinnove.wecarnavi:string/road_book_poi_title_concern	-1	相关路线		Связанные маршруты
+com.tinnove.wecarnavi:string/road_book_poi_title_explain	-1	景点介绍		О месте
+com.tinnove.wecarnavi:string/road_book_pull_down	-1	下拉刷新		Потяните вниз для обновления
+com.tinnove.wecarnavi:string/road_book_release_to_refresh	-1	松手加载		Отпустите для загрузки
+com.tinnove.wecarnavi:string/road_book_request_error	-1	网络错误，请重试		Ошибка сети. Повторите попытку.
+com.tinnove.wecarnavi:string/road_book_route_begin_button	-1	开始行程		Начать поездку
+com.tinnove.wecarnavi:string/road_book_route_content	-1	全程%d公里 | %d天 | %d个景点		Всего %d км | %d д. | мест: %d
+com.tinnove.wecarnavi:string/road_book_route_day	-1	第%d天		День %d
+com.tinnove.wecarnavi:string/road_book_route_day_one	-1	第一天		Первый день
+com.tinnove.wecarnavi:string/road_book_route_edit_button	-1	编辑行程		Изменить поездку
+com.tinnove.wecarnavi:string/road_book_route_end_button	-1	结束行程		Завершить поездку
+com.tinnove.wecarnavi:string/road_book_route_join_button	-1	加入行程		Добавить в поездку
+com.tinnove.wecarnavi:string/road_book_tab_day	-1	第%1$s天		День %1$s
+com.tinnove.wecarnavi:string/road_book_trip_delete	-1	行程已删除		Поездка удалена
+com.tinnove.wecarnavi:string/road_book_trip_deleted	-1	行程已删除		Поездка удалена
+com.tinnove.wecarnavi:string/road_book_trip_not_supported	-1	该点暂无详细内容		Для этого места пока нет подробностей
+com.tinnove.wecarnavi:string/road_book_un_collect_fail	-1	取消收藏失败		Не удалось убрать из избранного
+com.tinnove.wecarnavi:string/road_book_un_collect_success	-1	已取消收藏		Убрано из избранного
+com.tinnove.wecarnavi:string/road_book_un_support	-1	网络异常，暂不支持桐行自驾		Ошибка сети. Автомобильные путешествия пока недоступны.
+com.tinnove.wecarnavi:string/road_book_unit_count	-1	个		шт.
+com.tinnove.wecarnavi:string/road_book_unit_day	-1	日		д.
+com.tinnove.wecarnavi:string/road_book_unit_day_name	-1	天		д.
+com.tinnove.wecarnavi:string/road_book_unit_meters	-1	米		м
+com.tinnove.wecarnavi:string/road_book_unit_month	-1	月		мес.
+com.tinnove.wecarnavi:string/road_book_unit_year	-1	年		г.
+com.tinnove.wecarnavi:string/road_closure	-1	封路		Дорога перекрыта
+com.tinnove.wecarnavi:string/road_construction	-1	施工		Дорожные работы
+com.tinnove.wecarnavi:string/road_jam	-1	拥堵		Затор
+com.tinnove.wecarnavi:string/road_limit	-1	道路限行		Ограничение движения
+com.tinnove.wecarnavi:string/road_pond	-1	积水		Подтопление
+com.tinnove.wecarnavi:string/route_along_charge	-1	沿途充电推荐		Рекомендовать зарядку по пути
+com.tinnove.wecarnavi:string/route_along_charge_policy	-1	充电策略		Стратегия зарядки
+com.tinnove.wecarnavi:string/route_along_charge_tips	-1	电量不足以到达终点时，自动推荐沿途充电站		Если заряда не хватает до пункта назначения, автоматически предлагает станции по пути.
+com.tinnove.wecarnavi:string/route_avoid_limit_offline	-1	离线模式下暂不支持		В офлайн-режиме пока не поддерживается
+com.tinnove.wecarnavi:string/route_calculating	-1	路线规划中...		Построение маршрута...
+com.tinnove.wecarnavi:string/route_guide_charge_station_count	-1	%s个充电站		Зарядных станций: %s
+com.tinnove.wecarnavi:string/route_guide_charge_station_default_title	-1	终点充电站推荐		Зарядные станции у пункта назначения
+com.tinnove.wecarnavi:string/route_guide_charge_station_fast_count	-1	共%s		Всего: %s
+com.tinnove.wecarnavi:string/route_guide_charge_station_price_end	-1	/度		/кВт·ч
+com.tinnove.wecarnavi:string/route_guide_charge_station_recommend_full	-1	终点充电桩已满，已为你重新推荐		Станция у пункта назначения заполнена. Предложена другая.
+com.tinnove.wecarnavi:string/route_guide_charge_station_rest_count	-1	空%s/%s		Свободно: %s/%s
+com.tinnove.wecarnavi:string/route_guide_panel_lane_full	-1	车道级全屏		Навигация по полосам на весь экран
+com.tinnove.wecarnavi:string/route_guide_panel_lane_split	-1	车道级分屏		Навигация по полосам в части экрана
+com.tinnove.wecarnavi:string/route_plan_avoid	-1	避开路段		Объезд участков
+com.tinnove.wecarnavi:string/route_plan_destination	-1	至 %1$s		До %1$s
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_confirm	-1	确认避开		Подтвердить объезд
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_fail_no_avoid	-1	路线规划失败，无法避开		Не удалось построить маршрут в объезд
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_fail_retry	-1	路线规划失败，请稍后重试		Не удалось построить маршрут. Повторите попытку позже.
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_limit	-1	避让上限为3个，请重新选择		Можно объехать не более 3 участков. Измените выбор.
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_no_network	-1	无网络信号，请检查设置		Нет сигнала сети. Проверьте настройки.
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_offline	-1	离线模式下暂不支持		В офлайн-режиме пока не поддерживается
+com.tinnove.wecarnavi:string/route_plan_detail_avoid_title	-1	避开路段		Объезд участков
+com.tinnove.wecarnavi:string/route_plan_detail_drive_road_info	-1	行驶%s 进入%s		Проедьте %s и сверните на %s
+com.tinnove.wecarnavi:string/route_plan_detail_drive_road_via_info	-1	行驶%1$s 到达%2$s		Проедьте %1$s до %2$s
+com.tinnove.wecarnavi:string/route_plan_detail_group_segment_arrive	-1	到达  %s		Прибытие: %s
+com.tinnove.wecarnavi:string/route_plan_detail_group_segment_enter	-1	进入  %s		Въезд: %s
+com.tinnove.wecarnavi:string/route_plan_detail_group_segment_no_name	-1	进入 无名道路		Въезд на дорогу без названия
+com.tinnove.wecarnavi:string/route_plan_detail_info_all	-1	行驶%1$s 进入%2$s 红绿灯%3$s个		Проедьте %1$s, затем %2$s. Светофоров: %3$s
+com.tinnove.wecarnavi:string/route_plan_detail_info_multi	-1	行驶%1$s 红绿灯%2$s个		Проедьте %1$s. Светофоров: %2$s
+com.tinnove.wecarnavi:string/route_plan_detail_run	-1	行驶%s		Проедьте %s
+com.tinnove.wecarnavi:string/route_plan_detail_start	-1	我的位置		Моё местоположение
+com.tinnove.wecarnavi:string/route_plan_detail_switch_fail	-1	道路切换失败		Не удалось сменить дорогу
+com.tinnove.wecarnavi:string/route_plan_detail_switch_loading	-1	道路切换中...		Смена дороги...
+com.tinnove.wecarnavi:string/route_plan_detail_switch_success	-1	道路切换成功		Дорога изменена
+com.tinnove.wecarnavi:string/route_plan_detail_title	-1	路线详情		Подробности маршрута
+com.tinnove.wecarnavi:string/route_plan_duplicate_point	-1	添加失败，该点已在行程中		Нельзя добавить: точка уже есть в поездке
+com.tinnove.wecarnavi:string/route_plan_duplicate_point_in_guide	-1	添加失败，该点已在行程中		Нельзя добавить: точка уже есть в поездке
+com.tinnove.wecarnavi:string/route_plan_fail_check_and_retry	-1	算路失败，请检查网络或离线数据后重试		Не удалось построить маршрут. Проверьте сеть или офлайн-данные и повторите попытку.
+com.tinnove.wecarnavi:string/route_plan_fail_current_no_map	-1	规划失败，所在城市未下载离线地图		Не удалось построить маршрут: для текущего города не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_default	-1	路线规划失败		Не удалось построить маршрут
+com.tinnove.wecarnavi:string/route_plan_fail_end_no_map	-1	规划失败，终点城市未下载离线地图		Не удалось построить маршрут: для города назначения не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_end_point_error	-1	终点不在支持范围内		Пункт назначения вне поддерживаемой области
+com.tinnove.wecarnavi:string/route_plan_fail_lack_end_city_data	-1	规划失败，终点所在城市未下载离线地图		Не удалось построить маршрут: для города назначения не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_lack_start_city_data	-1	规划失败，起点所在城市未下载离线地图		Не удалось построить маршрут: для начального города не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_lack_way_city_data	-1	规划失败，途经城市未下载离线地图		Не удалось построить маршрут: для промежуточного города не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_unknown	-1	算路失败		Не удалось построить маршрут
+com.tinnove.wecarnavi:string/route_plan_fail_via_change_fail	-1	途经点删除失败		Не удалось удалить промежуточную точку
+com.tinnove.wecarnavi:string/route_plan_fail_via_no_map	-1	规划失败，途经城市未下载离线地图		Не удалось построить маршрут: для промежуточного города не скачаны карты
+com.tinnove.wecarnavi:string/route_plan_fail_via_point_error	-1	途经点不在支持范围内		Промежуточная точка вне поддерживаемой области
+com.tinnove.wecarnavi:string/route_plan_failed	-1	路线计算失败		Не удалось рассчитать маршрут
+com.tinnove.wecarnavi:string/route_plan_failed_not_agreement	-1	请先阅读并勾选条款		Прочитайте и отметьте условия
+com.tinnove.wecarnavi:string/route_plan_manual_not_available	-1	当前已是最优路线		Текущий маршрут уже оптимален
+com.tinnove.wecarnavi:string/route_plan_manual_not_available_company	-1	当前已是公司最优路线		Текущий маршрут на работу уже оптимален
+com.tinnove.wecarnavi:string/route_plan_manual_not_available_home	-1	当前已是家最优路线		Текущий маршрут домой уже оптимален
+com.tinnove.wecarnavi:string/route_plan_manual_refresh_success	-1	路线规划成功		Маршрут построен
+com.tinnove.wecarnavi:string/route_plan_sim_navi	-1	模拟导航		Пробная навигация
+com.tinnove.wecarnavi:string/route_plan_start_navi	-1	开始导航		Начать навигацию
+com.tinnove.wecarnavi:string/route_plan_the_destination_is_nearby	-1	终点和起点过近		Начало и конец маршрута слишком близко
+com.tinnove.wecarnavi:string/route_plan_too_close_to_destination	-1	途经点与终点过近		Промежуточная и конечная точки слишком близко
+com.tinnove.wecarnavi:string/route_plan_too_close_to_other_via_points	-1	途经点之间过近		Промежуточные точки слишком близко
+com.tinnove.wecarnavi:string/route_plan_too_close_to_starting_point	-1	起点和途经点过近		Начальная и промежуточная точки слишком близко
+com.tinnove.wecarnavi:string/route_plan_via_point_is_nearby	-1	添加途经点失败，该点已在行程点中		Не удалось добавить: точка уже есть в поездке
+com.tinnove.wecarnavi:string/route_plan_via_points_too_many	-1	最多添加5个途经点，请删除后添加		Можно добавить не более 5 промежуточных точек. Удалите ненужную.
+com.tinnove.wecarnavi:string/route_plan_via_points_too_many_max	-1	最多添加%d个途经点，请删除后添加		Можно добавить не более %d промежуточных точек. Удалите ненужную.
+com.tinnove.wecarnavi:string/route_preference	-1	路线偏好		Предпочтения маршрута
+com.tinnove.wecarnavi:string/route_preference_avoid_fee	-1	少收费		Меньше платных дорог
+com.tinnove.wecarnavi:string/route_preference_avoid_highway	-1	不走高速		Без скоростных дорог
+com.tinnove.wecarnavi:string/route_preference_avoid_jam	-1	躲避拥堵		Объезжать заторы
+com.tinnove.wecarnavi:string/route_preference_avoid_jam_fail	-1	当前无网络，无法躲避拥堵路段		Без сети объезд заторов недоступен
+com.tinnove.wecarnavi:string/route_preference_avoid_limit	-1	避开限行		Объезжать ограничения движения
+com.tinnove.wecarnavi:string/route_preference_big_road_first	-1	大路优先		Предпочитать крупные дороги
+com.tinnove.wecarnavi:string/route_preference_big_road_first_fail	-1	当前无网络，无法设置大路优先		Без сети приоритет крупных дорог недоступен
+com.tinnove.wecarnavi:string/route_preference_highway_first	-1	高速优先		Предпочитать скоростные дороги
+com.tinnove.wecarnavi:string/route_preference_no_car_number	-1	未设置车牌		Госномер не задан
+com.tinnove.wecarnavi:string/route_preference_recommend	-1	智能推荐		Умный выбор
+com.tinnove.wecarnavi:string/route_preference_setting	-1	偏好设置		Настройки предпочтений
+com.tinnove.wecarnavi:string/route_preference_speed_fast_first	-1	速度最快		Самый быстрый маршрут
+com.tinnove.wecarnavi:string/route_preference_speed_fast_first_fail	-1	当前无网络，无法设置速度最快		Без сети выбор самого быстрого маршрута недоступен
+com.tinnove.wecarnavi:string/route_push_plan_failed	-1	获取推送消息失败		Не удалось получить отправленное сообщение
+com.tinnove.wecarnavi:string/satellite_located	-1	卫星已定位		Местоположение определено по спутникам
+com.tinnove.wecarnavi:string/satellite_location_ing	-1	卫星定位中		Спутниковое позиционирование
+com.tinnove.wecarnavi:string/satellite_no_location	-1	卫星未定位		Спутниковая позиция не определена
+com.tinnove.wecarnavi:string/search	-1	搜索		Поиск
+com.tinnove.wecarnavi:string/search_add_frequented	-1	设为常去地		Назначить частым местом
+com.tinnove.wecarnavi:string/search_add_frequented_hint	-1	输入常去地址		Введите частый адрес
+com.tinnove.wecarnavi:string/search_add_via_point	-1	设为途经点		Назначить промежуточной точкой
+com.tinnove.wecarnavi:string/search_add_via_point_hint	-1	请输入途经点		Введите промежуточную точку
+com.tinnove.wecarnavi:string/search_administrative_area_tip	-1	当前区域无结果，推荐在其他城市选择		В этом районе ничего нет. Выберите другой город.
+com.tinnove.wecarnavi:string/search_along_way_weather_des	-1	沿途天气图标		Значок погоды по маршруту
+com.tinnove.wecarnavi:string/search_along_way_weather_fail	-1	无法获取当前天气情况		Не удалось получить текущую погоду
+com.tinnove.wecarnavi:string/search_around	-1	搜周边		Поиск поблизости
+com.tinnove.wecarnavi:string/search_around_category_tip	-1	在“%s”周边搜		Поиск рядом с «%s»
+com.tinnove.wecarnavi:string/search_around_keyword_cannot_empty	-1	查询内容不能为空		Поисковый запрос не должен быть пустым
+com.tinnove.wecarnavi:string/search_around_keyword_tip	-1	周边搜索		Поиск поблизости
+com.tinnove.wecarnavi:string/search_around_search	-1	周边搜		Поиск поблизости
+com.tinnove.wecarnavi:string/search_cancel_favorite	-1	取消收藏		Убрать из избранного
+com.tinnove.wecarnavi:string/search_change_search_city	-1	切换其他城市		Выбрать другой город
+com.tinnove.wecarnavi:string/search_charge_label_free	-1	空%1$s/		Свободно: %1$s/
+com.tinnove.wecarnavi:string/search_charge_label_total	-1	共%1$s		Всего: %1$s
+com.tinnove.wecarnavi:string/search_child	-1	亲子		С детьми
+com.tinnove.wecarnavi:string/search_clear_all_history_record	-1	清空历史记录		Очистить историю
+com.tinnove.wecarnavi:string/search_clear_historical_route	-1	确认清空所有导航历史记录？		Очистить всю историю навигации?
+com.tinnove.wecarnavi:string/search_clear_search_history	-1	确认清空所有检索历史记录？		Очистить всю историю поиска?
+com.tinnove.wecarnavi:string/search_collect	-1	收藏		В избранное
+com.tinnove.wecarnavi:string/search_collected	-1	已收藏		В избранном
+com.tinnove.wecarnavi:string/search_correction_tip	-1	"您是不是要找""%s""？"		Возможно, вы искали «%s»?
+com.tinnove.wecarnavi:string/search_current_city_load_failed	-1	当前离线城市 %s 加载失败		Не удалось загрузить офлайн-город %s
+com.tinnove.wecarnavi:string/search_delete_history_record	-1	删除记录		Удалить запись
+com.tinnove.wecarnavi:string/search_detail_loading	-1	加载中...		Загрузка...
+com.tinnove.wecarnavi:string/search_error_input_empty	-1	搜索内容不能为空		Поисковый запрос не должен быть пустым
+com.tinnove.wecarnavi:string/search_fail_no_content	-1	未查找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/search_fail_tips	-1	加载失败，点击重试\n或在中控屏检查网络设置		Не удалось загрузить. Нажмите для повтора\nили проверьте сеть на центральном экране.
+com.tinnove.wecarnavi:string/search_fail_try_late	-1	搜索失败，请稍后再试		Не удалось найти. Повторите попытку позже.
+com.tinnove.wecarnavi:string/search_fail_try_later	-1	搜索失败，请稍后再试		Не удалось найти. Повторите попытку позже.
+com.tinnove.wecarnavi:string/search_favorite_company	-1	输入公司地址		Введите адрес работы
+com.tinnove.wecarnavi:string/search_favorite_home	-1	输入家地址		Введите адрес дома
+com.tinnove.wecarnavi:string/search_favorite_no_history_tip	-1	暂无历史记录		Истории пока нет
+com.tinnove.wecarnavi:string/search_food	-1	美食		Еда
+com.tinnove.wecarnavi:string/search_for_dest_or_via	-1	搜索目的地或途经点		Поиск пункта назначения или промежуточной точки
+com.tinnove.wecarnavi:string/search_for_destination	-1	搜索目的地		Поиск пункта назначения
+com.tinnove.wecarnavi:string/search_gas	-1	加油站		АЗС
+com.tinnove.wecarnavi:string/search_go_where	-1	顺路去哪儿		Куда заехать по пути
+com.tinnove.wecarnavi:string/search_history_route_tag	-1	途经%s		Через %s
+com.tinnove.wecarnavi:string/search_input_team_destination	-1	请输入集合点		Введите место встречи
+com.tinnove.wecarnavi:string/search_lack_offline_data	-1	无离线数据		Нет офлайн-данных
+com.tinnove.wecarnavi:string/search_loading	-1	搜索中...		Поиск...
+com.tinnove.wecarnavi:string/search_network_is_abnormal_switched_offline	-1	网络异常，已切换离线		Ошибка сети. Включён офлайн-режим.
+com.tinnove.wecarnavi:string/search_no_along_way_change	-1	切换路线试一试		Попробуйте другой маршрут
+com.tinnove.wecarnavi:string/search_no_along_way_service_area	-1	沿途暂未搜到服务区信息		По пути не найдены зоны отдыха
+com.tinnove.wecarnavi:string/search_no_along_way_service_area_toast	-1	未获取到服务区数据		Не удалось получить данные зон отдыха
+com.tinnove.wecarnavi:string/search_no_along_way_via_road	-1	沿途暂未搜到途经路信息		По пути не найдены промежуточные дороги
+com.tinnove.wecarnavi:string/search_no_along_way_via_road_toast	-1	未获取到途经数据		Не удалось получить промежуточные данные
+com.tinnove.wecarnavi:string/search_no_along_way_weather	-1	沿途暂未搜到天气信息		По пути не найдена информация о погоде
+com.tinnove.wecarnavi:string/search_no_along_way_weather_toast	-1	未获取到天气数据		Не удалось получить погоду
+com.tinnove.wecarnavi:string/search_no_content_tips	-1	未找到结果，您可以换个词试试		Ничего не найдено. Попробуйте другой запрос.
+com.tinnove.wecarnavi:string/search_no_find_result	-1	未查找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/search_no_find_result_replace_work_retry	-1	未找到结果，您可以换个词试试		Ничего не найдено. Попробуйте другой запрос.
+com.tinnove.wecarnavi:string/search_no_history_route	-1	暂无导航历史		Истории навигации пока нет
+com.tinnove.wecarnavi:string/search_no_history_tip	-1	暂无搜索历史 \n 支持地点、行政区搜索		Истории поиска пока нет.\nМожно искать места и административные районы.
+com.tinnove.wecarnavi:string/search_no_net_and_retry	-1	请联网后，点击重试		Подключитесь к сети и нажмите повтор
+com.tinnove.wecarnavi:string/search_no_search_history_tip	-1	暂无搜索历史 \n 支持地点、行政区搜索		Истории поиска пока нет.\nМожно искать места и административные районы.
+com.tinnove.wecarnavi:string/search_online_to_offline_loading	-1	在线无结果已为你转离线搜索...		Онлайн ничего не найдено. Переход к офлайн-поиску...
+com.tinnove.wecarnavi:string/search_pickup_car_position_loading_tips	-1	正在获取位置		Получение местоположения
+com.tinnove.wecarnavi:string/search_poi_detail_delicious_price	-1	￥%s/人		¥%s/чел.
+com.tinnove.wecarnavi:string/search_poi_detail_discount_content	-1	 %s折		 Оплата: %s/10 цены
+com.tinnove.wecarnavi:string/search_poi_detail_discount_title	-1	限时折扣		Временная скидка
+com.tinnove.wecarnavi:string/search_poi_detail_preferential_title	-1	优惠活动		Специальные предложения
+com.tinnove.wecarnavi:string/search_poi_detail_project_title	-1	材料费		Стоимость материалов
+com.tinnove.wecarnavi:string/search_poi_detail_rating_subtitle	-1	长安服务中心		Сервисный центр Changan
+com.tinnove.wecarnavi:string/search_poi_detail_work_title	-1	工时费		Стоимость работ
+com.tinnove.wecarnavi:string/search_received_point	-1	收到的点		Полученные места
+com.tinnove.wecarnavi:string/search_removed_from_favorites	-1	已取消收藏		Убрано из избранного
+com.tinnove.wecarnavi:string/search_repair	-1	汽车维修		Автосервис
+com.tinnove.wecarnavi:string/search_result_current_page_number	-1	当前%1$d页		Страница %1$d
+com.tinnove.wecarnavi:string/search_result_expanded_search_tip	-1	默认范围结果较少，已自动扩大范围查找		В обычной области мало результатов. Поиск расширен автоматически.
+com.tinnove.wecarnavi:string/search_result_filter_tab_oil	-1	油号		Марка топлива
+com.tinnove.wecarnavi:string/search_result_filter_tab_origin_oil	-1	切换油号		Выбрать марку топлива
+com.tinnove.wecarnavi:string/search_result_filter_tab_origin_stars	-1	星级(可多选)		Звёзды (можно несколько)
+com.tinnove.wecarnavi:string/search_result_filter_tab_stars	-1	星级		Звёзды
+com.tinnove.wecarnavi:string/search_result_footer_hint_last_one	-1	当前为最后一页		Это последняя страница
+com.tinnove.wecarnavi:string/search_result_footer_hint_load_current_page_last_one	-1	当前第%1$d页，没有下一页了		Страница %1$d. Следующей страницы нет.
+com.tinnove.wecarnavi:string/search_result_footer_hint_load_current_page_last_one_road_book	-1	当前第%1$d页，没有下一页了 \n 去自驾游查看更多		Страница %1$d. Следующей страницы нет.\nБольше вариантов в автомобильных путешествиях.
+com.tinnove.wecarnavi:string/search_result_footer_hint_load_current_page_one_last_one	-1	当前为最后一页		Это последняя страница
+com.tinnove.wecarnavi:string/search_result_footer_hint_load_next	-1	松开后加载下一页		Отпустите для следующей страницы
+com.tinnove.wecarnavi:string/search_result_guide_end_offline_tip	-1	网络异常，已切换%s离线检索		Ошибка сети. Офлайн-поиск: %s
+com.tinnove.wecarnavi:string/search_result_header_and_footer_current_page_number	-1	当前第%1$d页		Страница %1$d
+com.tinnove.wecarnavi:string/search_result_header_hint_refresh_current_page_one	-1	当前已经展示第1页		Уже показана первая страница
+com.tinnove.wecarnavi:string/search_result_header_hint_refresh_load_prev	-1	松开后加载上一页		Отпустите для предыдущей страницы
+com.tinnove.wecarnavi:string/search_result_header_loading	-1	加载中…		Загрузка…
+com.tinnove.wecarnavi:string/search_result_list_discount_title	-1	折扣		Скидка
+com.tinnove.wecarnavi:string/search_result_list_label_business_hours	-1	营业时间		Часы работы
+com.tinnove.wecarnavi:string/search_result_list_label_time_out	-1	休息时间		Перерыв
+com.tinnove.wecarnavi:string/search_result_list_preferential_title	-1	活动		Акция
+com.tinnove.wecarnavi:string/search_result_list_project_content	-1	材料费 %s折		Материалы: %s/10 цены
+com.tinnove.wecarnavi:string/search_result_list_work_content	-1	工时费 %s折		Работы: %s/10 цены
+com.tinnove.wecarnavi:string/search_result_offline_city_no_result_tip	-1	网络异常，已切换		Ошибка сети. Выбрано:
+com.tinnove.wecarnavi:string/search_result_offline_city_tip	-1	网络异常，已切换至		Ошибка сети. Переход к
+com.tinnove.wecarnavi:string/search_result_offline_other_city_tip	-1	网络异常，%1$s无结果，已推荐至：%2$s		Ошибка сети. В %1$s ничего нет. Рекомендуем: %2$s
+com.tinnove.wecarnavi:string/search_result_offline_search	-1	离线搜索		Офлайн-поиск
+com.tinnove.wecarnavi:string/search_result_offline_tip	-1	网络异常，已切换至离线，当前搜索城市：%s		Ошибка сети. Включён офлайн-поиск. Город: %s
+com.tinnove.wecarnavi:string/search_result_offline_tip_end	-1	网络异常，已切换离线搜索		Ошибка сети. Включён офлайн-поиск.
+com.tinnove.wecarnavi:string/search_result_other_city_tip	-1	%1$s无结果，已推荐至：%2$s		В %1$s ничего нет. Рекомендуем: %2$s
+com.tinnove.wecarnavi:string/search_result_poi_invalid	-1	未获取到地址，请检查网络后再试		Не удалось получить адрес. Проверьте сеть и повторите попытку.
+com.tinnove.wecarnavi:string/search_result_poi_recommendation	-1	是否去		Поехать в
+com.tinnove.wecarnavi:string/search_result_sub_title_charge	-1	共%1$s		Всего: %1$s
+com.tinnove.wecarnavi:string/search_result_sub_title_charge_tag_fast	-1	快		Быстрая
+com.tinnove.wecarnavi:string/search_result_sub_title_charge_tag_slow	-1	慢		Медленная
+com.tinnove.wecarnavi:string/search_result_sub_title_delicious	-1	%1$s分 ￥%2$s/人		%1$s балл. ¥%2$s/чел.
+com.tinnove.wecarnavi:string/search_result_sub_title_delicious_no_price	-1	%1$s分		%1$s балл.
+com.tinnove.wecarnavi:string/search_result_sub_title_parking_count	-1	空%1$s/共%2$s		Свободно: %1$s / всего: %2$s
+com.tinnove.wecarnavi:string/search_result_sub_title_parking_free_count	-1	余%1$s		Осталось: %1$s
+com.tinnove.wecarnavi:string/search_result_update_destination	-1	设为目的地		Назначить пунктом назначения
+com.tinnove.wecarnavi:string/search_retry_when_online	-1	您可以联网后尝试在线搜索		Подключитесь к сети и попробуйте онлайн-поиск
+com.tinnove.wecarnavi:string/search_retry_when_online_or_change_city	-1	未找到结果，您可以联网后尝试在线搜索		Ничего не найдено. Подключитесь к сети и попробуйте онлайн-поиск.
+com.tinnove.wecarnavi:string/search_search_destination	-1	搜索目的地		Поиск пункта назначения
+com.tinnove.wecarnavi:string/search_second_favorite_list	-1	收藏夹		Избранное
+com.tinnove.wecarnavi:string/search_second_history_list	-1	历史记录		История
+com.tinnove.wecarnavi:string/search_second_offline_choose_download	-1	（已下载）		(скачано)
+com.tinnove.wecarnavi:string/search_second_offline_choose_not_download	-1	（未下载）		(не скачано)
+com.tinnove.wecarnavi:string/search_second_offline_choose_sub_title1	-1	当前自车定位城市		Город текущего местоположения
+com.tinnove.wecarnavi:string/search_second_offline_choose_sub_title2	-1	当前检索城市		Текущий город поиска
+com.tinnove.wecarnavi:string/search_second_offline_choose_sub_title3	-1	已下载离线数据		Скачанные офлайн-данные
+com.tinnove.wecarnavi:string/search_second_offline_choose_title	-1	离线城市选择		Выбор офлайн-города
+com.tinnove.wecarnavi:string/search_second_received_list	-1	收到的点		Полученные места
+com.tinnove.wecarnavi:string/search_second_search_failed_tips1	-1	网络异常，加载失败		Ошибка сети. Не удалось загрузить.
+com.tinnove.wecarnavi:string/search_second_search_failed_tips2	-1	请检查网络设置后 		Проверьте настройки сети, затем 
+com.tinnove.wecarnavi:string/search_second_search_no_content	-1	未找到结果		Ничего не найдено
+com.tinnove.wecarnavi:string/search_set_network_tips	-1	设置网络		Настроить сеть
+com.tinnove.wecarnavi:string/search_set_team_destination	-1	设为集合点		Назначить местом встречи
+com.tinnove.wecarnavi:string/search_set_up_the_network	-1	去设置网络		Открыть настройки сети
+com.tinnove.wecarnavi:string/search_suggest_address_circle_point	-1	%1$s丨 %2$s		%1$s | %2$s
+com.tinnove.wecarnavi:string/search_suggest_address_splicing_point	-1	%1$s丨 %2$s		%1$s | %2$s
+com.tinnove.wecarnavi:string/search_suggest_city_result_amount	-1	共%s个结果		Результатов: %s
+com.tinnove.wecarnavi:string/search_suggest_city_tip	-1	在%s没有找到，以下城市有结果		В %s ничего нет. Есть результаты в других городах.
+com.tinnove.wecarnavi:string/search_switch_city_tip	-1	已切换至%s		Выбрано: %s
+com.tinnove.wecarnavi:string/search_tips_offline	-1	网络差，已切换离线检索		Слабая сеть. Включён офлайн-поиск.
+com.tinnove.wecarnavi:string/search_toilet	-1	卫生间		Туалет
+com.tinnove.wecarnavi:string/search_update_dest	-1	设为目的地		Назначить пунктом назначения
+com.tinnove.wecarnavi:string/search_v2_clear_favorite_record	-1	清空收藏记录		Очистить избранное
+com.tinnove.wecarnavi:string/search_v2_clear_history	-1	清空历史记录		Очистить историю
+com.tinnove.wecarnavi:string/search_v2_clear_received_point	-1	清空历史消息		Очистить историю сообщений
+com.tinnove.wecarnavi:string/search_v2_confirm_to_clear_favorite	-1	确认清空收藏点?		Очистить избранные места?
+com.tinnove.wecarnavi:string/search_v2_confirm_to_clear_history	-1	确认清空历史记录?		Очистить историю?
+com.tinnove.wecarnavi:string/search_v2_confirm_to_clear_received_point	-1	确认清空历史消息?		Очистить историю сообщений?
+com.tinnove.wecarnavi:string/search_v2_more	-1	更多		Ещё
+com.tinnove.wecarnavi:string/search_v2_no_favorite_record	-1	暂无收藏点		Избранных мест пока нет
+com.tinnove.wecarnavi:string/search_v2_no_received_point	-1	暂无收到的点		Полученных мест пока нет
+com.tinnove.wecarnavi:string/search_v2_received_point_please_login	-1	当前未登录,请登录后查看		Сначала войдите для просмотра
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_company	-1	搜索公司		Поиск работы
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_destination	-1	搜索目的地		Поиск пункта назначения
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_destination_or_via_point	-1	搜索目的地/途经点		Поиск пункта назначения / промежуточной точки
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_home	-1	搜索家		Поиск дома
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_often	-1	搜索常去地		Поиск частого места
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_team_destination	-1	搜索集合点		Поиск места встречи
+com.tinnove.wecarnavi:string/search_v2_search_bar_hint_search_via_point	-1	搜索途经点		Поиск промежуточной точки
+com.tinnove.wecarnavi:string/search_v2_search_suggest_label_closest	-1	距离最近		Ближайшее
+com.tinnove.wecarnavi:string/search_v2_search_suggest_label_favorite	-1	已收藏		В избранном
+com.tinnove.wecarnavi:string/search_v2_search_suggest_label_guide	-1	导航过		Раньше строили маршрут
+com.tinnove.wecarnavi:string/search_v2_search_suggest_label_view	-1	浏览过		Просмотрено
+com.tinnove.wecarnavi:string/search_wash	-1	洗车		Мойка
+com.tinnove.wecarnavi:string/search_you_can_try_another_word	-1	您可以换个词试试		Попробуйте другой запрос
+com.tinnove.wecarnavi:string/searching	-1	搜索中...     		Поиск... 
+com.tinnove.wecarnavi:string/select_setting_hawkeye	-1	鹰眼图		Обзорная карта
+com.tinnove.wecarnavi:string/select_setting_light_bar	-1	路况条		Полоса дорожной обстановки
+com.tinnove.wecarnavi:string/send_to_car_dialog_btn_confirm	-1	确认%sS		Подтвердить (%s с)
+com.tinnove.wecarnavi:string/send_to_car_dialog_btn_message	-1	请您确认手机预定的目的地：%s		Подтвердите пункт назначения с телефона: %s
+com.tinnove.wecarnavi:string/send_to_phone_message	-1	快到啦，下车后可使用手机步行导航~		Почти приехали. После выхода продолжите пешую навигацию на телефоне.
+com.tinnove.wecarnavi:string/service_area	-1	服务区		Зона отдыха
+com.tinnove.wecarnavi:string/service_facility_txt	-1	服务设施		Сервисы и удобства
+com.tinnove.wecarnavi:string/service_goll_area_quit_alert	-1	取消提醒		Отменить напоминание
+com.tinnove.wecarnavi:string/set_home	-1	点击设置		Нажмите для настройки
+com.tinnove.wecarnavi:string/set_map_car_logo	-1	车标设置		Значок автомобиля
+com.tinnove.wecarnavi:string/set_map_car_logo_default	-1	默认车标		Стандартный значок
+com.tinnove.wecarnavi:string/set_map_custom	-1	自定义		Индивидуальный
+com.tinnove.wecarnavi:string/set_map_day_night_mode	-1	日夜模式		Дневной и ночной режим
+com.tinnove.wecarnavi:string/set_map_day_night_mode_auto	-1	自动		Автоматически
+com.tinnove.wecarnavi:string/set_map_day_night_mode_day	-1	白天		День
+com.tinnove.wecarnavi:string/set_map_day_night_mode_night	-1	黑夜		Ночь
+com.tinnove.wecarnavi:string/set_map_drawing_visable	-1	车道级图面显示		Отображение карты по полосам
+com.tinnove.wecarnavi:string/set_map_map_text_size	-1	地图文字		Текст карты
+com.tinnove.wecarnavi:string/set_map_map_text_size_big	-1	大号		Крупный
+com.tinnove.wecarnavi:string/set_map_map_text_size_small	-1	小号		Мелкий
+com.tinnove.wecarnavi:string/set_map_map_text_size_standard	-1	标准		Обычный
+com.tinnove.wecarnavi:string/set_map_other	-1	其他		Прочее
+com.tinnove.wecarnavi:string/set_map_other_about	-1	关于		О приложении
+com.tinnove.wecarnavi:string/set_map_other_cache_size	-1	缓存 %s		Кэш: %s
+com.tinnove.wecarnavi:string/set_map_other_clear_cache	-1	清除缓存		Очистить кэш
+com.tinnove.wecarnavi:string/set_map_other_clear_cache_dialog	-1	确定要清除缓存？		Очистить кэш?
+com.tinnove.wecarnavi:string/set_map_other_clear_cache_success	-1	已清除成功		Очищено
+com.tinnove.wecarnavi:string/set_map_other_restore_defaults	-1	恢复默认设置		Вернуть стандартные настройки
+com.tinnove.wecarnavi:string/set_map_other_restore_defaults_dialog_text	-1	恢复默认设置，需重启应用后生效		Для применения стандартных настроек потребуется перезапуск приложения
+com.tinnove.wecarnavi:string/set_map_route_guide_adas_tig	-1	开启后，激活辅助驾驶将自动打开辅助驾驶3D模式		При активации помощи водителю автоматически открывает её трёхмерный экран.
+com.tinnove.wecarnavi:string/set_map_route_guide_adas_title	-1	辅助驾驶场景优先展示		Приоритет экрана помощи водителю
+com.tinnove.wecarnavi:string/set_map_system_bar_dialog_confirm	-1	立即重启		Перезапустить сейчас
+com.tinnove.wecarnavi:string/set_map_system_bar_dialog_text	-1	需重启应用才生效		Потребуется перезапуск приложения
+com.tinnove.wecarnavi:string/set_map_theme_type	-1	主题类型		Тип темы
+com.tinnove.wecarnavi:string/set_navi_no_net_can_not_avoid_jam	-1	当前无网络，无法躲避拥堵路段		Без сети объезд заторов недоступен
+com.tinnove.wecarnavi:string/set_navi_no_net_can_not_big_road_first	-1	当前无网络，无法设置大路优先		Без сети приоритет крупных дорог недоступен
+com.tinnove.wecarnavi:string/set_navi_no_net_can_not_speed_fast_first	-1	当前无网络，无法设置速度最快		Без сети выбор самого быстрого маршрута недоступен
+com.tinnove.wecarnavi:string/set_tts_cruise_tts	-1	巡航播报		Сообщения без маршрута
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_auto_enter_cruise	-1	自动进入巡航		Автоматически включать обзор дороги
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_bg_tts	-1	巡航播报		Сообщения без маршрута
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_electronic_eye	-1	电子眼播报		Сообщения о камерах
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_safe_remind	-1	安全提醒		Напоминания о безопасности
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_tip	-1	请开启巡航播报后再设置		Сначала включите сообщения без маршрута
+com.tinnove.wecarnavi:string/set_tts_cruise_tts_traffic	-1	路况播报		Сообщения о дорожной обстановке
+com.tinnove.wecarnavi:string/set_tts_navigate_tts	-1	导航播报		Сообщения навигации
+com.tinnove.wecarnavi:string/set_tts_navigate_tts_concise	-1	简洁播报		Краткие сообщения
+com.tinnove.wecarnavi:string/set_tts_navigate_tts_detailed	-1	详细播报		Подробные сообщения
+com.tinnove.wecarnavi:string/set_tts_navigate_volume	-1	导航音量		Громкость навигации
+com.tinnove.wecarnavi:string/set_tts_remix_type	-1	混音方式		Смешивание звука
+com.tinnove.wecarnavi:string/set_tts_remix_type_music_coexist	-1	音乐共存		Одновременно с музыкой
+com.tinnove.wecarnavi:string/set_tts_remix_type_pause_music	-1	暂停音乐		Приостанавливать музыку
+com.tinnove.wecarnavi:string/set_tts_remix_type_push_down_music	-1	压低音乐		Приглушать музыку
+com.tinnove.wecarnavi:string/set_tts_role_data_fail	-1	数据请求失败，请点击重试！		Не удалось получить данные. Нажмите для повтора.
+com.tinnove.wecarnavi:string/set_tts_standard_girl	-1	标准女音		Стандартный женский голос
+com.tinnove.wecarnavi:string/set_tts_tinnove_speech_config_app_name	-1	高德地图		Amap
+com.tinnove.wecarnavi:string/set_tts_tts	-1	语音播报		Голосовые сообщения
+com.tinnove.wecarnavi:string/set_work	-1	点击设置		Нажмите для настройки
+com.tinnove.wecarnavi:string/setting	-1	设置		Настройки
+com.tinnove.wecarnavi:string/setting_ar_navi	-1	AR导航		AR-навигация
+com.tinnove.wecarnavi:string/setting_car_plate_completed	-1	确定		ОК
+com.tinnove.wecarnavi:string/setting_car_plate_hint_text	-1	请输入车牌号		Введите госномер
+com.tinnove.wecarnavi:string/setting_car_plate_search	-1	搜索		Поиск
+com.tinnove.wecarnavi:string/setting_car_plate_tip_text	-1	输入车牌后，将自动为您避开限行路段		После ввода госномера система автоматически объезжает запрещённые для него участки.
+com.tinnove.wecarnavi:string/setting_company	-1	点击这里设置公司		Нажмите, чтобы задать работу
+com.tinnove.wecarnavi:string/setting_dialog_logout_content	-1	退出后，将无法同步收藏记录、导航记录等		После выхода избранное и история навигации не будут синхронизироваться
+com.tinnove.wecarnavi:string/setting_dialog_logout_title	-1	确定退出登录		Выйти из аккаунта?
+com.tinnove.wecarnavi:string/setting_favourite	-1	收藏夹		Избранное
+com.tinnove.wecarnavi:string/setting_gpstest	-1	可用卫星		Доступные спутники
+com.tinnove.wecarnavi:string/setting_hd_map	-1	车道级		По полосам
+com.tinnove.wecarnavi:string/setting_home	-1	点击这里设置家		Нажмите, чтобы задать дом
+com.tinnove.wecarnavi:string/setting_limit	-1	限行查询		Проверка ограничений движения
+com.tinnove.wecarnavi:string/setting_login	-1	点击登录		Нажмите для входа
+com.tinnove.wecarnavi:string/setting_login_tip	-1	登录后享受多端同步		Синхронизация между устройствами после входа
+com.tinnove.wecarnavi:string/setting_login_tip1	-1	世界那么大，我想去看看！		Мир так велик — пора увидеть его!
+com.tinnove.wecarnavi:string/setting_logout_tip	-1	已退出账号		Вы вышли из аккаунта
+com.tinnove.wecarnavi:string/setting_logouting	-1	正在退出		Выход из аккаунта
+com.tinnove.wecarnavi:string/setting_map	-1	地图		Карта
+com.tinnove.wecarnavi:string/setting_my	-1	我的		Моё
+com.tinnove.wecarnavi:string/setting_mycar	-1	我的爱车		Мой автомобиль
+com.tinnove.wecarnavi:string/setting_navi	-1	导航		Навигация
+com.tinnove.wecarnavi:string/setting_offline_map	-1	离线地图		Офлайн-карты
+com.tinnove.wecarnavi:string/setting_road_condition	-1	路况预览		Обзор дорожной обстановки
+com.tinnove.wecarnavi:string/setting_team	-1	组队		Группа
+com.tinnove.wecarnavi:string/setting_track	-1	出行%1$skm		Пройдено: %1$s км
+com.tinnove.wecarnavi:string/setting_track_no_history	-1	无痕模式不支持记录行程		В режиме без истории поездки не записываются
+com.tinnove.wecarnavi:string/setting_trip	-1	我的足迹		Мои поездки
+com.tinnove.wecarnavi:string/setting_voice_play	-1	播报		Сообщения
+com.tinnove.wecarnavi:string/setting_volume_mute	-1	静音		Без звука
+com.tinnove.wecarnavi:string/setting_volume_volume	-1	音量		Громкость
+com.tinnove.wecarnavi:string/setting_weixin	-1	微信互联		Подключение WeChat
+com.tinnove.wecarnavi:string/sevrice_goll_area_add_alert	-1	添加提醒		Добавить напоминание
+com.tinnove.wecarnavi:string/simulate_gps_need_permission_content	-1	请在设置中打开“显示在其他应用的上层”的权限		В настройках разрешите отображение поверх других приложений
+com.tinnove.wecarnavi:string/skin_auto	-1	自动模式		Автоматически
+com.tinnove.wecarnavi:string/skin_day	-1	白天模式		Дневной режим
+com.tinnove.wecarnavi:string/skin_night	-1	黑夜模式		Ночной режим
+com.tinnove.wecarnavi:string/snow	-1	雪		Снег
+com.tinnove.wecarnavi:string/speed_down	-1	急减速 		Резкое замедление 
+com.tinnove.wecarnavi:string/speed_up	-1	急加速 		Резкое ускорение 
+com.tinnove.wecarnavi:string/spend_more	-1	多%s		На %s больше
+com.tinnove.wecarnavi:string/sure	-1	确定		ОК
+com.tinnove.wecarnavi:string/switch_mix_baidu_tts	-1	混合播报或百度播报		Смешанные сообщения или голос Baidu
+com.tinnove.wecarnavi:string/sync_failure	-1	同步失败		Не удалось синхронизировать
+com.tinnove.wecarnavi:string/sync_time_txt	-1	登录后可同步手机端收藏夹		Войдите для синхронизации избранного с телефоном
+com.tinnove.wecarnavi:string/sync_to_phone_tip	-1	车内使用手机导航，自动同步到车机		Навигация телефона в салоне автоматически передаётся в автомобиль
+com.tinnove.wecarnavi:string/sync_txt	-1	同步		Синхронизировать
+com.tinnove.wecarnavi:string/t	-1	高德地图		Amap
+com.tinnove.wecarnavi:string/team_about_to_leave_page	-1	即将离开页面		Вы покинете страницу
+com.tinnove.wecarnavi:string/team_announcement	-1	[群公告] %1$s		[Объявление группы] %1$s
+com.tinnove.wecarnavi:string/team_captain_txt	-1	队长		Ведущий
+com.tinnove.wecarnavi:string/team_congestion_statement	-1	解散或退出队伍可停止共享位置，请谨慎分享口令并合法使用		Расформирование группы или выход прекращает передачу местоположения. Передавайте код только доверенным людям и соблюдайте правила использования.
+com.tinnove.wecarnavi:string/team_countdown_i_see	-1	知道了  %sS		Понятно (%s с)
+com.tinnove.wecarnavi:string/team_create_team	-1	创建队伍		Создать группу
+com.tinnove.wecarnavi:string/team_create_team_failed_default_tip	-1	创建队伍失败		Не удалось создать группу
+com.tinnove.wecarnavi:string/team_create_team_succeed	-1	创建队伍成功		Группа создана
+com.tinnove.wecarnavi:string/team_creating_text	-1	正在创建组队，请稍等		Создание группы. Подождите.
+com.tinnove.wecarnavi:string/team_destination_has_changed_notification	-1	集合点通知		Изменено место встречи
+com.tinnove.wecarnavi:string/team_disband_team	-1	解散队伍		Расформировать группу
+com.tinnove.wecarnavi:string/team_disband_team_dialog_message	-1	解散后所有成员将会被移除		Все участники будут удалены
+com.tinnove.wecarnavi:string/team_disband_team_dialog_title	-1	确定解散当前队伍？		Расформировать текущую группу?
+com.tinnove.wecarnavi:string/team_disband_team_succeeded	-1	队伍已解散		Группа расформирована
+com.tinnove.wecarnavi:string/team_dissolve_txt	-1	正在解散队伍，请稍等		Расформирование группы. Подождите.
+com.tinnove.wecarnavi:string/team_duplicate_nick_name	-1	修改昵称与原昵称相同，请重新输入		Новое имя совпадает с прежним. Введите другое.
+com.tinnove.wecarnavi:string/team_friend_invite_member_in_team	-1	队伍中		В группе
+com.tinnove.wecarnavi:string/team_friend_invite_member_load_field_tips	-1	获取历史好友列表失败		Не удалось получить прежние контакты
+com.tinnove.wecarnavi:string/team_friend_invite_member_loading_message	-1	正在发送邀请，请稍等		Отправка приглашения. Подождите.
+com.tinnove.wecarnavi:string/team_friend_invite_member_no_friend_tips	-1	暂无历史好友		Прежних контактов пока нет
+com.tinnove.wecarnavi:string/team_friend_invite_member_send_filed_tips	-1	邀请发送失败		Не удалось отправить приглашение
+com.tinnove.wecarnavi:string/team_friend_invite_member_send_request	-1	发送邀请		Отправить приглашение
+com.tinnove.wecarnavi:string/team_friend_invite_member_send_success_tips	-1	邀请已发送		Приглашение отправлено
+com.tinnove.wecarnavi:string/team_friend_invite_member_sub_title	-1	与朋友组队，下次即可快速邀请		После совместной поездки друзей можно пригласить быстрее
+com.tinnove.wecarnavi:string/team_friend_invite_member_title	-1	邀请历史好友		Пригласить прежних попутчиков
+com.tinnove.wecarnavi:string/team_has_been_disbanded_by_captain	-1	队伍已被队长解散		Ведущий расформировал группу
+com.tinnove.wecarnavi:string/team_has_release_dialog_dismiss_title	-1	您所在的队伍已解散		Ваша группа расформирована
+com.tinnove.wecarnavi:string/team_has_release_dialog_kick_title	-1	你已被队长移出队伍		Ведущий удалил вас из группы
+com.tinnove.wecarnavi:string/team_has_release_dialog_leave_title	-1	您已在其他设备退出队伍		Вы вышли из группы на другом устройстве
+com.tinnove.wecarnavi:string/team_in_team_message	-1	点击“确定”进入当前队伍		Нажмите ОК для входа в текущую группу
+com.tinnove.wecarnavi:string/team_in_team_title_by_create	-1	你已在一个队伍中，无法创建新队伍		Вы уже в группе. Создать новую нельзя.
+com.tinnove.wecarnavi:string/team_in_team_title_by_join	-1	您已在一个队伍中，无法加入新队伍		Вы уже в группе. Вступить в новую нельзя.
+com.tinnove.wecarnavi:string/team_invite_friend_txt	-1	邀请好友		Пригласить друзей
+com.tinnove.wecarnavi:string/team_invite_member_title	-1	邀请好友		Пригласить друзей
+com.tinnove.wecarnavi:string/team_invite_notification	-1	组队邀请		Приглашение в группу
+com.tinnove.wecarnavi:string/team_invite_notification_tips	-1	邀请您加入队伍		Вас приглашают в группу
+com.tinnove.wecarnavi:string/team_invite_team_code_txt	-1	组队口令：%1$s		Код группы: %1$s
+com.tinnove.wecarnavi:string/team_joinTeam_slogan_hint	-1	请向队伍成员获取		Получите код у участника группы
+com.tinnove.wecarnavi:string/team_joinTeam_toast_txt	-1	正在加入队伍，请稍等		Вход в группу. Подождите.
+com.tinnove.wecarnavi:string/team_join_succeed	-1	加入队伍成功		Вы присоединились к группе
+com.tinnove.wecarnavi:string/team_join_team	-1	加入队伍		Присоединиться к группе
+com.tinnove.wecarnavi:string/team_join_team_failed_default_tip	-1	加入队伍失败，请稍后重试		Не удалось присоединиться. Повторите попытку позже.
+com.tinnove.wecarnavi:string/team_join_team_input_hint	-1	请输入队伍口令		Введите код группы
+com.tinnove.wecarnavi:string/team_leave_team	-1	退出队伍		Выйти из группы
+com.tinnove.wecarnavi:string/team_load_failed_tips	-1	尝试刷新，或检查网络后重试		Обновите или проверьте сеть и повторите попытку
+com.tinnove.wecarnavi:string/team_main_page_protocol	-1	《组队出行服务协议》		«Условия групповых поездок»
+com.tinnove.wecarnavi:string/team_main_page_slogan	-1	实时共享位置，轻松结伴出行		Делитесь местоположением и путешествуйте вместе
+com.tinnove.wecarnavi:string/team_main_page_title	-1	组队出行		Групповые поездки
+com.tinnove.wecarnavi:string/team_main_page_title_protocol	-1	组队出行服务协议		Условия групповых поездок
+com.tinnove.wecarnavi:string/team_member_limit_reached	-1	队伍人数已经达到上限		Достигнут предел участников
+com.tinnove.wecarnavi:string/team_member_limit_reached_unable_invite	-1	已达到人数上限，无法邀请		Достигнут предел. Пригласить нельзя.
+com.tinnove.wecarnavi:string/team_member_rank	-1	排名		Место в рейтинге
+com.tinnove.wecarnavi:string/team_member_rank_title	-1	用户排名		Рейтинг участников
+com.tinnove.wecarnavi:string/team_member_size	-1	当前成员：%s人		Участников: %s
+com.tinnove.wecarnavi:string/team_member_size_more	-1	当前成员：99+人		Участников: 99+
+com.tinnove.wecarnavi:string/team_member_title	-1	成员		Участники
+com.tinnove.wecarnavi:string/team_member_to_destination_distance_title	-1	距集合点距离		Расстояние до места встречи
+com.tinnove.wecarnavi:string/team_message_new_message	-1	新消息		Новое сообщение
+com.tinnove.wecarnavi:string/team_message_nickname_me	-1	我		Я
+com.tinnove.wecarnavi:string/team_nick_name_is_invalid	-1	昵称超过32位或包含敏感字符		Имя длиннее 32 символов или содержит недопустимые знаки
+com.tinnove.wecarnavi:string/team_notification_cancel_format	-1	取消  %1$sS		Отмена (%1$s с)
+com.tinnove.wecarnavi:string/team_only_leader_can_remove_member	-1	只有队长才能踢人		Удалять участников может только ведущий
+com.tinnove.wecarnavi:string/team_protocol_page_outline	-1	欢迎您使用高德地图组队出行服务！在您和小伙伴共享美好行程时，您已经清楚认识、理解、同意与该服务的有关的服务内容：		Добро пожаловать в групповые поездки Amap. Пользуясь совместной поездкой, вы понимаете и принимаете следующие условия сервиса:
+com.tinnove.wecarnavi:string/team_protocol_page_title	-1	组队出行服务协议		Условия групповых поездок
+com.tinnove.wecarnavi:string/team_qr_code_invite_member_sub_title	-1	手机微信扫码，分享口令给好友		Отсканируйте код в WeChat и отправьте друзьям код группы
+com.tinnove.wecarnavi:string/team_qr_code_invite_member_title	-1	邀请微信好友		Пригласить друзей из WeChat
+com.tinnove.wecarnavi:string/team_quit_txt	-1	正在退出队伍，请稍等		Выход из группы. Подождите.
+com.tinnove.wecarnavi:string/team_quite_team_dialog_message	-1	退出后将无法与好友共享位置信息		После выхода вы не сможете делиться местоположением с друзьями
+com.tinnove.wecarnavi:string/team_quite_team_dialog_title	-1	确定退出当前队伍？		Выйти из текущей группы?
+com.tinnove.wecarnavi:string/team_quite_team_succeeded	-1	已退出队伍		Вы вышли из группы
+com.tinnove.wecarnavi:string/team_remove_member_no_member_tips	-1	暂无队员		Участников пока нет
+com.tinnove.wecarnavi:string/team_remove_member_title	-1	移除队员		Удалить участника
+com.tinnove.wecarnavi:string/team_rename_tips_txt	-1	修改昵称，方便小伙伴们找你		Измените имя, чтобы друзьям было легче вас найти
+com.tinnove.wecarnavi:string/team_rename_tnn_txt	-1	正在修改昵称，请稍等		Изменение имени. Подождите.
+com.tinnove.wecarnavi:string/team_set_team_destination	-1	设置集合点		Задать место встречи
+com.tinnove.wecarnavi:string/team_setting_disband_team_default_tip	-1	解散队伍失败，请稍后重试		Не удалось расформировать группу. Повторите попытку позже.
+com.tinnove.wecarnavi:string/team_setting_message_do_not_disturb_title	-1	消息免打扰		Не беспокоить сообщениями
+com.tinnove.wecarnavi:string/team_setting_mic_title	-1	⻨克⻛增益		Усиление микрофона
+com.tinnove.wecarnavi:string/team_setting_nick_name_title	-1	昵称		Имя
+com.tinnove.wecarnavi:string/team_setting_quite_team_default_tip	-1	退出队伍失败，请稍后重试		Не удалось выйти из группы. Повторите попытку позже.
+com.tinnove.wecarnavi:string/team_setting_remove_member_default_tip	-1	移除成员失败，请稍后重试		Не удалось удалить участника. Повторите попытку позже.
+com.tinnove.wecarnavi:string/team_setting_remove_member_loading	-1	正在移除队员，请稍等		Удаление участника. Подождите.
+com.tinnove.wecarnavi:string/team_setting_remove_member_succeeded	-1	队员已移除		Участник удалён
+com.tinnove.wecarnavi:string/team_setting_remove_member_title	-1	移除成员		Удалить участника
+com.tinnove.wecarnavi:string/team_setting_title	-1	组队设置		Настройки группы
+com.tinnove.wecarnavi:string/team_team_code_is_empty	-1	队伍口令为空		Код группы пуст
+com.tinnove.wecarnavi:string/team_team_code_txt	-1	口令 ：%1$s		Код: %1$s
+com.tinnove.wecarnavi:string/team_team_is_dead	-1	队伍不存在或已失效		Группа не существует или недействительна
+com.tinnove.wecarnavi:string/team_team_is_disbanded	-1	队伍已解散		Группа расформирована
+com.tinnove.wecarnavi:string/team_team_kick	-1	移除		Удалить
+com.tinnove.wecarnavi:string/team_team_kick_txt	-1	将该成员从队伍中移除？		Удалить этого участника из группы?
+com.tinnove.wecarnavi:string/team_trip	-1	集结		Встреча
+com.tinnove.wecarnavi:string/team_update_nick_name_failed	-1	修改昵称失败，请稍后重试		Не удалось изменить имя. Повторите попытку позже.
+com.tinnove.wecarnavi:string/team_update_nick_name_succeeded	-1	昵称已保存		Имя сохранено
+com.tinnove.wecarnavi:string/team_update_nickname_input_hint	-1	请输入昵称		Введите имя
+com.tinnove.wecarnavi:string/team_update_nickname_title	-1	修改昵称		Изменить имя
+com.tinnove.wecarnavi:string/team_update_team_destination_failed_new_tips	-1	集结点设置失败，请检查网络后重试		Не удалось задать место встречи. Проверьте сеть и повторите попытку.
+com.tinnove.wecarnavi:string/team_update_team_destination_failed_tips	-1	集合点设置失败		Не удалось задать место встречи
+com.tinnove.wecarnavi:string/team_update_team_destination_success_tips	-1	集合点设置成功		Место встречи задано
+com.tinnove.wecarnavi:string/team_update_team_destination_tips	-1	正在修改集合点...		Изменение места встречи...
+com.tinnove.wecarnavi:string/team_user_already_in_team	-1	您已经在这个队伍中		Вы уже в этой группе
+com.tinnove.wecarnavi:string/team_user_in_self_team	-1	用户已经在自己的队伍中		Пользователь уже в собственной группе
+com.tinnove.wecarnavi:string/team_user_is_in_other_team	-1	用户已经在其他队伍中		Пользователь уже в другой группе
+com.tinnove.wecarnavi:string/team_user_not_in_team	-1	用户没有在队伍列表中		Пользователя нет в списке группы
+com.tinnove.wecarnavi:string/team_user_not_logged_in	-1	用户未登录		Пользователь не вошёл в аккаунт
+com.tinnove.wecarnavi:string/team_you_have_been_dropped_from_another_client	-1	您已从其他客户端退出队伍		Вы вышли из группы на другом устройстве
+com.tinnove.wecarnavi:string/team_you_have_been_removed_from_team_by_captain	-1	你已被队长移出队伍		Ведущий удалил вас из группы
+com.tinnove.wecarnavi:string/text_charge_in_out_tips_ok	-1	我知道了		Понятно
+com.tinnove.wecarnavi:string/text_ele_charge_in_out_tips	-1	出站电量的修改会同步车辆中心的充电上限设置		Изменение заряда выезда также меняет верхний предел зарядки в настройках автомобиля
+com.tinnove.wecarnavi:string/text_ele_via_delete_tips	-1	修改途经点会清除推荐的补能充电站，是否继续操作？		Изменение промежуточных точек удалит рекомендованные зарядные станции. Продолжить?
+com.tinnove.wecarnavi:string/text_know	-1	我知道了		Понятно
+com.tinnove.wecarnavi:string/text_leftover	-1	剩余		Осталось
+com.tinnove.wecarnavi:string/text_no_history	-1	不会记录导航、搜索、行程历史记录		История навигации, поиска и поездок не записывается
+com.tinnove.wecarnavi:string/text_no_history_title	-1	开启无痕模式		Включить режим без истории
+com.tinnove.wecarnavi:string/text_no_remind_again	-1	不再提醒		Больше не напоминать
+com.tinnove.wecarnavi:string/text_overlook	-1	全程		Весь маршрут
+com.tinnove.wecarnavi:string/text_rang_on_map_open	-1	当电量≤30%，地图首页展示可续航范围		При заряде ≤30% главный экран карты показывает достижимую область
+com.tinnove.wecarnavi:string/the_poi_has_been_in_list	-1	列表中已存在		Уже есть в списке
+com.tinnove.wecarnavi:string/theme_map	-1	主题地图		Тематические карты
+com.tinnove.wecarnavi:string/theme_map_charge_station	-1	充电站		Зарядные станции
+com.tinnove.wecarnavi:string/theme_map_gas_station	-1	加油站		АЗС
+com.tinnove.wecarnavi:string/theme_map_self_drive	-1	自驾游		Автопутешествия
+com.tinnove.wecarnavi:string/theme_map_toast_fail	-1	加载失败		Не удалось загрузить
+com.tinnove.wecarnavi:string/theme_map_toast_loading	-1	地图加载中		Загрузка карты
+com.tinnove.wecarnavi:string/third_back_title	-1	返回		Назад
+com.tinnove.wecarnavi:string/tips_biz_hour_about_closed	-1	到达时终点即将休息，营业时间%s点		К вашему прибытию место скоро закроется. Часы работы: %s
+com.tinnove.wecarnavi:string/tips_biz_hour_closed	-1	到达时终点不营业，营业时间%s点		К вашему прибытию место будет закрыто. Часы работы: %s
+com.tinnove.wecarnavi:string/tips_biz_hour_no_biz	-1	到达当日终点不营业		В день прибытия место не работает
+com.tinnove.wecarnavi:string/tips_biz_open	-1	开启		Включить
+com.tinnove.wecarnavi:string/tips_box_title	-1	路线消息  (%s)		Сообщения маршрута (%s)
+com.tinnove.wecarnavi:string/tips_btn_set	-1	设置		Настройки
+com.tinnove.wecarnavi:string/tips_btn_show	-1	查看		Посмотреть
+com.tinnove.wecarnavi:string/tips_car_plate_set	-1	已设置车牌		Госномер задан
+com.tinnove.wecarnavi:string/tips_event_block_can_avoid	-1	%s，已为您避开		%s. Объезд построен.
+com.tinnove.wecarnavi:string/tips_event_block_can_not_avoid	-1	%s，已无法避开		%s. Объехать уже нельзя.
+com.tinnove.wecarnavi:string/tips_event_block_end_in	-1	终点在封闭路段，请合理安排出行		Пункт назначения на закрытом участке. Учитывайте это при планировании.
+com.tinnove.wecarnavi:string/tips_event_block_end_in_panel	-1	前方道路封闭已无法为您避开		Дорога впереди закрыта. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_event_block_end_opt	-1	服务配置		Настройка сервиса
+com.tinnove.wecarnavi:string/tips_event_block_pass_in	-1	途经点在封闭路段，请合理安排出行		Промежуточная точка на закрытом участке. Учитывайте это при планировании.
+com.tinnove.wecarnavi:string/tips_event_block_pass_in_panel	-1	前方道路封闭已无法为您避开		Дорога впереди закрыта. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_event_block_pass_opt	-1	服务配置		Настройка сервиса
+com.tinnove.wecarnavi:string/tips_event_block_start_in	-1	起点在封闭路段，请合理安排出行		Начало маршрута на закрытом участке. Учитывайте это при планировании.
+com.tinnove.wecarnavi:string/tips_event_block_start_in_panel	-1	前方道路封闭已无法为您避开		Дорога впереди закрыта. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_event_can_not_avoid_panel	-1	已无法为您避开		Объезд уже недоступен
+com.tinnove.wecarnavi:string/tips_event_reasonable_travel_panel	-1	请合理安排出行		Планируйте поездку с учётом ограничений
+com.tinnove.wecarnavi:string/tips_event_sub_content	-1	(多条路段，显示封路最长路段)		(Показан самый длинный из закрытых участков)
+com.tinnove.wecarnavi:string/tips_forbidden_can_not_avoid	-1	路线途经禁行路段，已无法避开		Маршрут проходит по запрещённому участку. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_forbidden_can_not_avoid_panel	-1	路线上有无法避开的禁行路段		На маршруте есть запрещённый участок без объезда
+com.tinnove.wecarnavi:string/tips_forbidden_has_avoid	-1	路线途经禁行路段，已为您避开		Построен объезд запрещённого участка
+com.tinnove.wecarnavi:string/tips_guide_tunnel_out	-1	即将驶出		Скоро выезд
+com.tinnove.wecarnavi:string/tips_holiday_high_way_free	-1	高速路段，节假日免费		Скоростная дорога бесплатна в праздники
+com.tinnove.wecarnavi:string/tips_jam_has_avoid	-1	已避开拥堵，%s拥堵，长度%s，约%s		Затор объехали: %s, длина %s, примерно %s.
+com.tinnove.wecarnavi:string/tips_jam_sub_content	-1	(多条路段，显示拥堵最长路段)		(Показан самый длинный из заторов)
+com.tinnove.wecarnavi:string/tips_loading	-1	加载中…		Загрузка…
+com.tinnove.wecarnavi:string/tips_loading_fail	-1	加载失败，点击重试		Не удалось загрузить. Нажмите для повтора.
+com.tinnove.wecarnavi:string/tips_loading_fail_no_info	-1	暂无限行政策信息		Данных об ограничениях пока нет
+com.tinnove.wecarnavi:string/tips_loading_fail_retry	-1	加载失败，请稍后重试		Не удалось загрузить. Повторите попытку позже.
+com.tinnove.wecarnavi:string/tips_loading_no_net_fail	-1	请联网后，点击重试		Подключитесь к сети и нажмите повтор
+com.tinnove.wecarnavi:string/tips_marker_forbidden	-1	道路封闭		Дорога закрыта
+com.tinnove.wecarnavi:string/tips_marker_jam	-1	道路拥堵		Затор
+com.tinnove.wecarnavi:string/tips_marker_restrict	-1	道路限行		Ограничение движения
+com.tinnove.wecarnavi:string/tips_marker_source_amap	-1	高德交通		Дорожные данные Amap
+com.tinnove.wecarnavi:string/tips_marker_source_tecent	-1	腾讯地图大数据		Данные Tencent Maps
+com.tinnove.wecarnavi:string/tips_narrow_road	-1	当前路线存在窄路，请注意行车安全		На маршруте узкая дорога. Соблюдайте осторожность.
+com.tinnove.wecarnavi:string/tips_narrow_sub_content	-1	(多条路段，显示最窄最长路段)		(Показан самый длинный и узкий из участков)
+com.tinnove.wecarnavi:string/tips_new_energy_low_power_when_arrived	-1	到达后电量较低，建议充电		По прибытии останется мало заряда. Рекомендуется зарядка.
+com.tinnove.wecarnavi:string/tips_new_energy_not_enough	-1	当前电量不足以行驶至目的地，请谨慎前往		Заряда не хватит до пункта назначения. Учитывайте это перед поездкой.
+com.tinnove.wecarnavi:string/tips_new_energy_not_enough_recommend	-1	有电量风险，已推荐智能充电路线		Есть риск нехватки заряда. Предложен маршрут с зарядкой.
+com.tinnove.wecarnavi:string/tips_new_energy_not_enough_recommend_btn	-1	不需要		Не нужно
+com.tinnove.wecarnavi:string/tips_no_loc	-1	未获取到“位置权限”，地图无法使用		Нет доступа к местоположению. Карта недоступна.
+com.tinnove.wecarnavi:string/tips_online_counts	-1	%s人在线		В сети: %s
+com.tinnove.wecarnavi:string/tips_position_and_time	-1	距我%s %s拍摄		От меня: %s. Снято: %s
+com.tinnove.wecarnavi:string/tips_restrict_advise_open	-1	是否避开%s限行		Объехать ограничения движения: %s?
+com.tinnove.wecarnavi:string/tips_restrict_advise_setting	-1	设置车牌，避开%s限行		Задайте госномер для объезда ограничений: %s
+com.tinnove.wecarnavi:string/tips_restrict_content_panel	-1	%s限行		Ограничение: %s
+com.tinnove.wecarnavi:string/tips_restrict_end_has_avoid	-1	限行即将结束，已为您避开		Ограничение скоро закончится. Объезд построен.
+com.tinnove.wecarnavi:string/tips_restrict_end_in_avoid	-1	终点在限行路段，已无法避开		Пункт назначения на ограниченном участке. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_restrict_end_in_avoid_panel	-1	终点在限行路段		Пункт назначения в зоне ограничения
+com.tinnove.wecarnavi:string/tips_restrict_is_avoided	-1	已为您避开限行区域		Построен объезд зоны ограничения
+com.tinnove.wecarnavi:string/tips_restrict_is_avoided_panel	-1	已为您避开限行区域		Построен объезд зоны ограничения
+com.tinnove.wecarnavi:string/tips_restrict_item_title	-1	限行政策%d		Правило ограничения %d
+com.tinnove.wecarnavi:string/tips_restrict_item_title_area	-1	限行区域		Зона ограничения
+com.tinnove.wecarnavi:string/tips_restrict_item_title_rule	-1	限行规定		Правила ограничения
+com.tinnove.wecarnavi:string/tips_restrict_item_title_status	-1	限行中		Ограничение действует
+com.tinnove.wecarnavi:string/tips_restrict_item_title_status_not	-1	未限行		Ограничение не действует
+com.tinnove.wecarnavi:string/tips_restrict_item_title_time	-1	限行时间		Время ограничения
+com.tinnove.wecarnavi:string/tips_restrict_item_title_top	-1	限行政策		Ограничения движения
+com.tinnove.wecarnavi:string/tips_restrict_pass_avoid	-1	途经限行路段，已无法避开		Маршрут проходит по ограниченному участку. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_restrict_pass_avoid_panel	-1	路线上有无法避开的限行路段		На маршруте есть ограниченный участок без объезда
+com.tinnove.wecarnavi:string/tips_restrict_pass_can_avoid	-1	%s，已为您避开		%s. Объезд построен.
+com.tinnove.wecarnavi:string/tips_restrict_pass_can_not_avoid	-1	%s，已无法避开		%s. Объезд уже недоступен.
+com.tinnove.wecarnavi:string/tips_restrict_pass_in_avoid	-1	途经点在限行路段，已无法避开		Промежуточная точка в зоне ограничения. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_restrict_pass_in_avoid_panel	-1	途经点在限行路段		Промежуточная точка в зоне ограничения
+com.tinnove.wecarnavi:string/tips_restrict_start_has_avoid	-1	限行即将开始，已为您避开		Ограничение скоро начнётся. Объезд построен.
+com.tinnove.wecarnavi:string/tips_restrict_start_has_avoid_panel	-1	途经区域即将限行		На участке пути скоро ограничение движения
+com.tinnove.wecarnavi:string/tips_restrict_start_in_avoid	-1	起点在限行路段，已无法避开		Начало маршрута в зоне ограничения. Объезд недоступен.
+com.tinnove.wecarnavi:string/tips_restrict_start_in_avoid_panel	-1	起点在限行路段		Начало маршрута в зоне ограничения
+com.tinnove.wecarnavi:string/tips_road_in_jam	-1	%s拥堵\n长度%s，约%s通过		Затор: %s.\nДлина: %s, проезд примерно за %s.
+com.tinnove.wecarnavi:string/tips_searching	-1	搜索中，请稍候…		Поиск. Подождите…
+com.tinnove.wecarnavi:string/tips_title_txt	-1	路线消息		Сообщения маршрута
+com.tinnove.wecarnavi:string/tips_to_empower	-1	去授权		Выдать разрешение
+com.tinnove.wecarnavi:string/tips_traffic_accident	-1	发生事故		ДТП
+com.tinnove.wecarnavi:string/tips_traffic_event_exist	-1	存在（%d）		Есть (%d)
+com.tinnove.wecarnavi:string/tips_traffic_event_jam_eta	-1	大约需要		Понадобится примерно
+com.tinnove.wecarnavi:string/tips_traffic_event_jam_len	-1	长度%1$d米		Длина: %1$d м
+com.tinnove.wecarnavi:string/tips_traffic_event_jam_time	-1	当前道路预计通行时间%s		Примерное время проезда по текущей дороге: %s
+com.tinnove.wecarnavi:string/tips_traffic_event_no_exist	-1	不存在（%d）		Нет (%d)
+com.tinnove.wecarnavi:string/tips_traffic_situation	-1	交通实况		Дорожная обстановка
+com.tinnove.wecarnavi:string/tips_traffic_source_amap	-1	高德大数据 上报		Сообщено через Amap
+com.tinnove.wecarnavi:string/tips_traffic_title_down	-1	展开		Развернуть
+com.tinnove.wecarnavi:string/tips_traffic_title_up	-1	收起		Свернуть
+com.tinnove.wecarnavi:string/tollgate	-1	收费站		Пункт оплаты
+com.tinnove.wecarnavi:string/tool_box	-1	工具箱		Инструменты
+com.tinnove.wecarnavi:string/tools_box_panel_along_search	-1	沿途搜		Поиск по маршруту
+com.tinnove.wecarnavi:string/track_detail_distance	-1	驾驶里程(km)		Пробег (км)
+com.tinnove.wecarnavi:string/track_detail_speed	-1	平均速度(km/h)		Средняя скорость (км/ч)
+com.tinnove.wecarnavi:string/track_detail_time	-1	驾驶时间		Время за рулём
+com.tinnove.wecarnavi:string/track_down_sync_value	-1	下拉同步		Потяните вниз для синхронизации
+com.tinnove.wecarnavi:string/track_empty	-1	当前无行程记录		Записей о поездках пока нет
+com.tinnove.wecarnavi:string/track_go_share	-1	去分享		Поделиться
+com.tinnove.wecarnavi:string/track_header_hint_sync_value	-1	松开同步		Отпустите для синхронизации
+com.tinnove.wecarnavi:string/track_history_no_network	-1	更多出行记录请在网络正常后查看		Другие поездки доступны после восстановления сети
+com.tinnove.wecarnavi:string/track_map_text1	-1	已探索		Исследовано
+com.tinnove.wecarnavi:string/track_map_text2	-1	城市，脚印最多的是		городов. Чаще всего вы бывали:
+com.tinnove.wecarnavi:string/track_map_text3	-1	历时		За
+com.tinnove.wecarnavi:string/track_map_text4	-1	天，累计里程		дней общий пробег
+com.tinnove.wecarnavi:string/track_map_text5	-1	公里。		км.
+com.tinnove.wecarnavi:string/track_map_text8	-1	城市		городов
+com.tinnove.wecarnavi:string/track_most_speed	-1	最快速度(km/h)		Максимальная скорость (км/ч)
+com.tinnove.wecarnavi:string/track_my_history	-1	行程记录		История поездок
+com.tinnove.wecarnavi:string/track_my_map	-1	足迹地图		Карта путешествий
+com.tinnove.wecarnavi:string/track_my_track	-1	我的足迹		Мои путешествия
+com.tinnove.wecarnavi:string/track_no_city_text	-1	最美好的回忆总在路上		Лучшие воспоминания рождаются в пути
+com.tinnove.wecarnavi:string/track_qr_fail_tip1	-1	二维码已过期		QR-код истёк
+com.tinnove.wecarnavi:string/track_qr_fail_tip2	-1	请刷新后重新获取		Обновите для получения нового
+com.tinnove.wecarnavi:string/track_qr_tip1	-1	微信扫一扫		Отсканируйте в WeChat
+com.tinnove.wecarnavi:string/track_qr_tip2	-1	查收你的足迹地图		и посмотрите карту своих путешествий
+com.tinnove.wecarnavi:string/track_register	-1	去登录		Войти
+com.tinnove.wecarnavi:string/track_register_tip	-1	登录后，行程可同步到账号长期保存		После входа поездки можно надолго сохранять в аккаунте
+com.tinnove.wecarnavi:string/track_setting	-1	出行设置		Настройки поездок
+com.tinnove.wecarnavi:string/track_setting_clear	-1	清除行程记录		Очистить историю поездок
+com.tinnove.wecarnavi:string/track_setting_clear_button	-1	立即清除		Очистить сейчас
+com.tinnove.wecarnavi:string/track_setting_clear_info	-1	暂无行程		Поездок пока нет
+com.tinnove.wecarnavi:string/track_setting_clear_text	-1	确定清空行程记录吗？		Очистить историю поездок?
+com.tinnove.wecarnavi:string/track_setting_del_text	-1	确定删除行程记录吗？		Удалить запись поездки?
+com.tinnove.wecarnavi:string/track_setting_record	-1	自动记录行程		Автоматически записывать поездки
+com.tinnove.wecarnavi:string/track_setting_record_info	-1	自动记录行程（开启后将为您记录行程）		После включения поездки записываются автоматически
+com.tinnove.wecarnavi:string/track_sync_value	-1	数据同步中		Синхронизация данных
+com.tinnove.wecarnavi:string/track_sync_value_succeed	-1	同步成功		Синхронизировано
+com.tinnove.wecarnavi:string/traffic_activity	-1	活动		Мероприятие
+com.tinnove.wecarnavi:string/traffic_chat_tips_ask	-1	问一问		Спросить
+com.tinnove.wecarnavi:string/traffic_chat_tips_is_passable	-1	可以通行吗?		Можно проехать?
+com.tinnove.wecarnavi:string/traffic_chat_tips_new_message	-1	新消息		Новое сообщение
+com.tinnove.wecarnavi:string/traffic_chat_tips_query_pic	-1	求现场照片		Запросить фото с места
+com.tinnove.wecarnavi:string/traffic_construction	-1	施工		Дорожные работы
+com.tinnove.wecarnavi:string/traffic_control	-1	交通管制		Ограничение движения
+com.tinnove.wecarnavi:string/traffic_disaster	-1	灾害		Стихийное бедствие
+com.tinnove.wecarnavi:string/traffic_distance	-1	距离%s公里		Расстояние: %s км
+com.tinnove.wecarnavi:string/traffic_distance_default	-1	距离%s公里—		Расстояние: %s км —
+com.tinnove.wecarnavi:string/traffic_distance_meter	-1	距离%s米		Расстояние: %s м
+com.tinnove.wecarnavi:string/traffic_distance_meter_default	-1	距离%s米—		Расстояние: %s м —
+com.tinnove.wecarnavi:string/traffic_event	-1	交通事故		ДТП
+com.tinnove.wecarnavi:string/traffic_event_control	-1	封路		Дорога перекрыта
+com.tinnove.wecarnavi:string/traffic_forbid	-1	禁行		Движение запрещено
+com.tinnove.wecarnavi:string/traffic_jam	-1	拥堵		Затор
+com.tinnove.wecarnavi:string/traffic_road	-1	路面		Дорожное покрытие
+com.tinnove.wecarnavi:string/traffic_update_time	-1	高德地图大数据·%s		Данные Amap · %s
+com.tinnove.wecarnavi:string/traffic_update_time_default	-1	高德地图大数据		Данные Amap
+com.tinnove.wecarnavi:string/travel_quit	-1	退出行程		Завершить поездку
+com.tinnove.wecarnavi:string/trip_info_item_txt	-1	已打卡		Посещено
+com.tinnove.wecarnavi:string/tts_and_car_logo_tab_car_logo	-1	车标设置		Значок автомобиля
+com.tinnove.wecarnavi:string/tts_and_car_logo_tab_tts	-1	语音播报		Голосовые сообщения
+com.tinnove.wecarnavi:string/turn_on	-1	开启		Включить
+com.tinnove.wecarnavi:string/turn_to	-1	进入		Перейти
+com.tinnove.wecarnavi:string/uaage_protocal_webview_error	-1	加载失败，请检查网络或重试		Не удалось загрузить. Проверьте сеть или повторите попытку.
+com.tinnove.wecarnavi:string/unit_txt	-1	/度		/кВт·ч
+com.tinnove.wecarnavi:string/unknown	-1	未知		Неизвестно
+com.tinnove.wecarnavi:string/usage_net_set	-1	网络设置		Настройки сети
+com.tinnove.wecarnavi:string/usage_protocal_agreement	-1	同意		Согласен
+com.tinnove.wecarnavi:string/usage_protocal_clause	-1	《高德服务条款》、		«Условия использования Amap»,
+com.tinnove.wecarnavi:string/usage_protocal_clause_text	-1	服务条款		Условия использования
+com.tinnove.wecarnavi:string/usage_protocal_clause_title	-1	高德服务条款		Условия использования Amap
+com.tinnove.wecarnavi:string/usage_protocal_content1	-1	1.本软件需要联网、调用位置权限、使用精准位置信息、WLAN状态信息、设备信息，以提供驾车导航服务。		1. Для автомобильной навигации приложению нужны интернет, разрешение на местоположение, точные координаты, сведения о состоянии Wi-Fi и устройстве.
+com.tinnove.wecarnavi:string/usage_protocal_content2	-1	2.有关个人信息处理的范围、目的和方式等，详情可通过《高德服务条款》、《高德隐私权政策》了解。		2. Объём, цели и способы обработки персональных данных описаны в условиях использования и политике конфиденциальности Amap.
+com.tinnove.wecarnavi:string/usage_protocal_content3	-1	3.本软件提供的地点查询、路线规划、出行导航、交通路况等功能和服务仅供您参考，请不要以此作为您行驶或出行的唯一依据。		3. Поиск мест, построение маршрутов, навигация и дорожная обстановка даны для справки. Не используйте их как единственное основание для движения.
+com.tinnove.wecarnavi:string/usage_protocal_content4	-1	4.请在使用本软件前认真阅读和充分理解以上信息、政策、协议和条款，如您不同意其中的任何内容，我们将无法为您提供相应的服务。		4. До использования внимательно прочитайте и поймите эти сведения, политику, соглашения и условия. Если вы не согласны с чем-либо, соответствующие услуги недоступны.
+com.tinnove.wecarnavi:string/usage_protocal_exit	-1	退出		Выйти
+com.tinnove.wecarnavi:string/usage_protocal_no_tip	-1	不再提示		Больше не показывать
+com.tinnove.wecarnavi:string/usage_protocal_policy	-1	《高德隐私权政策》		«Политика конфиденциальности Amap»
+com.tinnove.wecarnavi:string/usage_protocal_policy_text	-1	隐私权政策		Конфиденциальность
+com.tinnove.wecarnavi:string/usage_protocal_policy_title	-1	高德隐私权政策		Политика конфиденциальности Amap
+com.tinnove.wecarnavi:string/usage_protocal_title	-1	地图使用提示		Об использовании карт
+com.tinnove.wecarnavi:string/usage_retry	-1	重试		Повторить
+com.tinnove.wecarnavi:string/version_txt	-1	导航版本号：		Версия навигации:
+com.tinnove.wecarnavi:string/via_point	-1	途经点		Промежуточная точка
+com.tinnove.wecarnavi:string/voice_data_cancel_download	-1	取消下载		Отменить скачивание
+com.tinnove.wecarnavi:string/voice_data_data_child_name_avatar_use_tips	-1	使用AI联名车标需要现在AI空间内设置使用联名形象，是否去设置		Для совместного значка ИИ нужно выбрать соответствующий образ в «Пространстве ИИ». Открыть настройки?
+com.tinnove.wecarnavi:string/voice_data_data_child_name_system_voice_role	-1	系统语音音色		Системный голос
+com.tinnove.wecarnavi:string/voice_data_data_child_name_system_voice_use_success	-1	系统语音音色设置成功		Системный голос выбран
+com.tinnove.wecarnavi:string/voice_data_data_child_name_voice_use_success	-1	%s语音设置成功		Голос «%s» выбран
+com.tinnove.wecarnavi:string/voice_data_data_child_name_voice_use_tips	-1	切换语音音色会将当前使用的AI联名车标切换为默认车标，确定要切换音效吗？		Смена голоса заменит совместный значок ИИ на стандартный. Сменить звук?
+com.tinnove.wecarnavi:string/voice_data_data_group_title_recommended	-1	推荐语音		Рекомендуемые голоса
+com.tinnove.wecarnavi:string/voice_data_data_group_title_system	-1	系统语音		Системные голоса
+com.tinnove.wecarnavi:string/voice_data_data_group_title_system_description	-1	（请在车辆中心＞语音＞个性化设置中更换音色）		(Меняются в Настройки автомобиля → Голос → Индивидуальные настройки)
+com.tinnove.wecarnavi:string/voice_data_delete_success	-1	删除成功		Удалено
+com.tinnove.wecarnavi:string/voice_data_download_fail	-1	%s下载失败		Не удалось скачать %s
+com.tinnove.wecarnavi:string/voice_data_no_network_no_data	-1	更多推荐语音请在网络正常后查看		Другие голоса доступны после восстановления сети
+com.tinnove.wecarnavi:string/voice_data_use	-1	使用		Использовать
+com.tinnove.wecarnavi:string/voice_data_using	-1	使用中		Используется
+com.tinnove.wecarnavi:string/voice_search_result_already_first_page	-1	已经是第一页		Это первая страница
+com.tinnove.wecarnavi:string/voice_search_result_already_last_page	-1	已经是最后一页		Это последняя страница
+com.tinnove.wecarnavi:string/volume	-1	音量		Громкость
+com.tinnove.wecarnavi:string/volume_txt	-1	静音		Без звука
+com.tinnove.wecarnavi:string/vpa_road_book_next_stop	-1	下一站行程推荐		Следующая остановка путешествия
+com.tinnove.wecarnavi:string/vpa_road_book_next_stop_content	-1	准备出发，遇见不一样的风景		Отправляйтесь навстречу новым пейзажам
+com.tinnove.wecarnavi:string/vpa_road_book_next_stop_navi	-1	导航		Навигация
+com.tinnove.wecarnavi:string/vpa_road_book_poi_report	-1	景点打卡成功		Посещение места отмечено
+com.tinnove.wecarnavi:string/vpa_road_book_trip_finish	-1	行程游记可以生成啦		Можно создать дневник поездки
+com.tinnove.wecarnavi:string/vpa_road_book_trip_finish_check	-1	请在游记详情中查看		Посмотрите подробности дневника
+com.tinnove.wecarnavi:string/vpa_road_book_trip_finish_content	-1	一起重温那些路上的精彩时刻吧		Вспомним яркие моменты дороги
+com.tinnove.wecarnavi:string/vpa_road_book_trip_start	-1	自驾游行程开始提醒		Напоминание о начале путешествия
+com.tinnove.wecarnavi:string/vpa_road_book_trip_start_content	-1	风从车窗外吹过，自由的感觉在心中涌动		Ветер за окном и чувство свободы
+com.tinnove.wecarnavi:string/vpa_road_book_trip_start_go	-1	查看		Посмотреть
+com.tinnove.wecarnavi:string/vpa_road_book_voice_recommend_report	-1	播报		Озвучить
+com.tinnove.wecarnavi:string/vpa_road_book_voice_report	-1	景点播报推荐		Рассказ о достопримечательности
+com.tinnove.wecarnavi:string/vpa_road_book_voice_report_content	-1	了解景点特色，不错过每一处的风光		Узнайте особенности места и не упустите интересное
+com.tinnove.wecarnavi:string/weather_default_tip	-1	前方路段有%1$s,请注意行车安全		Погода впереди: %1$s. Соблюдайте осторожность.
+com.tinnove.wecarnavi:string/weather_txt	-1	晴转多云		Ясно, затем облачно
+com.tinnove.wecarnavi:string/weather_type	-1	途经时晴		По пути ясно
+com.tinnove.wecarnavi:string/wechat_bind	-1	已关联		Привязано
+com.tinnove.wecarnavi:string/wechat_bind_help2_1	-1	"选择""高德地图车机版"""		Выберите «Amap для автомобиля»
+com.tinnove.wecarnavi:string/wechat_bind_help2_2	-1	"因版本不同，若无法看到""高德地图车机"		Если из-за версии пункт «Amap для автомобиля»
+com.tinnove.wecarnavi:string/wechat_bind_help2_3	-1	"版""，请点击""其他设备"" 后查看"		не виден, откройте «Другие устройства»
+com.tinnove.wecarnavi:string/wechat_bind_help3_1	-1	点击		Нажмите
+com.tinnove.wecarnavi:string/wechat_bind_help3_2	-1	即可将地址发送至车机		для отправки адреса в автомобиль
+com.tinnove.wecarnavi:string/wechat_bind_help_title	-1	如何将地点发送至车机导航？		Как отправить место в автомобильную навигацию?
+com.tinnove.wecarnavi:string/wechat_bind_tip1	-1	第 1 步		Шаг 1
+com.tinnove.wecarnavi:string/wechat_bind_tip2	-1	在微信聊天界面长按对话中分享的位置，		В чате WeChat удерживайте отправленное местоположение,
+com.tinnove.wecarnavi:string/wechat_bind_tip2_line2	-1	并点击		затем нажмите
+com.tinnove.wecarnavi:string/wechat_bind_tip3	-1	第 2 步		Шаг 2
+com.tinnove.wecarnavi:string/wechat_bind_tip4	-1	第 3 步		Шаг 3
+com.tinnove.wecarnavi:string/wechat_qrcode_tip	-1	微信扫码绑定后使用		Перед использованием отсканируйте код в WeChat для привязки
+com.tinnove.wecarnavi:string/wechat_remove_bind	-1	解除互联		Отвязать подключение
+com.tinnove.wecarnavi:string/wechat_sys_qrcode_tip	-1	使用微信扫描上方二维码可将本车添加至微信设备列表		Отсканируйте QR-код выше в WeChat, чтобы добавить автомобиль в список устройств
+com.tinnove.wecarnavi:string/wechat_sys_reload_message	-1	加载失败，请点击重试		Не удалось загрузить. Нажмите для повтора.
+com.tinnove.wecarnavi:string/wechat_sys_reload_reload	-1	重新加载		Загрузить заново
+com.tinnove.wecarnavi:string/wechat_sys_unbind_cancel	-1	暂不解除		Пока не отвязывать
+com.tinnove.wecarnavi:string/wechat_sys_unbind_message	-1	解除绑定后将无法使用微信互联		После отвязки подключение WeChat будет недоступно
+com.tinnove.wecarnavi:string/wechat_sys_unbind_ok	-1	解除绑定		Отвязать
+com.tinnove.wecarnavi:string/wechat_sys_unbind_tip	-1	解除绑定后，将无法使用微信互联		После отвязки подключение WeChat будет недоступно
+com.tinnove.wecarnavi:string/wechat_unbind_dialog_btn	-1	知道了		Понятно
+com.tinnove.wecarnavi:string/wechat_unbind_dialog_message	-1	解绑请前往手机微信-设置-设备中进行解绑		Для отвязки откройте на телефоне WeChat → Настройки → Устройства
+com.tinnove.wecarnavi:string/wechat_unbind_dialog_title	-1	解绑失败		Не удалось отвязать
+com.tinnove.wecarnavi:string/wechat_unbind_message	-1	解绑微信互联后将无法接收微信发送的位置信息		После отвязки нельзя будет получать местоположения из WeChat
+com.tinnove.wecarnavi:string/wechat_unbind_tip1	-1	绑定微信，手机发送地点到车导航		Привяжите WeChat для отправки мест с телефона в автомобиль
+com.tinnove.wecarnavi:string/wechat_unbind_tip2	-1	使用微信扫描左侧二维码		Отсканируйте QR-код слева в WeChat
+com.tinnove.wecarnavi:string/wechat_unbind_tip3	-1	"在微信上点击""绑定设备""完成激活"		В WeChat нажмите «Привязать устройство» для завершения активации
+com.tinnove.wecarnavi:string/wechat_unbinding	-1	正在解绑		Отвязка
+com.tinnove.wecarnavi:string/whole_journey_highway_info	-1	全程高速信息		Скоростные дороги на маршруте
+com.tinnove.wecarnavi:string/wifi_connect	-1	WiFi已连接		Wi-Fi подключён
+com.tinnove.wecarnavi:string/wifi_unconnect	-1	WiFi未连接		Wi-Fi не подключён
+com.tinnove.wecarnavi:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.wecarnavi:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.wecarnavi:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.wecarnavi:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.wecarnavi:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.wecarnavi:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.wecarnavi:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.wecarnavi:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.wecarnavi:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.wecarnavi:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.wecarnavi:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.wecarnavi:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.wecarnavi:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.wecarnavi:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.wecarnavi:string/wtsearch_text_hint	-1	请输入		Введите запрос

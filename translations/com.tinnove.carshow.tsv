@@ -1,0 +1,86 @@
+com.tinnove.carshow:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.carshow:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.carshow:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.carshow:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.carshow:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.carshow:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.carshow:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.carshow:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.carshow:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.carshow:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.carshow:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.carshow:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.carshow:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.carshow:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.carshow:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.carshow:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.carshow:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.carshow:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.carshow:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.carshow:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.carshow:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.carshow:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.carshow:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.carshow:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.carshow:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.carshow:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.carshow:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.carshow:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.carshow:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.carshow:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.carshow:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.carshow:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.carshow:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.carshow:string/app_name	-1	展车秀		Выставочная демонстрация
+com.tinnove.carshow:string/check_network	-1	请检查网络设置		Проверьте настройки сети
+com.tinnove.carshow:string/check_network_or_retry	-1	请检查网络设置或重试		Проверьте настройки сети или повторите попытку
+com.tinnove.carshow:string/data_download_completed	-1	展车秀资源下载完成		Ресурсы демонстрации скачаны
+com.tinnove.carshow:string/data_download_hint	-1	共有%d个资源包，已下载%d个		Всего пакетов: %d, скачано: %d
+com.tinnove.carshow:string/data_downloading	-1	展⻋秀资源下载中...		Скачивание ресурсов демонстрации...
+com.tinnove.carshow:string/data_load_failed	-1	加载失败		Не удалось загрузить
+com.tinnove.carshow:string/data_loading	-1	加载中...		Загрузка...
+com.tinnove.carshow:string/data_space_not_enough	-1	存储空间不足，请清理后重试		Недостаточно места. Очистите хранилище и повторите попытку.
+com.tinnove.carshow:string/enter	-1	立即进入		Открыть сейчас
+com.tinnove.carshow:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.tinnove.carshow:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.tinnove.carshow:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.tinnove.carshow:string/exo_download_description	-1	下載		Скачать
+com.tinnove.carshow:string/exo_download_downloading	-1	下載中		Скачивание…
+com.tinnove.carshow:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.tinnove.carshow:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.tinnove.carshow:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.tinnove.carshow:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.tinnove.carshow:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.tinnove.carshow:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.tinnove.carshow:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.tinnove.carshow:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.tinnove.carshow:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.tinnove.carshow:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.tinnove.carshow:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.tinnove.carshow:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.tinnove.carshow:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.tinnove.carshow:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.tinnove.carshow:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.tinnove.carshow:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.tinnove.carshow:string/network_setting	-1	网络设置		Настройки сети
+com.tinnove.carshow:string/next_page	-1	下一页		Следующая страница
+com.tinnove.carshow:string/no_network	-1	网络未连接		Нет подключения к сети
+com.tinnove.carshow:string/player_controller_pause	-1	暂停		Пауза
+com.tinnove.carshow:string/player_controller_play	-1	播放		Воспроизвести
+com.tinnove.carshow:string/pre_page	-1	上一页		Предыдущая страница
+com.tinnove.carshow:string/retry	-1	重试		Повторить
+com.tinnove.carshow:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.carshow:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.carshow:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.carshow:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.carshow:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.carshow:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.carshow:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.carshow:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.carshow:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.carshow:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.carshow:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.carshow:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.carshow:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.carshow:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.carshow:string/wtsearch_text_hint	-1	请输入		Введите запрос

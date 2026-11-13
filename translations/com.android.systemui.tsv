@@ -1,0 +1,368 @@
+com.android.systemui:array/config_controlCenterTopSlideBarItems	0	控制中心		Панель управления
+com.android.systemui:array/config_controlCenterTopSlideBarItems	1	通知中心		Уведомления
+com.android.systemui:array/config_controls_subpage_alternate_items	0	驾控		Вождение
+com.android.systemui:array/config_controls_subpage_alternate_items	1	显示		Экран
+com.android.systemui:array/config_controls_subpage_alternate_items	2	车控		Автомобиль
+com.android.systemui:array/config_controls_subpage_alternate_items	3	其他		Прочее
+com.android.systemui:array/launcher_switcher_subtitles	2	Control Your Own Car		Авто в 3D
+com.android.systemui:array/launcher_switcher_titles	2	Control Desktop		Управление авто
+com.android.systemui:array/wifitrackerlib_wifi_status	1	掃描中…		Поиск…
+com.android.systemui:array/wifitrackerlib_wifi_status	1	正在掃瞄…		Поиск…
+com.android.systemui:array/wifitrackerlib_wifi_status	2	正在連線…		Подключение…
+com.android.systemui:array/wifitrackerlib_wifi_status	2	連線中…		Подключение…
+com.android.systemui:array/wifitrackerlib_wifi_status	3	正在認證…		Аутентификация…
+com.android.systemui:array/wifitrackerlib_wifi_status	3	驗證中…		Аутентификация…
+com.android.systemui:array/wifitrackerlib_wifi_status	4	正在取得 IP 位址…		Получение IP-адреса…
+com.android.systemui:array/wifitrackerlib_wifi_status	5	已連線		Подключено
+com.android.systemui:array/wifitrackerlib_wifi_status	6	已暫停		Приостановлено
+com.android.systemui:array/wifitrackerlib_wifi_status	6	已暫停使用		Приостановлено
+com.android.systemui:array/wifitrackerlib_wifi_status	7	正在中斷連線…		Отключение…
+com.android.systemui:array/wifitrackerlib_wifi_status	8	已中斷連線		Не подключено
+com.android.systemui:array/wifitrackerlib_wifi_status	9	失敗		Сбой
+com.android.systemui:array/wifitrackerlib_wifi_status	10	已封鎖		Заблокировано
+com.android.systemui:array/wifitrackerlib_wifi_status	11	暫不使用訊號較弱的連線		Временно отключено из-за плохого соединения
+com.android.systemui:array/wifitrackerlib_wifi_status	11	暫時不使用訊號較弱的連線		Временно отключено из-за плохого соединения
+com.android.systemui:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.android.systemui:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.android.systemui:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.android.systemui:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.android.systemui:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.android.systemui:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.android.systemui:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.android.systemui:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.android.systemui:string/abc_capital_on	-1	開啟		ВКЛ
+com.android.systemui:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.android.systemui:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.android.systemui:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.android.systemui:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.android.systemui:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.android.systemui:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.android.systemui:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.android.systemui:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.android.systemui:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.android.systemui:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.android.systemui:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.android.systemui:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.android.systemui:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.android.systemui:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.android.systemui:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.android.systemui:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.android.systemui:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.android.systemui:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.android.systemui:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.android.systemui:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.android.systemui:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.android.systemui:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.android.systemui:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.android.systemui:string/abc_slice_error	-1	無法連線		Ошибка подключения
+com.android.systemui:string/abc_slice_more	-1	更多		Ещё
+com.android.systemui:string/abc_slice_permission_allow	-1	允許		Да
+com.android.systemui:string/abc_slice_permission_checkbox	-1	允許「%1$s」顯示任何應用程式的區塊		"Разрешить приложению ""%1$s"" показывать фрагменты других приложений"
+com.android.systemui:string/abc_slice_permission_checkbox	-1	允許「%1$s」顯示任何應用程式的快訊		"Разрешить приложению ""%1$s"" показывать фрагменты других приложений"
+com.android.systemui:string/abc_slice_permission_deny	-1	拒絕		Нет
+com.android.systemui:string/abc_slice_permission_text_1	-1	- 可以讀取「%1$s」中的資料		"– Ему станут доступны данные из приложения ""%1$s""."
+com.android.systemui:string/abc_slice_permission_text_1	-1	- 它可以讀取「%1$s」的資訊		"– Ему станут доступны данные из приложения ""%1$s""."
+com.android.systemui:string/abc_slice_permission_text_2	-1	- 可以在「%1$s」內執行操作		"– Оно сможет совершать действия в приложении ""%1$s""."
+com.android.systemui:string/abc_slice_permission_text_2	-1	- 它可以在「%1$s」內執行操作		"– Оно сможет совершать действия в приложении ""%1$s""."
+com.android.systemui:string/abc_slice_permission_title	-1	要允許「%1$s」顯示「%2$s」的區塊嗎？		"Разрешить приложению ""%1$s"" показывать фрагменты приложения ""%2$s""?"
+com.android.systemui:string/abc_slice_permission_title	-1	要允許「%1$s」顯示「%2$s」的快訊嗎？		"Разрешить приложению ""%1$s"" показывать фрагменты приложения ""%2$s""?"
+com.android.systemui:string/abc_slice_show_more	-1	顯示更多		Ещё
+com.android.systemui:string/abc_slice_updated	-1	更新时间：%1$s		Обновлено %1$s
+com.android.systemui:string/abc_slice_updated	-1	更新時間：%1$s		Обновлено %1$s
+com.android.systemui:string/abc_slices_permission_request	-1	“%1$s”想要显示“%2$s”图块		"Приложение ""%1$s"" запрашивает разрешение на показ фрагментов приложения ""%2$s""."
+com.android.systemui:string/abc_slices_permission_request	-1	「%1$s」想要顯示「%2$s」的區塊		"Приложение ""%1$s"" запрашивает разрешение на показ фрагментов приложения ""%2$s""."
+com.android.systemui:string/abc_slices_permission_request	-1	「%1$s」想顯示「%2$s」的快訊		"Приложение ""%1$s"" запрашивает разрешение на показ фрагментов приложения ""%2$s""."
+com.android.systemui:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.android.systemui:string/accessibility_phone_button	-1	电话		Телефон
+com.android.systemui:string/add	-1	添加		Добавить
+com.android.systemui:string/app_name_apa	-1	泊车		Парковка
+com.android.systemui:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.android.systemui:string/bt_description_cancel	-1	取消		Отмена
+com.android.systemui:string/bt_description_done	-1	完成		Готово
+com.android.systemui:string/call_min_volume	-1	电话音量已调至最小		Громкость разговора установлена на минимум
+com.android.systemui:string/call_notification_answer_action	-1	接听		Ответить
+com.android.systemui:string/call_notification_hang_up_action	-1	挂断		Завершить
+com.android.systemui:string/car_system_bar_edit_function_title	-1	功能组件		Виджеты функций
+com.android.systemui:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.android.systemui:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.android.systemui:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.android.systemui:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.android.systemui:string/clear_all	-1	全部清除		Очистить всё
+com.android.systemui:string/control_center_slide_bar_item_control_center	-1	控制中心		Панель управления
+com.android.systemui:string/control_center_slide_bar_item_notifications	-1	通知中心		Уведомления
+com.android.systemui:string/control_sub_page_item_display	-1	显示		Экран
+com.android.systemui:string/control_sub_page_item_drive_assist	-1	驾控		Вождение
+com.android.systemui:string/control_sub_page_item_other_settings	-1	其他		Прочее
+com.android.systemui:string/control_sub_page_item_vehicle_control	-1	车控		Автомобиль
+com.android.systemui:string/controls_dialog_ok	-1	添加		Добавить
+com.android.systemui:string/copilot_panel_screen_off	-1	熄屏		Выключить экран
+com.android.systemui:string/dock_air_conditioner_guide	-1	长按风量按钮可快速关闭空调		Удерживайте кнопку скорости вентилятора, чтобы быстро выключить климат
+com.android.systemui:string/dock_edit_air_clean	-1	空气净化		Очистка воздуха
+com.android.systemui:string/dock_edit_auto_mode	-1	自动空调		Автоматический климат
+com.android.systemui:string/dock_edit_blow_mode	-1	出风模式		Направление обдува
+com.android.systemui:string/dock_edit_cycle_mode	-1	内外循环		Рециркуляция / наружный воздух
+com.android.systemui:string/dock_edit_driver_seat	-1	主驾座椅		Сиденье водителя
+com.android.systemui:string/dock_edit_front_defrostingt	-1	前除霜		Обдув ветрового стекла
+com.android.systemui:string/dock_edit_guide_step1	-1	点击/长按拖动单个功能可直接添加Dock相关内容		Нажмите или удерживайте и перетащите функцию, чтобы добавить её на панель
+com.android.systemui:string/dock_edit_guide_step2	-1	长按可进行拖动排序		Удерживайте для изменения порядка
+com.android.systemui:string/dock_edit_rear_defrosting	-1	后除霜		Обогрев заднего стекла
+com.android.systemui:string/dock_edit_shotgun_seat	-1	副驾座椅		Сиденье пассажира
+com.android.systemui:string/dock_edit_shotgun_temp	-1	副驾温度		Температура пассажира
+com.android.systemui:string/dock_edit_steering_wheel_heating	-1	方向盘加热		Обогрев руля
+com.android.systemui:string/dock_edit_text	-1	(支持长按拖动、点击编辑上下功能)		(Удерживайте для перемещения, нажимайте для изменения верхней и нижней функций)
+com.android.systemui:string/dock_edit_title	-1	功能选择		Выбор функций
+com.android.systemui:string/dock_edit_title_app_center	-1	应用中心		Приложения
+com.android.systemui:string/dock_edit_title_hvac_widget	-1	空调/座椅组件		Виджеты климата и сидений
+com.android.systemui:string/dock_edit_trip_cycle_mode	-1	三循环		Три режима циркуляции
+com.android.systemui:string/dock_edit_windshield_heating	-1	前挡玻璃加热		Обогрев ветрового стекла
+com.android.systemui:string/dock_pop_button_carlink_describe	-1	OPPO、vivo、小米等手机支持		Для OPPO, vivo, Xiaomi и других телефонов
+com.android.systemui:string/dock_pop_button_hicar_describe	-1	华为手机专享		Только для телефонов Huawei
+com.android.systemui:string/dock_pop_button_honor	-1	荣耀车联		HONOR Connect
+com.android.systemui:string/dock_pop_button_honor_describe	-1	荣耀手机专享		Только для телефонов HONOR
+com.android.systemui:string/dock_recent_task_guide	-1	Home按键长按即可调起应用管理页		Удерживайте кнопку «Домой», чтобы открыть управление приложениями
+com.android.systemui:string/drive_mode_modes_eco	-1	经济		Экономичный
+com.android.systemui:string/drive_mode_modes_sport	-1	运动		Спорт
+com.android.systemui:string/empty_notification_header	-1	没有通知		Уведомлений нет
+com.android.systemui:string/exhibition_dialog_msg	-1	展车模式下，车辆不可行驶，不可进入Ready状态，不可切换至非P挡		В выставочном режиме автомобиль не может двигаться, переходить в READY или переключаться из положения P.
+com.android.systemui:string/exhibition_dialog_negative_button_text	-1	恢复至预设状态		Вернуть предустановленное состояние
+com.android.systemui:string/exhibition_dialog_positive_button_text	-1	我知道了		Понятно
+com.android.systemui:string/exhibition_name	-1	展车模式		Выставочный режим
+com.android.systemui:string/keyboard_key_media_previous	-1	上一曲		Предыдущий трек
+com.android.systemui:string/keyboard_shortcut_group_applications_contacts	-1	通讯录		Контакты
+com.android.systemui:string/lb_guidedaction_continue_title	-1	继续		Продолжить
+com.android.systemui:string/lb_onboarding_accessibility_next	-1	继续		Продолжить
+com.android.systemui:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.android.systemui:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.android.systemui:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.android.systemui:string/material_hour_selection	-1	請選取時段		Выберите час
+com.android.systemui:string/material_hour_selection	-1	选择小时		Выберите час
+com.android.systemui:string/material_hour_selection	-1	選取時段		Выберите час
+com.android.systemui:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.android.systemui:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.android.systemui:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.android.systemui:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.android.systemui:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.android.systemui:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.android.systemui:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.android.systemui:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.android.systemui:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.android.systemui:string/material_timepicker_hour	-1	小時		Час
+com.android.systemui:string/material_timepicker_minute	-1	分鐘		Минуты
+com.android.systemui:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.android.systemui:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.android.systemui:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.android.systemui:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.android.systemui:string/mobile_data_no_connection	-1	无网络连接		Нет подключения к сети
+com.android.systemui:string/mode_movie	-1	观影模式		Кино
+com.android.systemui:string/mode_music	-1	嗨歌模式		Караоке
+com.android.systemui:string/mode_p_toast	-1	P挡时才能开启休憩模式哦		Режим отдыха доступен только в положении P
+com.android.systemui:string/mode_rest	-1	休憩模式		Отдых
+com.android.systemui:string/mode_status_close	-1	点击开启		Нажмите для включения
+com.android.systemui:string/mode_status_open	-1	已开启		Включено
+com.android.systemui:string/more_button_text	-1	更多		Ещё
+com.android.systemui:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.android.systemui:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.android.systemui:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.android.systemui:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.android.systemui:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.android.systemui:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.android.systemui:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.android.systemui:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.android.systemui:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.android.systemui:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.android.systemui:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.android.systemui:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.android.systemui:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.android.systemui:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.android.systemui:string/mtrl_picker_confirm	-1	確定		ОК
+com.android.systemui:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.android.systemui:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.android.systemui:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.android.systemui:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.android.systemui:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.android.systemui:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.android.systemui:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.android.systemui:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.android.systemui:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.android.systemui:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.android.systemui:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.android.systemui:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.android.systemui:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.android.systemui:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.android.systemui:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.android.systemui:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.android.systemui:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.android.systemui:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.android.systemui:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.android.systemui:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.android.systemui:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.android.systemui:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.android.systemui:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.android.systemui:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.android.systemui:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.android.systemui:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.android.systemui:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.android.systemui:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.android.systemui:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.android.systemui:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.android.systemui:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.android.systemui:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.android.systemui:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.android.systemui:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.android.systemui:string/mtrl_picker_save	-1	儲存		Сохранить
+com.android.systemui:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.android.systemui:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.android.systemui:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.android.systemui:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.android.systemui:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.android.systemui:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.android.systemui:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.android.systemui:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.android.systemui:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.android.systemui:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.android.systemui:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.android.systemui:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.android.systemui:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.android.systemui:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.android.systemui:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.android.systemui:string/mtrl_timepicker_confirm	-1	確定		ОК
+com.android.systemui:string/notification_empty_message	-1	暂无消息		Нет уведомлений
+com.android.systemui:string/notification_older	-1	时间较早的通知		Более ранние уведомления
+com.android.systemui:string/notification_recents	-1	近期通知		Недавние уведомления
+com.android.systemui:string/notification_section_header_alerting	-1	通知		Уведомления
+com.android.systemui:string/notification_section_header_conversations	-1	对话		Диалоги
+com.android.systemui:string/notification_section_header_gentle	-1	静音		Без звука
+com.android.systemui:string/notification_section_header_incoming	-1	最新		Новые
+com.android.systemui:string/open_navi	-1	当前已在地图应用		Карты уже открыты
+com.android.systemui:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.android.systemui:string/power_saving_mode	-1	已开启超级省电模式，该功能不可用		В максимальном энергосбережении функция недоступна
+com.android.systemui:string/qc_launcher_switcher_short_title_control	-1	Control		Авто
+com.android.systemui:string/qc_launcher_switcher_short_title_control	-1	车控		Авто
+com.android.systemui:string/qc_launcher_switcher_short_title_create	-1	Creator		Экран
+com.android.systemui:string/qc_launcher_switcher_short_title_navi	-1	Navi		Навигатор
+com.android.systemui:string/qc_launcher_switcher_subtitle_control	-1	Control Your Own Car		Авто в 3D
+com.android.systemui:string/qc_launcher_switcher_subtitle_control	-1	控车玩车 3D驾控		Авто в 3D
+com.android.systemui:string/qc_launcher_switcher_title_control	-1	Control Desktop		Управление авто
+com.android.systemui:string/qc_launcher_switcher_title_control	-1	车控桌面		Управление авто
+com.android.systemui:string/qc_panel_device_connected_text	-1	已连接		Подключено
+com.android.systemui:string/qc_panel_device_connecting_text	-1	连接中		Подключение
+com.android.systemui:string/qc_panel_device_disconnected_text	-1	去连接		Подключить
+com.android.systemui:string/quick_settings_contrast_standard	-1	标准		Стандартная
+com.android.systemui:string/recent_task_clear_all	-1	一键清理		Очистить всё
+com.android.systemui:string/recent_task_empty	-1	暂无最近使用的应用		Недавно использованных приложений пока нет
+com.android.systemui:string/ringtone_min_volume	-1	铃声音量已调至最小		Громкость мелодии вызова установлена на минимум
+com.android.systemui:string/shotgun_dock_edit_temp_mode	-1	空调温度		Температура климата
+com.android.systemui:string/status_bar_icon_DVR	-1	行车记录仪		Видеорегистратор
+com.android.systemui:string/status_bar_icon_bluetooth	-1	蓝牙		Bluetooth
+com.android.systemui:string/status_bar_icon_hardware_usage	-1	隐私授权		Разрешения конфиденциальности
+com.android.systemui:string/status_bar_icon_mobile_data	-1	移动数据		Мобильные данные
+com.android.systemui:string/status_bar_icon_user_center	-1	用户中心		Профиль пользователя
+com.android.systemui:string/status_bar_icon_wireless_charge	-1	无线充电		Беспроводная зарядка
+com.android.systemui:string/stream_ring	-1	铃声		Мелодия звонка
+com.android.systemui:string/string_dock_edit_cancel_button	-1	取消		Отмена
+com.android.systemui:string/string_dock_edit_confirm_button	-1	完成		Готово
+com.android.systemui:string/temp_sync	-1	同步		Синхронизация
+com.android.systemui:string/toast_clean_recent_task	-1	清理成功		Очищено
+com.android.systemui:string/toast_content_bluetooth_connect_failed	-1	连接失败，请确认%s在通信范围内		Не удалось подключиться. Убедитесь, что %s находится в зоне связи.
+com.android.systemui:string/toast_content_bluetooth_pair_failed	-1	蓝牙匹配失败，请重新匹配		Не удалось выполнить сопряжение Bluetooth. Повторите попытку.
+com.android.systemui:string/toast_content_clear_screen_failed	-1	请在P挡使用屏幕清洁		Очистка экрана доступна только в положении P
+com.android.systemui:string/toast_content_exceed_max_pair_number_failed	-1	最多保存7个设备，请删除后再试		Можно сохранить не более 7 устройств. Удалите ненужное и повторите попытку.
+com.android.systemui:string/toast_content_hotspot_password_enter_error	-1	输入不符合规则		Введённые данные не соответствуют правилам
+com.android.systemui:string/toast_content_hotspot_password_enter_space	-1	密码不能包含空格		Пароль не должен содержать пробелы
+com.android.systemui:string/toast_content_hotspot_password_enter_standardize	-1	密码必须包含字母、数字、特殊字符中任意两类		Пароль должен содержать любые два типа символов: буквы, цифры или специальные символы.
+com.android.systemui:string/toast_content_hotspot_password_length_too_long	-1	密码过长		Слишком длинный пароль
+com.android.systemui:string/toast_content_tank_cap_pressure_relief_failed	-1	请换至P挡后加油		Перед заправкой переведите селектор в P
+com.android.systemui:string/toast_content_widget_full	-1	添加个数已达上限		Достигнут предел добавления
+com.android.systemui:string/toast_content_wifi_disconnected	-1	WiFi已断开连接		Wi-Fi отключён
+com.android.systemui:string/toast_dock_edit_full	-1	添加个数已达上限		Достигнут предел добавления
+com.android.systemui:string/toast_hotspot_pwd_modify_fail	-1	热点密码修改失败		Не удалось изменить пароль точки доступа
+com.android.systemui:string/toast_hotspot_pwd_modify_success	-1	热点密码修改成功		Пароль точки доступа изменён
+com.android.systemui:string/toast_virtual_car_not_ready	-1	虚拟车服务初始化中...		Инициализация службы виртуального автомобиля...
+com.android.systemui:string/voice_assistant_min_volume	-1	语音音量已调至最小		Громкость помощника установлена на минимум
+com.android.systemui:string/volume_adjust	-1	音量调节		Регулировка громкости
+com.android.systemui:string/volume_odi_captions_hint_enable	-1	启用		Включить
+com.android.systemui:string/wifitrackerlib_admin_restricted_network	-1	你的機構禁止使用		Запрещено системным администратором
+com.android.systemui:string/wifitrackerlib_admin_restricted_network	-1	貴機構禁止使用		Запрещено системным администратором
+com.android.systemui:string/wifitrackerlib_auto_connect_disable	-1	自動連線功能已關閉		Автоподключение отключено
+com.android.systemui:string/wifitrackerlib_available_via_app	-1	可透過「%1$s」使用		"Доступно через приложение ""%1$s"""
+com.android.systemui:string/wifitrackerlib_available_via_app	-1	可透過「%1$s」連線		"Доступно через приложение ""%1$s"""
+com.android.systemui:string/wifitrackerlib_checking_for_internet_access	-1	正在檢查互聯網連線…		Проверка доступа в интернет…
+com.android.systemui:string/wifitrackerlib_checking_for_internet_access	-1	正在檢查網際網路連線...		Проверка доступа в интернет…
+com.android.systemui:string/wifitrackerlib_connected_via_app	-1	已透過「%1$s」連線		"Подключено через приложение ""%1$s"""
+com.android.systemui:string/wifitrackerlib_hotspot_network_alternate	-1	%1$s (來自%2$s)		"Сеть ""%1$s"", устройство ""%2$s"""
+com.android.systemui:string/wifitrackerlib_hotspot_network_alternate	-1	來自「%2$s」的「%1$s」		"Сеть ""%1$s"", устройство ""%2$s"""
+com.android.systemui:string/wifitrackerlib_hotspot_network_connecting	-1	正在連線…		Подключение…
+com.android.systemui:string/wifitrackerlib_hotspot_network_connecting	-1	連線中…		Подключение…
+com.android.systemui:string/wifitrackerlib_hotspot_network_summary	-1	%1$s (來自%2$s)		"Сеть ""%1$s"", устройство %2$s"
+com.android.systemui:string/wifitrackerlib_hotspot_network_summary	-1	來自「%2$s」的「%1$s」		"Сеть ""%1$s"", устройство %2$s"
+com.android.systemui:string/wifitrackerlib_imsi_protection_warning	-1	此網絡會接收可用於追蹤裝置位置的 SIM 卡 ID。瞭解詳情		Этой сети будет передан идентификатор SIM-карты, с помощью которого можно отследить местоположение устройства. Подробнее…
+com.android.systemui:string/wifitrackerlib_imsi_protection_warning	-1	這個網路會收到可用於追蹤裝置位置的 SIM 卡 ID。瞭解詳情		Этой сети будет передан идентификатор SIM-карты, с помощью которого можно отследить местоположение устройства. Подробнее…
+com.android.systemui:string/wifitrackerlib_known_network_summary	-1	網絡來源：%1$s		"Доступно с устройства ""%1$s"""
+com.android.systemui:string/wifitrackerlib_known_network_summary	-1	網路來源：%1$s		"Доступно с устройства ""%1$s"""
+com.android.systemui:string/wifitrackerlib_osu_completing_sign_up	-1	正在完成申請…		Завершение регистрации…
+com.android.systemui:string/wifitrackerlib_osu_completing_sign_up	-1	正在完成註冊程序…		Завершение регистрации…
+com.android.systemui:string/wifitrackerlib_osu_connect_failed	-1	無法連線		Ошибка подключения
+com.android.systemui:string/wifitrackerlib_osu_opening_provider	-1	正在開啟 %1$s		Открывается %1$s…
+com.android.systemui:string/wifitrackerlib_osu_opening_provider	-1	正在開啟「%1$s」		Открывается %1$s…
+com.android.systemui:string/wifitrackerlib_osu_sign_up_complete	-1	已完成申請。連接中…		Регистрация завершена. Подключение…
+com.android.systemui:string/wifitrackerlib_osu_sign_up_complete	-1	註冊完成。連線中…		Регистрация завершена. Подключение…
+com.android.systemui:string/wifitrackerlib_osu_sign_up_failed	-1	無法完成申請。輕按即可重試。		Не удалось завершить регистрацию. Нажмите, чтобы повторить попытку.
+com.android.systemui:string/wifitrackerlib_osu_sign_up_failed	-1	無法完成註冊程序。輕觸即可重試。		Не удалось завершить регистрацию. Нажмите, чтобы повторить попытку.
+com.android.systemui:string/wifitrackerlib_private_dns_broken	-1	無法存取私人 DNS 伺服器		Доступа к частному DNS-серверу нет
+com.android.systemui:string/wifitrackerlib_saved_network	-1	由「%1$s」儲存		Сохранено: %1$s
+com.android.systemui:string/wifitrackerlib_tap_to_renew_subscription_and_connect	-1	輕按即可續購訂閱並連線		Нажмите, чтобы обновить подписку и установить подключение
+com.android.systemui:string/wifitrackerlib_tap_to_renew_subscription_and_connect	-1	輕觸即可續訂並連線		Нажмите, чтобы обновить подписку и установить подключение
+com.android.systemui:string/wifitrackerlib_tap_to_sign_up	-1	輕按即可登入		Нажмите, чтобы зарегистрироваться
+com.android.systemui:string/wifitrackerlib_tap_to_sign_up	-1	輕觸即可註冊		Нажмите, чтобы зарегистрироваться
+com.android.systemui:string/wifitrackerlib_wifi_ap_unable_to_handle_new_sta	-1	存取點暫時已滿		К точке доступа подключено слишком много устройств
+com.android.systemui:string/wifitrackerlib_wifi_ap_unable_to_handle_new_sta	-1	存取點暫時滿載		К точке доступа подключено слишком много устройств
+com.android.systemui:string/wifitrackerlib_wifi_band_unknown	-1	不明		Неизвестно
+com.android.systemui:string/wifitrackerlib_wifi_check_password_try_again	-1	請檢查密碼，然後再試一次		Неверный пароль. Повторите попытку.
+com.android.systemui:string/wifitrackerlib_wifi_connected_cannot_provide_internet	-1	已連上裝置，但無法提供網際網路連線。		Подключено к устройству. Нет доступа к интернету.
+com.android.systemui:string/wifitrackerlib_wifi_connected_cannot_provide_internet	-1	已連接裝置，但無法提供互聯網連線。		Подключено к устройству. Нет доступа к интернету.
+com.android.systemui:string/wifitrackerlib_wifi_disabled_network_failure	-1	無法設定 IP		Ошибка конфигурации IP
+com.android.systemui:string/wifitrackerlib_wifi_disabled_password_failure	-1	驗證問題		Ошибка аутентификации
+com.android.systemui:string/wifitrackerlib_wifi_disabled_transition_disable_indication	-1	無法透過網絡使用目前的安全性設定		Доступ закрыт согласно настройкам безопасности
+com.android.systemui:string/wifitrackerlib_wifi_disabled_transition_disable_indication	-1	無法透過網路使用目前的安全性設定		Доступ закрыт согласно настройкам безопасности
+com.android.systemui:string/wifitrackerlib_wifi_disconnected	-1	已中斷連線		Не подключено
+com.android.systemui:string/wifitrackerlib_wifi_limited_connection	-1	連線受限		Подключение к сети ограничено
+com.android.systemui:string/wifitrackerlib_wifi_limited_connection	-1	連線能力受限		Подключение к сети ограничено
+com.android.systemui:string/wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect	-1	無法連線，請稍後再試。		Ошибка подключения. Повторите попытку позже.
+com.android.systemui:string/wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated	-1	網絡流量超出上限，請稍後再試。		Превышена пропускная способность сети. Повторите попытку позже.
+com.android.systemui:string/wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated	-1	網路流量超載，請稍後再試。		Превышена пропускная способность сети. Повторите попытку позже.
+com.android.systemui:string/wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi	-1	網路訊號微弱，建議你移動到比較靠近路由器的位置。		Слабый сигнал. Попробуйте разместить устройство ближе к роутеру.
+com.android.systemui:string/wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi	-1	訊號偏弱，請嘗試移近路由器。		Слабый сигнал. Попробуйте разместить устройство ближе к роутеру.
+com.android.systemui:string/wifitrackerlib_wifi_metered_label	-1	按用量收費		Сеть с тарификацией трафика
+com.android.systemui:string/wifitrackerlib_wifi_metered_label	-1	計量付費		Сеть с тарификацией трафика
+com.android.systemui:string/wifitrackerlib_wifi_network_not_found	-1	無法連線，請稍後再試。		Ошибка подключения. Повторите попытку позже.
+com.android.systemui:string/wifitrackerlib_wifi_no_internet	-1	沒有互聯網連線		Без доступа к интернету
+com.android.systemui:string/wifitrackerlib_wifi_no_internet	-1	沒有網際網路連線		Без доступа к интернету
+com.android.systemui:string/wifitrackerlib_wifi_no_internet_no_reconnect	-1	不會自動連線		Подключение не будет выполняться автоматически
+com.android.systemui:string/wifitrackerlib_wifi_passpoint_expired	-1	已失效		Срок действия истек
+com.android.systemui:string/wifitrackerlib_wifi_passpoint_expired	-1	已過期		Срок действия истек
+com.android.systemui:string/wifitrackerlib_wifi_poor_channel_conditions	-1	暫時性網路連線品質不佳		Временное нестабильное подключение к сети.
+com.android.systemui:string/wifitrackerlib_wifi_poor_channel_conditions	-1	暫時網絡連線欠佳		Временное нестабильное подключение к сети.
+com.android.systemui:string/wifitrackerlib_wifi_remembered	-1	已儲存		Сохранено
+com.android.systemui:string/wifitrackerlib_wifi_security_eap_suiteb	-1	WPA3-Enterprise 192 位元		WPA3-Enterprise 192 бита
+com.android.systemui:string/wifitrackerlib_wifi_security_none	-1	無		Нет
+com.android.systemui:string/wifitrackerlib_wifi_standard_legacy	-1	舊版		Устаревший протокол
+com.android.systemui:string/wifitrackerlib_wifi_standard_unknown	-1	不明		Неизвестно
+com.android.systemui:string/wifitrackerlib_wifi_unmetered_label	-1	非按用量收費		Сеть без тарификации трафика
+com.android.systemui:string/wifitrackerlib_wifi_unmetered_label	-1	非計量付費		Сеть без тарификации трафика
+com.android.systemui:string/wifitrackerlib_wifi_wont_autoconnect_for_now	-1	目前不會自動連上 Wi-Fi		Подключение по Wi-Fi не установится автоматически.
+com.android.systemui:string/wifitrackerlib_wifi_wont_autoconnect_for_now	-1	目前系統不會自動連線至 Wi-Fi		Подключение по Wi-Fi не установится автоматически.
+com.android.systemui:string/wt_date_picker_friday	-1	五		Пт
+com.android.systemui:string/wt_date_picker_monday	-1	一		Пн
+com.android.systemui:string/wt_date_picker_saturday	-1	六		Сб
+com.android.systemui:string/wt_date_picker_sunday	-1	日		Вс
+com.android.systemui:string/wt_date_picker_thursday	-1	四		Чт
+com.android.systemui:string/wt_date_picker_tuesday	-1	二		Вт
+com.android.systemui:string/wt_date_picker_wednesday	-1	三		Ср
+com.android.systemui:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.android.systemui:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.android.systemui:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.android.systemui:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.android.systemui:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.android.systemui:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.android.systemui:string/wtinput_text_hint	-1	请输入		Введите текст
+com.android.systemui:string/wtsearch_text_hint	-1	请输入		Введите запрос

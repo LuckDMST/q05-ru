@@ -1,0 +1,13 @@
+com.tinnove.systemservice:array/tai_app_names	0	腾讯地图		Tencent Maps
+com.tinnove.systemservice:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.systemservice:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.systemservice:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.systemservice:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.systemservice:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.systemservice:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.systemservice:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.systemservice:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.systemservice:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.systemservice:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.systemservice:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.systemservice:string/wtsearch_text_hint	-1	请输入		Введите запрос

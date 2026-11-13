@@ -1,0 +1,317 @@
+com.wt.cardesktop3d:array/ambient_light_style_model_array	0	呼吸		Пульсация
+com.wt.cardesktop3d:array/ambient_light_style_model_array	1	静态		Постоянный свет
+com.wt.cardesktop3d:array/idd_car_color_array	0	推荐		Рекомендуемые
+com.wt.cardesktop3d:array/idd_car_color_array	1	自定义		Свой цвет
+com.wt.cardesktop3d:array/idd_car_color_model_array	0	金属漆		Металлик
+com.wt.cardesktop3d:array/idd_car_color_model_array	1	哑光漆		Матовый
+com.wt.cardesktop3d:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.wt.cardesktop3d:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.wt.cardesktop3d:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.wt.cardesktop3d:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.wt.cardesktop3d:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.wt.cardesktop3d:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.wt.cardesktop3d:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.wt.cardesktop3d:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.wt.cardesktop3d:string/abc_capital_on	-1	開啟		ВКЛ
+com.wt.cardesktop3d:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.wt.cardesktop3d:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.wt.cardesktop3d:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.wt.cardesktop3d:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.wt.cardesktop3d:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.wt.cardesktop3d:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.wt.cardesktop3d:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.wt.cardesktop3d:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.wt.cardesktop3d:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.wt.cardesktop3d:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.wt.cardesktop3d:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.wt.cardesktop3d:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.wt.cardesktop3d:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.wt.cardesktop3d:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.wt.cardesktop3d:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.wt.cardesktop3d:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.wt.cardesktop3d:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.wt.cardesktop3d:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.wt.cardesktop3d:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.wt.cardesktop3d:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.wt.cardesktop3d:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.wt.cardesktop3d:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.wt.cardesktop3d:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.wt.cardesktop3d:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.wt.cardesktop3d:string/ambient_light_bright	-1	亮		Ярко
+com.wt.cardesktop3d:string/ambient_light_dark	-1	暗		Приглушённо
+com.wt.cardesktop3d:string/ambient_light_style_breath	-1	呼吸		Пульсация
+com.wt.cardesktop3d:string/ambient_light_style_static	-1	静态		Постоянный свет
+com.wt.cardesktop3d:string/app_game_center	-1	游戏中心		Игры
+com.wt.cardesktop3d:string/app_not_install_tips	-1	%1$s未安装，请前往应用商场下载		Приложение %1$s не установлено. Скачайте его в магазине приложений.
+com.wt.cardesktop3d:string/assistant	-1	辅助		Ассистенты
+com.wt.cardesktop3d:string/back_door_already_unlock	-1	已为您解锁背门		Багажник отперт.
+com.wt.cardesktop3d:string/back_door_op_on_driving_tis	-1	行车中无法操作背门		Управление дверью багажника недоступно во время движения.
+com.wt.cardesktop3d:string/bluetooth	-1	蓝牙		Bluetooth
+com.wt.cardesktop3d:string/body	-1	车身		Кузов
+com.wt.cardesktop3d:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.wt.cardesktop3d:string/button_all_close	-1	全关		Закрыть всё
+com.wt.cardesktop3d:string/button_all_closed_window	-1	四窗全关		Закрыть все окна
+com.wt.cardesktop3d:string/button_all_open	-1	全开		Открыть всё
+com.wt.cardesktop3d:string/button_all_open_window	-1	四窗全开		Открыть все окна
+com.wt.cardesktop3d:string/button_all_pause	-1	暂停		Остановить
+com.wt.cardesktop3d:string/button_all_pause_sky_window_nop	-1	当前暂无天窗操作		Сейчас люк не движется.
+com.wt.cardesktop3d:string/button_all_pause_sunshade_nop	-1	当前暂无遮阳帘操作		Сейчас шторка не движется.
+com.wt.cardesktop3d:string/button_click_frequent	-1	请勿频繁操作		Не выполняйте действия слишком часто.
+com.wt.cardesktop3d:string/button_end_tip_str	-1	提示		Уведомление
+com.wt.cardesktop3d:string/button_ventilate_window	-1	四窗通风		Проветрить
+com.wt.cardesktop3d:string/car3d_set_background	-1	设置背景		Выбрать фон
+com.wt.cardesktop3d:string/car_color_btn_custom	-1	个性化		Настроить
+com.wt.cardesktop3d:string/car_color_custom	-1	自定义		Свой цвет
+com.wt.cardesktop3d:string/car_color_matte	-1	哑光漆		Матовый
+com.wt.cardesktop3d:string/car_color_metal	-1	金属漆		Металлик
+com.wt.cardesktop3d:string/car_color_recommend	-1	推荐		Рекомендуемые
+com.wt.cardesktop3d:string/car_inside_air_condition	-1	空调		Климат-контроль
+com.wt.cardesktop3d:string/car_inside_mood_light	-1	氛围灯		Контурная подсветка
+com.wt.cardesktop3d:string/car_inside_seat	-1	座椅		Сиденья
+com.wt.cardesktop3d:string/car_product_serial_changan	-1	长安汽车		Changan
+com.wt.cardesktop3d:string/car_product_serial_deepal	-1	深蓝		Deepal
+com.wt.cardesktop3d:string/car_product_serial_ioi	-1	启源		Qiyuan
+com.wt.cardesktop3d:string/car_product_serial_mazda	-1	马自达		Mazda
+com.wt.cardesktop3d:string/car_product_serial_uni	-1	引力域		UNI
+com.wt.cardesktop3d:string/car_speed_notice	-1	当前车速较快，后视镜无法折叠		На текущей скорости складывание зеркал недоступно.
+com.wt.cardesktop3d:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.wt.cardesktop3d:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.wt.cardesktop3d:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.cardesktop3d:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.wt.cardesktop3d:string/charge	-1	充电		Зарядка
+com.wt.cardesktop3d:string/charge_discharge_complete	-1	充放电完成		Зарядка или питание внешних устройств завершены.
+com.wt.cardesktop3d:string/click_too_fast	-1	你的手速太快了		Слишком частые нажатия.
+com.wt.cardesktop3d:string/click_too_frequent_operation_remind	-1	操作频率过快，请稍后再试哦		Действия выполняются слишком часто. Попробуйте позже.
+com.wt.cardesktop3d:string/connect	-1	连接		Подключения
+com.wt.cardesktop3d:string/copilot_seat	-1	副驾座椅		Сиденье пассажира
+com.wt.cardesktop3d:string/copilot_seat_window	-1	副驾驶		Передний пассажир
+com.wt.cardesktop3d:string/copilot_zero_seat	-1	副驾零重力座椅		Невесомость: пассажир
+com.wt.cardesktop3d:string/device_management	-1	互联设备		Подключённые устройства
+com.wt.cardesktop3d:string/discharge	-1	放电		Питание внешних устройств
+com.wt.cardesktop3d:string/display	-1	显示		Изображение
+com.wt.cardesktop3d:string/display_second_display	-1	显示屏		Экран
+com.wt.cardesktop3d:string/display_second_instrument	-1	仪表		Приборная панель
+com.wt.cardesktop3d:string/door_and_window	-1	门窗		Двери и окна
+com.wt.cardesktop3d:string/door_and_window_lock	-1	解闭锁		Запирание\nи открывание
+com.wt.cardesktop3d:string/door_and_window_lock	-1	解闭锁		Запирание\nи открывание
+com.wt.cardesktop3d:string/driving	-1	驾驶		Вождение
+com.wt.cardesktop3d:string/driving_control	-1	驾驶操控		Управление автомобилем
+com.wt.cardesktop3d:string/electronically_controlled_suspension	-1	电控悬架		Электронное управление подвеской
+com.wt.cardesktop3d:string/else_body_setting	-1	其他部件		Другие\nэлементы
+com.wt.cardesktop3d:string/else_body_setting	-1	其他部件		Другие\nэлементы
+com.wt.cardesktop3d:string/energy	-1	能量		Энергия
+com.wt.cardesktop3d:string/energy_cost_statistic	-1	能耗统计		Статистика расхода энергии
+com.wt.cardesktop3d:string/function_display_car_charge_exit	-1	退出充电		Завершить зарядку
+com.wt.cardesktop3d:string/function_display_car_charge_text	-1	充放电		Зарядка и внешнее питание
+com.wt.cardesktop3d:string/function_display_car_charging	-1	充电中		Зарядка
+com.wt.cardesktop3d:string/function_display_car_discharge	-1	放电中		Питание внешних устройств
+com.wt.cardesktop3d:string/function_display_car_door_left_behind	-1	左后		Сзади слева
+com.wt.cardesktop3d:string/function_display_car_door_left_front	-1	左前		Спереди слева
+com.wt.cardesktop3d:string/function_display_car_door_right_behind	-1	右后		Сзади справа
+com.wt.cardesktop3d:string/function_display_car_door_right_front	-1	右前		Спереди справа
+com.wt.cardesktop3d:string/function_display_car_door_text	-1	车门		Двери
+com.wt.cardesktop3d:string/function_display_car_light_fog_lamp	-1	雾灯		Противотуманки
+com.wt.cardesktop3d:string/function_display_car_light_high_beam	-1	远光灯		Дальний свет
+com.wt.cardesktop3d:string/function_display_car_light_low_beam	-1	近光灯		Ближний свет
+com.wt.cardesktop3d:string/function_display_car_light_position_lamp	-1	位置灯		Габаритные огни
+com.wt.cardesktop3d:string/function_display_car_light_text	-1	车灯		Освещение
+com.wt.cardesktop3d:string/function_display_car_time_day	-1	白天		День
+com.wt.cardesktop3d:string/function_display_car_time_dusk	-1	黄昏		Сумерки
+com.wt.cardesktop3d:string/function_display_car_time_morning	-1	清晨		Раннее утро
+com.wt.cardesktop3d:string/function_display_car_time_night	-1	黑夜		Ночь
+com.wt.cardesktop3d:string/function_display_car_time_text	-1	时间		Время суток
+com.wt.cardesktop3d:string/function_display_car_weather_rainy	-1	雨天		Дождь
+com.wt.cardesktop3d:string/function_display_car_weather_snowy	-1	雪天		Снег
+com.wt.cardesktop3d:string/function_display_car_weather_sunny	-1	晴天		Ясно
+com.wt.cardesktop3d:string/function_display_car_weather_text	-1	天气		Погода
+com.wt.cardesktop3d:string/function_display_title	-1	功能演示		Демонстрация функций
+com.wt.cardesktop3d:string/idd	-1	能量		Энергия
+com.wt.cardesktop3d:string/input_edt_tips	-1	请输入内容		Введите текст
+com.wt.cardesktop3d:string/input_edt_voice_age	-1	年龄		Возраст
+com.wt.cardesktop3d:string/input_edt_voice_name	-1	声纹名称		Название голосового профиля
+com.wt.cardesktop3d:string/input_edt_voice_sex	-1	性别		Пол
+com.wt.cardesktop3d:string/input_not_set	-1	未设置		Не задано
+com.wt.cardesktop3d:string/inside_lighting	-1	车内		В салоне
+com.wt.cardesktop3d:string/intelligent_driving	-1	智驾		Ассистенты вождения
+com.wt.cardesktop3d:string/intelligent_driving_driving	-1	行车辅助		Помощь при вождении
+com.wt.cardesktop3d:string/intelligent_driving_security	-1	安全辅助		Активная безопасность
+com.wt.cardesktop3d:string/journey	-1	行程		Поездки
+com.wt.cardesktop3d:string/lane_support	-1	行车辅助		Помощь при вождении
+com.wt.cardesktop3d:string/left_rearview_mirror_adjustment_text	-1	左后视镜		Левое зеркало
+com.wt.cardesktop3d:string/light	-1	灯光		Освещение
+com.wt.cardesktop3d:string/lighting_tab_atmosphere_light	-1	氛围灯		Контурная подсветка
+com.wt.cardesktop3d:string/lighting_tab_car_light	-1	车灯		Наружное освещение
+com.wt.cardesktop3d:string/main_seat	-1	主驾座椅		Сиденье водителя
+com.wt.cardesktop3d:string/main_seat_window	-1	主驾驶		Водитель
+com.wt.cardesktop3d:string/main_zero_seat	-1	主驾零重力座椅		Невесомость: водитель
+com.wt.cardesktop3d:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.cardesktop3d:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.cardesktop3d:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.wt.cardesktop3d:string/material_hour_selection	-1	請選取時段		Выберите час
+com.wt.cardesktop3d:string/material_hour_selection	-1	选择小时		Выберите час
+com.wt.cardesktop3d:string/material_hour_selection	-1	選取時段		Выберите час
+com.wt.cardesktop3d:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.wt.cardesktop3d:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.wt.cardesktop3d:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.wt.cardesktop3d:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.wt.cardesktop3d:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.wt.cardesktop3d:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.wt.cardesktop3d:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.wt.cardesktop3d:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.cardesktop3d:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.wt.cardesktop3d:string/material_timepicker_hour	-1	小時		Час
+com.wt.cardesktop3d:string/material_timepicker_minute	-1	分鐘		Минуты
+com.wt.cardesktop3d:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.wt.cardesktop3d:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.cardesktop3d:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.cardesktop3d:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.wt.cardesktop3d:string/mirror_expand	-1	展开		Разложить
+com.wt.cardesktop3d:string/mirror_fold	-1	折叠		Сложить
+com.wt.cardesktop3d:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.wt.cardesktop3d:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.wt.cardesktop3d:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.wt.cardesktop3d:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.wt.cardesktop3d:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.wt.cardesktop3d:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.wt.cardesktop3d:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.wt.cardesktop3d:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.wt.cardesktop3d:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.wt.cardesktop3d:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.wt.cardesktop3d:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.wt.cardesktop3d:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.wt.cardesktop3d:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.wt.cardesktop3d:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.wt.cardesktop3d:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.wt.cardesktop3d:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.wt.cardesktop3d:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.wt.cardesktop3d:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.wt.cardesktop3d:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.wt.cardesktop3d:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.wt.cardesktop3d:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.wt.cardesktop3d:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.wt.cardesktop3d:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.wt.cardesktop3d:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.wt.cardesktop3d:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.wt.cardesktop3d:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_save	-1	儲存		Сохранить
+com.wt.cardesktop3d:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.wt.cardesktop3d:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.wt.cardesktop3d:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.wt.cardesktop3d:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.wt.cardesktop3d:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.wt.cardesktop3d:string/name_beyond_the_limit	-1	名称过长		Слишком длинное название.
+com.wt.cardesktop3d:string/network	-1	网络		Сеть
+com.wt.cardesktop3d:string/ok	-1	确定		ОК
+com.wt.cardesktop3d:string/outside_lighting	-1	车外		Снаружи
+com.wt.cardesktop3d:string/park	-1	泊车辅助		Помощь при парковке
+com.wt.cardesktop3d:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.wt.cardesktop3d:string/power_on_operations	-1	请上电后操作		Сначала включите питание автомобиля.
+com.wt.cardesktop3d:string/pwd_rule_tips	-1	密码必须包含字母、数字、特殊字符中任意两类		Пароль должен содержать символы как минимум двух типов: буквы, цифры или специальные символы.
+com.wt.cardesktop3d:string/rearview_mirror_adjustment_notice	-1	通过方向盘右侧按键可以调节后视镜		Регулируйте зеркала кнопками на правой стороне руля.
+com.wt.cardesktop3d:string/rearview_mirror_adjustment_title	-1	后视镜调节		Регулировка зеркал
+com.wt.cardesktop3d:string/recommend	-1	推荐		Рекомендуемое
+com.wt.cardesktop3d:string/remaining_time_string	-1	剩余时间%1$d分钟		Осталось %1$d минут
+com.wt.cardesktop3d:string/report_monthly	-1	月度报告		Отчёт за месяц
+com.wt.cardesktop3d:string/right_rearview_mirror_adjustment_text	-1	右后视镜		Правое зеркало
+com.wt.cardesktop3d:string/save	-1	保存		Сохранить
+com.wt.cardesktop3d:string/seat	-1	座椅		Сиденья
+com.wt.cardesktop3d:string/seat_adjust	-1	主驾位置调节与记忆		Положение и память сиденья водителя
+com.wt.cardesktop3d:string/seat_lumbar_support	-1	腰托		Поясничная поддержка
+com.wt.cardesktop3d:string/seat_memory_backup	-1	备用		Запасное
+com.wt.cardesktop3d:string/seat_memory_drive	-1	驾驶		Вождение
+com.wt.cardesktop3d:string/seat_memory_rest	-1	休息		Отдых
+com.wt.cardesktop3d:string/seat_window	-1	座椅门窗		Сиденья\nи окна
+com.wt.cardesktop3d:string/seat_window	-1	座椅门窗		Сиденья\nи окна
+com.wt.cardesktop3d:string/security	-1	安全		Безопасность
+com.wt.cardesktop3d:string/sentinel	-1	哨兵模式		Режим охраны
+com.wt.cardesktop3d:string/shortcut	-1	快捷		Быстрый доступ
+com.wt.cardesktop3d:string/smart_interaction	-1	智慧交互		Умные функции
+com.wt.cardesktop3d:string/snack_bar_confirm	-1	取消(%d s)		Отмена (%d с)
+com.wt.cardesktop3d:string/snack_bar_go	-1	确认		Подтвердить
+com.wt.cardesktop3d:string/software_info	-1	通用设置		Общие настройки
+com.wt.cardesktop3d:string/sound	-1	声音		Звук
+com.wt.cardesktop3d:string/steering_wheel	-1	方向盘		Руль
+com.wt.cardesktop3d:string/storage_manage	-1	内存管理		Управление памятью
+com.wt.cardesktop3d:string/sure_text	-1	确定		ОК
+com.wt.cardesktop3d:string/system	-1	系统		Система
+com.wt.cardesktop3d:string/time_string	-1	剩余时间%1$d小时%2$d分钟		Осталось %1$d часов %2$d минут
+com.wt.cardesktop3d:string/tip_battery_retention_target	-1	电池电量低于已设置的目标电量时，车辆将启动增程器为电池充电，将电量维持在目标电量附近		Если заряд батареи ниже заданного уровня, автомобиль запустит двигатель для её зарядки и будет поддерживать заряд около заданного уровня.
+com.wt.cardesktop3d:string/tip_toast_seat_adjust_moving	-1	座椅运动中，座椅位置调用失败		Не удалось вызвать положение: сиденье движется.
+com.wt.cardesktop3d:string/tip_toast_seat_adjust_prohibit	-1	为保障行驶安全，请使用物理按键调节		Для безопасности движения используйте физические кнопки регулировки.
+com.wt.cardesktop3d:string/tip_toast_seat_apply_prohibit	-1	车辆未处于P挡，位置调用失败		Для вызова положения сиденья включите режим P.
+com.wt.cardesktop3d:string/tip_toast_seat_memory_fail	-1	位置记忆失败		Не удалось сохранить положение.
+com.wt.cardesktop3d:string/tip_toast_seat_memory_moving	-1	座椅运动中，位置记忆失败		Не удалось сохранить положение: сиденье движется.
+com.wt.cardesktop3d:string/tip_toast_seat_memory_no_data	-1	当前位置无数据，请先保存座椅位置		Положение ещё не задано. Сначала сохраните его.
+com.wt.cardesktop3d:string/tip_toast_seat_memory_success	-1	位置记忆成功		Положение сохранено.
+com.wt.cardesktop3d:string/toast_car_mode_color	-1	车模该色值暂不支持		Этот цвет модели автомобиля пока не поддерживается.
+com.wt.cardesktop3d:string/toast_fuel_tank_doors_no_support_need_switch_P	-1	请切换至P档后加油		Перед заправкой включите режим P.
+com.wt.cardesktop3d:string/toast_fuel_tank_doors_unlock	-1	油箱门解锁完成，请加油		Лючок топливного бака отперт. Можно заправляться.
+com.wt.cardesktop3d:string/toast_fuel_tank_doors_unlock_unscrew_cap	-1	油箱门解锁完成，请慢拧开油箱盖后加油		Лючок топливного бака отперт. Перед заправкой медленно открутите крышку бака.
+com.wt.cardesktop3d:string/toast_sun_shade_close	-1	遮阳帘已关闭		Шторка закрыта.
+com.wt.cardesktop3d:string/toast_sun_shade_open	-1	遮阳帘已开启		Шторка открыта.
+com.wt.cardesktop3d:string/too_frequent_operation_remind	-1	操作频率过快，请稍后再试哦		Действия выполняются слишком часто. Попробуйте позже.
+com.wt.cardesktop3d:string/tv_AC_charging	-1	交流电充电中…		Зарядка переменным током…
+com.wt.cardesktop3d:string/tv_AC_discharge	-1	交流放电中…		Питание переменным током…
+com.wt.cardesktop3d:string/tv_back	-1	返回		Назад
+com.wt.cardesktop3d:string/tv_charge_complete	-1	充电完成		Зарядка завершена
+com.wt.cardesktop3d:string/tv_charging	-1	正在充电中…		Идёт зарядка…
+com.wt.cardesktop3d:string/tv_charging_cable_connected	-1	充电枪已连接		Зарядный разъём подключён
+com.wt.cardesktop3d:string/tv_charging_cable_connected_dis	-1	放电枪已连接		Разъём внешнего питания подключён
+com.wt.cardesktop3d:string/tv_charging_pile_extended_time	-1	充电桩能⼒不⾜充电时间将延⻓		Мощности зарядной станции недостаточно. Зарядка займёт больше времени.
+com.wt.cardesktop3d:string/tv_charging_stop	-1	充电中止		Зарядка прервана
+com.wt.cardesktop3d:string/tv_charging_temperature	-1	电池温度低，加热中		Низкая температура батареи. Идёт подогрев.
+com.wt.cardesktop3d:string/tv_charging_waiting	-1	预约等待中		Ожидание зарядки по расписанию
+com.wt.cardesktop3d:string/tv_discharging	-1	对外放电中		Питание внешних устройств
+com.wt.cardesktop3d:string/tv_find_out_more	-1	查看详情>		Подробнее >
+com.wt.cardesktop3d:string/tv_remaining_time	-1	剩余充电时间		Оставшееся время зарядки
+com.wt.cardesktop3d:string/vehicle_light	-1	车灯		Освещение
+com.wt.cardesktop3d:string/vision	-1	视觉		Изображение
+com.wt.cardesktop3d:string/voice	-1	语音		Голос
+com.wt.cardesktop3d:string/wt_date_picker_friday	-1	五		Пт
+com.wt.cardesktop3d:string/wt_date_picker_monday	-1	一		Пн
+com.wt.cardesktop3d:string/wt_date_picker_saturday	-1	六		Сб
+com.wt.cardesktop3d:string/wt_date_picker_sunday	-1	日		Вс
+com.wt.cardesktop3d:string/wt_date_picker_thursday	-1	四		Чт
+com.wt.cardesktop3d:string/wt_date_picker_tuesday	-1	二		Вт
+com.wt.cardesktop3d:string/wt_date_picker_wednesday	-1	三		Ср
+com.wt.cardesktop3d:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.wt.cardesktop3d:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.wt.cardesktop3d:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.wt.cardesktop3d:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.wt.cardesktop3d:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.wt.cardesktop3d:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.wt.cardesktop3d:string/wtinput_text_hint	-1	请输入		Введите текст
+com.wt.cardesktop3d:string/wtsearch_text_hint	-1	请输入		Введите запрос
+com.wt.cardesktop3d:string/zero_g_model	-1	零重力模式		Режим невесомости

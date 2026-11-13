@@ -1,0 +1,484 @@
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	0	0.25 倍		0,25
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	1	0.5 倍		0,5
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	2	0.75 倍		0,75
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	4	1.25 倍		1,25
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	5	1.5 倍		1,5
+com.autopai.smart.sound.effect:array/exo_controls_playback_speeds	6	2 倍		2
+com.autopai.smart.sound.effect:array/week	0	周日		Вс
+com.autopai.smart.sound.effect:array/week	1	周一		Пн
+com.autopai.smart.sound.effect:array/week	2	周二		Вт
+com.autopai.smart.sound.effect:array/week	3	周三		Ср
+com.autopai.smart.sound.effect:array/week	4	周四		Чт
+com.autopai.smart.sound.effect:array/week	5	周五		Пт
+com.autopai.smart.sound.effect:array/week	6	周六		Сб
+com.autopai.smart.sound.effect:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.autopai.smart.sound.effect:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.autopai.smart.sound.effect:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.autopai.smart.sound.effect:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.autopai.smart.sound.effect:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.autopai.smart.sound.effect:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.autopai.smart.sound.effect:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.autopai.smart.sound.effect:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.autopai.smart.sound.effect:string/abc_capital_on	-1	開啟		ВКЛ
+com.autopai.smart.sound.effect:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.autopai.smart.sound.effect:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.autopai.smart.sound.effect:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.autopai.smart.sound.effect:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.autopai.smart.sound.effect:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.autopai.smart.sound.effect:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.autopai.smart.sound.effect:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.autopai.smart.sound.effect:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.autopai.smart.sound.effect:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.autopai.smart.sound.effect:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.autopai.smart.sound.effect:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.autopai.smart.sound.effect:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.autopai.smart.sound.effect:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.autopai.smart.sound.effect:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.autopai.smart.sound.effect:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.autopai.smart.sound.effect:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.autopai.smart.sound.effect:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.autopai.smart.sound.effect:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.autopai.smart.sound.effect:string/app_name	-1	个性化声效		Звуковые эффекты
+com.autopai.smart.sound.effect:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.autopai.smart.sound.effect:string/brvah_load_complete	-1	点击加载更多		Нажмите для загрузки
+com.autopai.smart.sound.effect:string/brvah_load_end	-1	没有更多数据		Больше данных нет
+com.autopai.smart.sound.effect:string/brvah_load_failed	-1	加载失败，请点我重试		Не удалось загрузить. Нажмите для повтора.
+com.autopai.smart.sound.effect:string/brvah_loading	-1	正在加载中...		Загрузка...
+com.autopai.smart.sound.effect:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.autopai.smart.sound.effect:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.autopai.smart.sound.effect:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.autopai.smart.sound.effect:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.autopai.smart.sound.effect:string/exo_controls_cc_disabled_description	-1	启用字幕		Включить субтитры
+com.autopai.smart.sound.effect:string/exo_controls_cc_disabled_description	-1	啟用字幕		Включить субтитры
+com.autopai.smart.sound.effect:string/exo_controls_cc_disabled_description	-1	啟用字幕 (Subtitle)		Включить субтитры
+com.autopai.smart.sound.effect:string/exo_controls_cc_enabled_description	-1	停用字幕		Выключить субтитры
+com.autopai.smart.sound.effect:string/exo_controls_cc_enabled_description	-1	停用字幕 (Subtitle)		Выключить субтитры
+com.autopai.smart.sound.effect:string/exo_controls_fastforward_description	-1	向前快轉		Перемотать вперед
+com.autopai.smart.sound.effect:string/exo_controls_fastforward_description	-1	快轉		Перемотать вперед
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_enter_description	-1	进入全屏模式		Полноэкранный режим
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕		Полноэкранный режим
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_enter_description	-1	進入全螢幕模式		Полноэкранный режим
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_exit_description	-1	結束全螢幕模式		Выйти из полноэкранного режима
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_exit_description	-1	退出全屏模式		Выйти из полноэкранного режима
+com.autopai.smart.sound.effect:string/exo_controls_fullscreen_exit_description	-1	關閉全螢幕		Выйти из полноэкранного режима
+com.autopai.smart.sound.effect:string/exo_controls_hide	-1	隐藏播放器控件		Скрыть панель управления
+com.autopai.smart.sound.effect:string/exo_controls_hide	-1	隱藏播放器控制選項		Скрыть панель управления
+com.autopai.smart.sound.effect:string/exo_controls_hide	-1	隱藏播放器控制項		Скрыть панель управления
+com.autopai.smart.sound.effect:string/exo_controls_next_description	-1	繼續		Следующий трек
+com.autopai.smart.sound.effect:string/exo_controls_overflow_hide_description	-1	隐藏其他设置		Скрыть дополнительные настройки
+com.autopai.smart.sound.effect:string/exo_controls_overflow_hide_description	-1	隱藏其他設定		Скрыть дополнительные настройки
+com.autopai.smart.sound.effect:string/exo_controls_overflow_show_description	-1	显示其他设置		Показать дополнительные настройки
+com.autopai.smart.sound.effect:string/exo_controls_overflow_show_description	-1	顯示其他設定		Показать дополнительные настройки
+com.autopai.smart.sound.effect:string/exo_controls_pause_description	-1	暫停		Приостановить
+com.autopai.smart.sound.effect:string/exo_controls_playback_speed	-1	速度		Скорость
+com.autopai.smart.sound.effect:string/exo_controls_repeat_all_description	-1	宜家嘅模式：重複播放所有項目。轉做重複播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_all_description	-1	当前模式：重复播放所有项目。切换重复播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_all_description	-1	目前模式：重複播放所有項目。切換重複播放模式。		Выбрано: повторять все. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_off_description	-1	宜家嘅模式：唔重複播放。轉做重複播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_off_description	-1	当前模式：不重复。切换重复播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_off_description	-1	目前模式：不重複播放。切換重複播放模式。		Выбрано: не повторять. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_one_description	-1	宜家嘅模式：重複播放一個項目。轉做重複播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_one_description	-1	当前模式：重复播放当前项目。切换重复播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_repeat_one_description	-1	目前模式：重複播放單一項目。切換重複播放模式。		Выбрано: повторять один раз. Изменить режим повтора.
+com.autopai.smart.sound.effect:string/exo_controls_rewind_description	-1	倒轉		Перемотать назад
+com.autopai.smart.sound.effect:string/exo_controls_seek_bar_description	-1	播放进度		Полоса прокрутки воспроизведения
+com.autopai.smart.sound.effect:string/exo_controls_seek_bar_description	-1	播放進度		Полоса прокрутки воспроизведения
+com.autopai.smart.sound.effect:string/exo_controls_settings_description	-1	設定		Настройки
+com.autopai.smart.sound.effect:string/exo_controls_show	-1	显示播放器控件		Показать панель управления
+com.autopai.smart.sound.effect:string/exo_controls_show	-1	顯示播放器控制選項		Показать панель управления
+com.autopai.smart.sound.effect:string/exo_controls_show	-1	顯示播放器控制項		Показать панель управления
+com.autopai.smart.sound.effect:string/exo_controls_shuffle_off_description	-1	启用随机播放模式		Включить перемешивание
+com.autopai.smart.sound.effect:string/exo_controls_shuffle_off_description	-1	啟用隨機播放模式		Включить перемешивание
+com.autopai.smart.sound.effect:string/exo_controls_shuffle_on_description	-1	停用随机播放模式		Отключить перемешивание
+com.autopai.smart.sound.effect:string/exo_controls_shuffle_on_description	-1	停用隨機播放模式		Отключить перемешивание
+com.autopai.smart.sound.effect:string/exo_controls_vr_description	-1	VR 模式		VR-режим
+com.autopai.smart.sound.effect:string/exo_controls_vr_description	-1	虛擬實境模式		VR-режим
+com.autopai.smart.sound.effect:string/exo_controls_vr_description	-1	虛擬現實模式		VR-режим
+com.autopai.smart.sound.effect:string/exo_download_completed	-1	下載完成		Скачивание завершено
+com.autopai.smart.sound.effect:string/exo_download_completed	-1	下載完畢		Скачивание завершено
+com.autopai.smart.sound.effect:string/exo_download_completed	-1	下载完毕		Скачивание завершено
+com.autopai.smart.sound.effect:string/exo_download_description	-1	下載		Скачать
+com.autopai.smart.sound.effect:string/exo_download_downloading	-1	下載中		Скачивание…
+com.autopai.smart.sound.effect:string/exo_download_downloading	-1	正在下載		Скачивание…
+com.autopai.smart.sound.effect:string/exo_download_failed	-1	下載失敗		Ошибка скачивания
+com.autopai.smart.sound.effect:string/exo_download_failed	-1	下载失败		Ошибка скачивания
+com.autopai.smart.sound.effect:string/exo_download_failed	-1	無法下載		Ошибка скачивания
+com.autopai.smart.sound.effect:string/exo_download_notification_channel_name	-1	下載		Скачивания
+com.autopai.smart.sound.effect:string/exo_download_notification_channel_name	-1	下載內容		Скачивания
+com.autopai.smart.sound.effect:string/exo_download_notification_channel_name	-1	下载内容		Скачивания
+com.autopai.smart.sound.effect:string/exo_download_paused	-1	已暫停下載		Скачивание приостановлено
+com.autopai.smart.sound.effect:string/exo_download_paused_for_network	-1	正在等待網絡連線以下載檔案		Ожидание подключения к сети
+com.autopai.smart.sound.effect:string/exo_download_paused_for_network	-1	正在等待连接到网络以进行下载		Ожидание подключения к сети
+com.autopai.smart.sound.effect:string/exo_download_paused_for_network	-1	系統會等到連上網路後再開始下載		Ожидание подключения к сети
+com.autopai.smart.sound.effect:string/exo_download_paused_for_wifi	-1	正在等待 Wi-Fi 連線以下載檔案		Ожидание подключения к Wi-Fi
+com.autopai.smart.sound.effect:string/exo_download_paused_for_wifi	-1	正在等待连接到 WLAN 网络以进行下载		Ожидание подключения к Wi-Fi
+com.autopai.smart.sound.effect:string/exo_download_paused_for_wifi	-1	系統會等到連上 Wi-Fi 後再開始下載		Ожидание подключения к Wi-Fi
+com.autopai.smart.sound.effect:string/exo_download_removing	-1	正在移除下載內容		Удаление скачанных файлов…
+com.autopai.smart.sound.effect:string/exo_download_removing	-1	正在移除下载内容		Удаление скачанных файлов…
+com.autopai.smart.sound.effect:string/exo_track_mono	-1	单声道		Моно
+com.autopai.smart.sound.effect:string/exo_track_mono	-1	單聲道		Моно
+com.autopai.smart.sound.effect:string/exo_track_role_alternate	-1	替用軌		Другая запись
+com.autopai.smart.sound.effect:string/exo_track_role_alternate	-1	替用轨		Другая запись
+com.autopai.smart.sound.effect:string/exo_track_role_commentary	-1	旁白		Комментарии
+com.autopai.smart.sound.effect:string/exo_track_role_commentary	-1	評論		Комментарии
+com.autopai.smart.sound.effect:string/exo_track_role_supplementary	-1	补充轨		Дополнительные материалы
+com.autopai.smart.sound.effect:string/exo_track_role_supplementary	-1	補充軌		Дополнительные материалы
+com.autopai.smart.sound.effect:string/exo_track_role_supplementary	-1	附加		Дополнительные материалы
+com.autopai.smart.sound.effect:string/exo_track_selection_auto	-1	自動		Авто
+com.autopai.smart.sound.effect:string/exo_track_selection_none	-1	無		Нет
+com.autopai.smart.sound.effect:string/exo_track_selection_title_audio	-1	音訊		Аудио
+com.autopai.smart.sound.effect:string/exo_track_selection_title_text	-1	文字		Текст
+com.autopai.smart.sound.effect:string/exo_track_selection_title_video	-1	影片		Видео
+com.autopai.smart.sound.effect:string/exo_track_stereo	-1	立体声		Стерео
+com.autopai.smart.sound.effect:string/exo_track_stereo	-1	立體聲		Стерео
+com.autopai.smart.sound.effect:string/exo_track_surround	-1	环绕声		Объемный звук
+com.autopai.smart.sound.effect:string/exo_track_surround	-1	環繞音效		Объемный звук
+com.autopai.smart.sound.effect:string/exo_track_surround	-1	環迴立體聲		Объемный звук
+com.autopai.smart.sound.effect:string/exo_track_surround_5_point_1	-1	5.1 环绕声		Система объемного звука 5.1
+com.autopai.smart.sound.effect:string/exo_track_surround_5_point_1	-1	5.1 環繞音效		Система объемного звука 5.1
+com.autopai.smart.sound.effect:string/exo_track_surround_5_point_1	-1	5.1 環迴立體聲		Система объемного звука 5.1
+com.autopai.smart.sound.effect:string/exo_track_surround_7_point_1	-1	7.1 环绕声		Система объемного звука 7.1
+com.autopai.smart.sound.effect:string/exo_track_surround_7_point_1	-1	7.1 環繞音效		Система объемного звука 7.1
+com.autopai.smart.sound.effect:string/exo_track_surround_7_point_1	-1	7.1 環迴立體聲		Система объемного звука 7.1
+com.autopai.smart.sound.effect:string/exo_track_unknown	-1	不明		Неизвестный трек
+com.autopai.smart.sound.effect:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.autopai.smart.sound.effect:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.autopai.smart.sound.effect:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.autopai.smart.sound.effect:string/material_hour_selection	-1	請選取時段		Выберите час
+com.autopai.smart.sound.effect:string/material_hour_selection	-1	选择小时		Выберите час
+com.autopai.smart.sound.effect:string/material_hour_selection	-1	選取時段		Выберите час
+com.autopai.smart.sound.effect:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.autopai.smart.sound.effect:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.autopai.smart.sound.effect:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.autopai.smart.sound.effect:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.autopai.smart.sound.effect:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.autopai.smart.sound.effect:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.autopai.smart.sound.effect:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.autopai.smart.sound.effect:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.autopai.smart.sound.effect:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.autopai.smart.sound.effect:string/material_timepicker_hour	-1	小時		Час
+com.autopai.smart.sound.effect:string/material_timepicker_minute	-1	分鐘		Минуты
+com.autopai.smart.sound.effect:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.autopai.smart.sound.effect:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.autopai.smart.sound.effect:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.autopai.smart.sound.effect:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.autopai.smart.sound.effect:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.autopai.smart.sound.effect:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.autopai.smart.sound.effect:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.autopai.smart.sound.effect:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.autopai.smart.sound.effect:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.autopai.smart.sound.effect:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.autopai.smart.sound.effect:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.autopai.smart.sound.effect:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.autopai.smart.sound.effect:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.autopai.smart.sound.effect:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.autopai.smart.sound.effect:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.autopai.smart.sound.effect:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.autopai.smart.sound.effect:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.autopai.smart.sound.effect:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_save	-1	儲存		Сохранить
+com.autopai.smart.sound.effect:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.autopai.smart.sound.effect:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.autopai.smart.sound.effect:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.autopai.smart.sound.effect:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.autopai.smart.sound.effect:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.autopai.smart.sound.effect:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.autopai.smart.sound.effect:string/smart_sound_app_name_other_jump	-1	返回		Назад
+com.autopai.smart.sound.effect:string/smart_sound_app_not_enough_storage_space_please_delete_data	-1	应用存储空间不足，请删除部分自定义声效		Недостаточно места приложения. Удалите часть своих звуков.
+com.autopai.smart.sound.effect:string/smart_sound_banner_purchase	-1	购买		Купить
+com.autopai.smart.sound.effect:string/smart_sound_cheack	-1	查看		Посмотреть
+com.autopai.smart.sound.effect:string/smart_sound_command_effect_mega_bass	-1	超重低音		Усиленный бас
+com.autopai.smart.sound.effect:string/smart_sound_command_effect_subwoofer	-1	虚拟低音炮		Виртуальный сабвуфер
+com.autopai.smart.sound.effect:string/smart_sound_cornering	-1	转向提示音		Звук указателя поворота
+com.autopai.smart.sound.effect:string/smart_sound_cornering_dynamic	-1	动态		Динамический
+com.autopai.smart.sound.effect:string/smart_sound_custom_record	-1	我创建的		Мои записи
+com.autopai.smart.sound.effect:string/smart_sound_db0	-1	0分贝		0 дБ
+com.autopai.smart.sound.effect:string/smart_sound_db100	-1	100分贝		100 дБ
+com.autopai.smart.sound.effect:string/smart_sound_db50	-1	50分贝		50 дБ
+com.autopai.smart.sound.effect:string/smart_sound_debug_deleting	-1	删除中请稍后		Удаление. Подождите.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_pay_sound_listen_pause	-1	继续试听		Продолжить прослушивание
+com.autopai.smart.sound.effect:string/smart_sound_dialog_pay_sound_listen_playing	-1	试听中		Пробное прослушивание
+com.autopai.smart.sound.effect:string/smart_sound_dialog_play_failure	-1	播放失败		Не удалось воспроизвести
+com.autopai.smart.sound.effect:string/smart_sound_dialog_record_failure	-1	录音失败		Не удалось записать
+com.autopai.smart.sound.effect:string/smart_sound_dialog_record_tip_start	-1	点击开始录音		Нажмите для начала записи
+com.autopai.smart.sound.effect:string/smart_sound_dialog_record_tip_stop	-1	点击结束录音		Нажмите для завершения записи
+com.autopai.smart.sound.effect:string/smart_sound_dialog_record_title	-1	录音名称		Название записи
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_1	-1	75分贝		75 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_2	-1	80分贝		80 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_3	-1	90分贝		90 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_4	-1	100分贝		100 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_5	-1	110分贝		110 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_6	-1	120分贝		120 дБ
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_1	-1	127小时/7天		127 ч / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_2	-1	40小时/7天		40 ч / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_3	-1	4小时/7天		4 ч / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_4	-1	24分钟/7天		24 мин / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_5	-1	2分钟/7天		2 мин / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_cycle_6	-1	23秒/7天		23 с / 7 д.
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_1	-1	使用吸尘器		Работа пылесоса
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_2	-1	嘈杂的办公室		Шумный офис
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_3	-1	重型卡车通过		Проезжающий тяжёлый грузовик
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_4	-1	切割中的电器		Режущий электроинструмент
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_5	-1	摇滚音乐会现场		Рок-концерт
+com.autopai.smart.sound.effect:string/smart_sound_dialog_report_item_decibel_hint_6	-1	近距离放爆竹		Петарда вблизи
+com.autopai.smart.sound.effect:string/smart_sound_dolby_and	-1	和		и
+com.autopai.smart.sound.effect:string/smart_sound_dolby_door	-1	车门		двери
+com.autopai.smart.sound.effect:string/smart_sound_dolby_experience	-1	立即体验		Попробовать сейчас
+com.autopai.smart.sound.effect:string/smart_sound_dolby_play_tip	-1	建议您关闭所有%1$s，以进行沉浸体验。		Для полного погружения рекомендуется закрыть все %1$s.
+com.autopai.smart.sound.effect:string/smart_sound_dolby_play_tip_all_screen	-1	全景视窗下，不支持播放		В режиме панорамного окна воспроизведение недоступно
+com.autopai.smart.sound.effect:string/smart_sound_dolby_play_tip_ispark	-1	视频仅支持在P档下播放		Видео доступно только в положении P
+com.autopai.smart.sound.effect:string/smart_sound_dolby_sky_light	-1	天窗		люк
+com.autopai.smart.sound.effect:string/smart_sound_dolby_tip	-1	长安汽车 x 杜比联袂打造沉浸式聆听体验,悦享无尽趣驾		Changan и Dolby создали объёмное звучание для полного погружения в музыку.
+com.autopai.smart.sound.effect:string/smart_sound_dolby_window	-1	车窗		окна
+com.autopai.smart.sound.effect:string/smart_sound_download_fail	-1	下载失败，请稍后重试		Не удалось скачать. Повторите попытку позже.
+com.autopai.smart.sound.effect:string/smart_sound_download_in_progress	-1	下载中		Скачивание
+com.autopai.smart.sound.effect:string/smart_sound_download_no_net	-1	网络异常，请联网后重试		Ошибка сети. Подключитесь и повторите попытку.
+com.autopai.smart.sound.effect:string/smart_sound_download_success	-1	下载成功		Скачано
+com.autopai.smart.sound.effect:string/smart_sound_downloading	-1	下载中		Скачивание
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_confirm	-1	确定		ОК
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_delete	-1	删除		Удалить
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_no_empty	-1	请输入有效字符		Введите допустимые символы
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_please_input	-1	请输入		Введите
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_tip	-1	仅支持输入10个字符以内的汉字、字母、数字		Не более 10 символов: китайские иероглифы, латинские буквы или цифры
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_title	-1	重命名		Переименовать
+com.autopai.smart.sound.effect:string/smart_sound_edit_name_upper_limit	-1	输入字数已达到上限		Достигнут предел ввода
+com.autopai.smart.sound.effect:string/smart_sound_explose_hear	-1	暴露量限制		Предел звукового воздействия
+com.autopai.smart.sound.effect:string/smart_sound_explose_hear_explain	-1	例如：7天内，不能处于在75分贝音量环境下超过127小时，不然对听力可能有损伤		Например, за 7 дней нельзя находиться при 75 дБ более 127 часов, иначе возможно повреждение слуха.
+com.autopai.smart.sound.effect:string/smart_sound_explose_hear_two	-1	以下是对高音量使用的建议		Рекомендации по использованию высокой громкости:
+com.autopai.smart.sound.effect:string/smart_sound_exposure_prompt	-1	长期、持续暴露于高噪音环境中可能会导致听力永久损伤		Длительное непрерывное воздействие сильного шума может вызвать необратимое повреждение слуха.
+com.autopai.smart.sound.effect:string/smart_sound_farewell	-1	下车欢送音		Прощание при выходе
+com.autopai.smart.sound.effect:string/smart_sound_farewell_switch_explanation	-1	当主驾开门下车时，播放欢送音效		Проигрывает прощание, когда водитель открывает дверь и выходит.
+com.autopai.smart.sound.effect:string/smart_sound_file_name_non_standard	-1	下载失败：资源名称不符合协议		Не удалось скачать: имя ресурса не соответствует протоколу
+com.autopai.smart.sound.effect:string/smart_sound_go_to_app_market	-1	未安装该应用，请在应用市场安装该应用		Приложение не установлено. Установите его в магазине.
+com.autopai.smart.sound.effect:string/smart_sound_have_pay	-1	已购%1$s		Куплено: %1$s
+com.autopai.smart.sound.effect:string/smart_sound_healthy	-1	正常		Норма
+com.autopai.smart.sound.effect:string/smart_sound_hearing_report	-1	音量检测		Измерение громкости
+com.autopai.smart.sound.effect:string/smart_sound_hearing_report_content	-1	这是一份计算后的声音报告，让您了解车内声音环境是否有利于健康		Расчётный отчёт помогает оценить, насколько звуковая обстановка в салоне благоприятна для здоровья.
+com.autopai.smart.sound.effect:string/smart_sound_hearing_report_date	-1	%1$d年%2$d月%3$d日-%4$d年%5$d月%6$d日		%1$d-%2$d-%3$d — %4$d-%5$d-%6$d
+com.autopai.smart.sound.effect:string/smart_sound_hearing_report_new	-1	音量关怀		Забота о слухе
+com.autopai.smart.sound.effect:string/smart_sound_hearing_title	-1	这是一份计算后的声音报告，让您了解车内声音环境是否有利于健康		Расчётный отчёт помогает оценить, насколько звуковая обстановка в салоне благоприятна для здоровья.
+com.autopai.smart.sound.effect:string/smart_sound_hour	-1	%1$d小时		%1$d ч
+com.autopai.smart.sound.effect:string/smart_sound_information_tip	-1	信息提示音		Информационный сигнал
+com.autopai.smart.sound.effect:string/smart_sound_item_search_result_text	-1	搜索的结果		Результаты поиска
+com.autopai.smart.sound.effect:string/smart_sound_ksing_open_toast	-1	为保证K歌体验，头枕模式暂不可用		Для качественного караоке режим подголовника временно недоступен
+com.autopai.smart.sound.effect:string/smart_sound_layout_activity_debug_main_secret	-1	请输入密码		Введите пароль
+com.autopai.smart.sound.effect:string/smart_sound_listen_phone_call	-1	通话中，暂不支持试听播放		Во время разговора пробное прослушивание недоступно
+com.autopai.smart.sound.effect:string/smart_sound_low_speed	-1	低速提示音		Сигнал пешеходам
+com.autopai.smart.sound.effect:string/smart_sound_low_speed_tip	-1	根据国家相关法规要求，车辆低速行驶时，车外扬声器应发声提示行人注意车辆。若关闭此功能，下次开机时，仍会自动开启。		По требованиям нормативов при движении на малой скорости наружный громкоговоритель предупреждает пешеходов об автомобиле. Если выключить функцию, она снова включится при следующем запуске.
+com.autopai.smart.sound.effect:string/smart_sound_media_effect	-1	媒体音效		Эффекты мультимедиа
+com.autopai.smart.sound.effect:string/smart_sound_media_extend_tip_ispark	-1	扩展屏仅支持在P档下显示		Расширенный экран доступен только в положении P
+com.autopai.smart.sound.effect:string/smart_sound_mine_already_create	-1	已创建%1$s		Создано: %1$s
+com.autopai.smart.sound.effect:string/smart_sound_minute	-1	%1$d分		%1$d мин
+com.autopai.smart.sound.effect:string/smart_sound_mute	-1	闭锁音		Звук запирания
+com.autopai.smart.sound.effect:string/smart_sound_mute_switch_explanation	-1	当车辆闭锁成功时，车外扬声器发出提示音		После успешного запирания наружный громкоговоритель подаёт сигнал.
+com.autopai.smart.sound.effect:string/smart_sound_my_pay	-1	我购买的		Мои покупки
+com.autopai.smart.sound.effect:string/smart_sound_name_already_exits	-1	此名称已被占用，请输入其他名称		Имя уже занято. Введите другое.
+com.autopai.smart.sound.effect:string/smart_sound_no_content	-1	无添加记录		Добавленных записей нет
+com.autopai.smart.sound.effect:string/smart_sound_no_pay_content	-1	无购买记录		Покупок пока нет
+com.autopai.smart.sound.effect:string/smart_sound_no_safedai	-1	安全带未系		Непристёгнутый ремень
+com.autopai.smart.sound.effect:string/smart_sound_phone_call_toast	-1	通话中，暂不支持操作		Во время разговора действие недоступно
+com.autopai.smart.sound.effect:string/smart_sound_player_controller_pause	-1	暂停		Пауза
+com.autopai.smart.sound.effect:string/smart_sound_player_controller_play	-1	播放		Воспроизвести
+com.autopai.smart.sound.effect:string/smart_sound_plz_input	-1	请输入音效名称		Введите название эффекта
+com.autopai.smart.sound.effect:string/smart_sound_plz_login	-1	请在驾驶员中心登录		Войдите в профиль водителя
+com.autopai.smart.sound.effect:string/smart_sound_price_tip_them_card	-1	%1$d购买		Купить за %1$d
+com.autopai.smart.sound.effect:string/smart_sound_recommend_common_product_text_more	-1	更多		Ещё
+com.autopai.smart.sound.effect:string/smart_sound_record_del_dialog_title	-1	是否录音删除？		Удалить запись?
+com.autopai.smart.sound.effect:string/smart_sound_record_playing	-1	播放中		Воспроизведение
+com.autopai.smart.sound.effect:string/smart_sound_record_save_dialog_title	-1	是否保存录音？		Сохранить запись?
+com.autopai.smart.sound.effect:string/smart_sound_record_tip_content	-1	单条录音最长支持5s，最多支持录制5张卡片		Одна запись — не более 5 с. Можно создать не более 5 карточек.
+com.autopai.smart.sound.effect:string/smart_sound_record_view_model_default_record_name	-1	我的录音		Моя запись
+com.autopai.smart.sound.effect:string/smart_sound_record_view_model_record_error	-1	录音失败		Не удалось записать
+com.autopai.smart.sound.effect:string/smart_sound_record_view_model_record_mic_permission	-1	请先开启麦克风权限		Сначала разрешите доступ к микрофону
+com.autopai.smart.sound.effect:string/smart_sound_record_view_model_record_time_limit	-1	录音时间过短，无法保存录音		Запись слишком короткая для сохранения
+com.autopai.smart.sound.effect:string/smart_sound_record_view_model_save_file_error	-1	文件保存失败		Не удалось сохранить файл
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_car_farewell	-1	下车欢送音		Прощание при выходе
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_car_welcome	-1	上车问候音		Приветствие при посадке
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_dolby	-1	全景声		Dolby Atmos
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_low_speed_tip	-1	低速提示音		Звук на малой скорости
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_media_effect	-1	媒体音效		Эффекты мультимедиа
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_media_effect_old	-1	玩转音效		Настройка эффектов
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_mine	-1	我的		Моё
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_mute	-1	闭锁音		Звук запирания
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_recommend	-1	推荐		Рекомендуется
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_search	-1	搜索		Поиск
+com.autopai.smart.sound.effect:string/smart_sound_root_nav_tip_sound	-1	提示音主题		Тема звуковых сигналов
+com.autopai.smart.sound.effect:string/smart_sound_school_name	-1	当前流派：%s		Текущий жанр: %s
+com.autopai.smart.sound.effect:string/smart_sound_school_name_default	-1	默认		По умолчанию
+com.autopai.smart.sound.effect:string/smart_sound_school_name_none	-1	无		Нет
+com.autopai.smart.sound.effect:string/smart_sound_search_empty_text_hint	-1	抱歉，没有找到相关内容		Подходящего содержимого не найдено
+com.autopai.smart.sound.effect:string/smart_sound_search_empty_tip	-1	未搜到任何内容		Ничего не найдено
+com.autopai.smart.sound.effect:string/smart_sound_setting_effect_manager_default_classics	-1	经典		Классическая
+com.autopai.smart.sound.effect:string/smart_sound_setting_effect_manager_default_concise	-1	简洁		Минималистичная
+com.autopai.smart.sound.effect:string/smart_sound_setting_effect_manager_default_media_hifi	-1	HiFi原声		Оригинальное звучание Hi-Fi
+com.autopai.smart.sound.effect:string/smart_sound_setting_effect_manager_default_sky	-1	天空之瀚		Безграничное небо
+com.autopai.smart.sound.effect:string/smart_sound_smart_equalizer_switch_explain	-1	开启后，自动匹配均衡效果		Автоматически подбирает настройки эквалайзера.
+com.autopai.smart.sound.effect:string/smart_sound_smart_equalizer_text	-1	智能均衡		Умный эквалайзер
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_cancel	-1	取消		Отмена
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_change_cover	-1	更换封面		Сменить обложку
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_confirm	-1	确定		ОК
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_delete	-1	删除		Удалить
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_delete_title	-1	确定删除此音效?		Удалить этот звуковой эффект?
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_rename	-1	重命名		Переименовать
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_custom	-1	自定义		Индивидуальный
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_free_discount_new	-1	限时免费￥%1$s		Временно бесплатно, ¥%1$s
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_free_new	-1	已拥有 免费		Уже есть · бесплатно
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_purchase	-1	%1$s购买		Купить за %1$s
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_purchase_discount_new	-1	限时￥%1$s %2$s		Временно ¥%1$s %2$s
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_type_purchased_new	-1	已拥有 ￥%1$s		Уже есть · ¥%1$s
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_use	-1	使用		Использовать
+com.autopai.smart.sound.effect:string/smart_sound_sound_card_using	-1	使用中		Используется
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_bass	-1	超重低音		Усиленный бас
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_bass_describe	-1	加重低音，带来深厚听音体验		Усиливает низкие частоты для насыщенного звучания.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_concert_hal	-1	音乐厅		Концертный зал
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_concert_hal_describe	-1	声场更加宽阔，乐器和人声细节丰满		Расширяет звуковую сцену, раскрывает детали инструментов и вокала.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_film	-1	影院		Кинотеатр
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_film_describe	-1	影院级音响效果模拟		Воссоздаёт звучание кинотеатра.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_hifi	-1	HiFi原声		Оригинальное звучание Hi-Fi
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_hifi_describe	-1	声音具有空间感，有深度，有层次		Объёмный, глубокий и многослойный звук.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_immersion	-1	沉浸式环绕		Объёмное звучание
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_immersion_describe	-1	3D声场全景沉浸式体验		Полное погружение в трёхмерную звуковую сцену.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_live_house_describe	-1	置身于聚光灯下的小型音乐会		Атмосфера небольшого концерта в свете прожекторов.
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_none	-1	关闭		Выключить
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_none_describe	-1	无音效处理		Без обработки звука
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_surge	-1	澎湃音效		Мощное звучание
+com.autopai.smart.sound.effect:string/smart_sound_sound_effect_media_surge_describe	-1	低音下潜，带来深厚、震撼的听音体验		Глубокий бас для насыщенного и впечатляющего звучания.
+com.autopai.smart.sound.effect:string/smart_sound_sound_equalizer	-1	均衡器		Эквалайзер
+com.autopai.smart.sound.effect:string/smart_sound_sound_field_customize	-1	自定义		Индивидуальное
+com.autopai.smart.sound.effect:string/smart_sound_sound_field_main_driver	-1	主驾		Водитель
+com.autopai.smart.sound.effect:string/smart_sound_sound_field_whole_car	-1	全车		Весь салон
+com.autopai.smart.sound.effect:string/smart_sound_sound_head_pillow	-1	头枕		Подголовник
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_aid	-1	头枕辅助		Дополнительный динамик подголовника
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_aid_reminder	-1	导航播报和蓝牙电话仅由头枕扬声器发声		Навигация и звонки Bluetooth звучат только в подголовнике.
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_drive_main	-1	主驾		Водитель
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_drive_second	-1	副驾		Пассажир
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_mode_close	-1	头枕关闭		Подголовник выключен
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_mode_open	-1	头枕模式		Основной динамик подголовника
+com.autopai.smart.sound.effect:string/smart_sound_sound_headrest_open_reminder	-1	只有头枕扬声器发声，其余扬声器静音		Звучит только подголовник. Остальные динамики выключены.
+com.autopai.smart.sound.effect:string/smart_sound_sound_listen_music	-1	试听		Послушать
+com.autopai.smart.sound.effect:string/smart_sound_sound_listen_pause	-1	暂停		Пауза
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_alipay	-1	支付宝		Alipay
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_btn_refresh	-1	刷新		Обновить
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_code_expired	-1	二维码过期		QR-код истёк
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_code_net_break	-1	当前暂无网络		Нет сети
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_listen_button	-1	试听		Послушать
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_loading_failure	-1	加载失败		Не удалось загрузить
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_loading_timeout	-1	加载超时		Истекло время загрузки
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_dialog_wechat	-1	微信		WeChat
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_success	-1	购买成功		Покупка выполнена
+com.autopai.smart.sound.effect:string/smart_sound_sound_pay_text	-1	支付		Оплатить
+com.autopai.smart.sound.effect:string/smart_sound_speech_stop_please	-1	请先暂停与小安的对话		Сначала приостановите разговор с Сяоань
+com.autopai.smart.sound.effect:string/smart_sound_theme	-1	提示音主题		Тема звуковых сигналов
+com.autopai.smart.sound.effect:string/smart_sound_tip_theme	-1	提示音主题		Тема звуковых сигналов
+com.autopai.smart.sound.effect:string/smart_sound_tip_theme_des	-1	可以选择喜欢的提示音主题，每个主题包含：信息提示音，安全带未系提示音，轻微警告音，转向提示音		Каждая тема содержит информационный сигнал, сигнал непристёгнутого ремня, мягкое предупреждение и звук указателей поворота.
+com.autopai.smart.sound.effect:string/smart_sound_title_debug	-1	工程配置		Инженерные настройки
+com.autopai.smart.sound.effect:string/smart_sound_touch_tip	-1	触摸提示音		Звук касания
+com.autopai.smart.sound.effect:string/smart_sound_treble_exposure	-1	高音暴露量：%1$s分贝		Воздействие громкого звука: %1$s дБ
+com.autopai.smart.sound.effect:string/smart_sound_treble_exposure_no_data	-1	高音暴露量：近期无高音量使用记录		Воздействие громкого звука: за последнее время не зафиксировано
+com.autopai.smart.sound.effect:string/smart_sound_unhealthy	-1	不健康		Неблагоприятно
+com.autopai.smart.sound.effect:string/smart_sound_upload	-1	上传		Загрузить
+com.autopai.smart.sound.effect:string/smart_sound_upload_fail	-1	上传失败		Не удалось загрузить
+com.autopai.smart.sound.effect:string/smart_sound_upload_success	-1	上传成功		Загружено
+com.autopai.smart.sound.effect:string/smart_sound_usb_disconnect	-1	U盘已拔出		USB-накопитель извлечён
+com.autopai.smart.sound.effect:string/smart_sound_usb_edit_ensure	-1	上传		Загрузить
+com.autopai.smart.sound.effect:string/smart_sound_usb_edit_exit_cancel	-1	取消		Отмена
+com.autopai.smart.sound.effect:string/smart_sound_usb_edit_exit_save	-1	确定		ОК
+com.autopai.smart.sound.effect:string/smart_sound_usb_edit_exit_title	-1	退出前是否保存音频并上传?		Перед выходом сохранить аудио и загрузить его?
+com.autopai.smart.sound.effect:string/smart_sound_usb_edit_title	-1	创作		Создать
+com.autopai.smart.sound.effect:string/smart_sound_usb_empty	-1	未读取到有效音频文件		Подходящие аудиофайлы не найдены
+com.autopai.smart.sound.effect:string/smart_sound_usb_loading	-1	文件读取中		Чтение файлов
+com.autopai.smart.sound.effect:string/smart_sound_usb_next_step	-1	下一步		Далее
+com.autopai.smart.sound.effect:string/smart_sound_usb_not_connected	-1	请插入U盘		Подключите USB-накопитель
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_cancel	-1	取消		Отмена
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_click_play	-1	试听		Послушать
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_completed	-1	松开完成		Отпустите для завершения
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_delete	-1	删除		Удалить
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_max_long_time	-1	最多支持5s的时长		Не более 5 с
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_name	-1	录音		Запись
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_playing	-1	暂停播放		Приостановить
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_press	-1	按住录音		Удерживайте для записи
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_save	-1	保存		Сохранить
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_save_false	-1	保存失败		Не удалось сохранить
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_save_success	-1	保存成功		Сохранено
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_use	-1	使用		Использовать
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_use_fail	-1	使用失败		Не удалось применить
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_used	-1	使用成功		Применено
+com.autopai.smart.sound.effect:string/smart_sound_usb_record_within_the_limit	-1	内容已达上限，请删除内容后使用		Достигнут предел. Удалите ненужное содержимое.
+com.autopai.smart.sound.effect:string/smart_sound_usb_support_format_new	-1	可插入U盘上传喜欢的声音，仅支持 .wav和 .mp3格式，仅支持48kHz采样率，单段素材时长≤5s，最多可生成10张卡片		Можно загрузить звук с USB: только WAV и MP3, частота 48 кГц, фрагмент не более 5 с. Доступно не более 10 карточек.
+com.autopai.smart.sound.effect:string/smart_sound_usb_title	-1	U盘上传		Загрузить с USB
+com.autopai.smart.sound.effect:string/smart_sound_usb_upload_file	-1	正在上传文件		Загрузка файлов
+com.autopai.smart.sound.effect:string/smart_sound_usb_upload_file_with_progress	-1	正在上传文件（%s%S）		Загрузка файлов (%s%S)
+com.autopai.smart.sound.effect:string/smart_sound_usb_upload_to_common	-1	5秒以内的素材支持多选，超过5秒的素材仅支持单选		Для материалов до 5 с доступен множественный выбор. Более длинные можно выбирать только по одному.
+com.autopai.smart.sound.effect:string/smart_sound_usb_upload_to_limit	-1	添加内容已达上限，请删除后再上传		Достигнут предел. Удалите ненужное перед загрузкой.
+com.autopai.smart.sound.effect:string/smart_sound_use	-1	使用		Использовать
+com.autopai.smart.sound.effect:string/smart_sound_user_switching	-1	切换中		Переключение
+com.autopai.smart.sound.effect:string/smart_sound_using	-1	使用中		Используется
+com.autopai.smart.sound.effect:string/smart_sound_value_reset	-1	复位		Сбросить
+com.autopai.smart.sound.effect:string/smart_sound_weak_tip	-1	轻微警告音		Мягкое предупреждение
+com.autopai.smart.sound.effect:string/smart_sound_welcome	-1	上车问候音		Приветствие при посадке
+com.autopai.smart.sound.effect:string/smart_sound_welcome_switch_explanation	-1	当打开主驾车门时，车内播放问候音效		При открывании водительской двери в салоне звучит приветствие.
+com.autopai.smart.sound.effect:string/wt_date_picker_friday	-1	五		Пт
+com.autopai.smart.sound.effect:string/wt_date_picker_monday	-1	一		Пн
+com.autopai.smart.sound.effect:string/wt_date_picker_saturday	-1	六		Сб
+com.autopai.smart.sound.effect:string/wt_date_picker_sunday	-1	日		Вс
+com.autopai.smart.sound.effect:string/wt_date_picker_thursday	-1	四		Чт
+com.autopai.smart.sound.effect:string/wt_date_picker_tuesday	-1	二		Вт
+com.autopai.smart.sound.effect:string/wt_date_picker_wednesday	-1	三		Ср
+com.autopai.smart.sound.effect:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.autopai.smart.sound.effect:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.autopai.smart.sound.effect:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.autopai.smart.sound.effect:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.autopai.smart.sound.effect:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.autopai.smart.sound.effect:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.autopai.smart.sound.effect:string/wtinput_text_hint	-1	请输入		Введите текст
+com.autopai.smart.sound.effect:string/wtsearch_text_hint	-1	请输入		Введите запрос

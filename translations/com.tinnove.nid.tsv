@@ -1,0 +1,496 @@
+com.tinnove.nid:array/audiowarnstyle_array	0	陪练助手		Помощник по вождению
+com.tinnove.nid:array/audiowarnstyle_array	1	标准		Стандартный
+com.tinnove.nid:array/audiowarnstyle_array	2	简洁		Краткий
+com.tinnove.nid:array/autodrive_array	0	柔和		Плавный
+com.tinnove.nid:array/autodrive_array	1	标准		Стандартный
+com.tinnove.nid:array/autodrive_array	2	激进		Активный
+com.tinnove.nid:array/autodrive_array	3	自定义		Индивидуальный
+com.tinnove.nid:array/cruise_array	0	车道巡航辅助		Помощь при движении по полосе
+com.tinnove.nid:array/cruise_array	1	领航辅助		Навигационная помощь
+com.tinnove.nid:array/lane_change_frequency_array	0	高频		Часто
+com.tinnove.nid:array/lane_change_frequency_array	1	中频		Умеренно
+com.tinnove.nid:array/lane_change_frequency_array	2	低频		Редко
+com.tinnove.nid:string/Overspeed_text_overspeed_warning	-1	超速提醒		Превышение скорости
+com.tinnove.nid:string/Overspeed_text_set_speed_with_set_button	-1	按方向盘左侧SET键将限速值设置为巡航车速		Нажмите SET слева на руле, чтобы задать ограничение как скорость круиз-контроля
+com.tinnove.nid:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.nid:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.nid:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.nid:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.nid:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.nid:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.nid:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.nid:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.nid:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.nid:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.nid:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.nid:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.nid:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.nid:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.nid:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.nid:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.nid:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.nid:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.nid:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.nid:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.nid:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.nid:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.nid:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.nid:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.nid:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.nid:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.nid:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.nid:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.nid:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.nid:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.nid:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.nid:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.nid:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.nid:string/acc_adc_notice__text_timeout_lane_change_cancelled	-1	等待超时\n换道取消		Время ожидания истекло.\nПерестроение отменено.
+com.tinnove.nid:string/acc_adc_notice_avoiding_in_progress	-1	正在避让中		Выполняется объезд
+com.tinnove.nid:string/acc_adc_notice_avoiding_parallel_truck	-1	正在避让并行大车		Объезд крупного транспорта рядом
+com.tinnove.nid:string/acc_adc_notice_crossing_solid_line_lane_change	-1	跨实线变道中		Перестроение через сплошную линию
+com.tinnove.nid:string/acc_adc_notice_electronic_eye_ahead_speed_limit	-1	前方电子眼\n正在限速行驶		Впереди камера.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_enter_parking_lot_speed_limit	-1	进入停车场\n正在限速行驶		Въезд на парковку.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_enter_tunnel_speed_limit	-1	进入隧道\n正在限速行驶		Въезд в тоннель.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_follow_traffic_speed_limit	-1	跟随车流速度行驶\n请注意道路限速		Движение со скоростью потока.\nСледите за дорожными ограничениями.
+com.tinnove.nid:string/acc_adc_notice_following_navigation_route	-1	正在沿导航路线行驶		Движение по маршруту навигации
+com.tinnove.nid:string/acc_adc_notice_interval_speed_limit_ahead	-1	前方区间限速\n正在限速行驶		Впереди контроль средней скорости.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_lane_change_cancelled	-1	换道取消		Перестроение отменено
+com.tinnove.nid:string/acc_adc_notice_lane_change_in_progress_cannot_cancel	-1	正在换道，无法取消		Перестроение выполняется. Отмена недоступна.
+com.tinnove.nid:string/acc_adc_notice_low_visibility_speed_limit	-1	能见度低\n正在限速行驶		Плохая видимость.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_merging_ahead_speed_limit	-1	前方汇流\n正在限速行驶		Впереди слияние потоков.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_narrow_road_speed_limit	-1	道路较窄\n正在限速行驶		Узкая дорога.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_sharp_curve_ahead_speed_limit	-1	前方急弯请注意安全		Впереди крутой поворот. Будьте осторожны.
+com.tinnove.nid:string/acc_adc_notice_slow_adjacent_lane_speed_limit	-1	邻车道缓行\n正在限速行驶		Соседняя полоса движется медленно.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_speed_limit_reached	-1	速度已达调节上限		Достигнут верхний предел скорости
+com.tinnove.nid:string/acc_adc_notice_strong_light_speed_limit	-1	光线过强\n正在限速行驶		Слишком яркий свет.\nСкорость ограничена.
+com.tinnove.nid:string/acc_adc_notice_text_lane_change_unavailable	-1	换道功能暂不可用		Перестроение временно недоступно
+com.tinnove.nid:string/acc_adc_notice_three_point_turn_in_progress	-1	三点掉头中		Разворот в три приёма
+com.tinnove.nid:string/acc_attention_traffic_light	-1	请注意红绿灯		Следите за светофором
+com.tinnove.nid:string/acc_follow_distance_1	-1	跟车时距1		Интервал до автомобиля впереди: 1
+com.tinnove.nid:string/acc_follow_distance_2	-1	跟车时距2		Интервал до автомобиля впереди: 2
+com.tinnove.nid:string/acc_follow_distance_3	-1	跟车时距3		Интервал до автомобиля впереди: 3
+com.tinnove.nid:string/acc_follow_distance_4	-1	跟车时距4		Интервал до автомобиля впереди: 4
+com.tinnove.nid:string/acc_notice_text_avoid_cancelled	-1	绕障取消		Объезд препятствия отменён
+com.tinnove.nid:string/acc_notice_text_avoid_left	-1	即将向左避让		Скоро начнётся объезд слева
+com.tinnove.nid:string/acc_notice_text_avoid_left_solid_line	-1	即将向左压实线避让		Скоро начнётся объезд слева с пересечением сплошной линии
+com.tinnove.nid:string/acc_notice_text_avoid_right	-1	即将向右避让		Скоро начнётся объезд справа
+com.tinnove.nid:string/acc_notice_text_avoid_right_solid_line	-1	即将向右压实线避让		Скоро начнётся объезд справа с пересечением сплошной линии
+com.tinnove.nid:string/acc_notice_text_avoiding_in_progress_cannot_cancel	-1	正在避让\n无法取消		Выполняется объезд.\nОтмена недоступна.
+com.tinnove.nid:string/acc_notice_text_obstacle_ahead_light_acceleration	-1	前方障碍物\n轻踩油门开始避让		Впереди препятствие.\nСлегка нажмите акселератор для объезда.
+com.tinnove.nid:string/acc_notice_text_timeout_avoid_cancelled	-1	等待超时\n绕障取消		Время ожидания истекло.\nОбъезд отменён.
+com.tinnove.nid:string/acc_text_acceleration_override_warning	-1	加速超越中，请注意控制车速		Ускорение с превышением заданной скорости. Контролируйте скорость.
+com.tinnove.nid:string/acc_text_approaching_roundabout_speed_limit	-1	即将进入环岛，正在限速行驶		Скоро въезд на круг. Скорость ограничена.
+com.tinnove.nid:string/acc_text_avoiding_parallel_truck	-1	正在避让并行大车		Объезд крупного транспорта рядом
+com.tinnove.nid:string/acc_text_braking_cruise_unavailable	-1	正在踩刹车，巡航暂不可用		Нажат тормоз. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_camera_temperature_high_cruise_unavailable	-1	智驾系统过热，降温后恢复		Система помощи перегрелась. Работа восстановится после охлаждения.
+com.tinnove.nid:string/acc_text_communication_error	-1	自适应巡航系统通讯异常		Ошибка связи адаптивного круиз-контроля
+com.tinnove.nid:string/acc_text_construction_zone_warning	-1	请注意施工区域		Внимание: дорожные работы
+com.tinnove.nid:string/acc_text_cruise_control_disabled	-1	巡航驻车，恢复请按RES+键，注意前方安全		Остановка с круиз-контролем. Для продолжения нажмите RES+. Следите за дорогой впереди.
+com.tinnove.nid:string/acc_text_cruise_unavailable	-1	巡航暂不可用		Круиз-контроль временно недоступен
+com.tinnove.nid:string/acc_text_door_opened_cruise_exit_xs	-1	车门开启，巡航%1$d秒后退出		Дверь открыта. Круиз-контроль выключится через %1$d с.
+com.tinnove.nid:string/acc_text_door_unclosed_cruise_unavailable	-1	未关闭车门，巡航暂不可用		Дверь не закрыта. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_electronic_parking_brake_unengaged	-1	电子驻车未解除，巡航暂不可用		Стояночный тормоз не отпущен. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_enter_tunnel_limit	-1	进入隧道，智能限速中		Въезд в тоннель. Умное ограничение скорости.
+com.tinnove.nid:string/acc_text_esp_off_cruise_unavailable	-1	ESP已关闭，巡航暂不可用		ESP выключена. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_function_unavailable	-1	功能暂不可用		Функция временно недоступна
+com.tinnove.nid:string/acc_text_increase_speed_acceleration_release_warning	-1	前车驶离，请踩加速踏板起步		Автомобиль впереди уехал. Нажмите акселератор для начала движения.
+com.tinnove.nid:string/acc_text_light_acceleration_start	-1	巡航驻车中\n轻踩加速踏板起步		Остановка с круиз-контролем.\nСлегка нажмите акселератор для начала движения.
+com.tinnove.nid:string/acc_text_low_visibility_intelligent_speed_limit	-1	能见度低，智能限速中		Плохая видимость. Умное ограничение скорости.
+com.tinnove.nid:string/acc_text_no_acceleration_cruise_unavailable	-1	未在前进档，巡航暂不可用		Не включена передача вперёд. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_oncoming_traffic_warning	-1	请注意对向来车		Внимание: встречный транспорт
+com.tinnove.nid:string/acc_text_parking_cruise_unavailable	-1	泊车过程中，巡航暂不可用		Идёт парковка. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_pedestrian_ahead_intelligent_speed_limit	-1	前方行人通过，智能限速中		Впереди пешеходы. Умное ограничение скорости.
+com.tinnove.nid:string/acc_text_please_immediately_disengage	-1	请立即接管		Немедленно возьмите управление на себя
+com.tinnove.nid:string/acc_text_ramp_ahead_restricted_speed	-1	即将进入匝道，正在限速行驶		Скоро въезд на съезд. Скорость ограничена.
+com.tinnove.nid:string/acc_text_seatbelt_unfastened_cruise_exit_xs	-1	安全带解开，巡航%1$d秒后退出		Ремень отстёгнут. Круиз-контроль выключится через %1$d с.
+com.tinnove.nid:string/acc_text_seatbelt_unfastened_cruise_unavailable	-1	安全带已解开，巡航暂不可用		Ремень отстёгнут. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_set_speed_lower_limit	-1	设定车速达到下限		Достигнута минимальная заданная скорость
+com.tinnove.nid:string/acc_text_set_speed_upper_limit	-1	设定车速达到上限		Достигнута максимальная заданная скорость
+com.tinnove.nid:string/acc_text_snow_mode_cruise_unavailable	-1	雪地模式下，巡航暂不可用		В снежном режиме круиз-контроль временно недоступен
+com.tinnove.nid:string/acc_text_speed_limit_exceeded_cruise_unavailable	-1	车速高于150km/h，巡航暂不可用		Скорость выше 150 км/ч. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/acc_text_track_mode_cruise_unavailable	-1	赛道模式下，巡航暂不可用		В трековом режиме круиз-контроль временно недоступен
+com.tinnove.nid:string/acc_text_weather_conditions_cruise_unavailable	-1	天气条件差，巡航暂不可用		Плохая погода. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/adas_style_dialog_title	-1	辅助驾驶风格自定义		Индивидуальный стиль помощи водителю
+com.tinnove.nid:string/ads_text_reauthentication_required_check_and_repair	-1	智能驾驶辅助需重新认证，请检查维修		Требуется повторная авторизация помощи водителю. Нужна проверка и ремонт.
+com.tinnove.nid:string/alc_text_avoid_dangerous_vehicle_left	-1	向左避让异常车辆		Объезд опасного автомобиля влево
+com.tinnove.nid:string/alc_text_avoid_dangerous_vehicle_right	-1	向右避让异常车辆		Объезд опасного автомобиля вправо
+com.tinnove.nid:string/alc_text_avoid_diverging_left	-1	向左避让分流口		Смещение влево от развилки
+com.tinnove.nid:string/alc_text_avoid_diverging_right	-1	向右避让分流口		Смещение вправо от развилки
+com.tinnove.nid:string/alc_text_avoid_large_vehicle_left	-1	正在向左避让大车		Объезд крупного транспорта влево
+com.tinnove.nid:string/alc_text_avoid_large_vehicle_right	-1	正在向右避让大车		Объезд крупного транспорта вправо
+com.tinnove.nid:string/alc_text_avoid_merging_left	-1	向左避让汇流口		Смещение влево от места слияния потоков
+com.tinnove.nid:string/alc_text_avoid_merging_right	-1	向右避让汇流口		Смещение вправо от места слияния потоков
+com.tinnove.nid:string/alc_text_avoid_obstacle_left	-1	向左避让障碍物		Объезд препятствия влево
+com.tinnove.nid:string/alc_text_avoid_obstacle_right	-1	向右避让障碍物		Объезд препятствия вправо
+com.tinnove.nid:string/alc_text_lane_change_left	-1	正在向左换道		Перестроение влево
+com.tinnove.nid:string/alc_text_lane_change_left_navigation	-1	向左沿导航换道		Перестроение влево по маршруту
+com.tinnove.nid:string/alc_text_lane_change_right	-1	正在向右换道		Перестроение вправо
+com.tinnove.nid:string/alc_text_lane_change_right_navigation	-1	向右沿导航换道		Перестроение вправо по маршруту
+com.tinnove.nid:string/alc_text_merge_left_into_main_road	-1	向左汇入主路		Въезд на основную дорогу влево
+com.tinnove.nid:string/alc_text_merge_right_into_main_road	-1	向右汇入主路		Въезд на основную дорогу вправо
+com.tinnove.nid:string/alc_text_overtake_left_lane_change	-1	向左超车换道		Перестроение влево для обгона
+com.tinnove.nid:string/alc_text_overtake_right_lane_change	-1	向右超车换道		Перестроение вправо для обгона
+com.tinnove.nid:string/alc_text_pulling_over	-1	正在靠边停车		Остановка у края дороги
+com.tinnove.nid:string/alc_text_pulling_over_approaching_destination	-1	正在靠边停车\n即将到达目的地		Остановка у края дороги.\nПункт назначения близко.
+com.tinnove.nid:string/app_name	-1	智能行车		Помощь при движении
+com.tinnove.nid:string/approaching_toll_station_please_human_control	-1	前方收费站\n请手动通过		Впереди пункт оплаты.\nПроедьте его вручную.
+com.tinnove.nid:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.nid:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.nid:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.nid:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.nid:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.nid:string/dialog_adas_alc_frequency	-1	换道频率		Частота перестроений
+com.tinnove.nid:string/dialog_adas_preference	-1	辅助驾驶偏好		Предпочтения помощи водителю
+com.tinnove.nid:string/dialog_adas_setting_save	-1	保存		Сохранить
+com.tinnove.nid:string/dialog_adas_style	-1	辅助驾驶风格		Стиль помощи водителю
+com.tinnove.nid:string/fcwaeb_text_aeb_not_recommended	-1	当前路况不建议使用自动紧急制动系统		В текущих условиях использование автоматического экстренного торможения не рекомендуется
+com.tinnove.nid:string/fcwaeb_text_aeb_unavailable	-1	自动紧急制动系统不可用		Автоматическое экстренное торможение недоступно
+com.tinnove.nid:string/fcwaeb_text_collision_risk	-1	碰撞危险		Опасность столкновения
+com.tinnove.nid:string/fcwaeb_text_collision_risk_aeb	-1	碰撞危险，自动紧急制动		Опасность столкновения. Автоматическое экстренное торможение.
+com.tinnove.nid:string/fcwaeb_text_low_speed_aeb_enabled	-1	低速紧急制动已启用		Экстренное торможение на малой скорости включено
+com.tinnove.nid:string/fcwaeb_text_maintain_safe_distance	-1	请保持安全车距		Соблюдайте безопасную дистанцию
+com.tinnove.nid:string/handsoff_text_hold_or_gently_turn_steering_wheel	-1	请轻转方向盘		Слегка поверните руль
+com.tinnove.nid:string/iacc_text_attention_merging_ahead	-1	请注意前方汇流		Внимание: слияние потоков впереди
+com.tinnove.nid:string/iacc_text_attention_side_vehicle	-1	请注意侧方车辆		Следите за транспортом сбоку
+com.tinnove.nid:string/iacc_text_communication_error	-1	智能巡航系统通讯异常		Ошибка связи интеллектуального круиз-контроля
+com.tinnove.nid:string/iacc_text_cruise_activated	-1	智能巡航已激活		Интеллектуальный круиз-контроль активен
+com.tinnove.nid:string/iacc_text_cruise_activation_in_progress	-1	智能巡航尝试激活中，请注意控制方向		Активация интеллектуального круиз-контроля. Контролируйте руление.
+com.tinnove.nid:string/iacc_text_cruise_deactivated	-1	智能巡航已退出		Интеллектуальный круиз-контроль выключен
+com.tinnove.nid:string/iacc_text_cruise_temp_exit	-1	智能巡航临时退出，请注意控制方向		Интеллектуальный круиз-контроль временно выключен. Контролируйте руление.
+com.tinnove.nid:string/iacc_text_cruise_unavailable	-1	巡航暂不可用		Круиз-контроль временно недоступен
+com.tinnove.nid:string/iacc_text_immediate_takeover	-1	请立即接管		Немедленно возьмите управление на себя
+com.tinnove.nid:string/iacc_text_offset_avoiding_barrier	-1	正在偏移		Боковое смещение
+com.tinnove.nid:string/iacc_text_offset_avoiding_obstacle	-1	正在偏移，避让障碍物		Смещение для объезда препятствия
+com.tinnove.nid:string/iacc_text_offset_avoiding_vehicle	-1	正在偏移，避让车辆		Смещение для объезда автомобиля
+com.tinnove.nid:string/iacc_text_poor_weather	-1	天气条件差，巡航暂不可用		Плохая погода. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/iacc_text_sspeed_limit_exceeded_cruise_unavailable	-1	车速高于130KM/H, 巡航暂不可用		Скорость выше 130 км/ч. Круиз-контроль временно недоступен.
+com.tinnove.nid:string/iacc_text_temp_cruise_exit	-1	智能巡航临时退出，请注意控制方向		Интеллектуальный круиз-контроль временно выключен. Контролируйте руление.
+com.tinnove.nid:string/iacc_text_turn_signal_off	-1	请注意关闭转向灯		Не забудьте выключить указатель поворота
+com.tinnove.nid:string/interactive_preference	-1	交互提示偏好		Объём подсказок
+com.tinnove.nid:string/lcc_acc_adc_notice_watch_for_fast_approaching_vehicles	-1	请注意后方快速车辆		Внимание: быстрый транспорт сзади
+com.tinnove.nid:string/lcc_adc_notice_blind_spot_ahead	-1	前方盲区，请注意路况		Впереди слепая зона. Следите за дорогой.
+com.tinnove.nid:string/lcc_adc_notice_watch_for_road_conditions	-1	请注意路况		Следите за дорогой
+com.tinnove.nid:string/lcc_ads_attention_pedestrians	-1	请注意行人		Внимание: пешеходы
+com.tinnove.nid:string/lcda_text_collision_risk_exiting	-1	下车有碰撞危险		Опасность столкновения при выходе
+com.tinnove.nid:string/lcda_text_collision_risk_left_side	-1	左侧下车有碰撞危险		Опасность столкновения при выходе слева
+com.tinnove.nid:string/lcda_text_collision_risk_right_side	-1	右侧下车有碰撞危险		Опасность столкновения при выходе справа
+com.tinnove.nid:string/lcda_text_do_not_open_door	-1	请勿打开车门		Не открывайте дверь
+com.tinnove.nid:string/lcda_text_do_not_open_left_door	-1	请勿打开左侧车门		Не открывайте левую дверь
+com.tinnove.nid:string/lcda_text_do_not_open_right_door	-1	请勿打开右侧车门		Не открывайте правую дверь
+com.tinnove.nid:string/lcda_text_door_open_warning_disabled	-1	开门预警功能已关闭		Предупреждение при открывании двери выключено
+com.tinnove.nid:string/lcda_text_rcta_left_alarm_level1_2	-1	RCTA左侧报警Level1/Level2		Предупреждение RCTA слева: уровень 1/2
+com.tinnove.nid:string/lcda_text_rcta_left_alarm_level3	-1	RCTA左侧报警Level3		Предупреждение RCTA слева: уровень 3
+com.tinnove.nid:string/lcda_text_rcta_right_alarm_level1_2	-1	RCTA右侧报警Level1/Level2		Предупреждение RCTA справа: уровень 1/2
+com.tinnove.nid:string/lcda_text_rcta_right_alarm_level3	-1	RCTA右侧报警Level3		Предупреждение RCTA справа: уровень 3
+com.tinnove.nid:string/lcda_text_rear_assist_radar_calibrating	-1	后向辅助雷达标定中		Калибровка заднего вспомогательного радара
+com.tinnove.nid:string/lcda_text_rear_assist_radar_failure	-1	后向辅助雷达故障		Неисправность заднего вспомогательного радара
+com.tinnove.nid:string/lcda_text_rear_assist_radar_obstructed	-1	后向辅助雷达遮挡		Задний вспомогательный радар закрыт
+com.tinnove.nid:string/lcda_text_rear_assist_system_error	-1	后向辅助系统异常		Ошибка задней системы помощи
+com.tinnove.nid:string/lcda_text_risk_of_rear_end_collision	-1	后方追尾危险		Опасность удара сзади
+com.tinnove.nid:string/lcda_text_watch_for_approaching_vehicles	-1	请注意后方车辆		Следите за транспортом сзади
+com.tinnove.nid:string/lda_lka_elk_text_LDW_left_departure_alarm	-1	LDW激活-左侧偏离声音+图像报警		LDW: выход влево, звук и изображение
+com.tinnove.nid:string/lda_lka_elk_text_LDW_paused_for_5_minutes	-1	为避免干扰驾驶，车道偏离预警将暂停5分钟		Чтобы не мешать вождению, предупреждение о выходе из полосы приостановлено на 5 минут
+com.tinnove.nid:string/lda_lka_elk_text_LDW_right_departure_alarm	-1	LDW激活-右侧偏离声音+图像报警		LDW: выход вправо, звук и изображение
+com.tinnove.nid:string/lda_lka_elk_text_communication_error	-1	车道辅助系统通讯异常		Ошибка связи системы помощи по полосе
+com.tinnove.nid:string/lda_lka_elk_text_emergency_lane_keeping_active	-1	紧急车道保持工作中		Работает экстренное удержание в полосе
+com.tinnove.nid:string/lda_lka_elk_text_system_failure	-1	车道辅助系统故障		Неисправность системы помощи по полосе
+com.tinnove.nid:string/left_front_camera_masked	-1	左前摄像头遮挡\n换道暂不可用		Левая передняя камера закрыта.\nПерестроение временно недоступно.
+com.tinnove.nid:string/left_rear_camera_masked	-1	左后摄像头遮挡\n换道暂不可用		Левая задняя камера закрыта.\nПерестроение временно недоступно.
+com.tinnove.nid:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.nid:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.nid:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.nid:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.nid:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.nid:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.nid:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.nid:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.nid:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.nid:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.nid:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.nid:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.nid:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.nid:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.nid:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.nid:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.nid:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.nid:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.nid:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.nid:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.nid:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.nid:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.nid:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.nid:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.nid:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.nid:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.nid:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.nid:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.nid:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.nid:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.nid:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.nid:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.nid:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.nid:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.nid:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.nid:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.nid:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.nid:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.nid:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.nid:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.nid:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.nid:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.nid:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.nid:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.nid:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.nid:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.nid:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.nid:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.nid:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.nid:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.nid:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.nid:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.nid:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.nid:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.nid:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.nid:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.nid:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.nid:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.nid:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.nid:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.nid:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.nid:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.nid:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.nid:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.nid:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.nid:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.nid:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.nid:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.nid:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.nid:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.nid:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.nid:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.nid:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.nid:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.nid:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.nid:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.nid:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.nid:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.nid:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.nid:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.nid:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.nid:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.nid:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.nid:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.nid:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.nid:string/nda_text_about_to_approach_etc_lane_arrived_toll_station	-1	即将驶入ETC车道\n到达收费站		Въезд в полосу ETC.\nПункт оплаты достигнут.
+com.tinnove.nid:string/nda_text_about_to_approach_manual_lane_arrived_toll_station	-1	即将驶入人工车道\n到达收费站		Въезд в полосу ручной оплаты.\nПункт оплаты достигнут.
+com.tinnove.nid:string/nda_text_about_to_brake	-1	即将刹停		Скоро остановка
+com.tinnove.nid:string/nda_text_about_to_control_vehicle_drive_manually_to_toll_booth	-1	请控制车辆\n手动行驶至收费亭		Возьмите управление на себя.\nПодъедьте к пункту оплаты вручную.
+com.tinnove.nid:string/nda_text_about_to_enter_waiting_zone	-1	即将进入待行区		Скоро въезд в зону ожидания
+com.tinnove.nid:string/nda_text_about_to_exit	-1	NDA即将退出		NDA скоро выключится
+com.tinnove.nid:string/nda_text_about_to_exit_resume_manual_driving	-1	NDA即将退出，请恢复手动驾驶		NDA скоро выключится. Возьмите управление на себя.
+com.tinnove.nid:string/nda_text_about_to_go_straight	-1	即将直行		Скоро движение прямо
+com.tinnove.nid:string/nda_text_about_to_pass_roundabout	-1	即将通过环岛		Скоро проезд по кругу
+com.tinnove.nid:string/nda_text_about_to_pass_toll_station_watch_side_curbs	-1	正在通过收费站\n请注意两侧路沿		Проезд пункта оплаты.\nСледите за бордюрами по сторонам.
+com.tinnove.nid:string/nda_text_about_to_special_lane	-1	即将进入特殊车道		Скоро въезд на специальную полосу
+com.tinnove.nid:string/nda_text_about_to_start	-1	即将起步		Скоро начало движения
+com.tinnove.nid:string/nda_text_about_to_turn_around	-1	即将掉头		Скоро разворот
+com.tinnove.nid:string/nda_text_about_to_turn_left	-1	即将左转		Скоро поворот налево
+com.tinnove.nid:string/nda_text_about_to_turn_right	-1	即将右转		Скоро поворот направо
+com.tinnove.nid:string/nda_text_activated	-1	NDA已启动		NDA включена
+com.tinnove.nid:string/nda_text_approaching_ramp	-1	即将进入匝道		Скоро въезд на съезд
+com.tinnove.nid:string/nda_text_approaching_ramp_left_lane_change	-1	前方接近匝道，即将向左换道		Впереди съезд. Скоро перестроение влево.
+com.tinnove.nid:string/nda_text_approaching_ramp_merging	-1	即将汇入匝道		Скоро слияние с потоком на съезде
+com.tinnove.nid:string/nda_text_approaching_ramp_right_lane_change	-1	前方接近匝道，即将向右换道		Впереди съезд. Скоро перестроение вправо.
+com.tinnove.nid:string/nda_text_approaching_road_construction_about_to_exit	-1	前方道路施工，NDA即将退出		Впереди дорожные работы. NDA скоро выключится.
+com.tinnove.nid:string/nda_text_approaching_toll_station_about_to_exit	-1	前方收费站，NDA即将退出		Впереди пункт оплаты. NDA скоро выключится.
+com.tinnove.nid:string/nda_text_approaching_traffic_accident_about_to_exit	-1	前方交通事故，NDA即将退出		Впереди ДТП. NDA скоро выключится.
+com.tinnove.nid:string/nda_text_complex_conditions_manual_lane_change_required	-1	路况较为复杂，请手动换道		Сложная дорожная обстановка. Перестройтесь вручную.
+com.tinnove.nid:string/nda_text_complex_conditions_merging_safety	-1	路况复杂\n请注意汇入安全		Сложная дорожная обстановка.\nСледите за безопасностью слияния потоков.
+com.tinnove.nid:string/nda_text_exit_in_x_meters	-1	%1$d米后将退出NDA		NDA выключится через %1$d м
+com.tinnove.nid:string/nda_text_exited	-1	NDA已退出		NDA выключена
+com.tinnove.nid:string/nda_text_following_navigation_do_not_turn_off_turn_signal	-1	正在沿导航行驶		Движение по маршруту навигации
+com.tinnove.nid:string/nda_text_high_speed_observe_road_conditions	-1	车速过高，请注意观察路况		Скорость слишком высокая. Следите за дорогой.
+com.tinnove.nid:string/nda_text_hold_steering_wheel_observe_road_conditions	-1	请保持手握方向盘，观察路况		Держите руль и следите за дорогой
+com.tinnove.nid:string/nda_text_lane_change_navigation_do_not_turn_off_turn_signal	-1	正在汇入主路\n请勿关闭转向灯		Выезд на основную дорогу.\nНе выключайте указатель поворота.
+com.tinnove.nid:string/nda_text_left_lane_change	-1	即将向左换道		Скоро перестроение влево
+com.tinnove.nid:string/nda_text_left_overtake	-1	即将向左超车		Скоро обгон слева
+com.tinnove.nid:string/nda_text_merging_onto_main_road	-1	即将汇入主路		Скоро выезд на основную дорогу
+com.tinnove.nid:string/nda_text_merging_onto_main_road_intelligent_lane_change	-1	前方汇入主路，即将智能换道		Впереди выезд на основную дорогу. Скоро автоматическое перестроение.
+com.tinnove.nid:string/nda_text_merging_ramp_do_not_turn_off_turn_signal	-1	正在汇入匝道\n请勿关闭转向灯		Въезд на съезд.\nНе выключайте указатель поворота.
+com.tinnove.nid:string/nda_text_new_merging_onto_main_road	-1	即将汇入主路		Скоро выезд на основную дорогу
+com.tinnove.nid:string/nda_text_observe_road_conditions	-1	请注意观察路况		Следите за дорожной обстановкой
+com.tinnove.nid:string/nda_text_poor_weather_about_to_exit	-1	天气条件差，NDA即将退出		Плохая погода. NDA скоро выключится.
+com.tinnove.nid:string/nda_text_right_lane_change	-1	即将向右换道		Скоро перестроение вправо
+com.tinnove.nid:string/nda_text_right_overtake	-1	即将向右超车		Скоро обгон справа
+com.tinnove.nid:string/nda_text_sharp_curve_about_to_exit	-1	弯道过大，NDA即将退出		Слишком крутой поворот. NDA скоро выключится.
+com.tinnove.nid:string/nda_text_sharp_curve_ahead_take_control	-1	前方急弯，请注意接管方向盘		Впереди крутой поворот. Будьте готовы взять руление на себя.
+com.tinnove.nid:string/nda_text_trying_lane_change_watch_navigation	-1	路况复杂\n请注意导航路线		Сложная дорожная обстановка.\nСледите за маршрутом навигации.
+com.tinnove.nid:string/nda_text_unable_to_pass_roundabout_driving_required	-1	无法通过环岛，请手动驾驶		Проезд по кругу невозможен. Управляйте вручную.
+com.tinnove.nid:string/nda_text_unable_to_turn_around_driving_required	-1	无法掉头，请手动驾驶		Разворот невозможен. Управляйте вручную.
+com.tinnove.nid:string/nda_text_unable_to_turn_manual_driving_required	-1	无法转向，请手动驾驶		Поворот невозможен. Управляйте вручную.
+com.tinnove.nid:string/nid_acc_active	-1	自适应巡航已激活		Адаптивный круиз-контроль активен
+com.tinnove.nid:string/nid_full_view_acc	-1	自适应巡航		Адаптивный круиз-контроль
+com.tinnove.nid:string/nid_full_view_iacc	-1	车道巡航		Помощь при движении по полосе
+com.tinnove.nid:string/nid_full_view_nca	-1	领航辅助		Навигационная помощь
+com.tinnove.nid:string/nid_lcc_active	-1	车道巡航已激活		Помощь при движении по полосе активна
+com.tinnove.nid:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.nid:string/redlight_text_attention_red_light	-1	红灯请注意		Внимание: красный сигнал
+com.tinnove.nid:string/right_front_camera_masked	-1	右前摄像头遮挡\n换道暂不可用		Правая передняя камера закрыта.\nПерестроение временно недоступно.
+com.tinnove.nid:string/right_rear_camera_masked	-1	右后摄像头遮挡\n换道暂不可用		Правая задняя камера закрыта.\nПерестроение временно недоступно.
+com.tinnove.nid:string/safety_notice_attention_accident_area	-1	前方事故区域\n请注意观察路况		Впереди место ДТП.\nСледите за дорогой.
+com.tinnove.nid:string/safety_notice_attention_construction_area	-1	前方施工区域\n请注意观察路况		Впереди дорожные работы.\nСледите за дорогой.
+com.tinnove.nid:string/safety_notice_attention_pedestrian_ahead	-1	前方行人，请注意安全		Впереди пешеходы. Будьте осторожны.
+com.tinnove.nid:string/safety_notice_please_control_car_avoidance_failed	-1	请控制车辆\n避让失败		Возьмите управление на себя.\nОбъезд не удался.
+com.tinnove.nid:string/safety_notice_please_control_car_lane_change_failed	-1	请控制车辆\n换道失败		Возьмите управление на себя.\nПерестроение не удалось.
+com.tinnove.nid:string/safety_notice_please_control_car_lane_markings_unclear	-1	请控制车辆\n车道线不清晰		Возьмите управление на себя.\nРазметка неразличима.
+com.tinnove.nid:string/safety_notice_please_immediately_control_car_avoidance_failed	-1	请立即控制车辆\n避让失败		Немедленно возьмите управление.\nОбъезд не удался.
+com.tinnove.nid:string/safety_notice_please_immediately_control_car_complex_road_conditions	-1	请立即控制车辆\n路况复杂		Немедленно возьмите управление.\nСложная дорожная обстановка.
+com.tinnove.nid:string/safety_notice_please_immediately_control_car_lane_change_failed	-1	请立即控制车辆\n换道失败		Немедленно возьмите управление.\nПерестроение не удалось.
+com.tinnove.nid:string/safety_notice_please_immediately_control_car_lane_markings_unclear	-1	请立即控制车辆\n车道线不清晰		Немедленно возьмите управление.\nРазметка неразличима.
+com.tinnove.nid:string/safety_notice_please_immediately_control_car_steer_intervene_switch_to_manual	-1	请控制车辆\n您已干预方向退到人驾		Возьмите управление на себя.\nВаше руление включило ручное управление.
+com.tinnove.nid:string/safety_notice_warning_construction_zone_speed_limit	-1	前方施工区域\n正在限速行驶		Впереди дорожные работы.\nСкорость ограничена.
+com.tinnove.nid:string/safety_notice_warning_high_speed_warning	-1	车速过高，请注意安全		Скорость слишком высокая. Будьте осторожны.
+com.tinnove.nid:string/smart_driving_adaptive_cruise_activated_please_control_direction	-1	自适应巡航已激活\n请控制方向		Адаптивный круиз-контроль активен.\nУправляйте рулём.
+com.tinnove.nid:string/smart_driving_assisted_driving_exited	-1	辅助驾驶已退出		Помощь водителю выключена
+com.tinnove.nid:string/smart_driving_assisted_driving_exited_system_entered_disabled_state	-1	辅助驾驶已退出\n系统进入禁用状态		Помощь водителю выключена.\nСистема заблокирована.
+com.tinnove.nid:string/smart_driving_assisted_driving_exited_system_entered_silent_disabled_state	-1	辅助驾驶已退出\n系统进入静默禁用状态		Помощь водителю выключена.\nСистема заблокирована без уведомлений.
+com.tinnove.nid:string/smart_driving_disabled_state_lifted_restart_assisted_driving_journey	-1	禁用状态解除\n重启辅助驾驶之旅		Блокировка снята.\nПомощь водителю снова доступна.
+com.tinnove.nid:string/smart_driving_lane_cruise_activated_please_stay_alert	-1	车道巡航已激活\n请保持注意力集中		Помощь при движении по полосе активна.\nНе отвлекайтесь.
+com.tinnove.nid:string/smart_driving_lane_cruise_activated_support_stalk_lane_change	-1	车道巡航已激活\n支持拨杆换道		Помощь при движении по полосе активна.\nПерестроение доступно по указателю поворота.
+com.tinnove.nid:string/smart_driving_navigation_pilot_activated	-1	领航辅助已激活		Навигационная помощь активна
+com.tinnove.nid:string/smart_driving_navigation_pilot_activated_can_follow_navigation	-1	领航辅助已激活\n可根据导航自主通行		Навигационная помощь активна.\nДоступно движение по маршруту.
+com.tinnove.nid:string/smart_driving_please_hold_steering_wheel	-1	请轻转方向盘		Слегка поверните руль
+com.tinnove.nid:string/smart_driving_please_keep_hands_on_steering_wheel_watch_road_ahead	-1	请轻转方向盘\n注意前方路况		Слегка поверните руль.\nСледите за дорогой впереди.
+com.tinnove.nid:string/smart_driving_please_stay_alert	-1	请保持注意力集中		Не отвлекайтесь
+com.tinnove.nid:string/smart_driving_you_are_accelerating_please_pay_attention_to_safety	-1	您正在加速\n请注意安全		Вы ускоряетесь.\nСоблюдайте осторожность.
+com.tinnove.nid:string/total_endurance_text	-1	总续航		Общий запас хода
+com.tinnove.nid:string/transducer_text_forward_assist_radar_calibrating	-1	前向辅助雷达标定中		Калибровка переднего вспомогательного радара
+com.tinnove.nid:string/transducer_text_forward_assist_radar_obstructed	-1	前向辅助雷达遮挡		Передний вспомогательный радар закрыт
+com.tinnove.nid:string/transducer_text_forward_lateral_collision_assist_unavailable	-1	前方横向碰撞辅助不可用		Помощь при поперечном столкновении впереди недоступна
+com.tinnove.nid:string/transducer_text_forward_millimeter_wave_radar_obstructed	-1	前向毫米波雷达遮挡		Передний миллиметровый радар закрыт
+com.tinnove.nid:string/transducer_text_forward_smart_camera_obstructed	-1	前置智能摄像头遮挡		Передняя камера помощи водителю закрыта
+com.tinnove.nid:string/udlc_low_speed_lane_change_unavailable	-1	换道功能暂不可用\n车速过低		Перестроение временно недоступно.\nСлишком малая скорость.
+com.tinnove.nid:string/udlc_text_lane_change_assist_cancelled	-1	换道辅助取消		Помощь при перестроении отменена
+com.tinnove.nid:string/udlc_text_lane_change_unavailable	-1	换道功能暂不可用		Перестроение временно недоступно
+com.tinnove.nid:string/udlc_text_low_speed_lane_change_unavailable	-1	车速过低，换道功能暂不可用		Скорость слишком мала. Перестроение временно недоступно.
+com.tinnove.nid:string/udlc_text_poor_weather_lane_change_unavailable	-1	天气条件差，换道功能暂不可用		Плохая погода. Перестроение временно недоступно.
+com.tinnove.nid:string/udlc_text_returning_to_lane	-1	正在返回原车道		Возврат в исходную полосу
+com.tinnove.nid:string/udlc_text_returning_to_lane_avoiding_obstacle	-1	正在返回原车道，避让障碍物		Возврат в исходную полосу для объезда препятствия
+com.tinnove.nid:string/udlc_text_returning_to_lane_avoiding_oncoming_vehicle	-1	正在返回原车道，避让来车		Возврат в исходную полосу для объезда приближающегося транспорта
+com.tinnove.nid:string/udlc_text_returning_to_lane_avoiding_pedestrian	-1	正在返回原车道，避让行人		Возврат в исходную полосу для объезда пешехода
+com.tinnove.nid:string/udlc_text_turn_signal_off	-1	请注意关闭转向灯		Не забудьте выключить указатель поворота
+com.tinnove.nid:string/udlc_text_unable_to_return	-1	正在换道，无法返回原车道		Перестроение выполняется. Возврат в исходную полосу недоступен.
+com.tinnove.nid:string/warning_ad_iacchwamode_lane_cruise_active	-1	车道巡航中		Помощь при движении по полосе работает
+com.tinnove.nid:string/warning_ad_iacchwamode_lane_cruise_paused	-1	车道巡航已暂停		Помощь при движении по полосе приостановлена
+com.tinnove.nid:string/warning_ad_nda_status_pilot_assistant_active	-1	领航辅助中		Навигационная помощь работает
+com.tinnove.nid:string/warning_ad_nda_status_pilot_assistant_paused	-1	领航辅助已暂停		Навигационная помощь приостановлена
+com.tinnove.nid:string/warning_adc_notice_active_failed_adas_unavailable	-1	激活失败\n辅助驾驶不可用		Не удалось включить.\nПомощь водителю недоступна.
+com.tinnove.nid:string/warning_adc_notice_active_failed_brake_overheat	-1	激活失败\n制动盘过热		Не удалось включить.\nТормозные диски перегрелись.
+com.tinnove.nid:string/warning_adc_notice_active_failed_current_is_bull_mode	-1	激活失败\n当前为狂牛模式		Не удалось включить.\nАктивен режим «Куанню».
+com.tinnove.nid:string/warning_adc_notice_active_failed_current_is_high_mode	-1	激活失败\n当前为超高模式		Не удалось включить.\nВключён режим «Сверхвысокий».
+com.tinnove.nid:string/warning_adc_notice_active_failed_current_is_trailer_mode	-1	激活失败\n当前为拖挂模式		Не удалось включить.\nВключён режим буксировки прицепа.
+com.tinnove.nid:string/warning_adc_notice_active_failed_driver_reverse	-1	激活失败，车辆逆行		Не удалось включить: автомобиль движется против потока
+com.tinnove.nid:string/warning_adc_notice_active_failed_hdc_activing	-1	激活失败\n陡坡缓降功能激活中		Не удалось включить.\nАктивна помощь при спуске.
+com.tinnove.nid:string/warning_adc_notice_active_failed_please_close_all_doors	-1	激活失败\n请先关闭所有车门		Не удалось включить.\nСначала закройте все двери.
+com.tinnove.nid:string/warning_adc_notice_active_failed_please_fasten_seat_belt_firset	-1	激活失败\n请先系好安全带		Не удалось включить.\nСначала пристегните ремень.
+com.tinnove.nid:string/warning_adc_notice_active_failed_please_release_brake_pedal_first	-1	激活失败\n请先松开制动踏板		Не удалось включить.\nСначала отпустите педаль тормоза.
+com.tinnove.nid:string/warning_adc_notice_active_failed_please_set_esc_on_first	-1	激活失败\n请先开启ESC		Не удалось включить.\nСначала включите ESC.
+com.tinnove.nid:string/warning_adc_notice_active_failed_reduce_vehicle_speed	-1	激活失败\n请降低车速		Не удалось включить.\nСнизьте скорость.
+com.tinnove.nid:string/warning_adc_notice_active_failed_sensor_blocked	-1	激活失败\n传感器遮挡		Не удалось включить.\nДатчик закрыт.
+com.tinnove.nid:string/warning_adc_notice_active_failed_steering_angle_too_large	-1	激活失败\n方向盘转向角过大		Не удалось включить.\nРуль повёрнут слишком сильно.
+com.tinnove.nid:string/warning_adc_notice_active_failed_tailgate_not_close	-1	后背门未关\n领航辅助不可用		Багажная дверь не закрыта.\nНавигационная помощь недоступна.
+com.tinnove.nid:string/warning_adc_notice_active_failed_tire_pressure_abnormal	-1	激活失败\n胎压异常		Не удалось включить.\nДавление в шинах вне нормы.
+com.tinnove.nid:string/warning_adc_notice_active_failed_vehicle_sliding	-1	激活失败\n车辆后溜		Не удалось включить.\nАвтомобиль откатывается назад.
+com.tinnove.nid:string/warning_adc_notice_active_failed_weather_poor	-1	激活失败\n天气条件差		Не удалось включить.\nПлохая погода.
+com.tinnove.nid:string/warning_adc_notice_adas_disable_has_lifted	-1	辅助驾驶禁用已解除		Блокировка помощи водителю снята
+com.tinnove.nid:string/warning_adc_notice_adas_pause_driver_controling_steering	-1	您正在控制方向\n领航辅助已暂停		Вы управляете рулём.\nНавигационная помощь приостановлена.
+com.tinnove.nid:string/warning_adc_notice_convoy_driving	-1	跟车伴游中		Следование за выбранным автомобилем
+com.tinnove.nid:string/warning_adc_notice_convoy_driving_active_failed	-1	跟车伴游激活失败		Не удалось включить следование за выбранным автомобилем
+com.tinnove.nid:string/warning_adc_notice_convoy_driving_exited	-1	跟车伴游已退出		Следование за выбранным автомобилем выключено
+com.tinnove.nid:string/warning_adc_notice_convoy_driving_exited_control_taken	-1	您正在控制方向\n跟车伴游已退出		Вы управляете рулём.\nСледование за выбранным автомобилем выключено.
+com.tinnove.nid:string/warning_adc_notice_convoy_driving_exited_env_complex	-1	环境复杂\n跟车伴游已退出		Сложная обстановка.\nСледование за выбранным автомобилем выключено.
+com.tinnove.nid:string/warning_adc_notice_convoy_driving_started	-1	跟车伴游已开启		Следование за выбранным автомобилем включено
+com.tinnove.nid:string/warning_adc_notice_cruise_disabled_after_minutes	-1	车道巡航禁用中\n%d分钟后可激活		Помощь по полосе заблокирована.\nВключение через %d мин.
+com.tinnove.nid:string/warning_adc_notice_cruise_disabled_after_seconds	-1	车道巡航禁用中\n%d秒后可激活		Помощь по полосе заблокирована.\nВключение через %d с.
+com.tinnove.nid:string/warning_adc_notice_cruise_resumed	-1	车道巡航已恢复		Помощь при движении по полосе возобновлена
+com.tinnove.nid:string/warning_adc_notice_enter_acc_please_control	-1	进入自适应巡航\n请控制方向		Адаптивный круиз-контроль включён.\nУправляйте рулём.
+com.tinnove.nid:string/warning_adc_notice_lane_cruise_activated	-1	车道巡航已激活		Помощь при движении по полосе активна
+com.tinnove.nid:string/warning_adc_notice_lane_cruise_exit_control_taken	-1	您正在控制方向\n车道巡航已暂停		Вы управляете рулём.\nПомощь при движении по полосе приостановлена.
+com.tinnove.nid:string/warning_adc_notice_lane_cruise_on_attentions_navi_line	-1	进入车道巡航\n请注意导航路线		Помощь при движении по полосе включена.\nСледите за маршрутом навигации.
+com.tinnove.nid:string/warning_adc_notice_passing_toll_gate	-1	正在通过收费站\n请注意两侧路沿		Проезд пункта оплаты.\nСледите за бордюрами по сторонам.
+com.tinnove.nid:string/warning_adc_notice_pilot_resumed	-1	领航辅助已恢复		Навигационная помощь возобновлена
+com.tinnove.nid:string/warning_adc_notice_pilot_switched_to_navi	-1	沿导航路线行驶\n已切换为领航辅助		Движение по маршруту.\nВключена навигационная помощь.
+com.tinnove.nid:string/warning_adc_notice_please_choose_follow_target	-1	请选择可跟随伴游目标		Выберите автомобиль для следования
+com.tinnove.nid:string/warning_adc_notice_please_retry_env_complex	-1	环境复杂\n请稍后重试		Сложная обстановка.\nПовторите попытку позже.
+com.tinnove.nid:string/warning_adc_notice_road_condition_complex_attention	-1	路况复杂，请注意安全		Сложная дорожная обстановка. Будьте осторожны.
+com.tinnove.nid:string/warning_adc_notice_road_condition_complex_manual_control	-1	路况复杂，请手动通过		Сложная дорожная обстановка. Проедьте вручную.
+com.tinnove.nid:string/warning_adc_notice_switch_lanes_cross_line	-1	跨实线变道中		Перестроение через сплошную линию
+com.tinnove.nid:string/warning_convoy_ad_fcwlatentwarning_distance_too_close	-1	跟车距离过近		Слишком малая дистанция
+com.tinnove.nid:string/warning_convoy_adaebactive_aeb_already_enable	-1	自动紧急制动（AEB）\n已启用		Автоматическое экстренное торможение (AEB)\nвключено
+com.tinnove.nid:string/warning_convoy_attention_left_rear_safety	-1	请注意左后方安全		Следите за безопасностью слева сзади
+com.tinnove.nid:string/warning_convoy_attention_rear_safety	-1	请注意后方安全		Следите за безопасностью сзади
+com.tinnove.nid:string/warning_convoy_attention_right_rear_safety	-1	请注意右后方安全		Следите за безопасностью справа сзади
+com.tinnove.nid:string/warning_convoy_dms_blocked_please_clear	-1	DMS被遮挡，请清理		Камера DMS закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_emergency_brake_not_available	-1	自动紧急制动（AEB）\n功能暂不可用		Автоматическое экстренное торможение (AEB)\nвременно недоступно
+com.tinnove.nid:string/warning_convoy_emergency_lane_keep_already_enable	-1	紧急车道保持已启用		Экстренное удержание в полосе включено
+com.tinnove.nid:string/warning_convoy_emergency_lane_keep_not_available	-1	紧急车道保持暂不可用		Экстренное удержание в полосе временно недоступно
+com.tinnove.nid:string/warning_convoy_emergency_steering_already_enabled	-1	紧急转向已启用		Экстренная помощь рулением включена
+com.tinnove.nid:string/warning_convoy_fisheye_camera_blocked_please_clear	-1	环视摄像头被遮挡，请清理		Камера кругового обзора закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_front_camera_blocked_please_clear	-1	前视摄像头被遮挡，请清理		Передняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_front_corner_radar_blocked_please_clear	-1	前角雷达被遮挡，请清理		Передний угловой радар закрыт. Очистите его.
+com.tinnove.nid:string/warning_convoy_front_radar_blocked_please_clear	-1	前雷达被遮挡，请清理		Передний радар закрыт. Очистите его.
+com.tinnove.nid:string/warning_convoy_lane_assistant_error_please_get_service_from_4s	-1	车道辅助系统故障\n请至4S店检查维修		Неисправность системы помощи по полосе.\nОбратитесь в сервис для проверки и ремонта.
+com.tinnove.nid:string/warning_convoy_lane_keep_assistant_not_available	-1	车道保持辅助暂不可用		Помощь удержания в полосе временно недоступна
+com.tinnove.nid:string/warning_convoy_left_door_opening_warning	-1	左侧开门有碰撞危险		Опасность столкновения при открывании двери слева
+com.tinnove.nid:string/warning_convoy_left_front_camera_blocked_please_clear	-1	左前摄像头遮挡，请清理		Левая передняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_left_rear_camera_blocked_please_clear	-1	左后摄像头遮挡，请清理		Левая задняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_lidar_blocked_please_clear	-1	激光雷达被遮挡，请清理		Лидар закрыт. Очистите его.
+com.tinnove.nid:string/warning_convoy_pay_attention_to_safety_ahead	-1	请注意前方安全		Следите за безопасностью впереди
+com.tinnove.nid:string/warning_convoy_rear_camera_blocked_please_clear	-1	后视摄像头被遮挡，请清理		Задняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_rear_corner_radar_blocked_please_clear	-1	后角雷达被遮挡，请清理		Задний угловой радар закрыт. Очистите его.
+com.tinnove.nid:string/warning_convoy_red_light_attention	-1	红灯请注意		Внимание: красный сигнал
+com.tinnove.nid:string/warning_convoy_right_door_opening_warning	-1	右侧开门有碰撞危险		Опасность столкновения при открывании двери справа
+com.tinnove.nid:string/warning_convoy_right_front_camera_blocked_please_clear	-1	右前摄像头遮挡，请清理		Правая передняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_right_rear_camera_blocked_please_clear	-1	右后摄像头遮挡，请清理		Правая задняя камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_sensor_blocked_please_clear	-1	传感器被遮挡，请清理		Датчик закрыт. Очистите его.
+com.tinnove.nid:string/warning_convoy_surround_camera_blocked_please_clear	-1	周视摄像头被遮挡，请清理		Боковая камера закрыта. Очистите её.
+com.tinnove.nid:string/warning_convoy_two_side_door_opening_warning	-1	两侧开门有碰撞危险		Опасность столкновения при открывании дверей с обеих сторон
+com.tinnove.nid:string/warning_convoy_ultrasonic_sensor_blocked_please_clear	-1	超声波探头被遮挡，请清理		Ультразвуковой датчик закрыт. Очистите его.
+com.tinnove.nid:string/warning_nid_exit_please_control	-1	领航辅助即将退出\n请控制车辆		Навигационная помощь скоро выключится.\nВозьмите управление на себя.
+com.tinnove.nid:string/warning_nid_exit_with_distance	-1	%d米领航辅助即将退出		Навигационная помощь выключится через %d м
+com.tinnove.nid:string/warning_safety_notice_brake_switch_to_manual_drive	-1	您已踩刹车退到人驾\n辅助驾驶已退出		Вы нажали тормоз и включили ручное управление.\nПомощь водителю выключена.
+com.tinnove.nid:string/warning_safety_notice_paddle_switch_adas_off_manual_drive	-1	您已通过拨杆退到人驾\n辅助驾驶已退出		Вы включили ручное управление рычагом.\nПомощь водителю выключена.
+com.tinnove.nid:string/warning_safety_notice_please_control_car	-1	请控制车辆		Возьмите управление на себя
+com.tinnove.nid:string/warning_safety_notice_please_control_car_autopilot_is_not_available	-1	请控制车辆\n辅助驾驶不可用		Возьмите управление на себя.\nПомощь водителю недоступна.
+com.tinnove.nid:string/warning_safety_notice_please_control_car_brake_disc_hot	-1	请控制车辆\n制动盘过热		Возьмите управление на себя.\nТормозные диски перегрелись.
+com.tinnove.nid:string/warning_safety_notice_please_control_car_poor_road_weather_conditions	-1	请控制车辆\n道路天气环境差		Возьмите управление на себя.\nПлохие дорожные и погодные условия.
+com.tinnove.nid:string/warning_safety_notice_please_control_car_vehicle_unstable	-1	请控制车辆\n车辆存在失稳		Возьмите управление на себя.\nАвтомобиль теряет устойчивость.
+com.tinnove.nid:string/warning_safety_notice_please_go_front_already_smooth	-1	前方可通行\n请起步		Путь впереди свободен.\nНачните движение.
+com.tinnove.nid:string/warning_safety_notice_please_go_green_light_soon	-1	即将绿灯，请起步		Скоро зелёный сигнал. Начните движение.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car	-1	请立即控制车辆		Немедленно возьмите управление на себя
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_autopilot_has_exited	-1	请立即控制车辆\n辅助驾驶已退出		Немедленно возьмите управление.\nПомощь водителю выключена.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_autopilot_is_not_available	-1	请立即控制车辆\n辅助驾驶不可用		Немедленно возьмите управление.\nПомощь водителю недоступна.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_brake_disc_hot	-1	请立即控制车辆\n制动盘过热		Немедленно возьмите управление.\nТормозные диски перегрелись.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_brake_light_abnormal	-1	请立即控制车辆\n制动灯异常		Немедленно возьмите управление.\nНеисправны стоп-сигналы.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_communication_failure	-1	请立即控制车辆\n通讯故障		Немедленно возьмите управление.\nОшибка связи.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_parking_completed	-1	请立即控制车辆\n停车已完成		Немедленно возьмите управление.\nОстановка завершена.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_parking_in_progress	-1	请立即控制车辆\n正在停车		Немедленно возьмите управление.\nВыполняется остановка.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_poor_road_weather_conditions	-1	请立即控制车辆\n道路天气环境差		Немедленно возьмите управление.\nПлохие дорожные и погодные условия.
+com.tinnove.nid:string/warning_safety_notice_please_immediately_control_car_vehicle_unstable	-1	请立即控制车辆\n车辆存在失稳		Немедленно возьмите управление.\nАвтомобиль теряет устойчивость.
+com.tinnove.nid:string/warning_safety_notice_please_shift_down_speed_too_high	-1	车速过高\n请减速		Скорость слишком высокая.\nСнизьте скорость.
+com.tinnove.nid:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.nid:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.nid:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.nid:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.nid:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.nid:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.nid:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.nid:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.nid:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.nid:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.nid:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.nid:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.nid:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.nid:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.nid:string/wtsearch_text_hint	-1	请输入		Введите запрос

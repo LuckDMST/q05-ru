@@ -1,0 +1,172 @@
+com.incall.apps.personalcenter:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.incall.apps.personalcenter:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.incall.apps.personalcenter:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.incall.apps.personalcenter:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.incall.apps.personalcenter:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.incall.apps.personalcenter:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.incall.apps.personalcenter:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.incall.apps.personalcenter:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.incall.apps.personalcenter:string/abc_capital_on	-1	開啟		ВКЛ
+com.incall.apps.personalcenter:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.incall.apps.personalcenter:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.incall.apps.personalcenter:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.incall.apps.personalcenter:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.incall.apps.personalcenter:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.incall.apps.personalcenter:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.incall.apps.personalcenter:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.incall.apps.personalcenter:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.incall.apps.personalcenter:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.incall.apps.personalcenter:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.incall.apps.personalcenter:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.incall.apps.personalcenter:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.incall.apps.personalcenter:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.incall.apps.personalcenter:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.incall.apps.personalcenter:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.incall.apps.personalcenter:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.incall.apps.personalcenter:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.incall.apps.personalcenter:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.incall.apps.personalcenter:string/act_ass_drive_bonus_score_point	-1	+%1$d分		+%1$d балл.
+com.incall.apps.personalcenter:string/act_ass_drive_minus_score_point	-1	%1$d分		%1$d балл.
+com.incall.apps.personalcenter:string/amap_login_title_hint	-1	使用手机高德地图扫码登录		Отсканируйте код в Amap на телефоне для входа
+com.incall.apps.personalcenter:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.incall.apps.personalcenter:string/card_go_to_login	-1	去登录		Войти
+com.incall.apps.personalcenter:string/card_no_score_data	-1	暂无驾驶行为记录		Записей о вождении пока нет
+com.incall.apps.personalcenter:string/card_title	-1	驾驶行为记录		Статистика вождения
+com.incall.apps.personalcenter:string/card_unlogin_text	-1	驾驶员中心未登录		Вход в профиль водителя не выполнен
+com.incall.apps.personalcenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.incall.apps.personalcenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.incall.apps.personalcenter:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.personalcenter:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.incall.apps.personalcenter:string/dialog_tip_rke_title	-1	"请使用车钥匙连续进行两次""闭锁""操作\n为保证有效性，操作时请勿关闭此页面"		Используя ключ, дважды подряд выполните команду «Запереть».\nВо время выполнения не закрывайте эту страницу.
+com.incall.apps.personalcenter:string/failed_msg_unknown	-1	未知错误		Неизвестная ошибка
+com.incall.apps.personalcenter:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.personalcenter:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.personalcenter:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.incall.apps.personalcenter:string/material_hour_selection	-1	請選取時段		Выберите час
+com.incall.apps.personalcenter:string/material_hour_selection	-1	选择小时		Выберите час
+com.incall.apps.personalcenter:string/material_hour_selection	-1	選取時段		Выберите час
+com.incall.apps.personalcenter:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.incall.apps.personalcenter:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.incall.apps.personalcenter:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.incall.apps.personalcenter:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.incall.apps.personalcenter:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.incall.apps.personalcenter:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.incall.apps.personalcenter:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.personalcenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.personalcenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.incall.apps.personalcenter:string/material_timepicker_hour	-1	小時		Час
+com.incall.apps.personalcenter:string/material_timepicker_minute	-1	分鐘		Минуты
+com.incall.apps.personalcenter:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.incall.apps.personalcenter:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.personalcenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.personalcenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.incall.apps.personalcenter:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.incall.apps.personalcenter:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.incall.apps.personalcenter:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.incall.apps.personalcenter:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.incall.apps.personalcenter:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.incall.apps.personalcenter:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.incall.apps.personalcenter:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.incall.apps.personalcenter:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.incall.apps.personalcenter:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.incall.apps.personalcenter:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.incall.apps.personalcenter:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.incall.apps.personalcenter:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.incall.apps.personalcenter:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.incall.apps.personalcenter:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_save	-1	儲存		Сохранить
+com.incall.apps.personalcenter:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.incall.apps.personalcenter:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.incall.apps.personalcenter:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.incall.apps.personalcenter:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.personalcenter:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.incall.apps.personalcenter:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.incall.apps.personalcenter:string/str_drive_dialog_message1	-1	安全驾驶分（简称“Echo”）是针对驾驶员的驾驶行为（分为使用辅助驾驶功能和不使用辅助驾驶功能时）进行周期性的加分或者扣分，最终得分反映出驾驶员的驾驶行为是否规范，得分越高驾驶行为越优秀。		Оценка безопасного вождения Echo периодически начисляет или снимает баллы за действия водителя с помощью систем помощи и без них. Чем выше результат, тем лучше оценивается стиль вождения.
+com.incall.apps.personalcenter:string/str_drive_dialog_message3	-1	您可以在车机桌面添加Echo实时分数组件卡片，在驾驶过程中能够实时看到加分项和减分项，有助于您了解自身的驾驶行为对Echo分数的影响。		На рабочий стол можно добавить карточку Echo, чтобы видеть начисление и снятие баллов во время движения и понимать влияние своих действий на оценку.
+com.incall.apps.personalcenter:string/str_drive_dialog_message4	-1	Echo初始得分为100分，总评分（累计得分）每一年进行一次清零，用户若想兑换权益，需要在周期内进行兑换。一年的计算周期，以用户首次开启Echo开始计算时间。 驾驶分具体标准如下：		Начальная оценка Echo — 100 баллов. Общий накопленный результат обнуляется ежегодно. Обменяйте баллы на привилегии до конца периода. Год отсчитывается с первого включения Echo. Критерии оценки:
+com.incall.apps.personalcenter:string/str_drive_dialog_notice_message	-1	部分功能视车型配置而定，不同配置版本可能存在功能差异，具体请以实车规格为准		Наличие функций зависит от модели и комплектации. Ориентируйтесь на фактическое оснащение автомобиля.
+com.incall.apps.personalcenter:string/tx_bind_account_title	-1	确认绑定车机账号与高德地图账号		Подтвердите привязку аккаунта автомобиля к аккаунту Amap
+com.incall.apps.personalcenter:string/tx_bind_amap_bind_info	-1	《账号绑定协议》		«Соглашение о привязке аккаунтов»
+com.incall.apps.personalcenter:string/tx_bind_amap_privacy_info	-1	《高德地图隐私权益政策》		«Политика конфиденциальности Amap»
+com.incall.apps.personalcenter:string/tx_bind_amap_service_info	-1	《高德地图服务条款》		«Условия использования Amap»
+com.incall.apps.personalcenter:string/tx_bind_amap_sure	-1	同意		Согласен
+com.incall.apps.personalcenter:string/tx_bind_fail_other_user	-1	该账号已被其他账户绑定，请解绑后重试		Этот аккаунт уже привязан к другому. Отвяжите его и повторите попытку.
+com.incall.apps.personalcenter:string/tx_bind_status_failed_msg_net	-1	绑定长安开放开台 失败!!		Не удалось выполнить привязку к платформе Changan
+com.incall.apps.personalcenter:string/tx_bind_status_failed_msg_unknown	-1	未知错误		Неизвестная ошибка
+com.incall.apps.personalcenter:string/tx_bind_status_has_bind	-1	帐号已被其他帐号绑定		Аккаунт уже привязан к другому
+com.incall.apps.personalcenter:string/tx_bind_third_status_failed	-1	第三方应用绑定失败		Не удалось привязать стороннее приложение
+com.incall.apps.personalcenter:string/tx_switch_user_faild	-1	切换帐号失败，请先前往高德地图退出当前帐号		Не удалось сменить аккаунт. Сначала выйдите из текущего аккаунта в Amap.
+com.incall.apps.personalcenter:string/voice_record	-1	语音输入		Голосовой ввод
+com.incall.apps.personalcenter:string/voice_retry	-1	重试		Повторить
+com.incall.apps.personalcenter:string/voice_tips	-1	提示		Уведомление
+com.incall.apps.personalcenter:string/wt_date_picker_friday	-1	五		Пт
+com.incall.apps.personalcenter:string/wt_date_picker_monday	-1	一		Пн
+com.incall.apps.personalcenter:string/wt_date_picker_saturday	-1	六		Сб
+com.incall.apps.personalcenter:string/wt_date_picker_sunday	-1	日		Вс
+com.incall.apps.personalcenter:string/wt_date_picker_thursday	-1	四		Чт
+com.incall.apps.personalcenter:string/wt_date_picker_tuesday	-1	二		Вт
+com.incall.apps.personalcenter:string/wt_date_picker_wednesday	-1	三		Ср
+com.incall.apps.personalcenter:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.incall.apps.personalcenter:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.incall.apps.personalcenter:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.incall.apps.personalcenter:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.incall.apps.personalcenter:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.incall.apps.personalcenter:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.incall.apps.personalcenter:string/wtinput_text_hint	-1	请输入		Введите текст
+com.incall.apps.personalcenter:string/wtsearch_text_hint	-1	请输入		Введите запрос
+com.incall.apps.personalcenter:string/zxing_app_name	-1	條碼掃描器		Сканер штрих-кодов
+com.incall.apps.personalcenter:string/zxing_button_ok	-1	確定		OK
+com.incall.apps.personalcenter:string/zxing_msg_camera_framework_bug	-1	很抱歉，Android 相機出現問題，您可能需要重新啟動您的裝置。		К сожалению, возникла ошибка камеры. Может потребоваться перезагрузить устройство.
+com.incall.apps.personalcenter:string/zxing_msg_camera_framework_bug	-1	抱歉，Android相机出现问题。您可能需要重启设备。		К сожалению, возникла ошибка камеры. Может потребоваться перезагрузить устройство.
+com.incall.apps.personalcenter:string/zxing_msg_default_status	-1	將條碼置於鏡頭範圍內以進行掃描。		Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.
+com.incall.apps.personalcenter:string/zxing_msg_default_status	-1	请将条码置于取景框内扫描。		Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.

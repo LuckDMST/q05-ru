@@ -1,0 +1,496 @@
+com.incall.apps.softmanager:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.incall.apps.softmanager:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.incall.apps.softmanager:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.incall.apps.softmanager:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.incall.apps.softmanager:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.incall.apps.softmanager:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.incall.apps.softmanager:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.incall.apps.softmanager:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.incall.apps.softmanager:string/abc_capital_on	-1	開啟		ВКЛ
+com.incall.apps.softmanager:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.incall.apps.softmanager:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.incall.apps.softmanager:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.incall.apps.softmanager:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.incall.apps.softmanager:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.incall.apps.softmanager:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.incall.apps.softmanager:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.incall.apps.softmanager:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.incall.apps.softmanager:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.incall.apps.softmanager:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.incall.apps.softmanager:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.incall.apps.softmanager:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.incall.apps.softmanager:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.incall.apps.softmanager:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.incall.apps.softmanager:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.incall.apps.softmanager:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.incall.apps.softmanager:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.incall.apps.softmanager:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.incall.apps.softmanager:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.incall.apps.softmanager:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.incall.apps.softmanager:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.incall.apps.softmanager:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.incall.apps.softmanager:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.incall.apps.softmanager:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.incall.apps.softmanager:string/app_name	-1	车辆升级		Обновление автомобиля
+com.incall.apps.softmanager:string/auto_download_wifi	-1	允许WIFI网络时自动下载		Автоматически скачивать по Wi-Fi
+com.incall.apps.softmanager:string/auto_install	-1	自动升级		Автоматическое обновление
+com.incall.apps.softmanager:string/auto_install_time_title	-1	请设置自动升级时间		Задайте время автоматического обновления
+com.incall.apps.softmanager:string/auto_install_tip_disable	-1	开启后，有新版本时将于%s自动升级		При появлении новой версии система обновится автоматически в %s.
+com.incall.apps.softmanager:string/auto_install_tip_enabled	-1	已开启自动升级，有新版本时将于%s自动升级		Автообновление включено. При появлении новой версии система обновится в %s.
+com.incall.apps.softmanager:string/before_upgrade_tips	-1	更新提示:		Об обновлении:
+com.incall.apps.softmanager:string/before_upgrade_tips_1	-1	1.请点击【检测并下载】发现更新、更稳定、更优异的软件版本，以确保最佳的用车体验；\n2.在软件更新时，您将无法使用该车辆，请确保车辆处于静止状态；\n3.升级前请将车停放在安全区域；\n4.升级过程中，请不要尝试操作车辆，以免发生升级失败或引起故障。		1. Нажмите «Проверить и скачать», чтобы найти новую, более стабильную версию ПО.\n2. Во время обновления автомобиль нельзя использовать. Он должен быть неподвижен.\n3. Перед обновлением припаркуйтесь в безопасном месте.\n4. Не управляйте автомобилем во время обновления, чтобы избежать сбоя или неисправности.
+com.incall.apps.softmanager:string/btn_cancel	-1	取消		Отмена
+com.incall.apps.softmanager:string/btn_download	-1	立刻下载		Скачать сейчас
+com.incall.apps.softmanager:string/btn_download_install	-1	立即安装		Установить сейчас
+com.incall.apps.softmanager:string/btn_download_leave_install	-1	锁车升级		Обновить после запирания
+com.incall.apps.softmanager:string/btn_download_plan_install	-1	预约升级		Обновить по расписанию
+com.incall.apps.softmanager:string/btn_hujiao	-1	呼叫		Позвонить
+com.incall.apps.softmanager:string/btn_network_setting	-1	设置网络		Настроить сеть
+com.incall.apps.softmanager:string/btn_order_install_cancel	-1	取消		Отмена
+com.incall.apps.softmanager:string/btn_order_install_confirm	-1	确定		ОК
+com.incall.apps.softmanager:string/btn_prepare_usb_install_now	-1	立即安装		Установить сейчас
+com.incall.apps.softmanager:string/btn_version_retry	-1	重新检测		Проверить заново
+com.incall.apps.softmanager:string/cancel	-1	取消		Отмена
+com.incall.apps.softmanager:string/check_failed_title	-1	文件下载失败		Не удалось скачать файл
+com.incall.apps.softmanager:string/check_install_condition_retry	-1	重试		Повторить
+com.incall.apps.softmanager:string/check_update_fail	-1	更新检测异常(%d)		Ошибка проверки обновлений (%d)
+com.incall.apps.softmanager:string/check_version	-1	检测更新		Проверить обновления
+com.incall.apps.softmanager:string/condition_status_code	-1	状态码:%s		Код состояния: %s
+com.incall.apps.softmanager:string/confirm_downgrade_content	-1	您正在进行系统降级操作，降级后会清空您的用户数据，确认继续吗？		Вы устанавливаете более старую версию системы. Это удалит пользовательские данные. Продолжить?
+com.incall.apps.softmanager:string/confirm_downgrade_no	-1	取消		Отмена
+com.incall.apps.softmanager:string/confirm_downgrade_tip	-1	本次降级会恢复出厂设置		Откат версии восстановит заводские настройки
+com.incall.apps.softmanager:string/confirm_downgrade_title	-1	降级警告		Предупреждение об откате версии
+com.incall.apps.softmanager:string/confirm_downgrade_yes	-1	确定		ОК
+com.incall.apps.softmanager:string/confirm_factory_reset_content	-1	本次升级跨度大，升级完成后需要手动恢复出厂设置，是否确认升级？		Между версиями много изменений. После обновления потребуется вручную сбросить заводские настройки. Обновить?
+com.incall.apps.softmanager:string/confirm_factory_reset_tip	-1	恢复出厂设置会清除您的用户数据		Сброс заводских настроек удалит пользовательские данные
+com.incall.apps.softmanager:string/confirm_factory_reset_title	-1	提示		Уведомление
+com.incall.apps.softmanager:string/confirm_factory_reset_yes	-1	确定		ОК
+com.incall.apps.softmanager:string/confirm_install_content	-1	1.升级预计持续%s分钟\n2.期间请勿断电，保持车辆静止，部分功能暂无法使用		1. Обновление займёт примерно %s минут.\n2. Не выключайте питание и не перемещайте автомобиль. Часть функций будет временно недоступна.
+com.incall.apps.softmanager:string/confirm_install_no	-1	否		Нет
+com.incall.apps.softmanager:string/confirm_install_title	-1	开始升级		Начать обновление
+com.incall.apps.softmanager:string/copy_fail_tip	-1	1.请检测U盘是否正确连接\n2.请检测U盘是否有损坏		1. Проверьте подключение USB-накопителя.\n2. Проверьте исправность USB-накопителя.
+com.incall.apps.softmanager:string/copy_tip	-1	升级文件拷贝中，请勿操作		Копирование файлов обновления. Ничего не нажимайте.
+com.incall.apps.softmanager:string/create_auto_install_failed_notify_content	-1	自动预约OTA失败,请尝试立即升级方式		Не удалось автоматически назначить OTA. Попробуйте обновить сейчас.
+com.incall.apps.softmanager:string/create_auto_install_failed_notify_title	-1	预约升级失败		Не удалось назначить обновление
+com.incall.apps.softmanager:string/create_auto_install_success_notify_content	-1	已预约%s时自动升级，请在升级时间到来前停在安全位置		Обновление назначено на %s. Заранее припаркуйтесь в безопасном месте.
+com.incall.apps.softmanager:string/create_auto_install_success_notify_title	-1	预约升级提示		Обновление по расписанию
+com.incall.apps.softmanager:string/create_auto_install_tips1	-1	查看		Посмотреть
+com.incall.apps.softmanager:string/create_auto_install_tips2	-1	新软件包介绍		Описание нового пакета ПО
+com.incall.apps.softmanager:string/data_deploy	-1	数据准备		Подготовка данных
+com.incall.apps.softmanager:string/deploy_fail	-1	升级数据准备失败(%d)		Не удалось подготовить данные обновления (%d)
+com.incall.apps.softmanager:string/deploy_fail_duo_to_smart_drive_tip	-1	辅助驾驶相关功能使用中，可在功能使用结束后操作重试		Функции помощи водителю используются. Повторите попытку после их завершения.
+com.incall.apps.softmanager:string/deploy_fail_tip	-1	1.目前车辆状态可能无法继续升级。\n2.请及时联系维保中心处理。		1. Текущее состояние автомобиля может препятствовать обновлению.\n2. Своевременно свяжитесь с сервисным центром.
+com.incall.apps.softmanager:string/deploy_ing_str	-1	升级数据准备中…		Подготовка данных обновления…
+com.incall.apps.softmanager:string/deploy_progress_now	-1	当前进度:		Текущий ход:
+com.incall.apps.softmanager:string/deploy_tip	-1	升级包传输阶段，后台会自动执行，不影响正常用车，若锁车离开，则暂停传输。		Пакет передаётся в фоне и не мешает использованию автомобиля. После запирания и ухода передача приостанавливается.
+com.incall.apps.softmanager:string/deploy_tip_str	-1	温馨提示：数据准备中，您可以离开本界面正常使用车辆，数据准备完成后将提醒您升级		Данные готовятся. Можно покинуть этот экран и пользоваться автомобилем. По завершении подготовки появится уведомление.
+com.incall.apps.softmanager:string/dialog_common_cancel	-1	取消		Отмена
+com.incall.apps.softmanager:string/dialog_condition_not_meet_title	-1	升级条件不满足		Условия обновления не выполнены
+com.incall.apps.softmanager:string/dialog_confirm_result_cond_title_result_tips	-1	您上次的软件升级条件不满足，请重新选择升级方式进行升级！		В прошлый раз условия обновления не были выполнены. Выберите способ обновления заново.
+com.incall.apps.softmanager:string/dialog_confirm_result_detail_btn	-1	详细信息		Подробности
+com.incall.apps.softmanager:string/dialog_confirm_result_fail_title_result_tips	-1	您上次的软件升级失败了(%d)，车辆已恢复升级前状态，请重新检测升级！		Предыдущее обновление не удалось (%d). Прежнее состояние восстановлено. Проверьте обновления заново.
+com.incall.apps.softmanager:string/dialog_confirm_result_failed_content	-1	已反馈失败信息给客服，您可以进入远程升级应用重新尝试安装		Сведения о сбое переданы поддержке. Можно повторить установку в приложении удалённого обновления.
+com.incall.apps.softmanager:string/dialog_confirm_result_failed_title	-1	升级异常		Ошибка обновления
+com.incall.apps.softmanager:string/dialog_confirm_result_failed_title_result	-1	升级失败		Обновление не удалось
+com.incall.apps.softmanager:string/dialog_confirm_result_rollback_fail_title_result_tips	-1	您上次的软件升级失败了(%d)，请重试或联系长安客服中心处理。		Предыдущее обновление не удалось (%d). Повторите попытку или свяжитесь с поддержкой Changan.
+com.incall.apps.softmanager:string/dialog_confirm_result_success_btn	-1	我知道了		Понятно
+com.incall.apps.softmanager:string/dialog_confirm_result_success_title	-1	升级完成		Обновление завершено
+com.incall.apps.softmanager:string/dialog_confirm_result_success_title_result	-1	升级成功		Обновлено
+com.incall.apps.softmanager:string/dialog_confirm_result_success_title_result_tips	-1	您的软件已升级成功，请尽情体验新系统吧！		ПО успешно обновлено. Можно пользоваться новой системой.
+com.incall.apps.softmanager:string/dialog_copy_data	-1	升级文件拷贝中…		Копирование файлов обновления…
+com.incall.apps.softmanager:string/dialog_copy_data_fail	-1	安装包拷贝失败，退出U盘升级(%d)		Не удалось скопировать пакет. Обновление с USB прекращено (%d).
+com.incall.apps.softmanager:string/dialog_copy_finish	-1	数据拷贝结束,稍后进行部署		Данные скопированы. Скоро начнётся подготовка к установке.
+com.incall.apps.softmanager:string/dialog_deploy_failure_content	-1	车控部署失败%s，是否重试？		Не удалось подготовить контроллер автомобиля: %s. Повторить?
+com.incall.apps.softmanager:string/dialog_deploy_failure_title	-1	提示		Уведомление
+com.incall.apps.softmanager:string/dialog_deploy_finish	-1	部署结束,稍后进行安装		Подготовка завершена. Скоро начнётся установка.
+com.incall.apps.softmanager:string/dialog_deploy_install_btn	-1	继续安装		Продолжить установку
+com.incall.apps.softmanager:string/dialog_deploy_retry_btn	-1	重新部署		Повторить подготовку
+com.incall.apps.softmanager:string/dialog_deploying	-1	部署中		Подготовка к установке
+com.incall.apps.softmanager:string/dialog_install_no	-1	取消		Отмена
+com.incall.apps.softmanager:string/dialog_install_notify_sub_title	-1	温馨提示：在OTA升级过程中，如果遇到任何问题，也可联系客服。		При проблемах с обновлением OTA можно обратиться в поддержку.
+com.incall.apps.softmanager:string/dialog_install_notify_tip	-1	温馨提示：本次升级将清空系统缓存数据		Обновление очистит системный кэш
+com.incall.apps.softmanager:string/dialog_install_notify_title	-1	升级必读		Перед обновлением
+com.incall.apps.softmanager:string/dialog_install_yes	-1	确定(%ds)		ОК (%d с)
+com.incall.apps.softmanager:string/dialog_install_yes_1	-1	确定		ОК
+com.incall.apps.softmanager:string/dialog_recover_install_notify_title	-1	恢复安装		Восстановить установку
+com.incall.apps.softmanager:string/dialog_retry_content	-1	是否尝试重试安装？		Повторить установку?
+com.incall.apps.softmanager:string/dialog_usb_notify_title	-1	升级对象详情		Компоненты обновления
+com.incall.apps.softmanager:string/dialog_usb_update	-1	U盘升级		Обновление с USB
+com.incall.apps.softmanager:string/dialog_usb_update_title	-1	U盘升级提示		Об обновлении с USB
+com.incall.apps.softmanager:string/download_continue	-1	继续下载		Продолжить скачивание
+com.incall.apps.softmanager:string/download_fail	-1	升级包下载失败(%d)		Не удалось скачать пакет обновления (%d)
+com.incall.apps.softmanager:string/download_fail_420007	-1	检测到当前任务已经过期。		Текущая задача устарела
+com.incall.apps.softmanager:string/download_fail_420011	-1	检测到当前网络状态不佳。(%d)		Слабое подключение к сети (%d)
+com.incall.apps.softmanager:string/download_fail_420011_tips	-1	请点击下方重新检测按钮重新进行软件包下载！		Нажмите повторную проверку ниже, чтобы скачать пакет заново
+com.incall.apps.softmanager:string/download_ignore	-1	忽略		Игнорировать
+com.incall.apps.softmanager:string/download_now	-1	立即下载		Скачать сейчас
+com.incall.apps.softmanager:string/download_speed_string	-1	下载速度：		Скорость скачивания:
+com.incall.apps.softmanager:string/download_start	-1	开始下载		Начать скачивание
+com.incall.apps.softmanager:string/download_stop	-1	下载已暂停		Скачивание приостановлено
+com.incall.apps.softmanager:string/download_time	-1	预计当前软件包剩余下载时间：		Примерно осталось до конца скачивания:
+com.incall.apps.softmanager:string/download_tip	-1	升级包下载阶段，后台会自动执行，不影响正常用车，若锁车离开，则暂停下载。		Пакет скачивается в фоне и не мешает использованию автомобиля. После запирания и ухода скачивание приостанавливается.
+com.incall.apps.softmanager:string/download_tip_wait	-1	当前是WiFi网络连接，是否允许下载？		Подключён Wi-Fi. Разрешить скачивание?
+com.incall.apps.softmanager:string/download_tip_wait_2	-1	当前是WiFi网络连接，是否允许下载？若断开WIFI网络连接，将使用车机流量自动下载。		Подключён Wi-Fi. Разрешить скачивание? Если Wi-Fi отключится, система продолжит через мобильный интернет автомобиля.
+com.incall.apps.softmanager:string/download_tip_wait_3	-1	当前是车机网络连接，请切换到WIFI网络后下载升级包。		Используется сеть автомобиля. Подключитесь к Wi-Fi для скачивания пакета.
+com.incall.apps.softmanager:string/download_tip_wait_4	-1	当前是WIFI网络连接，将会消耗WIFI终端的流量，是否允许下载？		Подключён Wi-Fi. Скачивание расходует трафик этой сети. Разрешить?
+com.incall.apps.softmanager:string/download_tip_wait_dialog	-1	温馨提示：当前是WiFi网络连接，是否允许下载？		Подключён Wi-Fi. Разрешить скачивание?
+com.incall.apps.softmanager:string/error_code	-1	异常原因：		Причина ошибки:
+com.incall.apps.softmanager:string/exit_factory	-1	退出		Выйти
+com.incall.apps.softmanager:string/factory_mode	-1	工程模式		Инженерный режим
+com.incall.apps.softmanager:string/failed_to_load	-1	加载失败		Не удалось загрузить
+com.incall.apps.softmanager:string/failed_to_load_1	-1	请检查网络设置		Проверьте настройки сети
+com.incall.apps.softmanager:string/fota_self_update_install_tips	-1	FOTA自更新，应用即将关闭！		Приложение FOTA обновляется и сейчас закроется
+com.incall.apps.softmanager:string/found_new_version_title	-1	发现新版本		Найдена новая версия
+com.incall.apps.softmanager:string/fragment_fota_download_check	-1	升级包校验中…		Проверка пакета обновления…
+com.incall.apps.softmanager:string/fragment_fota_download_speed	-1	下载速度 %s/s		Скорость скачивания: %s/с
+com.incall.apps.softmanager:string/fragment_fota_error_network_unavailable	-1	网络异常,请重试		Ошибка сети. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_error_retry_btn	-1	重试		Повторить
+com.incall.apps.softmanager:string/fragment_fota_init_reading_version	-1	读取系统版本中…		Чтение версии системы…
+com.incall.apps.softmanager:string/fragment_fota_leave_install_cancel	-1	取消锁车安装		Отменить установку после запирания
+com.incall.apps.softmanager:string/fragment_fota_leave_install_cancel_failed	-1	锁车升级取消失败，请重新尝试		Не удалось отменить обновление после запирания. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_leave_install_cancel_tip	-1	正在取消锁车升级		Отмена обновления после запирания
+com.incall.apps.softmanager:string/fragment_fota_leave_install_failed	-1	锁车升级设置失败，请重新尝试		Не удалось настроить обновление после запирания. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_new_version_downloading_tip	-1	升级包下载中		Скачивание пакета обновления
+com.incall.apps.softmanager:string/fragment_fota_new_version_update_infos_title	-1	更新说明		Описание обновления
+com.incall.apps.softmanager:string/fragment_fota_order_install_cancel	-1	取消预约安装		Отменить установку по расписанию
+com.incall.apps.softmanager:string/fragment_fota_order_install_cancel_failed	-1	预约升级取消失败，请重新尝试		Не удалось отменить обновление по расписанию. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_order_install_cancel_tip	-1	正在取消预约升级		Отмена обновления по расписанию
+com.incall.apps.softmanager:string/fragment_fota_order_install_canceling	-1	取消中…		Отмена…
+com.incall.apps.softmanager:string/fragment_fota_order_install_failed	-1	预约升级设置失败，请重新尝试		Не удалось назначить обновление. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_order_install_loading	-1	正在预约，请稍后		Назначение обновления. Подождите.
+com.incall.apps.softmanager:string/fragment_fota_order_install_tips	-1	您已预约升级，车辆将在%s自动升级，预计消耗%s，升级过程无法行驶且部分功能无法使用。		Обновление назначено на %s, займёт примерно %s. Во время обновления движение и часть функций будут недоступны.
+com.incall.apps.softmanager:string/fragment_fota_order_install_update	-1	修改预约时间		Изменить время обновления
+com.incall.apps.softmanager:string/fragment_fota_toast_settings	-1	请连接WIFI		Подключитесь к Wi-Fi
+com.incall.apps.softmanager:string/fragment_fota_trans_error	-1	数据传输异常:%d，请重试		Ошибка передачи данных: %d. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_trans_error_action	-1	重试		Повторить
+com.incall.apps.softmanager:string/fragment_fota_unknown_error	-1	未知异常，请稍后重试		Неизвестная ошибка. Повторите попытку позже.
+com.incall.apps.softmanager:string/fragment_fota_vehicle_service_error	-1	检测异常,请重试		Ошибка проверки. Повторите попытку.
+com.incall.apps.softmanager:string/fragment_fota_vehicle_service_error_action	-1	重试		Повторить
+com.incall.apps.softmanager:string/fragment_usb_cancel	-1	U盘已经拔出，是否停止升级		USB-накопитель извлечён. Остановить обновление?
+com.incall.apps.softmanager:string/fragment_usb_check_failed	-1	安装包校验失败，请重试或前往长安汽车官网重新下载！		Пакет не прошёл проверку. Повторите попытку или скачайте его заново с официального сайта Changan.
+com.incall.apps.softmanager:string/fragment_usb_getting_task_failed	-1	检测安装包失败，请拔插U盘重试!		Не удалось проверить пакет. Переподключите USB-накопитель.
+com.incall.apps.softmanager:string/fragment_usb_getting_task_not_meet	-1	U盘中版本与车型不匹配		Версия на USB не подходит для модели автомобиля
+com.incall.apps.softmanager:string/fragment_usb_load_getting_task	-1	正在检测安装包		Проверка пакета установки
+com.incall.apps.softmanager:string/fragment_usb_new_version	-1	检查到U盘升级包：%s		На USB найден пакет обновления: %s
+com.incall.apps.softmanager:string/fragment_usb_no	-1	否		Нет
+com.incall.apps.softmanager:string/fragment_usb_no_device	-1	未插入U盘		USB-накопитель не подключён
+com.incall.apps.softmanager:string/fragment_usb_no_task	-1	未检测到安装包，请到长安汽车官网下载		Пакет не найден. Скачайте его с официального сайта Changan.
+com.incall.apps.softmanager:string/fragment_usb_yes	-1	是		Да
+com.incall.apps.softmanager:string/guide_factory_reset_content	-1	您的系统已升级完成，因为升级跨度大，部分数据可能不兼容，需要您手动恢复出厂设置		Система обновлена. Из-за большого перехода между версиями часть данных может быть несовместима. Вручную восстановите заводские настройки.
+com.incall.apps.softmanager:string/guide_factory_reset_no	-1	暂不操作		Пока не выполнять
+com.incall.apps.softmanager:string/guide_factory_reset_tip	-1	恢复出厂设置会清除您的用户数据		Сброс заводских настроек удалит пользовательские данные
+com.incall.apps.softmanager:string/guide_factory_reset_title	-1	升级完成提示		Обновление завершено
+com.incall.apps.softmanager:string/guide_factory_reset_yes	-1	恢复出厂设置		Восстановить заводские настройки
+com.incall.apps.softmanager:string/init_tip	-1	数据初始化中…		Инициализация данных…
+com.incall.apps.softmanager:string/install_condition_battery	-1	剩余电量不满足升级条件		Остаточного заряда недостаточно для обновления
+com.incall.apps.softmanager:string/install_condition_battery_accuracy	-1	电量精度不满足升级条件		Оценка заряда недостаточно точна для обновления
+com.incall.apps.softmanager:string/install_condition_battery_accuracy_show	-1	蓄电池精度		Точность оценки заряда аккумулятора
+com.incall.apps.softmanager:string/install_condition_battery_accuracy_show_notify	-1	蓄电池精度不足，请锁车静置车辆4小时后重试		Оценка заряда недостаточно точна. Заприте автомобиль и оставьте на 4 часа, затем повторите попытку.
+com.incall.apps.softmanager:string/install_condition_battery_accuracy_show_notify_notMeet	-1	蓄电池精度不足，请锁车静置车辆4小时后重试；		Оценка заряда недостаточно точна. Заприте автомобиль и оставьте на 4 часа, затем повторите попытку;
+com.incall.apps.softmanager:string/install_condition_battery_accuracy_tip	-1	蓄电池精度不满足，请锁车静置车辆4小时后重试。		Оценка заряда недостаточно точна. Заприте автомобиль и оставьте на 4 часа, затем повторите попытку.
+com.incall.apps.softmanager:string/install_condition_battery_show	-1	蓄电池电量		Заряд аккумулятора
+com.incall.apps.softmanager:string/install_condition_battery_show_notify	-1	蓄电池电量不足，请用车一段时间或关闭部分用电设备（如灯光，空调等）后再试		Заряд аккумулятора низкий. Попользуйтесь автомобилем некоторое время или выключите часть потребителей, например свет и климат, затем повторите попытку.
+com.incall.apps.softmanager:string/install_condition_battery_show_notify_notMeet	-1	蓄电池电量不足，请用车一段时间后再试；		Заряд аккумулятора низкий. Попользуйтесь автомобилем некоторое время и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_battery_tip	-1	电池电量不足，请开启发动机，用车一段时间后重新尝试。		Заряд батареи низкий. Запустите двигатель, попользуйтесь автомобилем некоторое время и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_bms_working_mode_tip	-1	车辆高压状态异常，车辆不可用，请联系维保中心处理。		Ошибка высоковольтной системы. Автомобиль недоступен. Свяжитесь с сервисом.
+com.incall.apps.softmanager:string/install_condition_brash_gear_fail	-1	刷写挡位请求失败		Не удалось запросить положение селектора для прошивки
+com.incall.apps.softmanager:string/install_condition_cancel_fail	-1	取消安装失败		Не удалось отменить установку
+com.incall.apps.softmanager:string/install_condition_cancel_success	-1	取消安装成功		Установка отменена
+com.incall.apps.softmanager:string/install_condition_charge_show	-1	未连接快充充电枪		Разъём быстрой зарядки не подключён
+com.incall.apps.softmanager:string/install_condition_charge_show_notify	-1	快充充电枪连接中，请拔出充/放电枪后重试		Подключена быстрая зарядка. Извлеките зарядный или разрядный разъём и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_charge_show_notify_notMeet	-1	快充充电枪连接中，请拔出充/放电枪后重试；		Подключена быстрая зарядка. Извлеките зарядный или разрядный разъём и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_charge_tip	-1	当前车辆连接了充/放电枪，无法进行升级，如果您需要升级，请拔出充/放电枪后重试。		Обновление недоступно с подключённым зарядным или разрядным разъёмом. Отсоедините его и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_check_fail	-1	车辆升级条件检测失败		Не удалось проверить условия обновления автомобиля
+com.incall.apps.softmanager:string/install_condition_discharge_show	-1	未连接慢充/放电枪		Разъём медленной зарядки или выдачи питания не подключён
+com.incall.apps.softmanager:string/install_condition_discharge_show_notify	-1	慢充/放电枪连接中，请拔出充/放电枪后重试		Подключён разъём медленной зарядки или выдачи питания. Извлеките его и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_discharge_show_notify_notMeet	-1	慢充/放电枪连接中，请拔出充/放电枪后重试；		Подключён разъём медленной зарядки или выдачи питания. Извлеките его и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_discharge_tip	-1	当前车辆连接了充/放电枪，无法进行升级，如果您需要升级，请拔出充/放电枪后重试。		Обновление недоступно с подключённым зарядным или разрядным разъёмом. Отсоедините его и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_engine	-1	发动机状态不满足升级条件		Состояние двигателя не соответствует условиям обновления
+com.incall.apps.softmanager:string/install_condition_engine_show	-1	未在充电状态		Зарядка не выполняется
+com.incall.apps.softmanager:string/install_condition_engine_show_notify	-1	增程器处于工作状态，请前往车辆中心>驾驶>驾驶模式关闭驻车充电后重试		Генераторная установка работает. Выключите зарядку на стоянке в разделе Настройки автомобиля → Вождение → Режим движения.
+com.incall.apps.softmanager:string/install_condition_engine_show_notify_notMeet	-1	增程器处于工作状态，请关闭驻车充电后重试；		Генераторная установка работает. Выключите зарядку на стоянке и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_engine_show_phev	-1	动力总成状态		Состояние силовой установки
+com.incall.apps.softmanager:string/install_condition_engine_show_phev_notify	-1	车辆动力总成状态不满足，请稍后重试		Состояние силовой установки не соответствует условиям. Попробуйте позже.
+com.incall.apps.softmanager:string/install_condition_engine_show_phev_notify_notMeet	-1	车辆动力总成状态不满足，请稍后重试；		Состояние силовой установки не соответствует условиям. Попробуйте позже;
+com.incall.apps.softmanager:string/install_condition_engine_tip	-1	发动机处于运行状态，请熄火。		Двигатель работает. Выключите его.
+com.incall.apps.softmanager:string/install_condition_hand_brake	-1	手刹未拉起，请拉起手刹		Включите стояночный тормоз
+com.incall.apps.softmanager:string/install_condition_hand_brake_show	-1	手刹拉起		Стояночный тормоз включён
+com.incall.apps.softmanager:string/install_condition_hand_brake_show_notify	-1	手刹未拉起，请拉起手刹		Включите стояночный тормоз
+com.incall.apps.softmanager:string/install_condition_hand_brake_show_notify_notMeet	-1	手刹未拉起，请拉起手刹；		Включите стояночный тормоз;
+com.incall.apps.softmanager:string/install_condition_hand_brake_tip	-1	手刹未拉起，请拉起手刹。		Включите стояночный тормоз.
+com.incall.apps.softmanager:string/install_condition_met	-1	安装条件满足		Условия установки выполнены
+com.incall.apps.softmanager:string/install_condition_not_met	-1	车辆升级条件检测不满足		Условия обновления автомобиля не выполнены
+com.incall.apps.softmanager:string/install_condition_not_met1	-1	安装准备失败，请稍后再试		Не удалось подготовить установку. Повторите попытку позже.
+com.incall.apps.softmanager:string/install_condition_not_met11	-1	车辆安装准备失败		Не удалось подготовить установку автомобиля
+com.incall.apps.softmanager:string/install_condition_pow	-1	整车电源状态不满足升级条件		Состояние питания не соответствует условиям обновления
+com.incall.apps.softmanager:string/install_condition_pow_show	-1	电源挡位ON挡		Питание в положении ON
+com.incall.apps.softmanager:string/install_condition_pow_show_notify	-1	电源挡位非ON挡，请保持车辆处于ON挡		Питание не в ON. Переведите автомобиль в ON.
+com.incall.apps.softmanager:string/install_condition_pow_show_notify_notMeet	-1	电源挡位非ON挡，请保持车辆处于ON挡；		Питание не в ON. Переведите автомобиль в ON;
+com.incall.apps.softmanager:string/install_condition_pow_tip	-1	请按下启动按钮上电。		Нажмите кнопку запуска для включения питания
+com.incall.apps.softmanager:string/install_condition_power_battery_state	-1	动力电池电量		Заряд тяговой батареи
+com.incall.apps.softmanager:string/install_condition_power_battery_state_notify	-1	动力电池电量不满足，请充电，电量高于30%后重试		Заряда тяговой батареи недостаточно. Зарядите выше 30% и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_power_battery_state_notify_notMeet	-1	动力电池电量不满足，请充电，电量高于30%后重试；		Заряда тяговой батареи недостаточно. Зарядите выше 30% и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_power_battery_tip	-1	当前高压电池电量过低，升级可能造成馈电，请电量充足后再试。		Заряд высоковольтной батареи слишком низкий. Обновление может разрядить её. Сначала обеспечьте достаточный заряд.
+com.incall.apps.softmanager:string/install_condition_power_saving_fail	-1	车辆正处于省电模式		Включено энергосбережение
+com.incall.apps.softmanager:string/install_condition_power_saving_show	-1	省电模式		Энергосбережение
+com.incall.apps.softmanager:string/install_condition_power_saving_show_notify	-1	车辆处于省电模式，请退出省电模式后重试		Выключите энергосбережение и повторите попытку
+com.incall.apps.softmanager:string/install_condition_power_saving_show_notify_notMeet	-1	车辆处于省电模式，请退出省电模式后重试；		Выключите энергосбережение и повторите попытку;
+com.incall.apps.softmanager:string/install_condition_power_saving_tip	-1	当前正处于省电模式，请退出省电模式后重试。		Сейчас включено энергосбережение. Выключите его и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_remote_boot_tip	-1	当前系统繁忙，请稍后重试。		Система занята. Повторите попытку позже.
+com.incall.apps.softmanager:string/install_condition_shift	-1	变速器挡位不满足升级条件		Положение селектора не соответствует условиям обновления
+com.incall.apps.softmanager:string/install_condition_shift_show	-1	驻车挡位P挡		Парковочное положение P
+com.incall.apps.softmanager:string/install_condition_shift_show_notify	-1	车辆未处于P挡，请将挡位调整至P挡		Автомобиль не в P. Переведите селектор в P.
+com.incall.apps.softmanager:string/install_condition_shift_show_notify_notMeet	-1	车辆未处于P挡，请将挡位调整至P挡；		Автомобиль не в P. Переведите селектор в P;
+com.incall.apps.softmanager:string/install_condition_shift_tip	-1	换挡器挡位不满足，请将挡位拨到P挡。		Положение селектора не подходит. Переведите его в P.
+com.incall.apps.softmanager:string/install_condition_speed	-1	车速不满足升级条件		Скорость не соответствует условиям обновления
+com.incall.apps.softmanager:string/install_condition_speed_show	-1	车速为0		Скорость равна 0
+com.incall.apps.softmanager:string/install_condition_speed_show_notify	-1	车速不为0，请将车辆静止并停放在安全区域		Автомобиль движется. Остановитесь и припаркуйтесь в безопасном месте.
+com.incall.apps.softmanager:string/install_condition_speed_show_notify_notMeet	-1	车速不为0，请将车辆静止并停放在安全区域；		Автомобиль движется. Остановитесь и припаркуйтесь в безопасном месте;
+com.incall.apps.softmanager:string/install_condition_speed_tip	-1	当前车辆正在行驶，请将车辆静止并停放在安全区域。		Автомобиль движется. Полностью остановитесь и припаркуйтесь в безопасном месте.
+com.incall.apps.softmanager:string/install_condition_super_power_saving_notify	-1	当前正处于超级省电模式，请退出超级省电模式后重试。		Выключите максимальное энергосбережение и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_super_power_saving_notify_notMeet	-1	当前正处于超级省电模式，请退出超级省电模式后重试。		Выключите максимальное энергосбережение и повторите попытку.
+com.incall.apps.softmanager:string/install_condition_super_power_saving_show	-1	整车超级省电模式状态		Состояние максимального энергосбережения
+com.incall.apps.softmanager:string/install_condition_time_out_tip	-1	请求超时，请稍后重试。		Время запроса истекло. Повторите попытку позже.
+com.incall.apps.softmanager:string/install_condition_tmp	-1	外部温度不满足升级条件		Температура воздуха не соответствует условиям обновления
+com.incall.apps.softmanager:string/install_condition_tmp_show	-1	环境温度大于%d°C		Температура воздуха выше %d°C
+com.incall.apps.softmanager:string/install_condition_tmp_show_notify	-1	环境温度小于%d°C，请到合适温度场所升级		Температура воздуха ниже %d°C. Обновляйте при подходящей температуре.
+com.incall.apps.softmanager:string/install_condition_tmp_show_notify_notMeet	-1	外部温度不满足升级，请到合适温度场所升级；		Температура воздуха не подходит. Переместите автомобиль в место с подходящей температурой;
+com.incall.apps.softmanager:string/install_condition_tmp_tip	-1	当前环境温度过低，升级可能造成馈电，不支持升级。		Слишком холодно. Обновление может привести к разряду и не поддерживается.
+com.incall.apps.softmanager:string/install_condition_ulist_check_failed_title	-1	升级校验流程异常（%d），请重试升级或联系客服处理		Ошибка проверки обновления (%d). Повторите обновление или обратитесь в поддержку.
+com.incall.apps.softmanager:string/install_condition_working_mode_bms	-1	BMS工作模式		Режим работы BMS
+com.incall.apps.softmanager:string/install_condition_working_mode_bms_notify	-1	BMS工作模式不满足，车辆高压状态异常，车辆不可用，请联系维保中心处理		Режим BMS не подходит, ошибка высоковольтной системы. Автомобиль недоступен. Свяжитесь с сервисом.
+com.incall.apps.softmanager:string/install_condition_working_mode_bms_notify_notMeet	-1	BMS工作模式不满足，车辆高压状态异常，车辆不可用，请联系维保中心处理；		Режим BMS не подходит, ошибка высоковольтной системы. Автомобиль недоступен. Свяжитесь с сервисом;
+com.incall.apps.softmanager:string/install_dialog_order_tip	-1	1.车辆将在升级时间到达时自动升级，升级过程中车辆将无法行驶且部分功能暂时无法使用。\n2.升级时间到达前请离开车辆并闭锁，结束充电和放电，确保蓄电池电量充足，关闭灯光、空调等用电设备。		1. В назначенное время обновление начнётся автоматически. Движение и часть функций будут недоступны.\n2. Заранее выйдите и заприте автомобиль, прекратите зарядку и выдачу питания, убедитесь в достаточном заряде аккумулятора, выключите свет, климат и другие потребители.
+com.incall.apps.softmanager:string/install_dialog_tip	-1	温馨提示：在OTA升级过程中，车辆可能会出现Ready状态退出、显示屏短暂亮灭等情况，均属于正常现象，如果遇到其它问题，也可联系客服协助。		Во время OTA автомобиль может выйти из READY, экраны могут ненадолго выключаться или загораться. Это нормально. При других проблемах обратитесь в поддержку.
+com.incall.apps.softmanager:string/install_dialog_version	-1	版本更新：%s		Обновление версии: %s
+com.incall.apps.softmanager:string/install_fail_dialog	-1	安装失败		Не удалось установить
+com.incall.apps.softmanager:string/install_lock_cancel	-1	确认取消本次锁车升级?		Отменить это обновление после запирания?
+com.incall.apps.softmanager:string/install_new_version_btn_install_detail	-1	详细信息		Подробности
+com.incall.apps.softmanager:string/install_new_version_btn_install_now	-1	更新		Обновить
+com.incall.apps.softmanager:string/install_new_version_title	-1	检测到新版本		Найдена новая версия
+com.incall.apps.softmanager:string/install_next_time	-1	下次再说		В другой раз
+com.incall.apps.softmanager:string/install_now	-1	现在升级		Обновить сейчас
+com.incall.apps.softmanager:string/install_result_dialog_version	-1	车辆已成功升级到%s		Автомобиль обновлён до %s
+com.incall.apps.softmanager:string/install_result_fail_content	-1	%s版本升级失败(%d)		Не удалось обновиться до %s (%d)
+com.incall.apps.softmanager:string/install_result_fail_tip	-1	请联系维保中心处理		Свяжитесь с сервисом
+com.incall.apps.softmanager:string/installing_tip	-1	升级过程中车辆不能使用，您可以锁车离开，不必等待		Во время обновления автомобиль недоступен. Можно запереть его и уйти, не дожидаясь окончания.
+com.incall.apps.softmanager:string/installing_tip1	-1	升级过程中车辆不能使用！		Во время обновления автомобилем пользоваться нельзя
+com.incall.apps.softmanager:string/installing_tip2	-1	升级期间，您可以锁车离开，不必等待！		Можно запереть автомобиль и уйти, не дожидаясь обновления
+com.incall.apps.softmanager:string/installing_tip2_default	-1	整个升级过程可能会比较长，请耐心等待！		Обновление может быть длительным. Подождите.
+com.incall.apps.softmanager:string/installing_tip3	-1	升级过程中，进度可能偶有停滞，请耐心等待！		Ход обновления может временно останавливаться. Подождите.
+com.incall.apps.softmanager:string/installing_tip4	-1	升级过程中，仪表、中控短暂熄屏或闪烁属于正常现象！		Кратковременное выключение или мигание приборки и центрального экрана при обновлении нормально.
+com.incall.apps.softmanager:string/installing_tip_time	-1	预计%s分钟		Примерно %s мин
+com.incall.apps.softmanager:string/installing_title_check_success	-1	校验成功		Проверка пройдена
+com.incall.apps.softmanager:string/installing_title_checking	-1	正在校验		Проверка
+com.incall.apps.softmanager:string/installing_title_install_exception	-1	安装异常		Ошибка установки
+com.incall.apps.softmanager:string/installing_title_install_failed	-1	安装失败，系统即将重启		Установка не удалась. Система перезапустится.
+com.incall.apps.softmanager:string/installing_title_install_start	-1	正在升级：软件更新至%s		Обновление ПО до %s
+com.incall.apps.softmanager:string/installing_title_install_success	-1	安装结束，系统即将重启		Установка завершена. Система перезапустится.
+com.incall.apps.softmanager:string/installing_title_installing	-1	正在安装		Установка
+com.incall.apps.softmanager:string/installing_title_one_success	-1	安装成功		Установлено
+com.incall.apps.softmanager:string/installing_title_preparing	-1	正在准备安装		Подготовка установки
+com.incall.apps.softmanager:string/installing_title_revert_exception	-1	恢复异常		Ошибка восстановления
+com.incall.apps.softmanager:string/installing_title_revert_failed	-1	恢复失败，系统即将重启		Восстановление не удалось. Система перезапустится.
+com.incall.apps.softmanager:string/installing_title_revert_one_success	-1	恢复成功		Восстановлено
+com.incall.apps.softmanager:string/installing_title_revert_start	-1	开始恢复		Начало восстановления
+com.incall.apps.softmanager:string/installing_title_revert_success	-1	恢复结束，系统即将重启		Восстановление завершено. Система перезапустится.
+com.incall.apps.softmanager:string/installing_title_reverting	-1	正在恢复		Восстановление
+com.incall.apps.softmanager:string/installing_title_rollback_start	-1	正在回滚：软件更新至%s		Откат ПО до %s
+com.incall.apps.softmanager:string/installing_title_transfer_success	-1	传输成功		Передано
+com.incall.apps.softmanager:string/installing_title_transferring	-1	正在传输		Передача
+com.incall.apps.softmanager:string/latest_version	-1	已是最新版本		Установлена последняя версия
+com.incall.apps.softmanager:string/leave_install_content	-1	您已选择锁车升级，%s,系统将在您离车锁门后自动安装，安装期间请勿停留在车内。		Вы выбрали обновление после запирания. %s. Установка начнётся после вашего выхода и запирания дверей. Не оставайтесь в салоне во время установки.
+com.incall.apps.softmanager:string/leave_install_setup	-1	锁车升级设置中…		Настройка обновления после запирания…
+com.incall.apps.softmanager:string/leave_install_tips	-1	注意：请保证离车后挡位在P挡，蓄电池电量不少于60%，拉起手刹		После выхода оставьте P, заряд аккумулятора не ниже 60% и включите стояночный тормоз
+com.incall.apps.softmanager:string/leave_install_title	-1	升级提示		Об обновлении
+com.incall.apps.softmanager:string/leave_install_yes	-1	我知道了		Понятно
+com.incall.apps.softmanager:string/ll_dialog_result_fail_tips	-1	最多重试安装3次，已经进行过%d次重试		Допустимо не более 3 повторных установок. Уже выполнено: %d.
+com.incall.apps.softmanager:string/loading_tip_check_update	-1	正在检查更新…		Проверка обновлений…
+com.incall.apps.softmanager:string/log_collecting	-1	日志收集中…		Сбор журналов…
+com.incall.apps.softmanager:string/main_btn_console	-1	工程模式		Инженерный режим
+com.incall.apps.softmanager:string/main_btn_fota	-1	系统升级		Обновление системы
+com.incall.apps.softmanager:string/main_btn_setting	-1	升级设置		Настройки обновления
+com.incall.apps.softmanager:string/main_btn_upgrade	-1	在线升级		Обновление через интернет
+com.incall.apps.softmanager:string/main_btn_usb	-1	USB升级		Обновление с USB
+com.incall.apps.softmanager:string/main_version_infos_title	-1	版本信息：		Сведения о версии:
+com.incall.apps.softmanager:string/mask_check_tip	-1	正在检测安装条件，请稍候		Проверка условий установки. Подождите.
+com.incall.apps.softmanager:string/mask_install_error_content_file	-1	升级文件被篡改，系统即将重启！		Файл обновления изменён. Система перезапустится.
+com.incall.apps.softmanager:string/mask_power_status_tip	-1	车辆未处于上电状态，请将车辆上电		Питание автомобиля выключено. Включите его.
+com.incall.apps.softmanager:string/mask_self_upgrade_tip	-1	正在进行FOTA自升级，请稍候		Самообновление FOTA. Подождите.
+com.incall.apps.softmanager:string/message_install_error_gear	-1	请将挡位挂到P挡		Переведите селектор в P
+com.incall.apps.softmanager:string/message_install_error_speed	-1	请保持车辆静止		Не перемещайте автомобиль
+com.incall.apps.softmanager:string/message_install_error_status	-1	请将电源挡位切换到ON挡		Переведите питание в ON
+com.incall.apps.softmanager:string/message_installing	-1	升级服务忙，请稍后重试		Служба обновления занята. Повторите попытку позже.
+com.incall.apps.softmanager:string/mode_preparation	-1	模式准备		Подготовка режима
+com.incall.apps.softmanager:string/more_detail_btn	-1	知道了		Понятно
+com.incall.apps.softmanager:string/more_info_string	-1	更多		Ещё
+com.incall.apps.softmanager:string/network_change_tips	-1	检测到您的网络环境为WIFI,继续下载会消耗您的流量		Обнаружен Wi-Fi. Продолжение скачивания расходует трафик этой сети.
+com.incall.apps.softmanager:string/network_fail_tip	-1	1.请检查网络状态是否正常。\n2.请尝试重试。		1. Проверьте подключение к сети.\n2. Повторите попытку.
+com.incall.apps.softmanager:string/network_setting	-1	网络设置		Настройки сети
+com.incall.apps.softmanager:string/never_remind_content	-1	确认后默认忽略该版本的更新，系统将不再弹出任何该版本的升级提醒		Эта версия будет пропущена. Система больше не будет показывать уведомления о ней.
+com.incall.apps.softmanager:string/new_version_btn_content	-1	检测到新版本，可进行下载		Найдена новая версия, доступная для скачивания
+com.incall.apps.softmanager:string/new_version_btn_download	-1	下载		Скачать
+com.incall.apps.softmanager:string/new_version_btn_next	-1	下次提醒		Напомнить позже
+com.incall.apps.softmanager:string/new_version_btn_remind_next_time	-1	下次再说		В другой раз
+com.incall.apps.softmanager:string/new_version_ignore	-1	忽略该版本		Пропустить эту версию
+com.incall.apps.softmanager:string/new_version_size_title	-1	升级包大小：		Размер пакета:
+com.incall.apps.softmanager:string/new_version_text_download_init	-1	下载准备中…		Подготовка скачивания…
+com.incall.apps.softmanager:string/next_time_auto_install	-1	下次自动升级		Автоматически обновить в следующий раз
+com.incall.apps.softmanager:string/no_more_dialog	-1	不再提示		Больше не показывать
+com.incall.apps.softmanager:string/no_more_remind	-1	不再提醒，如需升级请点击“车辆升级”手动升级		Больше не напоминать. Для обновления откройте «Обновление автомобиля» вручную.
+com.incall.apps.softmanager:string/no_space	-1	储存空间不足		Недостаточно места
+com.incall.apps.softmanager:string/no_space_title	-1	请联系长安客服中心处理。		Свяжитесь с поддержкой Changan
+com.incall.apps.softmanager:string/no_usb	-1	未插入U盘		USB-накопитель не подключён
+com.incall.apps.softmanager:string/not_connect_network	-1	当前网络不可用		Сеть недоступна
+com.incall.apps.softmanager:string/not_upgrade_dialog	-1	未安装		Не установлено
+com.incall.apps.softmanager:string/notification_download	-1	检测到新版本！		Найдена новая версия
+com.incall.apps.softmanager:string/notification_download_failed	-1	下载失败，点击重新下载!		Не удалось скачать. Нажмите для повтора.
+com.incall.apps.softmanager:string/notification_download_progress	-1	已下载%s，请稍候		Скачано: %s. Подождите.
+com.incall.apps.softmanager:string/notification_download_progress_down	-1	已下载%s，点击查看		Скачано: %s. Нажмите для просмотра.
+com.incall.apps.softmanager:string/notification_download_success	-1	下载成功，点击查看		Скачано. Нажмите для просмотра.
+com.incall.apps.softmanager:string/notification_new_version	-1	发现新版本		Найдена новая версия
+com.incall.apps.softmanager:string/notification_update	-1	升级		Обновление
+com.incall.apps.softmanager:string/notification_version_content	-1	约%s		Примерно %s
+com.incall.apps.softmanager:string/notification_version_title	-1	未安装的升级包		Неустановленный пакет обновления
+com.incall.apps.softmanager:string/order_install_btn_yes	-1	确定		ОК
+com.incall.apps.softmanager:string/order_install_time_endfix	-1	时		ч
+com.incall.apps.softmanager:string/order_install_time_minute	-1	分		мин
+com.incall.apps.softmanager:string/order_install_title	-1	预约升级时间设置		Время обновления по расписанию
+com.incall.apps.softmanager:string/order_install_title_1	-1	变更预约升级时间		Изменить время обновления
+com.incall.apps.softmanager:string/order_tip_today	-1	今日		Сегодня
+com.incall.apps.softmanager:string/order_tip_tomorrow	-1	明日		Завтра
+com.incall.apps.softmanager:string/order_tips	-1	升级过程中车辆将⽆法⾏驶且车辆部分功能将⽆法使⽤。在软件版本升级过程中，如果遇到任何问题，您可以联系客服中⼼。		Во время обновления автомобиль не сможет двигаться, а часть функций будет недоступна. При любых проблемах можно обратиться в поддержку.
+com.incall.apps.softmanager:string/ota_upgrade_checking	-1	更新检测中…		Проверка обновлений…
+com.incall.apps.softmanager:string/park_brake_condition_fail	-1	请拉起手刹		Включите стояночный тормоз
+com.incall.apps.softmanager:string/prompt_install_checking	-1	数据准备中…		Подготовка данных…
+com.incall.apps.softmanager:string/pts_tip	-1	PTS控制器升级成功，请进行初始化，操作方式见车辆的《使用说明书》->电动背门/电动尾翼初始化。		Контроллер PTS обновлён. Выполните инициализацию по разделу руководства «Инициализация электропривода багажной двери / спойлера».
+com.incall.apps.softmanager:string/random_check_please_input_random_code	-1	请输入校验码		Введите код проверки
+com.incall.apps.softmanager:string/random_check_title	-1	随机码校验		Проверка случайного кода
+com.incall.apps.softmanager:string/remain_download_time_d	-1	剩余下载时间：超过1天		До конца скачивания: больше суток
+com.incall.apps.softmanager:string/remain_download_time_default	-1	大约剩余下载时间：3小时左右		Примерно осталось: около 3 часов
+com.incall.apps.softmanager:string/remain_download_time_h	-1	剩余下载时间：%d小时%d分钟		До конца скачивания: %d ч %d мин
+com.incall.apps.softmanager:string/remain_download_time_m	-1	剩余下载时间：%d分钟		До конца скачивания: %d мин
+com.incall.apps.softmanager:string/remain_download_time_s	-1	剩余下载时间：%d秒		До конца скачивания: %d с
+com.incall.apps.softmanager:string/result_condition_not_meet_tips	-1	升级条件不满足		Условия обновления не выполнены
+com.incall.apps.softmanager:string/result_condition_not_meet_tips_1	-1	升级时条件不满足，未进行升级，请重新发起升级		Во время попытки условия не были выполнены, обновление не началось. Запустите его заново.
+com.incall.apps.softmanager:string/resume_download_btn_resume	-1	继续下载		Продолжить скачивание
+com.incall.apps.softmanager:string/retry_check_version	-1	重新检测		Проверить заново
+com.incall.apps.softmanager:string/retry_check_version_new	-1	检测并下载		Проверить и скачать
+com.incall.apps.softmanager:string/roll_backing_dialog	-1	回滚中		Откат версии
+com.incall.apps.softmanager:string/rollback_fail_dialog	-1	回滚失败		Откат не удался
+com.incall.apps.softmanager:string/rollback_success_dialog	-1	回滚成功		Откат завершён
+com.incall.apps.softmanager:string/rollback_success_dialog_content	-1	已成功回滚，功能已恢复正常		Откат завершён. Функции работают нормально.
+com.incall.apps.softmanager:string/rollback_tip	-1	回滚过程中车辆不能使用，您可以锁车离开，不必等待		Во время отката автомобиль недоступен. Можно запереть его и уйти, не дожидаясь окончания.
+com.incall.apps.softmanager:string/rollback_tip1	-1	回滚过程中车辆不能使用！		Во время отката автомобилем пользоваться нельзя
+com.incall.apps.softmanager:string/rollback_tip2	-1	回滚期间，您可以锁车离开，不必等待！		Можно запереть автомобиль и уйти, не дожидаясь отката
+com.incall.apps.softmanager:string/rollback_tip3	-1	回滚需要一段时间，请耐心等待！		Откат займёт некоторое время. Подождите.
+com.incall.apps.softmanager:string/rollback_tip_time	-1	系统恢复中，请耐心等待!		Восстановление системы. Подождите.
+com.incall.apps.softmanager:string/silent_upgrade	-1	静默升级中…		Обновление без уведомлений…
+com.incall.apps.softmanager:string/slcm_tip	-1	车窗控制器升级成功，请进行初始化，操作方式见车辆的《使用说明书》->车窗初始化。		Контроллер окон обновлён. Выполните инициализацию по разделу руководства «Инициализация окон».
+com.incall.apps.softmanager:string/soft_name_fota	-1	系统升级		Обновление системы
+com.incall.apps.softmanager:string/software_download	-1	软件下载		Скачивание ПО
+com.incall.apps.softmanager:string/space_clean_tip	-1	新版本没有足够的空间，请清理以继续		Недостаточно места для новой версии. Очистите хранилище для продолжения.
+com.incall.apps.softmanager:string/space_not_enough_btn_yes	-1	清除		Очистить
+com.incall.apps.softmanager:string/space_not_enough_clean_success	-1	清除成功		Очищено
+com.incall.apps.softmanager:string/space_not_enough_content_download	-1	新版本没有足够的空间，请清理以继续		Недостаточно места для новой версии. Очистите хранилище для продолжения.
+com.incall.apps.softmanager:string/space_not_enough_content_install_usb	-1	USB安装空间不足，请清理内部存储空间以继续		Недостаточно места для установки с USB. Очистите внутреннее хранилище.
+com.incall.apps.softmanager:string/space_not_enough_title	-1	空间不足		Недостаточно места
+com.incall.apps.softmanager:string/tip_auto_upgrade_content	-1	升级过程中车辆将无法行驶且部分车辆控制功能暂时无法使用。\n升级前请确认：\n1.车辆停靠在安全位置；\n2.车辆处于P挡；\n3.制动踏板未踩下；\n4.升级时间到达前请离开车辆并闭锁。		Во время обновления движение и часть функций управления будут недоступны.\nПеред обновлением убедитесь:\n1. Автомобиль припаркован в безопасном месте.\n2. Выбрано положение P.\n3. Педаль тормоза не нажата.\n4. До назначенного времени вы выйдете и запрёте автомобиль.
+com.incall.apps.softmanager:string/tip_auto_upgrade_content_phev	-1	升级过程中车辆将无法行驶且部分车辆控制功能暂时无法使用。\n升级前请确认：\n1.车辆停靠在安全位置；\n2.车辆处于P挡；\n3.制动踏板未踩下；\n4.车辆未处于直流/交流充电或车外放电状态；\n5.升级时间到达前请离开车辆并闭锁。		Во время обновления движение и часть функций управления будут недоступны.\nПеред обновлением убедитесь:\n1. Автомобиль припаркован в безопасном месте.\n2. Выбрано положение P.\n3. Педаль тормоза не нажата.\n4. Не выполняется зарядка постоянным/переменным током или выдача питания наружу.\n5. До назначенного времени вы выйдете и запрёте автомобиль.
+com.incall.apps.softmanager:string/tip_download_notify	-1	下载过程中您不必关注，您可以用正常使用车辆，下载完成后系统将提示您安装		Во время скачивания можно пользоваться автомобилем как обычно. По завершении система предложит установку.
+com.incall.apps.softmanager:string/tip_download_notify_header	-1	温馨提示：		Обратите внимание:
+com.incall.apps.softmanager:string/tip_download_notify_prepare	-1	数据准备中，您可以离开本界面正常使用车辆，数据准备完成后将提醒您升级		Данные готовятся. Можно покинуть этот экран и пользоваться автомобилем. По завершении появится предложение обновиться.
+com.incall.apps.softmanager:string/tip_download_speed	-1	下载速度：%sKB/S		Скорость скачивания: %s КБ/с
+com.incall.apps.softmanager:string/tip_download_use_mobile_data	-1	正在使用基础流量下载新版本		Новая версия скачивается через базовый мобильный трафик
+com.incall.apps.softmanager:string/tip_leave_upgrade_content	-1	本次升级预计耗时%d分钟，升级过程中车辆将无法行驶且部分车辆控制功能暂时无法使用。\n升级前请确认：\n1.车辆停靠在安全位置。\n2.车辆处于P挡。\n3.制动踏板未踩下。\n4.车辆未处于直流/交流充电或车外放电状态。		Обновление займёт примерно %d мин. Движение и часть функций управления будут недоступны.\nПеред обновлением убедитесь:\n1. Автомобиль припаркован в безопасном месте.\n2. Выбрано положение P.\n3. Педаль тормоза не нажата.\n4. Не выполняется зарядка постоянным/переменным током или выдача питания наружу.
+com.incall.apps.softmanager:string/tip_loading_waiting	-1	请稍后		Подождите
+com.incall.apps.softmanager:string/tip_network_error	-1	当前网络不可用		Сеть недоступна
+com.incall.apps.softmanager:string/tip_new_version_default_title	-1	检测到系统更新		Найдено обновление системы
+com.incall.apps.softmanager:string/tip_order_install_time	-1	请选择有效的预约安装时间		Выберите допустимое время установки
+com.incall.apps.softmanager:string/tip_order_install_time_short	-1	预约安装时间需在10分钟以后，请重新选择		Установка должна быть назначена не раньше чем через 10 минут. Выберите другое время.
+com.incall.apps.softmanager:string/tip_order_upgrade_content	-1	本次升级预计耗时%d分钟，升级过程中车辆将无法行驶且部分车辆控制功能暂时无法使用。\n升级前请确认：\n1.车辆停靠在安全位置。\n2.车辆处于P挡。\n3.制动踏板未踩下。\n4.车辆未处于直流/交流充电或车外放电状态。\n5.升级时间到达前请离开车辆并闭锁。		Обновление займёт примерно %d мин. Движение и часть функций управления будут недоступны.\nПеред обновлением убедитесь:\n1. Автомобиль припаркован в безопасном месте.\n2. Выбрано положение P.\n3. Педаль тормоза не нажата.\n4. Не выполняется зарядка постоянным/переменным током или выдача питания наружу.\n5. До назначенного времени вы выйдете и запрёте автомобиль.
+com.incall.apps.softmanager:string/tip_prepare_install_duration	-1	本次安装预计耗时%s分钟		Установка займёт примерно %s мин
+com.incall.apps.softmanager:string/tip_result_check_version_error	-1	检测更新异常		Ошибка проверки обновлений
+com.incall.apps.softmanager:string/tip_upgrade_content	-1	本次升级预计耗时%d分钟，升级过程中车辆将无法行驶且部分车辆控制功能暂时无法使用。\n升级前请确认：\n1.车辆停靠在安全位置。\n2.车辆处于P挡。\n3.制动踏板未踩下。\n4.车辆未处于直流/交流充电或车外放电状态。		Обновление займёт примерно %d мин. Движение и часть функций управления будут недоступны.\nПеред обновлением убедитесь:\n1. Автомобиль припаркован в безопасном месте.\n2. Выбрано положение P.\n3. Педаль тормоза не нажата.\n4. Не выполняется зарядка постоянным/переменным током или выдача питания наружу.
+com.incall.apps.softmanager:string/tip_upgrade_content_cond	-1	升级条件检测中：\n1.请确保车辆已停靠在安全区域。\n2.升级过程中车辆将不能使用。\n3.请确保手刹拉起、挡杆拨到P挡。\n4.本次升级预计时间%d分钟。\n5.升级过程中，仪表、中控短暂熄屏属于正常现象。		Проверка условий обновления:\n1. Автомобиль должен быть припаркован в безопасном месте.\n2. Во время обновления автомобиль недоступен.\n3. Стояночный тормоз должен быть включён, селектор — в P.\n4. Обновление займёт примерно %d мин.\n5. Кратковременное выключение приборки и центрального экрана нормально.
+com.incall.apps.softmanager:string/tip_upgrade_count_down_over	-1	我已阅读以上说明，和		Я прочитал приведённые инструкции и
+com.incall.apps.softmanager:string/tip_upgrade_duration	-1	本次安装预计耗时%s分钟		Установка займёт примерно %s мин
+com.incall.apps.softmanager:string/tip_upgrade_more	-1	你还可以选择		Также можно выбрать
+com.incall.apps.softmanager:string/tip_upgrade_service_agreement	-1	《软件在线升级服务协议》		«Соглашение об онлайн-обновлении ПО»
+com.incall.apps.softmanager:string/tip_upgrade_service_agreement2	-1	，请务必认真仔细阅读理解本协议并严格遵守		. Внимательно прочитайте, поймите и строго соблюдайте соглашение.
+com.incall.apps.softmanager:string/tip_upgrade_title	-1	升级提示：		Об обновлении:
+com.incall.apps.softmanager:string/tip_version_check_failure	-1	异常代码：%s		Код ошибки: %s
+com.incall.apps.softmanager:string/tip_version_latest	-1	已经是最新版本!		Установлена последняя версия
+com.incall.apps.softmanager:string/tip_version_load_failure	-1	版本读取失败		Не удалось прочитать версию
+com.incall.apps.softmanager:string/toast_enable_auto_install	-1	已开启自动升级\n如需更改自动升级时间或关闭该功能请前往系统升级		Автоматическое обновление включено.\nДля изменения времени или выключения откройте обновление системы.
+com.incall.apps.softmanager:string/top_content_check_update	-1	检查更新		Проверка обновлений
+com.incall.apps.softmanager:string/top_content_deploy	-1	数据部署		Подготовка данных
+com.incall.apps.softmanager:string/top_content_install_choose	-1	升级安装		Установка обновления
+com.incall.apps.softmanager:string/top_content_install_result	-1	升级反馈		Результат обновления
+com.incall.apps.softmanager:string/top_content_software_download	-1	版本下载		Скачивание версии
+com.incall.apps.softmanager:string/transmission_gear_condition_fail	-1	请将挡位拨到P挡		Переведите селектор в P
+com.incall.apps.softmanager:string/update_auto_install_time_now	-1	本次修改立即生效		Изменение вступит в силу сразу
+com.incall.apps.softmanager:string/update_channel_error	-1	升级通道异常(%d)		Ошибка канала обновления (%d)
+com.incall.apps.softmanager:string/update_object	-1	升级%s		Обновление %s
+com.incall.apps.softmanager:string/update_operation_version	-1	车辆已是最新版本，是否校正大版本号？		Установлена последняя версия. Исправить основной номер версии?
+com.incall.apps.softmanager:string/update_request_failed	-1	升级请求失败(%d)		Ошибка запроса обновления (%d)
+com.incall.apps.softmanager:string/upgrade_break_dialog	-1	安装中断		Установка прервана
+com.incall.apps.softmanager:string/upgrade_cancel	-1	取消		Отмена
+com.incall.apps.softmanager:string/upgrade_condition_checking	-1	升级条件检查中		Проверка условий обновления
+com.incall.apps.softmanager:string/upgrade_condition_checking_text	-1	车辆升级条件检查中		Проверка условий обновления автомобиля
+com.incall.apps.softmanager:string/upgrade_condition_not_satisfy	-1	安装条件不满足		Условия установки не выполнены
+com.incall.apps.softmanager:string/upgrade_content_title	-1	更新内容		Содержание обновления
+com.incall.apps.softmanager:string/upgrade_factory	-1	工程安装		Инженерная установка
+com.incall.apps.softmanager:string/upgrade_fail	-1	升级失败(%d)		Обновление не удалось (%d)
+com.incall.apps.softmanager:string/upgrade_failed_info_string	-1	失败说明：		Описание сбоя:
+com.incall.apps.softmanager:string/upgrade_info_string	-1	新版本说明：		Описание новой версии:
+com.incall.apps.softmanager:string/upgrade_leave	-1	锁车升级		Обновление после запирания
+com.incall.apps.softmanager:string/upgrade_not_support_usb	-1	当前不支持USB升级		Обновление по USB сейчас не поддерживается
+com.incall.apps.softmanager:string/upgrade_now	-1	立即升级		Обновить сейчас
+com.incall.apps.softmanager:string/upgrade_order	-1	预约升级		Обновление по расписанию
+com.incall.apps.softmanager:string/upgrade_package_downloading	-1	升级包下载中…		Скачивание пакета обновления…
+com.incall.apps.softmanager:string/upgrade_pkg_check_fail	-1	未检查到安装包		Пакет установки не найден
+com.incall.apps.softmanager:string/upgrade_pkg_checking	-1	正在检查安装包…		Проверка пакета установки…
+com.incall.apps.softmanager:string/upgrade_service_agreement_exit	-1	软件升级在线服务协议		Соглашение об онлайн-обновлении ПО
+com.incall.apps.softmanager:string/upgrade_success	-1	升级成功		Обновлено
+com.incall.apps.softmanager:string/upgrade_time	-1	本次安装预计耗时%d分钟		Установка займёт примерно %d мин
+com.incall.apps.softmanager:string/upgrade_tip_title	-1	版本更新：		Обновление версии:
+com.incall.apps.softmanager:string/upgrade_tip_title_1	-1	当前更新：		Текущее обновление:
+com.incall.apps.softmanager:string/upgrade_tips	-1	升级提示：确保安全的前提下，请将车辆调整到以下状态\n1. 保持车辆静止\n2. 手刹拉起\n3. 挡杆拨到P\n4. 启动发动机（有ECU的时候，关闭发动机）		Для обновления убедитесь в безопасности и приведите автомобиль к следующему состоянию:\n1. Полная остановка.\n2. Стояночный тормоз включён.\n3. Селектор в P.\n4. Двигатель запущен (при наличии ECU выключите двигатель).
+com.incall.apps.softmanager:string/upgrade_txt	-1	立即安装		Установить сейчас
+com.incall.apps.softmanager:string/upgrade_warning	-1	使用升级功能，请确保车辆停靠在安全区域。升级过程中，不能驾驶车辆。		Для обновления припаркуйтесь в безопасном месте. Во время обновления движение запрещено.
+com.incall.apps.softmanager:string/upgrade_warning_new	-1	使用升级功能，请确保车辆停放在安全区域。		Для обновления припаркуйтесь в безопасном месте
+com.incall.apps.softmanager:string/upgrading_dialog	-1	安装中		Установка
+com.incall.apps.softmanager:string/upgrading_title	-1	安装中		Установка
+com.incall.apps.softmanager:string/usb_check_please_input_password	-1	请输入口令		Введите пароль
+com.incall.apps.softmanager:string/usb_check_text_info	-1	检测到降级安装，请输入口令后操作		Обнаружена установка более старой версии. Для продолжения введите пароль.
+com.incall.apps.softmanager:string/usb_check_text_info_error	-1	口令检测错误		Неверный пароль
+com.incall.apps.softmanager:string/usb_file_copy_fail	-1	文件拷贝失败(%d)		Не удалось скопировать файлы (%d)
+com.incall.apps.softmanager:string/usb_upgrade	-1	USB升级		Обновление с USB
+com.incall.apps.softmanager:string/usb_upgrade_title	-1	监测到U盘升级包		Найден пакет обновления на USB
+com.incall.apps.softmanager:string/vc_install_condition_fail	-1	检测车控升级条件失败：%d，请重试		Не удалось проверить условия обновления контроллера: %d. Повторите попытку.
+com.incall.apps.softmanager:string/vc_install_condition_fail_energy	-1	蓄电池电量不足，请在电量满足后尝试		Заряд аккумулятора низкий. Обеспечьте достаточный заряд и повторите попытку.
+com.incall.apps.softmanager:string/vc_install_condition_fail_engine	-1	请关闭发动机		Выключите двигатель
+com.incall.apps.softmanager:string/vc_install_condition_fail_gear	-1	请将电源挡位切换到ON挡		Переведите питание в ON
+com.incall.apps.softmanager:string/vc_install_condition_fail_speed	-1	请保持车辆静止		Не перемещайте автомобиль
+com.incall.apps.softmanager:string/vc_install_condition_title	-1	升级条件提示		Условия обновления
+com.incall.apps.softmanager:string/vehicle_upgrade	-1	车辆升级		Обновление автомобиля
+com.incall.apps.softmanager:string/version_android	-1	安卓版本：		Версия Android:
+com.incall.apps.softmanager:string/version_check	-1	版本检查		Проверка версии
+com.incall.apps.softmanager:string/version_collect_fail	-1	版本收集失败(%d)		Не удалось собрать сведения о версиях (%d)
+com.incall.apps.softmanager:string/version_collect_retry	-1	请尝试重新检测版本		Попробуйте проверить версии заново
+com.incall.apps.softmanager:string/version_collect_test	-1	版本收集		Сбор сведений о версиях
+com.incall.apps.softmanager:string/version_collecting	-1	版本收集中…		Сбор сведений о версиях…
+com.incall.apps.softmanager:string/version_cpu	-1	处理器：		Процессор:
+com.incall.apps.softmanager:string/version_detail_title	-1	当前版本详情		Подробности текущей версии
+com.incall.apps.softmanager:string/version_info_detail	-1	详情>		Подробнее >
+com.incall.apps.softmanager:string/version_info_name	-1	当前版本：		Текущая версия:
+com.incall.apps.softmanager:string/version_info_name_1	-1	当前版本：请稍后		Текущая версия: подождите
+com.incall.apps.softmanager:string/version_object	-1	%s版本：		Версия %s:
+com.incall.apps.softmanager:string/version_product	-1	In Call 系统		Система In Call
+com.incall.apps.softmanager:string/version_ram	-1	内存：		Оперативная память:
+com.incall.apps.softmanager:string/version_rom	-1	系统容量：		Ёмкость системного хранилища:
+com.incall.apps.softmanager:string/wait_upgrade_tips_4g	-1	温馨提示：正在使用基础流量下载新版本\n下载过程您不必关注，您可以正常使用车辆，下载完成\n后系统将提示您升级！		Новая версия скачивается через базовый мобильный трафик.\nМожно пользоваться автомобилем как обычно.\nПо завершении система предложит обновление.
+com.incall.apps.softmanager:string/wait_upgrade_tips_wifi	-1	温馨提示：正在使用wifi流量下载新版本\n下载过程您不必关注，您可以正常使用车辆，下载完成\n后系统将提示您升级！		Новая версия скачивается через Wi-Fi.\nМожно пользоваться автомобилем как обычно.\nПо завершении система предложит обновление.
+com.incall.apps.softmanager:string/wait_upgrade_title	-1	检测到系统更新：		Найдено обновление системы:
+com.incall.apps.softmanager:string/wifi_download_tips	-1	当前是WIFI网络连接，是否允许下载		Подключён Wi-Fi. Разрешить скачивание?

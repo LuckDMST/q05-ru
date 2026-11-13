@@ -1,0 +1,122 @@
+com.autopai.car.dialer:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.autopai.car.dialer:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.autopai.car.dialer:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.autopai.car.dialer:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.autopai.car.dialer:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.autopai.car.dialer:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.autopai.car.dialer:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.autopai.car.dialer:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.autopai.car.dialer:string/abc_capital_on	-1	開啟		ВКЛ
+com.autopai.car.dialer:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.autopai.car.dialer:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.autopai.car.dialer:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.autopai.car.dialer:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.autopai.car.dialer:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.autopai.car.dialer:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.autopai.car.dialer:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.autopai.car.dialer:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.autopai.car.dialer:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.autopai.car.dialer:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.autopai.car.dialer:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.autopai.car.dialer:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.autopai.car.dialer:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.autopai.car.dialer:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.autopai.car.dialer:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.autopai.car.dialer:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.autopai.car.dialer:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.autopai.car.dialer:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.autopai.car.dialer:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.autopai.car.dialer:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.autopai.car.dialer:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.autopai.car.dialer:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.autopai.car.dialer:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.autopai.car.dialer:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.autopai.car.dialer:string/app_name	-1	蓝牙电话		Телефон Bluetooth
+com.autopai.car.dialer:string/bluetooth	-1	蓝牙		Bluetooth
+com.autopai.car.dialer:string/bluetooth_name	-1	本机名称		Имя устройства
+com.autopai.car.dialer:string/bluetooth_not_connected_tips	-1	点击连接蓝牙，接打电话更方便		Подключите Bluetooth для удобных звонков
+com.autopai.car.dialer:string/bluetooth_phone_not_connected	-1	蓝牙未连接		Bluetooth не подключён
+com.autopai.car.dialer:string/bluetooth_turned_off	-1	蓝牙未开启		Bluetooth выключен
+com.autopai.car.dialer:string/call	-1	拨号		Набрать
+com.autopai.car.dialer:string/call_ended_or_answer	-1	结束&接听		Завершить и ответить
+com.autopai.car.dialer:string/call_hold_or_answer	-1	保留&接听		Удержать и ответить
+com.autopai.car.dialer:string/call_mute	-1	静音		Без звука
+com.autopai.car.dialer:string/call_name_network_caller	-1	网络通话		Интернет-звонок
+com.autopai.car.dialer:string/call_ringer	-1	铃声		Мелодия вызова
+com.autopai.car.dialer:string/call_state_by_phone_answer	-1	手机接听		Ответить на телефоне
+com.autopai.car.dialer:string/call_state_call_ended	-1	通话结束		Разговор завершён
+com.autopai.car.dialer:string/call_state_hold	-1	挂起中		На удержании
+com.autopai.car.dialer:string/call_toast_network_caller_tip	-1	已切换到手机端，网络通话请在手机端操作		Переключено на телефон. Управляйте интернет-звонком на телефоне.
+com.autopai.car.dialer:string/call_window_text_press	-1	按		Нажмите
+com.autopai.car.dialer:string/call_zoom_out_window	-1	缩小大弹窗		Свернуть большое окно
+com.autopai.car.dialer:string/calling_hint	-1	通话中		Идёт разговор
+com.autopai.car.dialer:string/change_bluetooth	-1	切换蓝牙设备		Сменить устройство Bluetooth
+com.autopai.car.dialer:string/click_tips	-1	请勿过于频繁点击		Не нажимайте слишком часто
+com.autopai.car.dialer:string/confirm	-1	确定		ОК
+com.autopai.car.dialer:string/confirm_that_contacts	-1	是否确认打开同步通讯录开关？		Включить синхронизацию контактов?
+com.autopai.car.dialer:string/connect_bluetooth_device	-1	请先连接蓝牙		Сначала подключите Bluetooth
+com.autopai.car.dialer:string/connected_device	-1	当前已连接设备：		Сейчас подключено:
+com.autopai.car.dialer:string/contact_abnormal_tips	-1	请您在手机端确认是否开启了获取通讯录的权限\n常见操作方式：设置-蓝牙-车机蓝牙名称旁“i”图标。\n若开启权限后仍无法同步，请您忽略/删除设备后重新配对。		Проверьте, разрешён ли на телефоне доступ к контактам.\nОбычно: Настройки → Bluetooth → значок «i» рядом с именем автомобиля.\nЕсли разрешение выдано, но синхронизация не работает, удалите сопряжение и выполните его заново.
+com.autopai.car.dialer:string/contact_sync	-1	同步联系人		Синхронизировать контакты
+com.autopai.car.dialer:string/contacts	-1	通讯录		Контакты
+com.autopai.car.dialer:string/dial_but_is_calling	-1	请您在通话结束后拨号		Дождитесь окончания текущего разговора
+com.autopai.car.dialer:string/dialing	-1	正在呼叫…		Вызов…
+com.autopai.car.dialer:string/dialog_cancel	-1	取消		Отмена
+com.autopai.car.dialer:string/dialog_car_play_change	-1	切换		Переключить
+com.autopai.car.dialer:string/dialog_car_play_tip	-1	Apple CarPlay 已连接，蓝牙电话暂不可用，\n是否切换至Apple CarPlay通话？		Apple CarPlay подключён, телефон Bluetooth временно недоступен.\nПерейти к звонкам через Apple CarPlay?
+com.autopai.car.dialer:string/dialog_confirm	-1	确认		Подтвердить
+com.autopai.car.dialer:string/dialog_know	-1	我知道了		Понятно
+com.autopai.car.dialer:string/empty_people	-1	空联系人		Пустой контакт
+com.autopai.car.dialer:string/enter_bluetooth_name	-1	请输入蓝牙名称		Введите имя Bluetooth
+com.autopai.car.dialer:string/enter_content	-1	请输入搜索内容		Введите поисковый запрос
+com.autopai.car.dialer:string/fail_sync_again	-1	再试一次		Попробовать ещё раз
+com.autopai.car.dialer:string/hfp_connect	-1	蓝牙已连接		Bluetooth подключён
+com.autopai.car.dialer:string/hfp_connect_fail	-1	连接失败，请确定		Не удалось подключиться. Убедитесь, что
+com.autopai.car.dialer:string/hfp_disconnect	-1	蓝牙已断开		Bluetooth отключён
+com.autopai.car.dialer:string/in_the_range	-1	在通信范围内		находится в зоне связи
+com.autopai.car.dialer:string/incoming_hint_call	-1	来电中		Входящий вызов
+com.autopai.car.dialer:string/input_number	-1	请输入电话号码		Введите номер телефона
+com.autopai.car.dialer:string/my_devices_title	-1	我的设备		Мои устройства
+com.autopai.car.dialer:string/no_phone_book_contact	-1	暂无联系人		Контактов пока нет
+com.autopai.car.dialer:string/no_recent_call	-1	暂无通话记录		Истории звонков пока нет
+com.autopai.car.dialer:string/no_search_contact	-1	未搜索到联系人		Контакты не найдены
+com.autopai.car.dialer:string/null_number	-1	请输入电话号码		Введите номер телефона
+com.autopai.car.dialer:string/null_search_contact	-1	无对应联系人		Подходящего контакта нет
+com.autopai.car.dialer:string/permission_dialog_title	-1	电话		Телефон
+com.autopai.car.dialer:string/phone_no_sync	-1	尚未同步通话记录和通讯录		Контакты и история звонков ещё не синхронизированы
+com.autopai.car.dialer:string/phone_number_hint	-1	电话		Телефон
+com.autopai.car.dialer:string/phone_syncing	-1	正在同步通话记录和通讯录		Синхронизация контактов и истории звонков
+com.autopai.car.dialer:string/recent_calls	-1	最近通话		Последние звонки
+com.autopai.car.dialer:string/search_contact	-1	搜索		Поиск
+com.autopai.car.dialer:string/search_contact_phone_number	-1	搜索联系人电话		Поиск номера контакта
+com.autopai.car.dialer:string/search_result	-1	搜索结果		Результаты поиска
+com.autopai.car.dialer:string/select_contact	-1	请选择联系人		Выберите контакт
+com.autopai.car.dialer:string/switch_on	-1	连接蓝牙		Подключить Bluetooth
+com.autopai.car.dialer:string/sync_again	-1	立即同步		Синхронизировать сейчас
+com.autopai.car.dialer:string/sync_failed	-1	同步通话记录和通讯录出现问题，请重试		Ошибка синхронизации контактов и истории звонков. Повторите попытку.
+com.autopai.car.dialer:string/text_modify	-1	修改		Изменить
+com.autopai.car.dialer:string/toast_code_error	-1	验证码错误		Неверный код подтверждения
+com.autopai.car.dialer:string/toast_code_error_more	-1	今日验证码已错误10次，请明日再试		Сегодня код неверно введён 10 раз. Попробуйте завтра.
+com.autopai.car.dialer:string/toast_code_or_network_error	-1	请检查网络或输入本地验证码		Проверьте сеть или введите локальный код подтверждения
+com.autopai.car.dialer:string/toast_code_waiting	-1	校验中，请稍候		Проверка. Подождите.
+com.autopai.car.dialer:string/tv_no_contact_call_log	-1	1、打开目标设备“设置”-“蓝牙”-点击设备名旁边的“i”-打开“同步通讯录”（部分手机设备为“共享联系人”）；\n2、确认完成上述设置后，请您断开目标设备与车机设备的连接，并完成重连；\n3、重连完成后，通讯录将自动开始同步		1. На телефоне: Настройки → Bluetooth → «i» рядом с устройством → включите синхронизацию контактов (на некоторых телефонах — «Общий доступ к контактам»).\n2. После настройки отключите телефон от автомобиля и подключите заново.\n3. После подключения синхронизация контактов начнётся автоматически.
+com.autopai.car.dialer:string/tv_no_contact_log_title	-1	未同步到通话记录和通讯录，请确认是否已授权，常见操作方式：		Контакты и история звонков не синхронизированы. Проверьте разрешения. Обычно:
+com.autopai.car.dialer:string/unknown	-1	未知号码		Неизвестный номер
+com.autopai.car.dialer:string/upper_limit_tips	-1	已达输入上限		Достигнут предел ввода
+com.autopai.car.dialer:string/virtual_number	-1	本机号码		Номер этого устройства
+com.autopai.car.dialer:string/voice	-1	语音来电播报		Голосовое уведомление о вызове
+com.autopai.car.dialer:string/wt_date_picker_friday	-1	五		Пт
+com.autopai.car.dialer:string/wt_date_picker_monday	-1	一		Пн
+com.autopai.car.dialer:string/wt_date_picker_saturday	-1	六		Сб
+com.autopai.car.dialer:string/wt_date_picker_sunday	-1	日		Вс
+com.autopai.car.dialer:string/wt_date_picker_thursday	-1	四		Чт
+com.autopai.car.dialer:string/wt_date_picker_tuesday	-1	二		Вт
+com.autopai.car.dialer:string/wt_date_picker_wednesday	-1	三		Ср
+com.autopai.car.dialer:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.autopai.car.dialer:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.autopai.car.dialer:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.autopai.car.dialer:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.autopai.car.dialer:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.autopai.car.dialer:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.autopai.car.dialer:string/wtinput_text_hint	-1	请输入		Введите текст
+com.autopai.car.dialer:string/wtsearch_text_hint	-1	请输入		Введите запрос

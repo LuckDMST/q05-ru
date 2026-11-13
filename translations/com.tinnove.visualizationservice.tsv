@@ -1,0 +1,441 @@
+com.tinnove.visualizationservice:array/accelerated_mode_array	1	标准		Стандартный
+com.tinnove.visualizationservice:array/accelerated_mode_array	2	强劲		Мощный
+com.tinnove.visualizationservice:array/accelerated_mode_desc_array	0	动力风格柔和		Плавная подача мощности
+com.tinnove.visualizationservice:array/accelerated_mode_desc_array	1	动力风格强劲		Мощная подача мощности
+com.tinnove.visualizationservice:array/accelerated_mode_desc_array	2	动力风格强劲		Мощная подача мощности
+com.tinnove.visualizationservice:array/array_steering_wheel	0	自定义按键1		Левая
+com.tinnove.visualizationservice:array/array_steering_wheel	1	自定义按键2		Правая
+com.tinnove.visualizationservice:array/rearview_mirror_fold_array	0	折叠		Сложить
+com.tinnove.visualizationservice:array/rearview_mirror_fold_array	1	展开		Разложить
+com.tinnove.visualizationservice:array/tai_app_names	0	腾讯地图		Tencent Maps
+com.tinnove.visualizationservice:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.visualizationservice:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.visualizationservice:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.visualizationservice:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.visualizationservice:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.visualizationservice:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.visualizationservice:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.visualizationservice:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.visualizationservice:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.visualizationservice:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.visualizationservice:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.visualizationservice:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.visualizationservice:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.visualizationservice:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.visualizationservice:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.visualizationservice:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.visualizationservice:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.visualizationservice:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.visualizationservice:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.visualizationservice:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.visualizationservice:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.visualizationservice:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.visualizationservice:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.visualizationservice:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.visualizationservice:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.visualizationservice:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.visualizationservice:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.visualizationservice:string/accelerated_normal	-1	标准		Стандартный
+com.tinnove.visualizationservice:string/accelerated_normal_desc	-1	动力风格平稳		Ровный отклик на акселератор.
+com.tinnove.visualizationservice:string/accelerated_slow_desc	-1	动力风格柔和		Мягкий отклик на акселератор.
+com.tinnove.visualizationservice:string/accelerated_strong	-1	强劲		Динамичный
+com.tinnove.visualizationservice:string/accelerated_strong_desc	-1	动力风格强劲		Более резкий отклик на акселератор.
+com.tinnove.visualizationservice:string/assistant	-1	辅助		Ассистенты
+com.tinnove.visualizationservice:string/bluetooth	-1	蓝牙		Bluetooth
+com.tinnove.visualizationservice:string/bluetooth_had_connected	-1	蓝牙已连接		Bluetooth подключён
+com.tinnove.visualizationservice:string/bluetooth_had_disconnected	-1	蓝牙已断开		Bluetooth отключён
+com.tinnove.visualizationservice:string/bluetooth_turned_off	-1	蓝牙未开启		Bluetooth выключен
+com.tinnove.visualizationservice:string/body	-1	车身		Кузов
+com.tinnove.visualizationservice:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.visualizationservice:string/brake_assist_mode_normal	-1	标准		Стандартный
+com.tinnove.visualizationservice:string/brake_assist_mode_sport	-1	运动		Спортивный
+com.tinnove.visualizationservice:string/brightness	-1	亮度		Яркость
+com.tinnove.visualizationservice:string/broadcast_disconnected	-1	WiFi已断开		Wi-Fi отключён
+com.tinnove.visualizationservice:string/button_end_tip_str	-1	提示		Уведомление
+com.tinnove.visualizationservice:string/call_answer	-1	接听		Ответить
+com.tinnove.visualizationservice:string/call_ended_or_answer	-1	结束&接听		Завершить и ответить
+com.tinnove.visualizationservice:string/call_hangup	-1	挂断		Завершить
+com.tinnove.visualizationservice:string/call_hold_or_answer	-1	保留&接听		Удержать и ответить
+com.tinnove.visualizationservice:string/call_mute	-1	静音		Без звука
+com.tinnove.visualizationservice:string/call_name_network_caller	-1	网络通话		Интернет-звонок
+com.tinnove.visualizationservice:string/call_notification_answer_action	-1	接听		Ответить
+com.tinnove.visualizationservice:string/call_notification_hang_up_action	-1	挂断		Завершить
+com.tinnove.visualizationservice:string/call_ringer	-1	铃声		Мелодия вызова
+com.tinnove.visualizationservice:string/call_state_by_phone_answer	-1	手机接听		Ответить на телефоне
+com.tinnove.visualizationservice:string/call_state_call_ended	-1	通话结束		Разговор завершён
+com.tinnove.visualizationservice:string/call_state_hold	-1	挂起中		На удержании
+com.tinnove.visualizationservice:string/call_toast_network_caller_tip	-1	已切换到手机端，网络通话请在手机端操作		Переключено на телефон. Управляйте интернет-звонком на телефоне.
+com.tinnove.visualizationservice:string/call_window_text_press	-1	按		Нажмите
+com.tinnove.visualizationservice:string/call_zoom_out_window	-1	缩小大弹窗		Свернуть большое окно
+com.tinnove.visualizationservice:string/calling_hint	-1	通话中		Идёт разговор
+com.tinnove.visualizationservice:string/cancel_goto_bluetooth_setting	-1	取消(%d s)		Отмена (%d с)
+com.tinnove.visualizationservice:string/car_out_side_shout_title	-1	选择车外喊话内容		Выберите сообщение для наружного громкоговорителя
+com.tinnove.visualizationservice:string/car_out_take_photo	-1	车外拍照		Фото снаружи
+com.tinnove.visualizationservice:string/car_outside_shouting	-1	车外喊话		Наружный громкоговоритель
+com.tinnove.visualizationservice:string/car_product_serial_changan	-1	长安汽车		Changan
+com.tinnove.visualizationservice:string/car_product_serial_deepal	-1	深蓝		Deepal
+com.tinnove.visualizationservice:string/car_product_serial_ioi	-1	启源		Qiyuan
+com.tinnove.visualizationservice:string/car_product_serial_mazda	-1	马自达		Mazda
+com.tinnove.visualizationservice:string/car_product_serial_uni	-1	引力域		UNI
+com.tinnove.visualizationservice:string/car_voice_switch	-1	音源切换		Переключение источника звука
+com.tinnove.visualizationservice:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.visualizationservice:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.visualizationservice:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.visualizationservice:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.visualizationservice:string/classic_theme	-1	经典主题		Классика
+com.tinnove.visualizationservice:string/click_too_fast	-1	你的手速太快了		Слишком частые нажатия.
+com.tinnove.visualizationservice:string/click_too_frequent_operation_remind	-1	操作频率过快，请稍后再试哦		Действия выполняются слишком часто. Попробуйте позже.
+com.tinnove.visualizationservice:string/conn_hotspot_password_edit_err_tip	-1	热点密码修改失败		Не удалось изменить пароль точки доступа
+com.tinnove.visualizationservice:string/conn_hotspot_password_edit_success_tip	-1	热点密码修改成功		Пароль точки доступа изменён
+com.tinnove.visualizationservice:string/cont_change_display_mode_on_ai	-1	AI主题暂不支持深浅色模式切换		Для темы ИИ переключение между светлым и тёмным режимами пока недоступно.
+com.tinnove.visualizationservice:string/control_tile_back_door	-1	背门		Багажник
+com.tinnove.visualizationservice:string/control_tile_click_pause	-1	暂停		Пауза
+com.tinnove.visualizationservice:string/control_tile_closed	-1	全关		Закрыть
+com.tinnove.visualizationservice:string/control_tile_open	-1	全开		Открыть
+com.tinnove.visualizationservice:string/control_tile_parking_available	-1	行车中无法操作背门		Во время движения нельзя управлять багажником
+com.tinnove.visualizationservice:string/control_tile_sun_shade	-1	遮阳帘		Шторка
+com.tinnove.visualizationservice:string/control_tile_sun_shade_close	-1	遮阳帘已关闭		Шторка закрыта
+com.tinnove.visualizationservice:string/control_tile_sun_shade_open	-1	遮阳帘已开启		Шторка открыта
+com.tinnove.visualizationservice:string/control_tile_ventilate	-1	通风		Проветр.
+com.tinnove.visualizationservice:string/copilot_seat	-1	副驾座椅		Сиденье пассажира
+com.tinnove.visualizationservice:string/copilot_zero_seat	-1	副驾零重力座椅		Невесомость: пассажир
+com.tinnove.visualizationservice:string/custom_key_beaten_dudu	-1	暴打嘟嘟		Игра с Дуду
+com.tinnove.visualizationservice:string/custom_key_contact_empty	-1	无对应联系人		Контакт не найден
+com.tinnove.visualizationservice:string/custom_key_search_contact	-1	搜索联系人电话		Поиск номера контакта
+com.tinnove.visualizationservice:string/custom_key_search_contact_empty	-1	未搜索到联系人		Контакты не найдены.
+com.tinnove.visualizationservice:string/custom_key_select_contact	-1	请选择联系人		Контакт
+com.tinnove.visualizationservice:string/custom_key_select_quick_contact	-1	选择快捷联系人		Выберите контакт быстрого вызова.
+com.tinnove.visualizationservice:string/custom_key_set_bluetooth_tip	-1	使用该功能，需连接蓝牙并同步通讯录		Подключите телефон по Bluetooth и синхронизируйте контакты.
+com.tinnove.visualizationservice:string/custom_key_sync_contact	-1	同步通讯录		Синхронизировать контакты
+com.tinnove.visualizationservice:string/custom_key_tip_calling	-1	请您在通话结束后拨号		Дождитесь завершения текущего звонка.
+com.tinnove.visualizationservice:string/device_management	-1	互联设备		Подключённые устройства
+com.tinnove.visualizationservice:string/dialing	-1	正在呼叫…		Вызов…
+com.tinnove.visualizationservice:string/dialog_cancel	-1	取消		Отмена
+com.tinnove.visualizationservice:string/dialog_confirm	-1	确定		ОК
+com.tinnove.visualizationservice:string/dialog_device_name_modify_success_tip	-1	本机名称修改成功		Имя устройства изменено
+com.tinnove.visualizationservice:string/dialog_edit_hotspot_password	-1	修改热点密码		Изменить пароль точки доступа
+com.tinnove.visualizationservice:string/dialog_login_title	-1	登录		Вход
+com.tinnove.visualizationservice:string/dialog_name_spaces_tips	-1	名称不能包含空格		Имя не должно содержать пробелы
+com.tinnove.visualizationservice:string/dialog_pwd_beyond_the_limit	-1	密码过长		Слишком длинный пароль
+com.tinnove.visualizationservice:string/dialog_pwd_beyond_the_limit_short	-1	密码过短		Слишком короткий пароль
+com.tinnove.visualizationservice:string/disconnect_wlan	-1	断开网络连接		Отключиться от сети
+com.tinnove.visualizationservice:string/display	-1	显示		Изображение
+com.tinnove.visualizationservice:string/display_second_display	-1	显示屏		Экран
+com.tinnove.visualizationservice:string/display_second_instrument	-1	仪表		Приборная панель
+com.tinnove.visualizationservice:string/door_and_window	-1	门窗		Двери и окна
+com.tinnove.visualizationservice:string/door_and_window_lock	-1	解闭锁		Запирание и отпирание
+com.tinnove.visualizationservice:string/drive_control_suspension_comfort	-1	悬架舒适度		Комфорт подвески
+com.tinnove.visualizationservice:string/drive_control_suspension_comfort_normal	-1	标准		Стандартный
+com.tinnove.visualizationservice:string/drive_control_suspension_comfort_soft	-1	舒适		Комфорт
+com.tinnove.visualizationservice:string/drive_control_suspension_comfort_sport	-1	运动		Спорт
+com.tinnove.visualizationservice:string/drive_control_suspension_height	-1	悬架高度		Высота подвески
+com.tinnove.visualizationservice:string/drive_control_suspension_height_auto	-1	自适应		Адаптивный
+com.tinnove.visualizationservice:string/drive_control_suspension_height_high	-1	高		Высокий
+com.tinnove.visualizationservice:string/drive_control_suspension_height_low	-1	低		Низкий
+com.tinnove.visualizationservice:string/drive_control_suspension_height_middle	-1	中		Средний
+com.tinnove.visualizationservice:string/driving_control	-1	驾驶操控		Управление автомобилем
+com.tinnove.visualizationservice:string/electronically_controlled_suspension	-1	电控悬架		Электронное управление подвеской
+com.tinnove.visualizationservice:string/else_body_setting	-1	其他部件		Другие элементы кузова
+com.tinnove.visualizationservice:string/emergency_recording	-1	紧急录制		Экстренная запись
+com.tinnove.visualizationservice:string/energy	-1	能量		Энергия
+com.tinnove.visualizationservice:string/energy_cost_statistic	-1	能耗统计		Статистика расхода энергии
+com.tinnove.visualizationservice:string/energy_recovery	-1	能量回收		Рекуперация
+com.tinnove.visualizationservice:string/energy_recovery_strong	-1	强		Сильная
+com.tinnove.visualizationservice:string/energy_recovery_weak	-1	弱		Слабая
+com.tinnove.visualizationservice:string/epb_tips	-1	请先踩下制动踏板		Сначала нажмите педаль тормоза
+com.tinnove.visualizationservice:string/frequent_operation	-1	操作过于频繁，请稍后再试		Слишком частые действия. Повторите попытку позже.
+com.tinnove.visualizationservice:string/goto_bluetooth_setting	-1	去设置		Открыть настройки
+com.tinnove.visualizationservice:string/guidance_tip_answer	-1	接听		Ответить
+com.tinnove.visualizationservice:string/guidance_tip_hangup	-1	挂断		Завершить
+com.tinnove.visualizationservice:string/guidance_tip_title	-1	使用方向盘按键进行快捷操作		Быстрые действия — кнопками на руле.
+com.tinnove.visualizationservice:string/idd	-1	能量		Энергия
+com.tinnove.visualizationservice:string/idd_energy_save_mode_enter_confirm_positive	-1	确认开启		Подтвердить включение
+com.tinnove.visualizationservice:string/idd_energy_save_mode_enter_desc	-1	开启超级省电模式后，车辆将以最低能耗行驶：		Максимальное энергосбережение снижает расход энергии:
+com.tinnove.visualizationservice:string/idd_energy_save_mode_enter_progress_tittle	-1	超级省电模式开启中		Включение максимального энергосбережения
+com.tinnove.visualizationservice:string/idd_energy_save_mode_enter_title	-1	确定开启超级省电模式吗?		Включить максимальное энергосбережение?
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_confirm_negative	-1	取消（%1$ds）		Отмена (%1$d с)
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_confirm_positive	-1	确认退出		Подтвердить выход
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_confirm_title	-1	确定退出超级省电模式吗?		Выйти из максимального энергосбережения?
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_failed_toast	-1	超级省电模式退出失败		Не удалось выйти из максимального энергосбережения
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_progress_tittle	-1	超级省电模式退出中		Выход из максимального энергосбережения
+com.tinnove.visualizationservice:string/idd_energy_save_mode_exit_success_toast	-1	超级省电模式退出成功		Максимальное энергосбережение выключено
+com.tinnove.visualizationservice:string/idd_energy_save_mode_function_disable_with_ads_toast	-1	已开启超级省电模式，该功能不可用		В режиме максимального энергосбережения эта функция недоступна.
+com.tinnove.visualizationservice:string/idd_energy_save_mode_plz_exit_ads_first_toast	-1	请先退出辅助驾驶		Сначала выйдите из помощи водителю
+com.tinnove.visualizationservice:string/idd_energy_save_mode_retry_after_acc_on_toast	-1	请上电后重试		Включите питание и повторите попытку
+com.tinnove.visualizationservice:string/input_edt_tips	-1	请输入内容		Введите текст
+com.tinnove.visualizationservice:string/input_edt_voice_age	-1	年龄		Возраст
+com.tinnove.visualizationservice:string/input_edt_voice_name	-1	声纹名称		Название голосового профиля
+com.tinnove.visualizationservice:string/input_edt_voice_sex	-1	性别		Пол
+com.tinnove.visualizationservice:string/input_not_set	-1	未设置		Не задано
+com.tinnove.visualizationservice:string/input_wlan_password_tip	-1	请输入WLAN密码		Введите пароль Wi-Fi
+com.tinnove.visualizationservice:string/inside_lighting	-1	车内		В салоне
+com.tinnove.visualizationservice:string/intelligent_driving	-1	智驾		Ассистенты вождения
+com.tinnove.visualizationservice:string/intelligent_driving_driving	-1	行车辅助		Помощь при вождении
+com.tinnove.visualizationservice:string/intelligent_driving_security	-1	安全辅助		Активная безопасность
+com.tinnove.visualizationservice:string/intelligent_park	-1	泊车		Парковка
+com.tinnove.visualizationservice:string/journey	-1	行程		Поездки
+com.tinnove.visualizationservice:string/lane_support	-1	行车辅助		Помощь при вождении
+com.tinnove.visualizationservice:string/light	-1	灯光		Освещение
+com.tinnove.visualizationservice:string/lighting_tab_atmosphere_light	-1	氛围灯		Контурная подсветка
+com.tinnove.visualizationservice:string/lighting_tab_car_light	-1	车灯		Наружное освещение
+com.tinnove.visualizationservice:string/low_speed_clew_tone	-1	低速提示音		Звук на малой скорости
+com.tinnove.visualizationservice:string/main_seat	-1	主驾座椅		Сиденье водителя
+com.tinnove.visualizationservice:string/main_zero_seat	-1	主驾零重力座椅		Невесомость: водитель
+com.tinnove.visualizationservice:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.visualizationservice:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.visualizationservice:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.visualizationservice:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.visualizationservice:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.visualizationservice:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.visualizationservice:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.visualizationservice:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.visualizationservice:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.visualizationservice:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.visualizationservice:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.visualizationservice:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.visualizationservice:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.visualizationservice:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.visualizationservice:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.visualizationservice:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.visualizationservice:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.visualizationservice:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.visualizationservice:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.visualizationservice:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.visualizationservice:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.visualizationservice:string/mirror_fold	-1	后视镜折叠		Сложить зеркала
+com.tinnove.visualizationservice:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.visualizationservice:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.visualizationservice:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.visualizationservice:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.visualizationservice:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.visualizationservice:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.visualizationservice:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.visualizationservice:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.visualizationservice:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.visualizationservice:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.visualizationservice:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.visualizationservice:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.visualizationservice:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.visualizationservice:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.visualizationservice:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.visualizationservice:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.visualizationservice:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.visualizationservice:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.visualizationservice:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.visualizationservice:string/name_beyond_the_limit	-1	名称过长		Слишком длинное название.
+com.tinnove.visualizationservice:string/network	-1	网络		Сеть
+com.tinnove.visualizationservice:string/no_custom_content	-1	无自定义内容		Нет своего содержимого
+com.tinnove.visualizationservice:string/no_more_reminders	-1	不再提醒		Не напоминать
+com.tinnove.visualizationservice:string/open_bluetooth_title	-1	连接蓝牙		Подключить Bluetooth
+com.tinnove.visualizationservice:string/open_motion_sickness_relief_tip	-1	晕车舒缓开启后，将调节动力、能量回收及转向助力模式，请确认是否开启？		Облегчение укачивания изменит настройки тяги, рекуперации и усиления руля. Включить?
+com.tinnove.visualizationservice:string/operate_when_acc_off	-1	请上电后操作		Сначала включите питание
+com.tinnove.visualizationservice:string/osd_phone_volume	-1	电话		Разговор
+com.tinnove.visualizationservice:string/osd_volume	-1	音量		Громкость
+com.tinnove.visualizationservice:string/out_rearview_mirror	-1	后视镜调节		Настройка зеркал
+com.tinnove.visualizationservice:string/out_rearview_mirror_left	-1	调节\n左后视镜		Левое зеркало
+com.tinnove.visualizationservice:string/out_rearview_mirror_right	-1	调节\n右后视镜		Правое зеркало
+com.tinnove.visualizationservice:string/outside_lighting	-1	车外		Снаружи
+com.tinnove.visualizationservice:string/outside_shouting_set_success	-1	车外喊话卡片设置成功		Карточка наружного громкоговорителя настроена
+com.tinnove.visualizationservice:string/park	-1	泊车辅助		Помощь при парковке
+com.tinnove.visualizationservice:string/password_input_error	-1	输入不符合规则		Введённые данные не соответствуют правилам
+com.tinnove.visualizationservice:string/password_spaces_tips	-1	密码不能包含空格		Пароль не должен содержать пробелы
+com.tinnove.visualizationservice:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.visualizationservice:string/please_choose_contact	-1	请选择联系人		Выберите контакт
+com.tinnove.visualizationservice:string/pwd_rule_tips	-1	密码必须包含字母、数字、特殊字符中任意两类		Пароль должен содержать символы как минимум двух типов: буквы, цифры или специальные символы.
+com.tinnove.visualizationservice:string/re_drive_style_ai	-1	Ai智能		Умный режим ИИ
+com.tinnove.visualizationservice:string/re_drive_style_ai_adventurer	-1	冒险家		Искатель приключений
+com.tinnove.visualizationservice:string/re_drive_style_ai_adventurer_desc	-1	通常保持较高的驾驶节奏，喜欢迅速相应交通情况		Обычно поддерживает высокий темп и предпочитает быстро реагировать на дорожную обстановку.
+com.tinnove.visualizationservice:string/re_drive_style_ai_benchmark_driver	-1	标杆司机		Образцовый водитель
+com.tinnove.visualizationservice:string/re_drive_style_ai_benchmark_driver_desc	-1	习惯平稳驾驶，注重流畅的驾驶体验，始终保持舒适合安全的平衡		Привык к плавной езде, ценит спокойное движение и баланс комфорта и безопасности.
+com.tinnove.visualizationservice:string/re_drive_style_ai_current_style	-1	当前风格：		Текущий стиль:
+com.tinnove.visualizationservice:string/re_drive_style_ai_desc	-1	根据驾驶习惯，智能生成定制化风格		Создаёт индивидуальные настройки по привычкам водителя.
+com.tinnove.visualizationservice:string/re_drive_style_ai_detail_parameters	-1	详细参数		Подробные параметры
+com.tinnove.visualizationservice:string/re_drive_style_ai_detailed_parameters	-1	详细参数		Подробные параметры
+com.tinnove.visualizationservice:string/re_drive_style_ai_energy_saving	-1	节能大师		Мастер экономии
+com.tinnove.visualizationservice:string/re_drive_style_ai_energy_saving_desc	-1	驾驶温和细腻，很少有突如其来的动作，追求极致的能耗体验		Мягко и аккуратно управляет автомобилем, избегает резких действий и стремится к минимальному расходу энергии.
+com.tinnove.visualizationservice:string/re_drive_style_ai_land_pilot	-1	陆地飞行员		Наземный пилот
+com.tinnove.visualizationservice:string/re_drive_style_ai_land_pilot_desc	-1	喜欢快速，灵活的驾驶方式，注重驾驶乐趣合速度感		Предпочитает быстрый и гибкий стиль управления, ценит удовольствие от вождения и ощущение скорости.
+com.tinnove.visualizationservice:string/re_drive_style_ai_my_drive_radar	-1	我的驾驶雷达		Мой профиль вождения
+com.tinnove.visualizationservice:string/re_drive_style_ai_my_drive_style	-1	我的驾驶风格		Мой стиль вождения
+com.tinnove.visualizationservice:string/re_drive_style_ai_steady_helmsman	-1	稳健掌舵者		Осторожный водитель
+com.tinnove.visualizationservice:string/re_drive_style_ai_steady_helmsman_desc	-1	对交通状况保持高度警觉，注重安全，采取更为保守的驾驶方式		Внимательно следит за дорожной обстановкой, ценит безопасность и выбирает более сдержанный стиль.
+com.tinnove.visualizationservice:string/re_drive_style_ai_wind_boy	-1	追风少年		Навстречу ветру
+com.tinnove.visualizationservice:string/re_drive_style_ai_wind_boy_desc	-1	驾驶控制力强，能够在不同情况下作出快速反应		Уверенно управляет автомобилем и быстро реагирует в разных ситуациях.
+com.tinnove.visualizationservice:string/re_drive_style_ai_zen_practitioners	-1	禅意行者		Спокойный путник
+com.tinnove.visualizationservice:string/re_drive_style_ai_zen_practitioners_desc	-1	驾驶稳定且有节奏，通常保持均匀驾驶速度，注重舒适性和轻松感		Едет ровно и размеренно, поддерживает равномерную скорость, ценит комфорт и расслабленность.
+com.tinnove.visualizationservice:string/re_drive_style_comfortm	-1	舒适		Комфорт
+com.tinnove.visualizationservice:string/re_drive_style_custom	-1	自定义		Индивидуальный
+com.tinnove.visualizationservice:string/re_drive_style_eco	-1	经济		Эко
+com.tinnove.visualizationservice:string/re_drive_style_exclusive	-1	个性化		Индивидуальный
+com.tinnove.visualizationservice:string/re_drive_style_normal	-1	标准		Стандартный
+com.tinnove.visualizationservice:string/re_drive_style_sports	-1	运动		Спорт
+com.tinnove.visualizationservice:string/rearview_mirror_adjustment_notice	-1	通过方向盘右侧按键可以调节后视镜		Регулируйте зеркала кнопками на правой стороне руля.
+com.tinnove.visualizationservice:string/report_monthly	-1	月度报告		Отчёт за месяц
+com.tinnove.visualizationservice:string/save	-1	保存		Сохранить
+com.tinnove.visualizationservice:string/scene_rubik_cube	-1	场景魔方		Конструктор сценариев
+com.tinnove.visualizationservice:string/seat	-1	座椅		Сиденья
+com.tinnove.visualizationservice:string/seat_adjust	-1	主驾位置调节与记忆		Положение и память сиденья водителя
+com.tinnove.visualizationservice:string/seat_lumbar_support	-1	腰托		Поясничная поддержка
+com.tinnove.visualizationservice:string/seat_memory_backup	-1	备用		Запасное
+com.tinnove.visualizationservice:string/seat_memory_drive	-1	驾驶		Вождение
+com.tinnove.visualizationservice:string/seat_memory_rest	-1	休息		Отдых
+com.tinnove.visualizationservice:string/seat_window	-1	座椅门窗		Сиденья и окна
+com.tinnove.visualizationservice:string/security	-1	安全		Безопасность
+com.tinnove.visualizationservice:string/sentinel	-1	哨兵模式		Режим охраны
+com.tinnove.visualizationservice:string/shortcut	-1	快捷		Быстрый доступ
+com.tinnove.visualizationservice:string/shortcut_contacts_set_success	-1	快捷联系人设置成功		Быстрый контакт настроен
+com.tinnove.visualizationservice:string/shortcut_tel	-1	快捷电话		Быстрый вызов
+com.tinnove.visualizationservice:string/shortcut_tel_set_unsuccess	-1	快捷电话设置未完成		Настройка быстрого вызова не завершена
+com.tinnove.visualizationservice:string/shouting_card_add_oil	-1	我要加油		Мне нужна заправка
+com.tinnove.visualizationservice:string/shouting_card_courtesy_pedestrian	-1	礼让行人		Уступить
+com.tinnove.visualizationservice:string/shouting_card_i_am_here	-1	我在这里		Я здесь
+com.tinnove.visualizationservice:string/shouting_card_no_phone	-1	别看手机		Не смотрите в телефон
+com.tinnove.visualizationservice:string/shouting_card_rear_warning	-1	倒车注意		Осторожно, движение задним ходом
+com.tinnove.visualizationservice:string/show_number_clock_am	-1	上午		До полудня
+com.tinnove.visualizationservice:string/show_number_clock_pm	-1	下午		После полудня
+com.tinnove.visualizationservice:string/smart_interaction	-1	智慧交互		Умные функции
+com.tinnove.visualizationservice:string/snack_bar_confirm	-1	取消(%d s)		Отмена (%d с)
+com.tinnove.visualizationservice:string/snack_bar_go	-1	确认		Подтвердить
+com.tinnove.visualizationservice:string/software_info	-1	通用设置		Общие настройки
+com.tinnove.visualizationservice:string/sound	-1	声音		Звук
+com.tinnove.visualizationservice:string/steering_assist_mode_ease	-1	轻巧		Лёгкий
+com.tinnove.visualizationservice:string/steering_assist_mode_link	-1	联动		По режиму движения
+com.tinnove.visualizationservice:string/steering_assist_mode_normal	-1	标准		Стандартный
+com.tinnove.visualizationservice:string/steering_assist_mode_sport	-1	运动		Спорт
+com.tinnove.visualizationservice:string/steering_assist_mode_steady	-1	沉稳		Увесистый
+com.tinnove.visualizationservice:string/steering_assist_style	-1	转向风格		Усилие на руле
+com.tinnove.visualizationservice:string/steering_wheel	-1	方向盘		Руль
+com.tinnove.visualizationservice:string/steering_wheel_diy	-1	方向盘自定义		Настройка руля
+com.tinnove.visualizationservice:string/steering_wheel_mute	-1	静音		Без звука
+com.tinnove.visualizationservice:string/storage_manage	-1	内存管理		Управление памятью
+com.tinnove.visualizationservice:string/string_phone	-1	电话		Телефон
+com.tinnove.visualizationservice:string/string_please_select_contact	-1	请选择联系人		Выберите контакт
+com.tinnove.visualizationservice:string/string_steering_wheel_select_contact_hint	-1	搜索联系人电话		Поиск номера контакта
+com.tinnove.visualizationservice:string/string_steering_wheel_title_tab_left_short	-1	自定义按键1		Левая
+com.tinnove.visualizationservice:string/string_steering_wheel_title_tab_right_short	-1	自定义按键2		Правая
+com.tinnove.visualizationservice:string/system	-1	系统		Система
+com.tinnove.visualizationservice:string/theme_second	-1	赛博主题		Кибер-тема
+com.tinnove.visualizationservice:string/theme_setting	-1	主题设置		Темы
+com.tinnove.visualizationservice:string/theme_switch_success	-1	主题应用成功		Тема применена
+com.tinnove.visualizationservice:string/theme_third	-1	国风主题		Китайский стиль
+com.tinnove.visualizationservice:string/tile_ambient_lighting	-1	氛围灯		Подсветка салона
+com.tinnove.visualizationservice:string/tile_auto_hold	-1	自动驻车		Автоудержание
+com.tinnove.visualizationservice:string/tile_child_lock_left	-1	左童锁		Детский замок слева
+com.tinnove.visualizationservice:string/tile_child_lock_right	-1	右童锁		Детский замок справа
+com.tinnove.visualizationservice:string/tile_discharge	-1	对外放电		Внешнее питание
+com.tinnove.visualizationservice:string/tile_display_mode	-1	显示模式		Режим отображения
+com.tinnove.visualizationservice:string/tile_display_mode_day	-1	浅色		Светлый режим
+com.tinnove.visualizationservice:string/tile_display_mode_night	-1	深色		Тёмный режим
+com.tinnove.visualizationservice:string/tile_electric_tail	-1	电动尾翼		Электрический спойлер
+com.tinnove.visualizationservice:string/tile_emergency_mode	-1	低电量模式		Режим при низком заряде
+com.tinnove.visualizationservice:string/tile_emergency_mode_tips	-1	激活应急模式后，将牺牲部分舒适性和动力性，是否确定进入？		В аварийном режиме снизятся комфорт и динамика автомобиля. Включить режим?
+com.tinnove.visualizationservice:string/tile_esc	-1	车身稳定		Система стабилизации
+com.tinnove.visualizationservice:string/tile_hdc	-1	陡坡缓降		Помощь при спуске
+com.tinnove.visualizationservice:string/tile_light_auto	-1	自动大灯		Автосвет
+com.tinnove.visualizationservice:string/tile_light_marker	-1	示廓灯		Габариты
+com.tinnove.visualizationservice:string/tile_low_speed_clew_tone	-1	低速提示音		Звук на малой скорости
+com.tinnove.visualizationservice:string/tile_one_key_power_off	-1	一键下电		Выключить питание
+com.tinnove.visualizationservice:string/tile_one_key_power_off_acc_tips	-1	请上电后再试		Включите питание и повторите попытку.
+com.tinnove.visualizationservice:string/tile_one_key_power_off_cancel	-1	取消（%ds）		Отмена (%d с)
+com.tinnove.visualizationservice:string/tile_one_key_power_off_exhibition_mode_tips	-1	展车模式下该功能不可用，您可试驾体验		В выставочном режиме эта функция недоступна. Попробуйте её во время тест-драйва.
+com.tinnove.visualizationservice:string/tile_one_key_power_off_gear_p_tips	-1	请切换至P挡后操作		Перед выполнением переведите селектор в положение P.
+com.tinnove.visualizationservice:string/tile_one_key_power_off_tips	-1	确定要一键下电吗？		Вы уверены, что хотите выключить питание?
+com.tinnove.visualizationservice:string/tile_one_key_power_off_trailer_mode_tips	-1	请关闭拖车模式后操作		Перед выключением питания отключите режим прицепа.
+com.tinnove.visualizationservice:string/tile_out_rearview_mirror	-1	后视镜调节		Настройка зеркал
+com.tinnove.visualizationservice:string/tile_rear_fog_lamp	-1	雾灯		Противотуманки
+com.tinnove.visualizationservice:string/tile_rear_seat_belts	-1	后排安全带		Ремни задних сидений
+com.tinnove.visualizationservice:string/tile_seat_backup	-1	备用位置		Запасное положение
+com.tinnove.visualizationservice:string/tile_seat_drive	-1	驾驶位置		Положение водителя
+com.tinnove.visualizationservice:string/tile_seat_rest	-1	休息位置		Положение для отдыха
+com.tinnove.visualizationservice:string/tile_sentinel_mode_pre	-1	预开启		Предварительное включение
+com.tinnove.visualizationservice:string/tile_theme_more	-1	主题设置		Темы
+com.tinnove.visualizationservice:string/tip_battery_retention_target	-1	电池电量低于已设置的目标电量时，车辆将启动增程器为电池充电，将电量维持在目标电量附近		Если заряд батареи ниже заданного уровня, автомобиль запустит двигатель для её зарядки и будет поддерживать заряд около заданного уровня.
+com.tinnove.visualizationservice:string/tip_cancel	-1	取消		Отмена
+com.tinnove.visualizationservice:string/tip_confirm	-1	确认		Подтвердить
+com.tinnove.visualizationservice:string/tip_tittle_warm	-1	温馨提示		Обратите внимание
+com.tinnove.visualizationservice:string/tip_toast_seat_adjust_error	-1	位置调用失败		Не удалось восстановить положение
+com.tinnove.visualizationservice:string/tip_toast_seat_adjust_fail	-1	座椅运动中，座椅位置调用失败		Сиденье движется. Не удалось восстановить положение.
+com.tinnove.visualizationservice:string/tip_toast_seat_adjust_prohibit	-1	为保障行驶安全，请使用物理按键调节		Для безопасности движения используйте физические кнопки регулировки.
+com.tinnove.visualizationservice:string/tip_toast_seat_adjust_success	-1	位置调用成功		Положение восстановлено
+com.tinnove.visualizationservice:string/tip_toast_seat_apply_prohibit	-1	车辆未处于P挡，位置调用失败		Для вызова положения сиденья включите режим P.
+com.tinnove.visualizationservice:string/tip_toast_seat_memory_fail	-1	位置记忆失败		Не удалось сохранить положение.
+com.tinnove.visualizationservice:string/tip_toast_seat_memory_moving	-1	座椅运动中，位置记忆失败		Не удалось сохранить положение: сиденье движется.
+com.tinnove.visualizationservice:string/tip_toast_seat_memory_no_data	-1	当前位置无数据，请先保存座椅位置		Положение ещё не задано. Сначала сохраните его.
+com.tinnove.visualizationservice:string/tip_toast_seat_memory_success	-1	位置记忆成功		Положение сохранено.
+com.tinnove.visualizationservice:string/too_frequent_operation_remind	-1	操作频率过快，请稍后再试哦		Действия выполняются слишком часто. Попробуйте позже.
+com.tinnove.visualizationservice:string/unknown	-1	未知号码		Неизвестный номер
+com.tinnove.visualizationservice:string/vehicle_light	-1	车灯		Освещение
+com.tinnove.visualizationservice:string/vehicle_phone_link	-1	手机互联		Подключение телефона
+com.tinnove.visualizationservice:string/virtual_number	-1	本机号码		Номер этого устройства
+com.tinnove.visualizationservice:string/vision	-1	视觉		Изображение
+com.tinnove.visualizationservice:string/voice	-1	语音来电播报		Голосовое уведомление о вызове
+com.tinnove.visualizationservice:string/wireless_charge_status	-1	无线充电工作状态		Состояние беспроводной зарядки
+com.tinnove.visualizationservice:string/wireless_charge_status_seven	-1	无线充电器温度过高，请移开手机稍后再试		Беспроводная зарядка перегрелась. Уберите телефон и повторите попытку позже.
+com.tinnove.visualizationservice:string/wireless_charge_status_three	-1	请确保充电区域无金属异物，并将手机置于核心充电区域		Убедитесь, что в зоне зарядки нет металлических предметов, и поместите телефон в центр площадки.
+com.tinnove.visualizationservice:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.visualizationservice:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.visualizationservice:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.visualizationservice:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.visualizationservice:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.visualizationservice:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.visualizationservice:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.visualizationservice:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.visualizationservice:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.visualizationservice:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.visualizationservice:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.visualizationservice:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.visualizationservice:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.visualizationservice:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.visualizationservice:string/wtsearch_text_hint	-1	请输入		Введите запрос
+com.tinnove.visualizationservice:string/zero_g_model	-1	零重力模式		Режим невесомости

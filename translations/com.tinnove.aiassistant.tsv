@@ -1,0 +1,875 @@
+com.tinnove.aiassistant:array/air_controller_array	0	制冷		Охлаждение
+com.tinnove.aiassistant:array/air_controller_array	1	制热		Обогрев
+com.tinnove.aiassistant:array/air_controller_array	2	通风		Вентиляция
+com.tinnove.aiassistant:array/air_eco_comfort_array	0	舒适		Комфорт
+com.tinnove.aiassistant:array/air_eco_comfort_array	1	节能		Экономичный
+com.tinnove.aiassistant:array/air_fresh_vent_array	0	自动		Авто
+com.tinnove.aiassistant:array/air_fresh_vent_array	1	自定义通风时间		Длительность проветривания
+com.tinnove.aiassistant:array/air_gear_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/air_gear_array	1	1挡		Уровень 1
+com.tinnove.aiassistant:array/air_gear_array	2	2挡		Уровень 2
+com.tinnove.aiassistant:array/air_gear_array	3	3挡		Уровень 3
+com.tinnove.aiassistant:array/air_gear_array_two	0	关闭		Выкл.
+com.tinnove.aiassistant:array/air_gear_array_two	1	1挡		Уровень 1
+com.tinnove.aiassistant:array/air_gear_array_two	2	2挡		Уровень 2
+com.tinnove.aiassistant:array/air_recycle_array	0	内循环		Рециркуляция
+com.tinnove.aiassistant:array/air_recycle_array	1	外循环		Наружный воздух
+com.tinnove.aiassistant:array/ambient_lighting_sync_to_drive_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/ambient_lighting_sync_to_drive_array	1	行车时变暗		Приглушать в движении
+com.tinnove.aiassistant:array/ambient_lighting_sync_to_drive_array	2	行车时熄灭		Выключать в движении
+com.tinnove.aiassistant:array/ambient_lighting_theme_mode_array	0	青竹诗意		Зелёный бамбук
+com.tinnove.aiassistant:array/ambient_lighting_theme_mode_array	1	深海静谧		Морская глубина
+com.tinnove.aiassistant:array/ambient_lighting_theme_mode_array	2	金芒暖光		Золотое сияние
+com.tinnove.aiassistant:array/ambient_lighting_theme_mode_array	3	火红熠熠		Алый огонь
+com.tinnove.aiassistant:array/array_five_status	0	低		Низкий
+com.tinnove.aiassistant:array/array_five_status	1	较低		Ниже среднего
+com.tinnove.aiassistant:array/array_five_status	2	中		Средний
+com.tinnove.aiassistant:array/array_five_status	3	较高		Выше среднего
+com.tinnove.aiassistant:array/array_five_status	4	高		Высокий
+com.tinnove.aiassistant:array/array_three_status	0	低		Низкий
+com.tinnove.aiassistant:array/array_three_status	1	中		Средний
+com.tinnove.aiassistant:array/array_three_status	2	高		Высокий
+com.tinnove.aiassistant:array/atmo_colors_items	0	主色		Основной цвет
+com.tinnove.aiassistant:array/atmo_colors_items	1	辅色		Дополнительный цвет
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	0	静态		Постоянное свечение
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	1	呼吸		Пульсация
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	2	炫彩		Перелив цветов
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	3	星辉流水		Звёздный поток
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	4	炫彩流水		Цветовой поток
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_array	5	撞色流水		Контрастный поток
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_breathe_static_array	0	静态		Постоянный свет
+com.tinnove.aiassistant:array/atmo_light_colorful_mode_breathe_static_array	1	呼吸		Пульсация
+com.tinnove.aiassistant:array/atmo_light_mode_array	0	呼吸		Пульсация
+com.tinnove.aiassistant:array/atmo_light_mode_array	1	静态		Постоянный свет
+com.tinnove.aiassistant:array/atmo_music_link_array_with_close	0	关闭		Выключить
+com.tinnove.aiassistant:array/atmo_music_link_array_with_close	1	多彩律动		Цветовой ритм
+com.tinnove.aiassistant:array/atmo_music_link_array_with_close	2	随当前颜色		Текущий цвет
+com.tinnove.aiassistant:array/door_remount_unlock_array	0	驾驶员车门		Дверь водителя
+com.tinnove.aiassistant:array/door_remount_unlock_array	1	所有车门		Все двери
+com.tinnove.aiassistant:array/effects_til_items	0	关闭		Выкл.
+com.tinnove.aiassistant:array/effects_til_items	1	机器人		Робот
+com.tinnove.aiassistant:array/effects_til_items	2	回声		Эхо
+com.tinnove.aiassistant:array/effects_til_items	3	忽远忽近		Приближение и удаление
+com.tinnove.aiassistant:array/fragrance_type_array	0	无		Нет
+com.tinnove.aiassistant:array/fragrance_type_array	1	臻		«Чжэнь»
+com.tinnove.aiassistant:array/fragrance_type_array	2	致		«Чжи»
+com.tinnove.aiassistant:array/fragrance_type_array	3	悦		«Юэ»
+com.tinnove.aiassistant:array/headlight_delay_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/light_adjust_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/light_adjust_array	1	自动大灯		Автоматический свет
+com.tinnove.aiassistant:array/light_adjust_array	2	近光灯		Ближний свет
+com.tinnove.aiassistant:array/light_adjust_array	3	示廓灯		Габаритные огни
+com.tinnove.aiassistant:array/light_adjust_array_without_auto	0	关闭		Выкл.
+com.tinnove.aiassistant:array/light_adjust_array_without_auto	1	近光灯		Ближний свет
+com.tinnove.aiassistant:array/light_adjust_array_without_auto	2	示廓灯		Габаритные огни
+com.tinnove.aiassistant:array/mirror_out_manual	0	折叠		Сложить
+com.tinnove.aiassistant:array/mirror_out_manual	1	展开		Разложить
+com.tinnove.aiassistant:array/music_rhythm_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/music_rhythm_array	1	多彩律动		Разноцветный ритм
+com.tinnove.aiassistant:array/music_rhythm_array	2	随当前颜色		Текущий цвет
+com.tinnove.aiassistant:array/seat_massage_time_array	0	15分钟		15 минут
+com.tinnove.aiassistant:array/seat_massage_time_array	1	20分钟		20 минут
+com.tinnove.aiassistant:array/seat_massage_time_array	2	30分钟		30 минут
+com.tinnove.aiassistant:array/show_mode_array	0	自动		Авто
+com.tinnove.aiassistant:array/show_mode_array	1	浅色		Светлый
+com.tinnove.aiassistant:array/show_mode_array	2	深色		Тёмный
+com.tinnove.aiassistant:array/strength_gear_array	0	低		Низкая
+com.tinnove.aiassistant:array/strength_gear_array	1	中		Средняя
+com.tinnove.aiassistant:array/strength_gear_array	2	高		Высокая
+com.tinnove.aiassistant:array/system_headrest_array	0	头枕模式		Режим подголовника
+com.tinnove.aiassistant:array/system_headrest_array	1	头枕辅助		Дополнение звука через подголовник
+com.tinnove.aiassistant:array/system_headrest_array	2	头枕关闭		Динамики подголовника выключены
+com.tinnove.aiassistant:array/vehicle_prompt_sound_style_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/vehicle_prompt_sound_style_array	1	风格一		Вариант 1
+com.tinnove.aiassistant:array/vehicle_prompt_sound_style_array	2	风格二		Вариант 2
+com.tinnove.aiassistant:array/vehicle_prompt_sound_style_array	3	风格三		Вариант 3
+com.tinnove.aiassistant:array/welcome_light_anim_array	0	关闭		Выкл.
+com.tinnove.aiassistant:array/welcome_light_anim_array	1	大漠光影		Свет пустыни
+com.tinnove.aiassistant:array/welcome_light_anim_array	2	城市魅影		Силуэт города
+com.tinnove.aiassistant:array/welcome_light_anim_array	3	山洞掠影		Тени пещеры
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	1	掃描中…		Поиск…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	1	正在掃瞄…		Поиск…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	2	正在連線…		Подключение…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	2	連線中…		Подключение…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	3	正在認證…		Аутентификация…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	3	驗證中…		Аутентификация…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	4	正在取得 IP 位址…		Получение IP-адреса…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	5	已連線		Подключено
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	6	已暫停		Приостановлено
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	6	已暫停使用		Приостановлено
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	7	正在中斷連線…		Отключение…
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	8	已中斷連線		Не подключено
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	9	失敗		Сбой
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	10	已封鎖		Заблокировано
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	11	暫不使用訊號較弱的連線		Временно отключено из-за плохого соединения
+com.tinnove.aiassistant:array/wifitrackerlib_wifi_status	11	暫時不使用訊號較弱的連線		Временно отключено из-за плохого соединения
+com.tinnove.aiassistant:array/wt_language	0	普通话		Путунхуа
+com.tinnove.aiassistant:array/wt_language	1	四川话		Сычуаньский диалект
+com.tinnove.aiassistant:array/wt_language	2	广东话		Кантонский диалект
+com.tinnove.aiassistant:string/a_day_time_text	-1	1天前		День назад
+com.tinnove.aiassistant:string/a_min_time_text	-1	1分钟前		Минуту назад
+com.tinnove.aiassistant:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tinnove.aiassistant:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tinnove.aiassistant:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tinnove.aiassistant:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tinnove.aiassistant:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tinnove.aiassistant:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tinnove.aiassistant:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tinnove.aiassistant:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tinnove.aiassistant:string/abc_capital_on	-1	開啟		ВКЛ
+com.tinnove.aiassistant:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tinnove.aiassistant:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tinnove.aiassistant:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tinnove.aiassistant:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tinnove.aiassistant:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tinnove.aiassistant:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tinnove.aiassistant:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tinnove.aiassistant:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tinnove.aiassistant:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tinnove.aiassistant:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tinnove.aiassistant:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tinnove.aiassistant:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tinnove.aiassistant:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tinnove.aiassistant:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tinnove.aiassistant:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tinnove.aiassistant:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tinnove.aiassistant:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tinnove.aiassistant:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tinnove.aiassistant:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tinnove.aiassistant:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tinnove.aiassistant:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tinnove.aiassistant:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tinnove.aiassistant:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tinnove.aiassistant:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tinnove.aiassistant:string/ac_toast_auto_air_clean_tip	-1	车内空气质量下降，建议您打开自动净化		Качество воздуха в салоне ухудшилось. Рекомендуем включить автоматическую очистку
+com.tinnove.aiassistant:string/activeVentilation	-1	解锁自动换气		Проветривание при отпирании
+com.tinnove.aiassistant:string/adjust	-1	调用		Применить
+com.tinnove.aiassistant:string/ai_deep_thinking_answer_executed	-1	总结反馈结果		Итоги выполнения
+com.tinnove.aiassistant:string/ai_deep_thinking_elapsed_total_time	-1	（用时$d秒）		(затрачено $d с)
+com.tinnove.aiassistant:string/ai_deep_thinking_execute_ing	-1	正在执行中...		Выполняется…
+com.tinnove.aiassistant:string/ai_deep_thinking_executed	-1	执行完成		Выполнено
+com.tinnove.aiassistant:string/ai_deep_thinking_loading_end_r1	-1	已深度思考		Анализ завершён
+com.tinnove.aiassistant:string/ai_deep_thinking_loading_r1	-1	深度思考中...		Подробный анализ…
+com.tinnove.aiassistant:string/ai_deep_thinking_start	-1	开始思考		Начать анализ
+com.tinnove.aiassistant:string/ai_request_big_module_network_error	-1	网络不佳，请稍后再试		Слабое соединение с сетью. Повторите попытку позже
+com.tinnove.aiassistant:string/ai_request_big_module_rejection	-1	换个说法再试试		Попробуйте сформулировать иначе
+com.tinnove.aiassistant:string/ai_request_big_module_timeout	-1	服务器繁忙，请稍后再试		Сервер занят. Повторите попытку позже
+com.tinnove.aiassistant:string/airDrying	-1	空调自干燥		Просушка кондиционера
+com.tinnove.aiassistant:string/airPurgeErrorTip	-1	空气净化异常，请检查离子发生器		Ошибка очистки воздуха. Проверьте ионизатор
+com.tinnove.aiassistant:string/air_auto_drying	-1	空调自干燥		Просушка кондиционера
+com.tinnove.aiassistant:string/air_auto_recycle_mode	-1	自动内外循环		Автоматический выбор рециркуляции
+com.tinnove.aiassistant:string/air_eco_switch_title	-1	空调节能模式		Экономичный режим климатической системы
+com.tinnove.aiassistant:string/air_fresh_vent_title	-1	座舱新风系统		Приточная вентиляция салона
+com.tinnove.aiassistant:string/air_nature_wind	-1	通风		Вентиляция
+com.tinnove.aiassistant:string/air_purification	-1	空气净化		Очистка воздуха
+com.tinnove.aiassistant:string/air_recycle_mode	-1	内外循环		Рециркуляция и наружный воздух
+com.tinnove.aiassistant:string/air_sync	-1	温区同步		Синхронизация температур
+com.tinnove.aiassistant:string/all_color_text	-1	多彩律动		Разноцветный ритм
+com.tinnove.aiassistant:string/all_window_airy	-1	四窗通风		Проветривание через все окна
+com.tinnove.aiassistant:string/all_window_close	-1	四窗全关		Закрыть все окна
+com.tinnove.aiassistant:string/all_window_open	-1	四窗全开		Открыть все окна
+com.tinnove.aiassistant:string/ambient_lighting_sync_to_drive	-1	氛围灯行车联动		Связь подсветки с движением
+com.tinnove.aiassistant:string/ambient_lighting_sync_to_drive_close	-1	行车时熄灭		Выключать в движении
+com.tinnove.aiassistant:string/ambient_lighting_sync_to_drive_dark	-1	行车时变暗		При движении приглушать
+com.tinnove.aiassistant:string/ambient_lighting_theme_mode	-1	氛围灯主题模式		Тема подсветки салона
+com.tinnove.aiassistant:string/ambient_lighting_theme_mode_blue	-1	深海静谧		Морская глубина
+com.tinnove.aiassistant:string/ambient_lighting_theme_mode_gold	-1	金芒暖光		Золотое сияние
+com.tinnove.aiassistant:string/ambient_lighting_theme_mode_green	-1	青竹诗意		Зелёный бамбук
+com.tinnove.aiassistant:string/ambient_lighting_theme_mode_red	-1	火红熠熠		Алый огонь
+com.tinnove.aiassistant:string/an_hour_time_text	-1	1小时前		Час назад
+com.tinnove.aiassistant:string/app_is_opened_360	-1	全景中，语音暂时无法使用		Голосовой помощник временно недоступен при работе кругового обзора
+com.tinnove.aiassistant:string/app_name	-1	智慧助手		Умный помощник
+com.tinnove.aiassistant:string/array_high	-1	高		Высокий
+com.tinnove.aiassistant:string/array_higher	-1	较高		Выше среднего
+com.tinnove.aiassistant:string/array_low	-1	低		Низкий
+com.tinnove.aiassistant:string/array_lower	-1	较低		Ниже среднего
+com.tinnove.aiassistant:string/array_middle	-1	中		Средний
+com.tinnove.aiassistant:string/assistant_content	-1	AI助手		ИИ-помощник
+com.tinnove.aiassistant:string/atmo_light_breath_mode	-1	呼吸		Пульсация
+com.tinnove.aiassistant:string/atmo_light_brightness_left	-1	暗		Темнее
+com.tinnove.aiassistant:string/atmo_light_brightness_right	-1	亮		Ярче
+com.tinnove.aiassistant:string/atmo_light_color_sync	-1	同步		Синхронизация
+com.tinnove.aiassistant:string/atmo_light_colorful_mode	-1	炫彩		Перелив цветов
+com.tinnove.aiassistant:string/atmo_light_colorful_water_mode	-1	炫彩流水		Цветовой поток
+com.tinnove.aiassistant:string/atmo_light_contrast_water_mode	-1	撞色流水		Контрастный поток
+com.tinnove.aiassistant:string/atmo_light_mode	-1	氛围灯模式		Режим подсветки салона
+com.tinnove.aiassistant:string/atmo_light_starlight_flowing_water_mode	-1	星辉流水		Звёздный поток
+com.tinnove.aiassistant:string/atmo_light_static_mode	-1	静态		Постоянное свечение
+com.tinnove.aiassistant:string/atmosphere_light	-1	氛围灯		Подсветка салона
+com.tinnove.aiassistant:string/atmosphere_light_brightness	-1	氛围灯亮度		Яркость подсветки салона
+com.tinnove.aiassistant:string/atmosphere_light_title	-1	氛围灯开关		Включение подсветки салона
+com.tinnove.aiassistant:string/atmosphere_mode	-1	氛围灯迎宾模式		Приветственная подсветка салона
+com.tinnove.aiassistant:string/auto_adjust_voice_by_speed	-1	音量随速调节		Громкость с учётом скорости
+com.tinnove.aiassistant:string/auto_air	-1	自动空调		Автоматический климат
+com.tinnove.aiassistant:string/auto_close_door_text	-1	下雨自动关窗		Закрывать окна при дожде
+com.tinnove.aiassistant:string/auto_defog_tip	-1	自动除雾已开启！		Автоустранение запотевания включено.
+com.tinnove.aiassistant:string/auto_open_door_text	-1	闭锁自动升窗		Поднимать стёкла при запирании
+com.tinnove.aiassistant:string/automaticCycleErrorTip	-1	自动内外循环功能异常		Неисправность автоматического переключения рециркуляции.
+com.tinnove.aiassistant:string/back_defrosting	-1	后除霜		Обогрев заднего стекла
+com.tinnove.aiassistant:string/backward	-1	向后		Назад
+com.tinnove.aiassistant:string/baike_mask	-1	百科蒙层		Окно энциклопедии
+com.tinnove.aiassistant:string/big_module_doing_text	-1	正在生成...		Создание ответа…
+com.tinnove.aiassistant:string/blue_tooth	-1	蓝牙		Bluetooth
+com.tinnove.aiassistant:string/blue_tooth_calling_speaker_broadcast	-1	来电语音播报		Озвучивание входящих вызовов
+com.tinnove.aiassistant:string/blue_tooth_no_connect_devices	-1	未连接任何设备		Нет подключённых устройств
+com.tinnove.aiassistant:string/blue_tooth_no_switch_resource_mode	-1	蓝牙免切源模式		Bluetooth без переключения источника
+com.tinnove.aiassistant:string/blue_tooth_sync_notes	-1	同步通讯录		Синхронизировать контакты
+com.tinnove.aiassistant:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tinnove.aiassistant:string/broadcast_current_volume	-1	这是当前音量		Это текущая громкость
+com.tinnove.aiassistant:string/cancel	-1	取消		Отмена
+com.tinnove.aiassistant:string/cancel_str	-1	取消		Отмена
+com.tinnove.aiassistant:string/car_hot_device_name	-1	本机名称		Имя устройства
+com.tinnove.aiassistant:string/car_hot_password	-1	热点密码		Пароль точки доступа
+com.tinnove.aiassistant:string/car_hot_point	-1	车载热点		Точка доступа автомобиля
+com.tinnove.aiassistant:string/cave_effects	-1	山洞掠影		Тени пещеры
+com.tinnove.aiassistant:string/chair_massage_level_high	-1	三挡		Уровень 3
+com.tinnove.aiassistant:string/chair_massage_level_low	-1	一挡		Уровень 1
+com.tinnove.aiassistant:string/chair_massage_level_medium	-1	二挡		Уровень 2
+com.tinnove.aiassistant:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tinnove.aiassistant:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tinnove.aiassistant:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.aiassistant:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tinnove.aiassistant:string/charging_tts	-1	充电播报		Озвучивание зарядки
+com.tinnove.aiassistant:string/child_lock	-1	儿童锁		Детский замок
+com.tinnove.aiassistant:string/city_effects	-1	城市魅影		Силуэт города
+com.tinnove.aiassistant:string/close	-1	关闭		Закрыть
+com.tinnove.aiassistant:string/close_trunk	-1	关闭背门		Закрыть дверь багажника
+com.tinnove.aiassistant:string/close_trunk_h_216	-1	继续关闭		Продолжить закрывание
+com.tinnove.aiassistant:string/cold	-1	冷		Холоднее
+com.tinnove.aiassistant:string/cold_heat_vent	-1	空调控制		Управление климатом
+com.tinnove.aiassistant:string/confirm	-1	确认		Подтвердить
+com.tinnove.aiassistant:string/confirm_str	-1	确定		ОК
+com.tinnove.aiassistant:string/connect_bluetooth	-1	连接中		Подключение
+com.tinnove.aiassistant:string/connected	-1	已连接		Подключено
+com.tinnove.aiassistant:string/connecting	-1	正在连接		Подключение
+com.tinnove.aiassistant:string/copilot_drive	-1	副驾		Передний пассажир
+com.tinnove.aiassistant:string/copilot_multimedia_volume	-1	副驾多媒体音量		Громкость мультимедиа пассажира
+com.tinnove.aiassistant:string/copilot_seat_entry_exit	-1	副驾座椅舒适进出		Удобная посадка переднего пассажира
+com.tinnove.aiassistant:string/cui_big_module_loading_tip	-1	生成中...		Создание ответа…
+com.tinnove.aiassistant:string/cui_delete_schedule_remind_invalid	-1	无法删除日程，请查询后再操作		Не удалось удалить событие. Сначала найдите его и повторите попытку
+com.tinnove.aiassistant:string/cui_recommendation_fold_messages	-1	还有%1$d条最新消息		Новых сообщений: %1$d
+com.tinnove.aiassistant:string/cui_source_prefix	-1	*以上内容由		*Материал создан:
+com.tinnove.aiassistant:string/cui_source_suffix	-1	生成，仅供参考		; только для справки
+com.tinnove.aiassistant:string/current_color_text	-1	随当前颜色		Текущий цвет
+com.tinnove.aiassistant:string/current_mileage_label	-1	本次里程		Пробег за поездку
+com.tinnove.aiassistant:string/day_time_text	-1	%1$d天前		Дней назад: %1$d
+com.tinnove.aiassistant:string/default_name	-1	小伙伴		Друг
+com.tinnove.aiassistant:string/defrost	-1	吹窗		На стекло
+com.tinnove.aiassistant:string/defrost_foot	-1	吹窗吹脚		На стекло и в ноги
+com.tinnove.aiassistant:string/defrosting	-1	除霜控制		Удаление обледенения
+com.tinnove.aiassistant:string/demisting	-1	自动除雾		Автоматическое удаление запотевания
+com.tinnove.aiassistant:string/description_activeVentilation	-1	遥控解锁时，空调自动通风换气		При отпирании с пульта климатическая система автоматически проветривает салон
+com.tinnove.aiassistant:string/description_airDrying	-1	停车前使用过空调，锁车后空调会自动通风换气		Если перед парковкой работал кондиционер, после запирания климатическая система автоматически проветрит салон
+com.tinnove.aiassistant:string/description_demisting	-1	建议开启，当检测到车内相对湿度过高时会自动开启除雾		Рекомендуется включить: при высокой влажности в салоне автоматически включается удаление запотевания
+com.tinnove.aiassistant:string/description_smartOpt	-1	车内PM值过高，自动进行空气净化		При высокой концентрации частиц PM в салоне очистка воздуха включается автоматически
+com.tinnove.aiassistant:string/description_windowVentilation	-1	⻓按钥匙解锁降窗时，空调⾃动通⻛换⽓		При опускании стёкол удержанием кнопки отпирания на ключе климатическая система автоматически проветривает салон
+com.tinnove.aiassistant:string/desert_effects	-1	大漠光影		Свет пустыни
+com.tinnove.aiassistant:string/door_light	-1	顶灯自动点亮		Автоматический свет в салоне
+com.tinnove.aiassistant:string/door_remount_unlock_all	-1	所有车门		Все двери
+com.tinnove.aiassistant:string/door_remount_unlock_diver	-1	驾驶员车门		Дверь водителя
+com.tinnove.aiassistant:string/down	-1	向下		Вниз
+com.tinnove.aiassistant:string/drive_auto_lock	-1	行车自动闭锁		Автоматическое запирание в движении
+com.tinnove.aiassistant:string/driver_seat_entry_exit	-1	主驾座椅舒适进出		Удобная посадка водителя
+com.tinnove.aiassistant:string/dynamic_gesture	-1	动态手势		Динамические жесты
+com.tinnove.aiassistant:string/effects_til	-1	音效模式		Режим звукового эффекта
+com.tinnove.aiassistant:string/egg_anim_no_support	-1	播放动效不存在		Анимация не найдена
+com.tinnove.aiassistant:string/engine_run_mode	-1	发动机运行模式		Сервисный запуск двигателя
+com.tinnove.aiassistant:string/entry_my_customer_service	-1	进入我的客服		Моя служба поддержки
+com.tinnove.aiassistant:string/epb	-1	电子驻车制动(EPB)		Электрический стояночный тормоз (EPB)
+com.tinnove.aiassistant:string/error_down	-1	已经是第一页了		Это первая страница
+com.tinnove.aiassistant:string/error_up	-1	已经是最后一页了		Это последняя страница
+com.tinnove.aiassistant:string/face	-1	吹面		В лицо
+com.tinnove.aiassistant:string/face_defrost	-1	吹面吹窗		В лицо и на стекло
+com.tinnove.aiassistant:string/face_foot	-1	吹面吹脚		В лицо и в ноги
+com.tinnove.aiassistant:string/face_foot_defrost	-1	吹面吹脚吹窗		В лицо, в ноги и на стекло
+com.tinnove.aiassistant:string/fifteen_minutes	-1	15分钟		15 минут
+com.tinnove.aiassistant:string/finger_voice_control	-1	所指即可控		Управление указанием и голосом
+com.tinnove.aiassistant:string/finnsh_connect_bluetooth	-1	已连接		Подключено
+com.tinnove.aiassistant:string/flow_management	-1	流量管理		Управление трафиком
+com.tinnove.aiassistant:string/fog_lamp	-1	雾灯		Противотуманные фары
+com.tinnove.aiassistant:string/foot	-1	吹脚		В ноги
+com.tinnove.aiassistant:string/forward	-1	向前		Вперёд
+com.tinnove.aiassistant:string/fragrance_setting_title	-1	香氛设置		Настройки ароматизатора
+com.tinnove.aiassistant:string/front_defrosting	-1	前除霜		Удаление обледенения лобового стекла
+com.tinnove.aiassistant:string/func_max_refrigeration	-1	最大制冷		Максимальное охлаждение
+com.tinnove.aiassistant:string/fuzzy_refer	-1	模糊指代		Распознавание обращений к пассажирам
+com.tinnove.aiassistant:string/head_lighting_acc_off	-1	请上电后操作		Сначала включите питание
+com.tinnove.aiassistant:string/headlight_always_on_text	-1	前贯穿灯常亮		Передняя световая полоса постоянно включена
+com.tinnove.aiassistant:string/headlight_anim_text	-1	前灯迎送宾动画		Приветственная и прощальная анимация передних фар
+com.tinnove.aiassistant:string/headlight_atmosphere_text	-1	大灯自适应		Адаптивные фары
+com.tinnove.aiassistant:string/headlight_delay	-1	前照灯延时		Задержка выключения фар
+com.tinnove.aiassistant:string/headlight_tip_text	-1	大灯可根据路况自动调节水平和垂直光照方向		Фары автоматически регулируют направление света по горизонтали и вертикали с учётом дорожных условий
+com.tinnove.aiassistant:string/high	-1	高		Высокий
+com.tinnove.aiassistant:string/high_beam	-1	智能远光灯		Автоматический дальний свет
+com.tinnove.aiassistant:string/hint	-1	提示		Уведомление
+com.tinnove.aiassistant:string/hour_time_text	-1	%1$d小时前		Часов назад: %1$d
+com.tinnove.aiassistant:string/in_car_camera_text	-1	车内摄像头		Камера в салоне
+com.tinnove.aiassistant:string/key_close_trunk	-1	钥匙关闭背门		Закрывание багажника ключом
+com.tinnove.aiassistant:string/lbs_str_btn_discount	-1	查看优惠详情		Подробнее о скидках
+com.tinnove.aiassistant:string/lbs_str_cost	-1	人均¥%1$s		На человека: ¥%1$s
+com.tinnove.aiassistant:string/lbs_str_coupon_info	-1	查看优惠详情		Подробнее о скидках
+com.tinnove.aiassistant:string/lbs_str_empty_subtitle	-1	请稍后再试		Повторите попытку позже
+com.tinnove.aiassistant:string/lbs_str_empty_title	-1	抱歉附近暂无推荐		Поблизости нет рекомендаций
+com.tinnove.aiassistant:string/lbs_str_error_retry_text	-1	重试		Повторить
+com.tinnove.aiassistant:string/lbs_str_error_title	-1	加载失败		Не удалось загрузить
+com.tinnove.aiassistant:string/lbs_str_load_fail_and_refresh	-1	加载失败，点击刷新		Не удалось загрузить. Нажмите для обновления
+com.tinnove.aiassistant:string/lbs_str_loading_title	-1	正在加载中		Загрузка
+com.tinnove.aiassistant:string/lbs_str_navigation_placeholder	-1	导航		Маршрут
+com.tinnove.aiassistant:string/lbs_str_no_more	-1	没有更多~		Больше нет
+com.tinnove.aiassistant:string/lbs_str_open_time	-1	营业时间: %1$s		Часы работы: %1$s
+com.tinnove.aiassistant:string/lbs_str_poi_list_title	-1	周边推荐		Рекомендации поблизости
+com.tinnove.aiassistant:string/lbs_str_qr_code_back	-1	返回		Назад
+com.tinnove.aiassistant:string/lbs_str_scan_qr_title	-1	抖音扫码查看详情		Отсканируйте код в Douyin для подробностей
+com.tinnove.aiassistant:string/lbs_str_speed_limit_desc	-1	为了您的驾驶安全，请不要在驾驶过程中观看视频		Для вашей безопасности не смотрите видео во время движения
+com.tinnove.aiassistant:string/lbs_str_speed_limit_title	-1	行车中请关注路况专心驾驶		Следите за дорогой во время движения
+com.tinnove.aiassistant:string/lcf_fish_str_cost	-1	¥%1$s/人		¥%1$s на человека
+com.tinnove.aiassistant:string/lcf_fish_str_empty_subtitle	-1	暂无内容		Материалов пока нет
+com.tinnove.aiassistant:string/lcf_fish_str_error_retry_text	-1	重新加载		Загрузить снова
+com.tinnove.aiassistant:string/lcf_fish_str_error_sub_title	-1	请稍后再试		Повторите попытку позже
+com.tinnove.aiassistant:string/lcf_fish_str_error_title	-1	加载失败		Не удалось загрузить
+com.tinnove.aiassistant:string/lcf_fish_str_no_more	-1	没有更多了~		Больше нет
+com.tinnove.aiassistant:string/lcf_fish_str_poi_list_title	-1	周边推荐		Рекомендации поблизости
+com.tinnove.aiassistant:string/leave_auto_lock	-1	离车自动闭锁		Автозапирание при удалении
+com.tinnove.aiassistant:string/left_rear	-1	左后		Сзади слева
+com.tinnove.aiassistant:string/left_rear_lock	-1	左后侧		Слева сзади
+com.tinnove.aiassistant:string/light_adjust_text	-1	大灯调节		Регулировка фар
+com.tinnove.aiassistant:string/light_auto_text	-1	自动大灯		Автоматический свет
+com.tinnove.aiassistant:string/light_brightness_text	-1	亮度		Яркость
+com.tinnove.aiassistant:string/light_height_text	-1	大灯高度		Высота света фар
+com.tinnove.aiassistant:string/light_link_speech	-1	氛围灯语音联动		Подсветка в такт речи
+com.tinnove.aiassistant:string/light_location_text	-1	位置灯		Позиционные огни
+com.tinnove.aiassistant:string/light_near_text	-1	近光灯		Ближний свет
+com.tinnove.aiassistant:string/light_off_text	-1	关闭		Выкл.
+com.tinnove.aiassistant:string/light_outline_text	-1	示廓灯		Габаритные огни
+com.tinnove.aiassistant:string/lock_voice	-1	闭锁音		Звук запирания
+com.tinnove.aiassistant:string/login_connect	-1	登录到网络		Войдите в сеть
+com.tinnove.aiassistant:string/low	-1	低		Низкий
+com.tinnove.aiassistant:string/main_drive	-1	主驾		Водитель
+com.tinnove.aiassistant:string/map_poi_title_content	-1	收到新的地点		Получено новое место
+com.tinnove.aiassistant:string/map_route_title_content	-1	收到新的路线		Получен новый маршрут
+com.tinnove.aiassistant:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.aiassistant:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.aiassistant:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tinnove.aiassistant:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tinnove.aiassistant:string/material_hour_selection	-1	选择小时		Выберите час
+com.tinnove.aiassistant:string/material_hour_selection	-1	選取時段		Выберите час
+com.tinnove.aiassistant:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tinnove.aiassistant:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tinnove.aiassistant:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tinnove.aiassistant:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tinnove.aiassistant:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tinnove.aiassistant:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tinnove.aiassistant:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.aiassistant:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.aiassistant:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tinnove.aiassistant:string/material_timepicker_hour	-1	小時		Час
+com.tinnove.aiassistant:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tinnove.aiassistant:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tinnove.aiassistant:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.aiassistant:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.aiassistant:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tinnove.aiassistant:string/media_list_footer	-1	到底了~		Конец списка
+com.tinnove.aiassistant:string/media_playlist_open	-1	打开歌曲列表		Открыть список песен
+com.tinnove.aiassistant:string/media_ranking	-1	榜单推荐		Рекомендуемые чарты
+com.tinnove.aiassistant:string/media_sound_effects	-1	媒体音效		Звуковые эффекты мультимедиа
+com.tinnove.aiassistant:string/memory	-1	记忆		Память
+com.tinnove.aiassistant:string/middle	-1	中		Средний
+com.tinnove.aiassistant:string/mileage_remaining	-1	剩余续航		Оставшийся запас хода
+com.tinnove.aiassistant:string/min_time_text	-1	%1$d分钟前		Минут назад: %1$d
+com.tinnove.aiassistant:string/mirror_out_manual_expand	-1	展开		Разложить
+com.tinnove.aiassistant:string/mirror_out_manual_fold	-1	折叠		Сложить
+com.tinnove.aiassistant:string/mobile_data	-1	移动数据		Мобильные данные
+com.tinnove.aiassistant:string/more_setting	-1	更多设置		Другие настройки
+com.tinnove.aiassistant:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tinnove.aiassistant:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tinnove.aiassistant:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tinnove.aiassistant:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tinnove.aiassistant:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tinnove.aiassistant:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tinnove.aiassistant:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tinnove.aiassistant:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tinnove.aiassistant:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tinnove.aiassistant:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tinnove.aiassistant:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tinnove.aiassistant:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tinnove.aiassistant:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tinnove.aiassistant:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tinnove.aiassistant:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tinnove.aiassistant:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tinnove.aiassistant:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tinnove.aiassistant:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tinnove.aiassistant:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tinnove.aiassistant:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tinnove.aiassistant:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tinnove.aiassistant:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tinnove.aiassistant:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tinnove.aiassistant:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tinnove.aiassistant:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tinnove.aiassistant:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tinnove.aiassistant:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tinnove.aiassistant:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tinnove.aiassistant:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tinnove.aiassistant:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.aiassistant:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tinnove.aiassistant:string/multiple_chat	-1	多人对话		Диалог с несколькими участниками
+com.tinnove.aiassistant:string/music_rhythm_mode	-1	律动模式		Ритмичный режим
+com.tinnove.aiassistant:string/music_rhythm_text	-1	随音乐律动		В такт музыке
+com.tinnove.aiassistant:string/music_rhythm_text_close	-1	关闭		Выкл.
+com.tinnove.aiassistant:string/navi_broadcast_mode	-1	导航播报		Голосовые подсказки навигации
+com.tinnove.aiassistant:string/navi_change_failure	-1	切换失败，请重新试试		Не удалось переключить. Повторите попытку
+com.tinnove.aiassistant:string/navi_douyin_video_recommend	-1	视频推荐		Рекомендуемые видео
+com.tinnove.aiassistant:string/navi_frequented_last_visit_time	-1	上次%s		Последнее посещение: %s
+com.tinnove.aiassistant:string/navi_frequented_navi_btn	-1	导航		Маршрут
+com.tinnove.aiassistant:string/navi_frequented_retry_btn	-1	重试		Повторить
+com.tinnove.aiassistant:string/navi_frequented_visit_count	-1	去过%s次		Посещений: %s
+com.tinnove.aiassistant:string/navi_open_num_position	-1	第%s个		Номер %s
+com.tinnove.aiassistant:string/navi_recommend	-1	推荐		Рекомендуем
+com.tinnove.aiassistant:string/navi_roadbook_add_journey	-1	查看完整行程		Посмотреть всю поездку
+com.tinnove.aiassistant:string/navi_roadbook_journey_recommend	-1	行程推荐		Рекомендуемые поездки
+com.tinnove.aiassistant:string/navi_route_preference_avoid_fee	-1	少收费		Меньше платных дорог
+com.tinnove.aiassistant:string/navi_route_preference_avoid_highway	-1	不走高速		Без автомагистралей
+com.tinnove.aiassistant:string/navi_route_preference_avoid_jam	-1	躲避拥堵		Избегать пробок
+com.tinnove.aiassistant:string/navi_route_preference_big_road_first	-1	大路优先		Основные дороги
+com.tinnove.aiassistant:string/navi_route_preference_highway_first	-1	高速优先		Автомагистрали в приоритете
+com.tinnove.aiassistant:string/navi_route_preference_recommend	-1	智能推荐		Умный маршрут
+com.tinnove.aiassistant:string/navi_route_preference_speed_fast_first	-1	速度最快		Самый быстрый
+com.tinnove.aiassistant:string/navi_tts_concise	-1	简洁		Кратко
+com.tinnove.aiassistant:string/navi_tts_detailed	-1	详细		Подробно
+com.tinnove.aiassistant:string/navi_tts_simple_play	-1	极简		Минимум подсказок
+com.tinnove.aiassistant:string/navigating_down_media_voice	-1	导航播报时媒体音量降低		Приглушать мультимедиа при подсказках навигации
+com.tinnove.aiassistant:string/near_auto_unlock	-1	近车自动解锁		Автоотпирание при приближении
+com.tinnove.aiassistant:string/next_page	-1	下一页		Следующая страница
+com.tinnove.aiassistant:string/no_connect	-1	未连接		Не подключено
+com.tinnove.aiassistant:string/no_setting	-1	未设置		Не настроено
+com.tinnove.aiassistant:string/nofinnsh_connect_bluetooth	-1	未连接		Не подключено
+com.tinnove.aiassistant:string/now_time_text	-1	现在		Сейчас
+com.tinnove.aiassistant:string/one_key_power_off	-1	一键下电		Выключить питание
+com.tinnove.aiassistant:string/open_trunk	-1	打开背门		Открыть дверь багажника
+com.tinnove.aiassistant:string/open_trunk_h_216	-1	继续开启		Продолжить открывание
+com.tinnove.aiassistant:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tinnove.aiassistant:string/permission_overlay_request	-1	AI助手运行时需要显示在其他应用上层，请授予相关权限		Для работы ИИ-помощника разрешите отображение поверх других приложений
+com.tinnove.aiassistant:string/phone_calling	-1	语音助手暂不可用		Голосовой помощник временно недоступен
+com.tinnove.aiassistant:string/phone_volume_min_message	-1	电话音量已调至最小		Громкость звонка установлена на минимум
+com.tinnove.aiassistant:string/poetry_mask	-1	诗词蒙层		Окно стихов
+com.tinnove.aiassistant:string/previous_page	-1	上一页		Предыдущая страница
+com.tinnove.aiassistant:string/push_address_save_reverse_content	-1	收藏		В избранное
+com.tinnove.aiassistant:string/push_address_send_poi	-1	发来新的位置		Получено новое место
+com.tinnove.aiassistant:string/push_address_send_road_book	-1	发来新的行程		Получена новая поездка
+com.tinnove.aiassistant:string/push_file_title	-1	智能推荐		Умные рекомендации
+com.tinnove.aiassistant:string/push_multi_media_image_set_button_content	-1	设为壁纸		Установить как обои
+com.tinnove.aiassistant:string/push_schedule_button_content	-1	查看详情		Подробнее
+com.tinnove.aiassistant:string/rear_mirror_auto_fold	-1	外后视镜自动折叠		Автоматическое складывание зеркал
+com.tinnove.aiassistant:string/rear_mirror_back	-1	外后视镜折叠		Сложить наружные зеркала
+com.tinnove.aiassistant:string/rear_mirror_out_back	-1	外后视镜倒车辅助		Помощь зеркал при движении задним ходом
+com.tinnove.aiassistant:string/rear_seat_belts_text	-1	后排安全带未系提醒		Напоминание о ремнях задних пассажиров
+com.tinnove.aiassistant:string/recall_memory_driving_distance_label	-1	驾驶爱车开了		Пробег на автомобиле:
+com.tinnove.aiassistant:string/recall_memory_last_year_today	-1	去年今日		В этот день год назад
+com.tinnove.aiassistant:string/recall_memory_location_prefix	-1	您在		Вы были:
+com.tinnove.aiassistant:string/recall_memory_no_photos_label	-1	没有在车上拍过照片		В автомобиле ещё нет сделанных вами фотографий
+com.tinnove.aiassistant:string/recall_memory_photos_taken_label	-1	在车上拍了		Фотографий в автомобиле:
+com.tinnove.aiassistant:string/recall_memory_to_label	-1	到		До
+com.tinnove.aiassistant:string/recall_memory_weather_label	-1	那天天气		Погода в тот день
+com.tinnove.aiassistant:string/recall_memory_weather_sunny	-1	晴		Ясно
+com.tinnove.aiassistant:string/recommend_title	-1	智能推荐		Умные рекомендации
+com.tinnove.aiassistant:string/recommend_title_wechat	-1	微信助手		Помощник WeChat
+com.tinnove.aiassistant:string/recommend_title_wechat_link	-1	微信互联		Подключение WeChat
+com.tinnove.aiassistant:string/remote_unlock_text	-1	遥控解锁模式		Режим отпирания с пульта
+com.tinnove.aiassistant:string/reversing_down_media_voice	-1	倒车时媒体音量降低		Приглушать мультимедиа при заднем ходе
+com.tinnove.aiassistant:string/right_rear	-1	右后		Сзади справа
+com.tinnove.aiassistant:string/right_rear_lock	-1	右后侧		Справа сзади
+com.tinnove.aiassistant:string/safe_driving	-1	安全驾驶		Безопасное вождение
+com.tinnove.aiassistant:string/scene_action_desc_preview_scene	-1	查看		Посмотреть
+com.tinnove.aiassistant:string/scene_confirm_button	-1	确定		ОК
+com.tinnove.aiassistant:string/scene_edit_button	-1	修改		Изменить
+com.tinnove.aiassistant:string/scene_edit_name_tips	-1	场景名称重复，已为您修改场景名		Название сценария повторяется. Оно изменено автоматически
+com.tinnove.aiassistant:string/scene_edit_trigger_tips	-1	运行条件冲突，同一条件下仅能触发一个场景，快选择想要自动触发的场景吧		Условия запуска совпадают. При одинаковых условиях может запускаться только один сценарий. Выберите нужный
+com.tinnove.aiassistant:string/scene_name	-1	魔方卡片：%s		Карточка сценария: %s
+com.tinnove.aiassistant:string/scene_pre_condition_title	-1	且提前满足		И при условии
+com.tinnove.aiassistant:string/scene_preview_button	-1	查看		Посмотреть
+com.tinnove.aiassistant:string/scene_preview_source_wechat	-1	微信消息		Сообщение WeChat
+com.tinnove.aiassistant:string/scene_save_button	-1	保存		Сохранить
+com.tinnove.aiassistant:string/scene_script_title	-1	就执行		Выполнить
+com.tinnove.aiassistant:string/scene_trigger_title	-1	如果		Если
+com.tinnove.aiassistant:string/schedule_reminder_error_need_download	-1	请到应用商店下载服务中心后再试		Сначала установите «Сервисный центр» из магазина приложений
+com.tinnove.aiassistant:string/seat_ahead	-1	座椅向前		Сиденье вперёд
+com.tinnove.aiassistant:string/seat_around	-1	座椅前后		Продольное положение сиденья
+com.tinnove.aiassistant:string/seat_back	-1	座椅向后		Сиденье назад
+com.tinnove.aiassistant:string/seat_backrest	-1	座椅靠背		Спинка сиденья
+com.tinnove.aiassistant:string/seat_backrest_ahead	-1	靠背向前		Наклон спинки вперёд
+com.tinnove.aiassistant:string/seat_backrest_back	-1	靠背向后		Наклон спинки назад
+com.tinnove.aiassistant:string/seat_buffer	-1	缓冲模式		Мягкий массаж
+com.tinnove.aiassistant:string/seat_catwalk	-1	猫步模式		Кошачьи шаги
+com.tinnove.aiassistant:string/seat_container	-1	风向调节		Направление обдува
+com.tinnove.aiassistant:string/seat_down	-1	座椅向下		Сиденье вниз
+com.tinnove.aiassistant:string/seat_drive_position	-1	驾驶位置		Положение для вождения
+com.tinnove.aiassistant:string/seat_entry_exit	-1	座椅舒适进出		Удобная посадка
+com.tinnove.aiassistant:string/seat_entry_exit_tip	-1	上下车时座椅会运动至方便进出的位置		При посадке и выходе сиденье перемещается в удобное положение
+com.tinnove.aiassistant:string/seat_heat	-1	座椅加热		Подогрев сиденья
+com.tinnove.aiassistant:string/seat_height	-1	座椅高度		Высота сиденья
+com.tinnove.aiassistant:string/seat_massage	-1	按摩模式		Режим массажа
+com.tinnove.aiassistant:string/seat_massage_name	-1	座椅按摩		Массаж сиденья
+com.tinnove.aiassistant:string/seat_massage_streng	-1	按摩强度		Интенсивность массажа
+com.tinnove.aiassistant:string/seat_massage_switch	-1	座椅按摩开关		Включение массажа
+com.tinnove.aiassistant:string/seat_massage_time	-1	按摩时间		Длительность массажа
+com.tinnove.aiassistant:string/seat_massager	-1	推拿模式		Разминающий массаж
+com.tinnove.aiassistant:string/seat_pulse	-1	脉冲模式		Импульсный массаж
+com.tinnove.aiassistant:string/seat_rest_position	-1	休息位置		Положение для отдыха
+com.tinnove.aiassistant:string/seat_shoulder	-1	肩部模式		Массаж плеч
+com.tinnove.aiassistant:string/seat_snakelike	-1	蛇形模式		Змеевидный массаж
+com.tinnove.aiassistant:string/seat_standby_position	-1	备用位置		Запасное положение
+com.tinnove.aiassistant:string/seat_status_save	-1	保存		Сохранить
+com.tinnove.aiassistant:string/seat_up	-1	座椅向上		Сиденье вверх
+com.tinnove.aiassistant:string/seat_vent	-1	座椅通风		Вентиляция сиденья
+com.tinnove.aiassistant:string/seat_waist	-1	腰部模式		Массаж поясницы
+com.tinnove.aiassistant:string/seat_wave	-1	波浪模式		Волновой массаж
+com.tinnove.aiassistant:string/setting_delay	-1	延时设置		Задержка
+com.tinnove.aiassistant:string/setting_effects	-1	效果设置		Настройки эффектов
+com.tinnove.aiassistant:string/show_mode_auto	-1	自动		Авто
+com.tinnove.aiassistant:string/show_mode_day	-1	浅色		Светлый
+com.tinnove.aiassistant:string/show_mode_night	-1	深色		Тёмный
+com.tinnove.aiassistant:string/show_model	-1	显示模式		Режим отображения
+com.tinnove.aiassistant:string/skylight_airy	-1	天窗通风		Проветривание через люк
+com.tinnove.aiassistant:string/skylight_close	-1	天窗全关		Закрыть люк
+com.tinnove.aiassistant:string/skylight_open	-1	天窗全开		Открыть люк
+com.tinnove.aiassistant:string/smartOpt	-1	自动空气净化		Автоматическая очистка воздуха
+com.tinnove.aiassistant:string/smart_interact_function_introduction	-1	功能介绍		Описание функций
+com.tinnove.aiassistant:string/smart_interact_voice_wake_up	-1	语音唤醒		Голосовая активация
+com.tinnove.aiassistant:string/smart_sound_setting_effect_manager_default_classics	-1	经典		Классическая
+com.tinnove.aiassistant:string/smart_sound_setting_effect_manager_default_concise	-1	简洁		Минималистичная
+com.tinnove.aiassistant:string/smart_sound_setting_effect_manager_default_media_hifi	-1	HiFi原声		Оригинальное звучание Hi-Fi
+com.tinnove.aiassistant:string/smart_sound_setting_effect_manager_default_sky	-1	天空之瀚		Безграничное небо
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_bass	-1	超重低音		Усиленный бас
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_bass_describe	-1	加重低音，带来深厚听音体验		Усиливает низкие частоты для насыщенного звучания.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_concert_hal	-1	音乐厅		Концертный зал
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_concert_hal_describe	-1	声场更加宽阔，乐器和人声细节丰满		Расширяет звуковую сцену, раскрывает детали инструментов и вокала.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_film	-1	影院		Кинотеатр
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_film_describe	-1	影院级音响效果模拟		Воссоздаёт звучание кинотеатра.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_hifi	-1	HiFi原声		Оригинальное звучание Hi-Fi
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_hifi_describe	-1	声音具有空间感，有深度，有层次		Объёмный, глубокий и многослойный звук.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_immersion	-1	沉浸式环绕		Объёмное звучание
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_immersion_describe	-1	3D声场全景沉浸式体验		Полное погружение в трёхмерную звуковую сцену.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_live_house_describe	-1	置身于聚光灯下的小型音乐会		Атмосфера небольшого концерта в свете прожекторов.
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_none	-1	关闭		Выключить
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_none_describe	-1	无音效处理		Без обработки звука
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_surge	-1	澎湃音效		Мощное звучание
+com.tinnove.aiassistant:string/smart_sound_sound_effect_media_surge_describe	-1	低音下潜，带来深厚、震撼的听音体验		Глубокий бас для насыщенного и впечатляющего звучания.
+com.tinnove.aiassistant:string/sound_feed_back_error	-1	反馈失败		Не удалось отправить отзыв
+com.tinnove.aiassistant:string/sound_feed_back_submit	-1	提交中...		Отправка…
+com.tinnove.aiassistant:string/sound_feed_back_success	-1	反馈成功		Отзыв отправлен
+com.tinnove.aiassistant:string/sound_feed_submit_interrupt_long_toast	-1	反馈内容超出限制		Отзыв превышает допустимую длину
+com.tinnove.aiassistant:string/sound_feed_submit_interrupt_long_view	-1	反馈内容过长		Отзыв слишком длинный
+com.tinnove.aiassistant:string/sound_feed_submit_interrupt_short_toast	-1	反馈内容少于5个字		В отзыве меньше пяти символов
+com.tinnove.aiassistant:string/sound_feed_submit_interrupt_short_view	-1	反馈内容过短		Отзыв слишком короткий
+com.tinnove.aiassistant:string/sound_please_speak	-1	请说吧...		Говорите…
+com.tinnove.aiassistant:string/sound_shouting_title	-1	车外喊话		Обращение через внешний динамик
+com.tinnove.aiassistant:string/sound_start_error	-1	语音启动失败		Не удалось запустить голосовой ввод
+com.tinnove.aiassistant:string/sound_start_error_info	-1	暂时无法使用语音反馈，请前往我的客服反馈		Голосовой отзыв временно недоступен. Отправьте отзыв через службу поддержки
+com.tinnove.aiassistant:string/sound_start_error_need_download	-1	请到应用商店下载智能客服后再试		Сначала установите «Умную службу поддержки» из магазина приложений
+com.tinnove.aiassistant:string/sound_starting	-1	录音启动中...		Запуск записи…
+com.tinnove.aiassistant:string/space_top_main_voice_listening	-1	正在聆听中…		Слушаю…
+com.tinnove.aiassistant:string/space_top_main_voice_listening_two	-1	正在聆听...		Слушаю…
+com.tinnove.aiassistant:string/space_top_main_voice_tts_playing	-1	正在播报...		Озвучивание…
+com.tinnove.aiassistant:string/space_top_mini_voice_listening	-1	持续聆听中		Продолжаю слушать
+com.tinnove.aiassistant:string/speech_disabled_text	-1	语音助手暂不可用		Голосовой помощник временно недоступен
+com.tinnove.aiassistant:string/speech_no_security_text	-1	按下方向盘语音键可召唤小安~		Нажмите голосовую кнопку на руле для вызова помощника Сяоань
+com.tinnove.aiassistant:string/start_navi	-1	开始导航(%s)		Начать навигацию (%s)
+com.tinnove.aiassistant:string/static_gesture	-1	静态手势		Статические жесты
+com.tinnove.aiassistant:string/stop	-1	暂停		Пауза
+com.tinnove.aiassistant:string/stop_drive_auto_unlock	-1	驻车自动解锁		Автоотпирание при парковке
+com.tinnove.aiassistant:string/str_offline	-1	离线		Офлайн
+com.tinnove.aiassistant:string/str_online	-1	在线		В сети
+com.tinnove.aiassistant:string/strong	-1	强		Сильная
+com.tinnove.aiassistant:string/style_one	-1	风格一		Вариант 1
+com.tinnove.aiassistant:string/style_three	-1	风格三		Вариант 3
+com.tinnove.aiassistant:string/style_two	-1	风格二		Вариант 2
+com.tinnove.aiassistant:string/sun_shade	-1	遮阳帘		Шторка
+com.tinnove.aiassistant:string/sunshade_close	-1	遮阳帘全关		Закрыть шторку
+com.tinnove.aiassistant:string/sunshade_open	-1	遮阳帘全开		Открыть шторку
+com.tinnove.aiassistant:string/sunshade_stop	-1	遮阳帘停止		Остановить шторку
+com.tinnove.aiassistant:string/system_hud_display_mode	-1	AR-HUD显示模式		Режим отображения AR-HUD
+com.tinnove.aiassistant:string/system_hud_height	-1	HUD高度		Высота HUD
+com.tinnove.aiassistant:string/system_hud_height_auto	-1	自动HUD高度		Автоматическая высота HUD
+com.tinnove.aiassistant:string/system_hud_light	-1	HUD亮度		Яркость HUD
+com.tinnove.aiassistant:string/system_hud_light_auto	-1	自动HUD亮度		Автоматическая яркость HUD
+com.tinnove.aiassistant:string/system_hud_lyrics_display	-1	HUD歌词显示		Тексты песен на HUD
+com.tinnove.aiassistant:string/system_hud_snow_mode	-1	HUD雪地模式		Снежный режим HUD
+com.tinnove.aiassistant:string/system_multimedia_volume	-1	媒体音量		Громкость мультимедиа
+com.tinnove.aiassistant:string/system_navigation_volume	-1	导航音量		Громкость навигации
+com.tinnove.aiassistant:string/system_show_auto_brightness	-1	亮度自动调节		Автоматическая яркость
+com.tinnove.aiassistant:string/system_show_blue_light_filter	-1	蓝光过滤		Фильтр синего света
+com.tinnove.aiassistant:string/system_show_brightness	-1	屏幕亮度		Яркость экрана
+com.tinnove.aiassistant:string/system_show_color_temperature_adjustment	-1	色温调节		Цветовая температура
+com.tinnove.aiassistant:string/system_show_eye_protect_mode	-1	护眼模式		Режим защиты зрения
+com.tinnove.aiassistant:string/system_show_hud_switch	-1	HUD显示		Проекционный дисплей HUD
+com.tinnove.aiassistant:string/system_show_quality_enhancement	-1	画质增强		Улучшение изображения
+com.tinnove.aiassistant:string/system_show_quality_enhancement_h_216	-1	AI画质增强		Улучшение изображения с ИИ
+com.tinnove.aiassistant:string/system_telephone_volume	-1	电话音量		Громкость разговора
+com.tinnove.aiassistant:string/system_voice_volume	-1	语音音量		Громкость голосового помощника
+com.tinnove.aiassistant:string/system_volume_headrest_close	-1	头枕关闭		Динамики подголовника выключены
+com.tinnove.aiassistant:string/system_volume_headrest_mode	-1	头枕模式		Режим подголовника
+com.tinnove.aiassistant:string/system_volume_headrest_speakers	-1	头枕扬声器		Динамики подголовника
+com.tinnove.aiassistant:string/system_volume_headrest_support	-1	头枕辅助		Дополнение звука через подголовник
+com.tinnove.aiassistant:string/system_volume_mute	-1	全局静音		Выключить весь звук
+com.tinnove.aiassistant:string/t_afternoon	-1	下午		После полудня
+com.tinnove.aiassistant:string/t_before_dawn	-1	凌晨		Предрассветные часы
+com.tinnove.aiassistant:string/t_forenoon	-1	上午		До полудня
+com.tinnove.aiassistant:string/t_midday	-1	中午		Полдень
+com.tinnove.aiassistant:string/t_morning	-1	早上		Утро
+com.tinnove.aiassistant:string/t_night	-1	晚上		Вечер
+com.tinnove.aiassistant:string/t_tempture	-1	温度		Температура
+com.tinnove.aiassistant:string/t_weather	-1	今天天气		Погода сегодня
+com.tinnove.aiassistant:string/text_massage_cancel_tip	-1	按摩功能暂停使用，若需要继续使用请再次开启		Массаж приостановлен. При необходимости включите его снова
+com.tinnove.aiassistant:string/text_massage_finish_tip	-1	座椅按摩循环结束，如需继续，请重新开启按摩功能		Цикл массажа завершён. Чтобы продолжить, включите массаж снова.
+com.tinnove.aiassistant:string/text_massage_nobody_tip	-1	主驾座椅无人，按摩关闭		На сиденье водителя никого нет. Массаж выключен
+com.tinnove.aiassistant:string/text_massage_p_state_tip	-1	请在车辆静止且挡位为 P 挡时进行操作		Выполняйте эту операцию на неподвижном автомобиле в положении P
+com.tinnove.aiassistant:string/text_massage_safe_tip	-1	检测到后排座椅有人，出于安全考虑，座椅禁止放倒		На заднем сиденье есть пассажир. По соображениям безопасности опускание спинки заблокировано
+com.tinnove.aiassistant:string/text_massage_stop_tip	-1	按摩已结束，已为您关闭按摩		Сеанс массажа завершён. Массаж выключен
+com.tinnove.aiassistant:string/text_start_massager	-1	开始按摩		Начать массаж
+com.tinnove.aiassistant:string/text_stop_massager	-1	停止按摩		Остановить массаж
+com.tinnove.aiassistant:string/thirty_minutes	-1	30分钟		30 минут
+com.tinnove.aiassistant:string/time_screensaver	-1	关屏显示时间		Часы при выключенном экране
+com.tinnove.aiassistant:string/tip_toast_seat_adjust_error	-1	位置调用失败		Не удалось восстановить положение
+com.tinnove.aiassistant:string/tip_toast_seat_adjust_moving	-1	座椅运动中，座椅位置调用失败		Не удалось вызвать положение: сиденье движется.
+com.tinnove.aiassistant:string/tip_toast_seat_adjust_success	-1	位置调用成功		Положение восстановлено
+com.tinnove.aiassistant:string/tip_toast_seat_memory_fail	-1	位置记忆失败		Не удалось сохранить положение.
+com.tinnove.aiassistant:string/tip_toast_seat_memory_no_data	-1	当前位置无数据，请先保存座椅位置		Положение ещё не задано. Сначала сохраните его.
+com.tinnove.aiassistant:string/tip_toast_seat_memory_speed_reminds	-1	当前车速较快,后视镜无法折叠		Скорость слишком высокая. Складывание зеркал недоступно
+com.tinnove.aiassistant:string/tip_toast_seat_memory_success	-1	位置记忆成功		Положение сохранено.
+com.tinnove.aiassistant:string/tips_activate_at_4s	-1	请到4s店开通该功能		Для активации функции обратитесь к дилеру.
+com.tinnove.aiassistant:string/tips_low_battery_unavailable_massage	-1	电量过低，无法使用座椅按摩		Массаж сидений недоступен: низкий заряд батареи.
+com.tinnove.aiassistant:string/toast_child_lock_error	-1	儿童锁故障不可用		Детский замок неисправен и недоступен
+com.tinnove.aiassistant:string/toast_permission_not_granted	-1	AI助手需要必要的权限以保证正常运行		Для работы ИИ-помощника предоставьте необходимые разрешения
+com.tinnove.aiassistant:string/too_frequent_operation_remind	-1	操作频率过快，请稍后再试哦		Действия выполняются слишком часто. Попробуйте позже.
+com.tinnove.aiassistant:string/total_mileage_label	-1	总里程		Общий пробег
+com.tinnove.aiassistant:string/touch_prompt_sound	-1	触摸提示音		Звук касаний
+com.tinnove.aiassistant:string/trailer_mode	-1	拖车模式		Режим транспортировки
+com.tinnove.aiassistant:string/trunk_cap_unlock	-1	油箱盖解锁		Разблокировать крышку топливного бака
+com.tinnove.aiassistant:string/trunk_cap_unlock_active_hint	-1	请切换至P档后加油		Перед заправкой переключитесь в P
+com.tinnove.aiassistant:string/trunk_open_angle	-1	背门最大开度		Максимальная высота открытия багажника
+com.tinnove.aiassistant:string/tv_fresh_air_system_time_evening_text_text	-1	下午		После полудня
+com.tinnove.aiassistant:string/tv_fresh_air_system_time_morning_text_text	-1	上午		Утро
+com.tinnove.aiassistant:string/tv_fresh_air_system_time_noon_text_text	-1	中午		Полдень
+com.tinnove.aiassistant:string/twenty_minutes	-1	20分钟		20 минут
+com.tinnove.aiassistant:string/up	-1	向上		Вверх
+com.tinnove.aiassistant:string/user_none_login	-1	你还未登录，请先登录一下吧		Сначала войдите в аккаунт
+com.tinnove.aiassistant:string/vehicle_close	-1	全关		Закрыть полностью
+com.tinnove.aiassistant:string/vehicle_open	-1	全开		Открыть полностью
+com.tinnove.aiassistant:string/vehicle_prompt_sound	-1	整车提示音		Звуковые сигналы автомобиля
+com.tinnove.aiassistant:string/vehicle_prompt_sound_style	-1	整车提示音风格选择		Вариант звуковых сигналов автомобиля
+com.tinnove.aiassistant:string/vehicle_prompt_sound_voice	-1	整车提示音音量		Громкость звуковых сигналов автомобиля
+com.tinnove.aiassistant:string/voice_card_telephone_about_to_call	-1	即将拨打		Начинаю вызов
+com.tinnove.aiassistant:string/voice_card_telephone_to_call	-1	拨打		Позвонить
+com.tinnove.aiassistant:string/voice_card_telephone_to_cancel	-1	取消		Отмена
+com.tinnove.aiassistant:string/voice_continuous_conversation_duration	-1	连续对话时长		Длительность непрерывного диалога
+com.tinnove.aiassistant:string/voice_custom_appellation	-1	自定义应答语		Свой ответ на пробуждение
+com.tinnove.aiassistant:string/voice_custom_wake_work	-1	自定义唤醒词		Своё слово пробуждения
+com.tinnove.aiassistant:string/voice_full_time_wakeup	-1	全时免唤醒		Постоянная готовность к командам
+com.tinnove.aiassistant:string/voice_language_info	-1	方言识别		Распознавание диалектов
+com.tinnove.aiassistant:string/voice_language_switch	-1	选择⽅⾔后，全时免唤醒功能将⾃动关闭，是否确认切换？		Выбор диалекта отключит постоянную готовность к командам. Переключить?
+com.tinnove.aiassistant:string/voice_no_available	-1	语音助手暂不可用		Голосовой помощник временно недоступен
+com.tinnove.aiassistant:string/voice_outside_vehicle_dialogue	-1	车外连续对话		Непрерывный диалог снаружи
+com.tinnove.aiassistant:string/voice_outside_vehicle_interactive	-1	车外语音交互		Голосовое управление снаружи
+com.tinnove.aiassistant:string/voice_print_identify	-1	声纹识别		Распознавание по голосу
+com.tinnove.aiassistant:string/voice_state_open_details	-1	查看详情		Подробнее
+com.tinnove.aiassistant:string/voice_super_brain_dialogue	-1	超脑对话		Диалог с ИИ
+com.tinnove.aiassistant:string/voice_volume_min_message	-1	语音音量已调至最小		Громкость помощника установлена на минимум
+com.tinnove.aiassistant:string/voice_wakeup_dialog	-1	是否要关闭语音唤醒?		Выключить голосовое пробуждение?
+com.tinnove.aiassistant:string/voice_wakeup_dialog_message	-1	关闭后只能通过方向盘语音按键唤醒，且仅响应主驾语音指令		После выключения помощник вызывается только голосовой кнопкой руля и отвечает лишь на команды водителя.
+com.tinnove.aiassistant:string/voice_wakeup_direction	-1	可唤醒位置		Зоны пробуждения
+com.tinnove.aiassistant:string/voice_wakeup_direction_cancel_main_tip	-1	取消主驾音区，全时免唤醒、免唤醒可见即可说等功能将不可用		Если отключить зону водителя, постоянное прослушивание и команды с экрана без активации станут недоступны
+com.tinnove.aiassistant:string/voice_wakeup_direction_cancel_main_title	-1	确定取消主驾可唤醒位置？		Отключить голосовую активацию из зоны водителя?
+com.tinnove.aiassistant:string/voice_wakeup_direction_close_all_tip	-1	取消所有音区后，仅支持按方控语音按键唤醒语音助手		После отключения всех зон вызвать помощника можно будет только голосовой кнопкой на руле
+com.tinnove.aiassistant:string/voice_wakeup_direction_close_all_title	-1	确定取消所有可唤醒位置？		Отключить все зоны голосовой активации?
+com.tinnove.aiassistant:string/voice_wakeup_seeit_sayit	-1	免唤醒可见即可说		Управление видимыми элементами без пробуждения
+com.tinnove.aiassistant:string/w_baoxue	-1	暴雪		Метель
+com.tinnove.aiassistant:string/w_baoyu	-1	暴雨		Ливень
+com.tinnove.aiassistant:string/w_bingbao	-1	冰雹		Град
+com.tinnove.aiassistant:string/w_bingli	-1	冰粒		Ледяная крупа
+com.tinnove.aiassistant:string/w_bingzhen	-1	冰针		Ледяные иглы
+com.tinnove.aiassistant:string/w_chenjuanfeng	-1	尘卷风		Пыльный вихрь
+com.tinnove.aiassistant:string/w_dabaoyu	-1	大暴雨		Сильный ливень
+com.tinnove.aiassistant:string/w_dadaobaoyu	-1	大到暴雨		Сильный дождь, переходящий в ливень
+com.tinnove.aiassistant:string/w_daxue	-1	大雪		Сильный снег
+com.tinnove.aiassistant:string/w_dayu	-1	大雨		Сильный дождь
+com.tinnove.aiassistant:string/w_dongwu	-1	冻雾		Ледяной туман
+com.tinnove.aiassistant:string/w_dongyu	-1	冻雨		Ледяной дождь
+com.tinnove.aiassistant:string/w_duoyun	-1	多云		Облачно
+com.tinnove.aiassistant:string/w_fuchen	-1	浮尘		Пыль в воздухе
+com.tinnove.aiassistant:string/w_jiazaishibai	-1	加载失败		Не удалось загрузить
+com.tinnove.aiassistant:string/w_jubuzhenyu2	-1	局部阵雨		Местами кратковременный дождь
+com.tinnove.aiassistant:string/w_leibao	-1	雷暴		Гроза
+com.tinnove.aiassistant:string/w_leidian	-1	雷电		Молнии
+com.tinnove.aiassistant:string/w_leizhenyu	-1	雷阵雨		Грозовой дождь
+com.tinnove.aiassistant:string/w_leizhenyubanbingbao	-1	雷阵雨伴有冰雹		Грозовой дождь с градом
+com.tinnove.aiassistant:string/w_qiangshachenbao	-1	强沙尘暴		Сильная пыльная буря
+com.tinnove.aiassistant:string/w_qiangzhenyu	-1	强阵雨		Сильный кратковременный дождь
+com.tinnove.aiassistant:string/w_qing	-1	晴		Ясно
+com.tinnove.aiassistant:string/w_shachenbao	-1	沙尘暴		Пыльная буря
+com.tinnove.aiassistant:string/w_shaoyun	-1	少云		Небольшая облачность
+com.tinnove.aiassistant:string/w_tedabaoyu	-1	特大暴雨		Очень сильный ливень
+com.tinnove.aiassistant:string/w_wu	-1	雾		Туман
+com.tinnove.aiassistant:string/w_wumai	-1	霾		Смог
+com.tinnove.aiassistant:string/w_wuwangluo	-1	无网络		Нет сети
+com.tinnove.aiassistant:string/w_xiaodaozhongxue	-1	小到中雪		Небольшой или умеренный снег
+com.tinnove.aiassistant:string/w_xiaodaozhongyu	-1	小到中雨		Небольшой или умеренный дождь
+com.tinnove.aiassistant:string/w_xiaoxue	-1	小雪		Небольшой снег
+com.tinnove.aiassistant:string/w_xiaoyu	-1	小雨		Небольшой дождь
+com.tinnove.aiassistant:string/w_xiaozhenxue	-1	小阵雪		Небольшой кратковременный снег
+com.tinnove.aiassistant:string/w_xiaozhenyu	-1	小阵雨		Небольшой кратковременный дождь
+com.tinnove.aiassistant:string/w_xue	-1	雪		Снег
+com.tinnove.aiassistant:string/w_yangsha	-1	扬沙		Поднимающаяся пыль
+com.tinnove.aiassistant:string/w_yin	-1	阴		Пасмурно
+com.tinnove.aiassistant:string/w_yu	-1	雨		Дождь
+com.tinnove.aiassistant:string/w_yujiaxue	-1	雨夹雪		Дождь со снегом
+com.tinnove.aiassistant:string/w_zhenxue	-1	阵雪		Кратковременный снег
+com.tinnove.aiassistant:string/w_zhenyu	-1	阵雨		Кратковременный дождь
+com.tinnove.aiassistant:string/w_zhongdaodayu	-1	中到大雨		Умеренный или сильный дождь
+com.tinnove.aiassistant:string/w_zhongxue	-1	中雪		Умеренный снег
+com.tinnove.aiassistant:string/w_zhongyu	-1	中雨		Умеренный дождь
+com.tinnove.aiassistant:string/w_zhuanqing	-1	大部晴朗		Преимущественно ясно
+com.tinnove.aiassistant:string/wallpaper_carousel	-1	壁纸轮播		Автоматическая смена обоев
+com.tinnove.aiassistant:string/wallpaper_select	-1	壁纸选择		Выбор обоев
+com.tinnove.aiassistant:string/warm	-1	暖		Теплее
+com.tinnove.aiassistant:string/weak	-1	弱		Слабая
+com.tinnove.aiassistant:string/weather_error	-1	暂不支持此类天气查询		Такой запрос погоды пока не поддерживается
+com.tinnove.aiassistant:string/wechat_media_image_set_content_no	-1	图片需小于20M		Размер изображения должен быть меньше 20 МБ
+com.tinnove.aiassistant:string/wechat_music_button_content	-1	播放		Воспроизвести
+com.tinnove.aiassistant:string/wechat_poi_button_content	-1	导航		Маршрут
+com.tinnove.aiassistant:string/wechat_push_link_title	-1	微信互联		Подключение WeChat
+com.tinnove.aiassistant:string/wechat_push_music_title_content	-1	收到新的音乐		Получена новая музыка
+com.tinnove.aiassistant:string/wechat_push_poi_title_content	-1	收到新的地点		Получено новое место
+com.tinnove.aiassistant:string/wechat_push_share_title	-1	微信分享		Поделиться через WeChat
+com.tinnove.aiassistant:string/wechat_push_title_sub_content	-1	来自微信分享		Получено из WeChat
+com.tinnove.aiassistant:string/welcome_light	-1	迎送宾灯		Приветственный и прощальный свет
+com.tinnove.aiassistant:string/welcome_light_anim	-1	前灯迎送宾动画		Приветственная и прощальная анимация передних фар
+com.tinnove.aiassistant:string/welcome_light_auto	-1	感应迎宾灯		Приветственное освещение по приближению
+com.tinnove.aiassistant:string/wifi	-1	无线局域网		Wi-Fi
+com.tinnove.aiassistant:string/wifi_connected	-1	已连接		Подключено
+com.tinnove.aiassistant:string/wifi_connecting	-1	连接中		Подключение
+com.tinnove.aiassistant:string/wifi_no_connect	-1	未连接		Не подключено
+com.tinnove.aiassistant:string/wifi_other	-1	其他网络		Другие сети
+com.tinnove.aiassistant:string/wifi_saved	-1	已保存		Сохранено
+com.tinnove.aiassistant:string/wifitrackerlib_admin_restricted_network	-1	你的機構禁止使用		Запрещено системным администратором
+com.tinnove.aiassistant:string/wifitrackerlib_admin_restricted_network	-1	貴機構禁止使用		Запрещено системным администратором
+com.tinnove.aiassistant:string/wifitrackerlib_auto_connect_disable	-1	自動連線功能已關閉		Автоподключение отключено
+com.tinnove.aiassistant:string/wifitrackerlib_available_via_app	-1	可透過「%1$s」使用		"Доступно через приложение ""%1$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_available_via_app	-1	可透過「%1$s」連線		"Доступно через приложение ""%1$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_checking_for_internet_access	-1	正在檢查互聯網連線…		Проверка доступа в интернет…
+com.tinnove.aiassistant:string/wifitrackerlib_checking_for_internet_access	-1	正在檢查網際網路連線...		Проверка доступа в интернет…
+com.tinnove.aiassistant:string/wifitrackerlib_connected_via_app	-1	已透過「%1$s」連線		"Подключено через приложение ""%1$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_alternate	-1	%1$s (來自%2$s)		"Сеть ""%1$s"", устройство ""%2$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_alternate	-1	來自「%2$s」的「%1$s」		"Сеть ""%1$s"", устройство ""%2$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_connecting	-1	正在連線…		Подключение…
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_connecting	-1	連線中…		Подключение…
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_summary	-1	%1$s (來自%2$s)		"Сеть ""%1$s"", устройство %2$s"
+com.tinnove.aiassistant:string/wifitrackerlib_hotspot_network_summary	-1	來自「%2$s」的「%1$s」		"Сеть ""%1$s"", устройство %2$s"
+com.tinnove.aiassistant:string/wifitrackerlib_imsi_protection_warning	-1	此網絡會接收可用於追蹤裝置位置的 SIM 卡 ID。瞭解詳情		Этой сети будет передан идентификатор SIM-карты, с помощью которого можно отследить местоположение устройства. Подробнее…
+com.tinnove.aiassistant:string/wifitrackerlib_imsi_protection_warning	-1	這個網路會收到可用於追蹤裝置位置的 SIM 卡 ID。瞭解詳情		Этой сети будет передан идентификатор SIM-карты, с помощью которого можно отследить местоположение устройства. Подробнее…
+com.tinnove.aiassistant:string/wifitrackerlib_known_network_summary	-1	網絡來源：%1$s		"Доступно с устройства ""%1$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_known_network_summary	-1	網路來源：%1$s		"Доступно с устройства ""%1$s"""
+com.tinnove.aiassistant:string/wifitrackerlib_osu_completing_sign_up	-1	正在完成申請…		Завершение регистрации…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_completing_sign_up	-1	正在完成註冊程序…		Завершение регистрации…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_connect_failed	-1	無法連線		Ошибка подключения
+com.tinnove.aiassistant:string/wifitrackerlib_osu_opening_provider	-1	正在開啟 %1$s		Открывается %1$s…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_opening_provider	-1	正在開啟「%1$s」		Открывается %1$s…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_sign_up_complete	-1	已完成申請。連接中…		Регистрация завершена. Подключение…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_sign_up_complete	-1	註冊完成。連線中…		Регистрация завершена. Подключение…
+com.tinnove.aiassistant:string/wifitrackerlib_osu_sign_up_failed	-1	無法完成申請。輕按即可重試。		Не удалось завершить регистрацию. Нажмите, чтобы повторить попытку.
+com.tinnove.aiassistant:string/wifitrackerlib_osu_sign_up_failed	-1	無法完成註冊程序。輕觸即可重試。		Не удалось завершить регистрацию. Нажмите, чтобы повторить попытку.
+com.tinnove.aiassistant:string/wifitrackerlib_private_dns_broken	-1	無法存取私人 DNS 伺服器		Доступа к частному DNS-серверу нет
+com.tinnove.aiassistant:string/wifitrackerlib_saved_network	-1	由「%1$s」儲存		Сохранено: %1$s
+com.tinnove.aiassistant:string/wifitrackerlib_tap_to_renew_subscription_and_connect	-1	輕按即可續購訂閱並連線		Нажмите, чтобы обновить подписку и установить подключение
+com.tinnove.aiassistant:string/wifitrackerlib_tap_to_renew_subscription_and_connect	-1	輕觸即可續訂並連線		Нажмите, чтобы обновить подписку и установить подключение
+com.tinnove.aiassistant:string/wifitrackerlib_tap_to_sign_up	-1	輕按即可登入		Нажмите, чтобы зарегистрироваться
+com.tinnove.aiassistant:string/wifitrackerlib_tap_to_sign_up	-1	輕觸即可註冊		Нажмите, чтобы зарегистрироваться
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_ap_unable_to_handle_new_sta	-1	存取點暫時已滿		К точке доступа подключено слишком много устройств
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_ap_unable_to_handle_new_sta	-1	存取點暫時滿載		К точке доступа подключено слишком много устройств
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_band_unknown	-1	不明		Неизвестно
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_check_password_try_again	-1	請檢查密碼，然後再試一次		Неверный пароль. Повторите попытку.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_connected_cannot_provide_internet	-1	已連上裝置，但無法提供網際網路連線。		Подключено к устройству. Нет доступа к интернету.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_connected_cannot_provide_internet	-1	已連接裝置，但無法提供互聯網連線。		Подключено к устройству. Нет доступа к интернету.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_disabled_network_failure	-1	無法設定 IP		Ошибка конфигурации IP
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_disabled_password_failure	-1	驗證問題		Ошибка аутентификации
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_disabled_transition_disable_indication	-1	無法透過網絡使用目前的安全性設定		Доступ закрыт согласно настройкам безопасности
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_disabled_transition_disable_indication	-1	無法透過網路使用目前的安全性設定		Доступ закрыт согласно настройкам безопасности
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_disconnected	-1	已中斷連線		Не подключено
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_limited_connection	-1	連線受限		Подключение к сети ограничено
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_limited_connection	-1	連線能力受限		Подключение к сети ограничено
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_mbo_assoc_disallowed_cannot_connect	-1	無法連線，請稍後再試。		Ошибка подключения. Повторите попытку позже.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated	-1	網絡流量超出上限，請稍後再試。		Превышена пропускная способность сети. Повторите попытку позже.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_mbo_assoc_disallowed_max_num_sta_associated	-1	網路流量超載，請稍後再試。		Превышена пропускная способность сети. Повторите попытку позже.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi	-1	網路訊號微弱，建議你移動到比較靠近路由器的位置。		Слабый сигнал. Попробуйте разместить устройство ближе к роутеру.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi	-1	訊號偏弱，請嘗試移近路由器。		Слабый сигнал. Попробуйте разместить устройство ближе к роутеру.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_metered_label	-1	按用量收費		Сеть с тарификацией трафика
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_metered_label	-1	計量付費		Сеть с тарификацией трафика
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_network_not_found	-1	無法連線，請稍後再試。		Ошибка подключения. Повторите попытку позже.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_no_internet	-1	沒有互聯網連線		Без доступа к интернету
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_no_internet	-1	沒有網際網路連線		Без доступа к интернету
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_no_internet_no_reconnect	-1	不會自動連線		Подключение не будет выполняться автоматически
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_passpoint_expired	-1	已失效		Срок действия истек
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_passpoint_expired	-1	已過期		Срок действия истек
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_poor_channel_conditions	-1	暫時性網路連線品質不佳		Временное нестабильное подключение к сети.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_poor_channel_conditions	-1	暫時網絡連線欠佳		Временное нестабильное подключение к сети.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_remembered	-1	已儲存		Сохранено
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_security_eap_suiteb	-1	WPA3-Enterprise 192 位元		WPA3-Enterprise 192 бита
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_security_none	-1	無		Нет
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_standard_legacy	-1	舊版		Устаревший протокол
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_standard_unknown	-1	不明		Неизвестно
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_unmetered_label	-1	非按用量收費		Сеть без тарификации трафика
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_unmetered_label	-1	非計量付費		Сеть без тарификации трафика
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_wont_autoconnect_for_now	-1	目前不會自動連上 Wi-Fi		Подключение по Wi-Fi не установится автоматически.
+com.tinnove.aiassistant:string/wifitrackerlib_wifi_wont_autoconnect_for_now	-1	目前系統不會自動連線至 Wi-Fi		Подключение по Wi-Fi не установится автоматически.
+com.tinnove.aiassistant:string/windowVentilation	-1	解锁降窗通风		Проветривание при опускании стёкол с ключа
+com.tinnove.aiassistant:string/wiper_maintenance_mode	-1	雨刮维修模式		Сервисное положение стеклоочистителей
+com.tinnove.aiassistant:string/wiper_sensitivity_text	-1	自动雨刮器灵敏度		Чувствительность автоматических дворников
+com.tinnove.aiassistant:string/wireless_charge	-1	无线充电		Беспроводная зарядка
+com.tinnove.aiassistant:string/wlan_no_use	-1	无网络可用		Нет доступной сети
+com.tinnove.aiassistant:string/wt_date_picker_friday	-1	五		Пт
+com.tinnove.aiassistant:string/wt_date_picker_monday	-1	一		Пн
+com.tinnove.aiassistant:string/wt_date_picker_saturday	-1	六		Сб
+com.tinnove.aiassistant:string/wt_date_picker_sunday	-1	日		Вс
+com.tinnove.aiassistant:string/wt_date_picker_thursday	-1	四		Чт
+com.tinnove.aiassistant:string/wt_date_picker_tuesday	-1	二		Вт
+com.tinnove.aiassistant:string/wt_date_picker_wednesday	-1	三		Ср
+com.tinnove.aiassistant:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tinnove.aiassistant:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tinnove.aiassistant:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tinnove.aiassistant:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tinnove.aiassistant:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tinnove.aiassistant:string/wt_sdk_empty_rate	-1	暂无		Нет
+com.tinnove.aiassistant:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tinnove.aiassistant:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tinnove.aiassistant:string/wtsearch_text_hint	-1	请输入		Введите запрос

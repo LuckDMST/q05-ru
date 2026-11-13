@@ -1,0 +1,194 @@
+com.tencent.wcenter:array/tai_app_names	0	腾讯地图		Tencent Maps
+com.tencent.wcenter:array/tai_app_names	1	腾讯语音		Голосовой сервис Tencent
+com.tencent.wcenter:string/abc_action_bar_home_description	-1	瀏覽主頁		Перейти на главный экран
+com.tencent.wcenter:string/abc_action_bar_home_description	-1	瀏覽首頁		Перейти на главный экран
+com.tencent.wcenter:string/abc_action_bar_home_description	-1	转到首页		Перейти на главный экран
+com.tencent.wcenter:string/abc_action_bar_up_description	-1	向上瀏覽		Перейти вверх
+com.tencent.wcenter:string/abc_action_menu_overflow_description	-1	更多选项		Ещё
+com.tencent.wcenter:string/abc_action_menu_overflow_description	-1	更多選項		Ещё
+com.tencent.wcenter:string/abc_activitychooserview_choose_application	-1	選擇應用程式		Выберите приложение
+com.tencent.wcenter:string/abc_capital_off	-1	關閉		ВЫКЛ
+com.tencent.wcenter:string/abc_capital_on	-1	開啟		ВКЛ
+com.tencent.wcenter:string/abc_menu_delete_shortcut_label	-1	Delete 鍵		Delete
+com.tencent.wcenter:string/abc_menu_delete_shortcut_label	-1	Delete 键		Delete
+com.tencent.wcenter:string/abc_menu_delete_shortcut_label	-1	刪除		Delete
+com.tencent.wcenter:string/abc_menu_enter_shortcut_label	-1	Enter 鍵		Ввод
+com.tencent.wcenter:string/abc_menu_enter_shortcut_label	-1	Enter 键		Ввод
+com.tencent.wcenter:string/abc_menu_space_shortcut_label	-1	空格鍵		Пробел
+com.tencent.wcenter:string/abc_menu_space_shortcut_label	-1	空格键		Пробел
+com.tencent.wcenter:string/abc_menu_space_shortcut_label	-1	空白鍵		Пробел
+com.tencent.wcenter:string/abc_search_hint	-1	搜尋…		Введите запрос
+com.tencent.wcenter:string/abc_searchview_description_clear	-1	清除查詢		Удалить запрос
+com.tencent.wcenter:string/abc_searchview_description_clear	-1	清除查询		Удалить запрос
+com.tencent.wcenter:string/abc_searchview_description_query	-1	搜尋查詢		Поисковый запрос
+com.tencent.wcenter:string/abc_searchview_description_query	-1	搜索查询		Поисковый запрос
+com.tencent.wcenter:string/abc_searchview_description_search	-1	搜尋		Поиск
+com.tencent.wcenter:string/abc_searchview_description_submit	-1	提交查詢		Отправить запрос
+com.tencent.wcenter:string/abc_searchview_description_submit	-1	提交查询		Отправить запрос
+com.tencent.wcenter:string/abc_searchview_description_voice	-1	語音搜尋		Голосовой поиск
+com.tencent.wcenter:string/abc_searchview_description_voice	-1	语音搜索		Голосовой поиск
+com.tencent.wcenter:string/abc_shareactionprovider_share_with	-1	分享对象		Поделиться с помощью
+com.tencent.wcenter:string/abc_shareactionprovider_share_with	-1	分享對象		Поделиться с помощью
+com.tencent.wcenter:string/abc_shareactionprovider_share_with_application	-1	与%s分享		Поделиться с помощью %s
+com.tencent.wcenter:string/abc_shareactionprovider_share_with_application	-1	使用「%s」分享		Поделиться с помощью %s
+com.tencent.wcenter:string/abc_shareactionprovider_share_with_application	-1	與「%s」分享		Поделиться с помощью %s
+com.tencent.wcenter:string/abc_toolbar_collapse_description	-1	收合		Свернуть
+com.tencent.wcenter:string/about_txt	-1	关于我们		О приложении
+com.tencent.wcenter:string/app_name_	-1	服务中心		Сервисный центр
+com.tencent.wcenter:string/bottomsheet_action_expand_halfway	-1	展開一半		Развернуть наполовину
+com.tencent.wcenter:string/car_License_input_hint	-1	请输入车牌号		Введите госномер
+com.tencent.wcenter:string/car_License_modify_title	-1	车牌号		Госномер
+com.tencent.wcenter:string/car_License_save	-1	保存		Сохранить
+com.tencent.wcenter:string/car_frame_num_input_hint	-1	请输入车架号		Введите VIN
+com.tencent.wcenter:string/car_frame_num_modify_title	-1	车架号		VIN
+com.tencent.wcenter:string/car_frame_num_save	-1	保存		Сохранить
+com.tencent.wcenter:string/car_num_change_success	-1	保存成功		Сохранено
+com.tencent.wcenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (上限為 %2$d 個字元)		Введено символов: %1$d из %2$d
+com.tencent.wcenter:string/character_counter_content_description	-1	已輸入 %1$d 個字元 (共 %2$d 個)		Введено символов: %1$d из %2$d
+com.tencent.wcenter:string/character_counter_overflowed_content_description	-1	超出字元限制 %1$d 個字元 (上限 %2$d 個字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tencent.wcenter:string/character_counter_overflowed_content_description	-1	超過字元限制 (共 %1$d 字元，上限 %2$d 字元)		Превышено ограничение на количество символов (%1$d из %2$d)
+com.tencent.wcenter:string/check_net	-1	请检查网络设置		Проверьте настройки сети
+com.tencent.wcenter:string/empty_schedules	-1	暂无日程		Запланированных событий нет
+com.tencent.wcenter:string/feedback_t	-1	意见反馈		Обратная связь
+com.tencent.wcenter:string/horoscopes_card_name	-1	今日运势		Гороскоп на сегодня
+com.tencent.wcenter:string/loading	-1	数据加载中...		Загрузка данных…
+com.tencent.wcenter:string/login	-1	请登录		Войдите в аккаунт
+com.tencent.wcenter:string/login_now	-1	立即登录		Войти
+com.tencent.wcenter:string/logout	-1	退出账号		Выйти из аккаунта
+com.tencent.wcenter:string/material_clock_toggle_content_description	-1	选择上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tencent.wcenter:string/material_clock_toggle_content_description	-1	選取上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tencent.wcenter:string/material_clock_toggle_content_description	-1	選擇上午或下午		Выберите AM (до полудня) или PM (после полудня)
+com.tencent.wcenter:string/material_hour_selection	-1	請選取時段		Выберите час
+com.tencent.wcenter:string/material_hour_selection	-1	选择小时		Выберите час
+com.tencent.wcenter:string/material_hour_selection	-1	選取時段		Выберите час
+com.tencent.wcenter:string/material_hour_suffix	-1	%1$s 点		%1$s ч.
+com.tencent.wcenter:string/material_hour_suffix	-1	%1$s 點		%1$s ч.
+com.tencent.wcenter:string/material_minute_selection	-1	选择分钟		Выберите минуты
+com.tencent.wcenter:string/material_minute_selection	-1	選取分鐘		Выберите минуты
+com.tencent.wcenter:string/material_minute_selection	-1	選取分鐘數		Выберите минуты
+com.tencent.wcenter:string/material_minute_suffix	-1	%1$s 分		%1$s мин.
+com.tencent.wcenter:string/material_timepicker_clock_mode_description	-1	切换到时钟模式来输入时间。		Чтобы ввести время, перейдите в режим часов.
+com.tencent.wcenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式來輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tencent.wcenter:string/material_timepicker_clock_mode_description	-1	切換至時鐘模式即可輸入時間。		Чтобы ввести время, перейдите в режим часов.
+com.tencent.wcenter:string/material_timepicker_hour	-1	小時		Час
+com.tencent.wcenter:string/material_timepicker_minute	-1	分鐘		Минуты
+com.tencent.wcenter:string/material_timepicker_select_time	-1	選取時間		Выбор времени
+com.tencent.wcenter:string/material_timepicker_text_input_mode_description	-1	切换到文字输入模式来输入时间。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tencent.wcenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式來輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tencent.wcenter:string/material_timepicker_text_input_mode_description	-1	切換至文字輸入模式即可輸入時間。		Чтобы ввести время, перейдите в режим ввода текста.
+com.tencent.wcenter:string/mine_login_btn	-1	登录		Вход
+com.tencent.wcenter:string/mtrl_badge_numberless_content_description	-1	新通知		Новое уведомление
+com.tencent.wcenter:string/mtrl_chip_close_icon_content_description	-1	移除 %1$s		"Удалить ""%1$s"""
+com.tencent.wcenter:string/mtrl_chip_close_icon_content_description	-1	移除%1$s		"Удалить ""%1$s"""
+com.tencent.wcenter:string/mtrl_chip_close_icon_content_description	-1	移除「%1$s」		"Удалить ""%1$s"""
+com.tencent.wcenter:string/mtrl_exceed_max_badge_number_content_description	-1	有 %1$d 条以上的新通知		Новых уведомлений больше %1$d
+com.tencent.wcenter:string/mtrl_exceed_max_badge_number_content_description	-1	超過 %1$d 則新通知		Новых уведомлений больше %1$d
+com.tencent.wcenter:string/mtrl_picker_a11y_next_month	-1	變更為下個月		Перейти к следующему месяцу
+com.tencent.wcenter:string/mtrl_picker_a11y_next_month	-1	變更至下個月		Перейти к следующему месяцу
+com.tencent.wcenter:string/mtrl_picker_a11y_next_month	-1	转到下个月		Перейти к следующему месяцу
+com.tencent.wcenter:string/mtrl_picker_a11y_prev_month	-1	變更為上個月		Перейти к предыдущему месяцу
+com.tencent.wcenter:string/mtrl_picker_a11y_prev_month	-1	變更至上個月		Перейти к предыдущему месяцу
+com.tencent.wcenter:string/mtrl_picker_a11y_prev_month	-1	转到上个月		Перейти к предыдущему месяцу
+com.tencent.wcenter:string/mtrl_picker_announce_current_selection	-1	当前的选择是：%1$s		Выбранный элемент: %1$s
+com.tencent.wcenter:string/mtrl_picker_announce_current_selection	-1	目前選取：%1$s		Выбранный элемент: %1$s
+com.tencent.wcenter:string/mtrl_picker_date_header_title	-1	請選擇日期		Выберите дату
+com.tencent.wcenter:string/mtrl_picker_date_header_title	-1	请选择日期		Выберите дату
+com.tencent.wcenter:string/mtrl_picker_date_header_title	-1	選取日期		Выберите дату
+com.tencent.wcenter:string/mtrl_picker_date_header_unselected	-1	已選取日期		Выбранная дата
+com.tencent.wcenter:string/mtrl_picker_date_header_unselected	-1	所選日期		Выбранная дата
+com.tencent.wcenter:string/mtrl_picker_date_header_unselected	-1	选定的日期		Выбранная дата
+com.tencent.wcenter:string/mtrl_picker_day_of_week_column_header	-1	日期欄：%1$s		Столбец со днями недели: %1$s
+com.tencent.wcenter:string/mtrl_picker_day_of_week_column_header	-1	星期幾資料欄：%1$s		Столбец со днями недели: %1$s
+com.tencent.wcenter:string/mtrl_picker_day_of_week_column_header	-1	表示周几的列：%1$s		Столбец со днями недели: %1$s
+com.tencent.wcenter:string/mtrl_picker_invalid_format	-1	格式无效。		Недействительный формат.
+com.tencent.wcenter:string/mtrl_picker_invalid_format	-1	格式無效。		Недействительный формат.
+com.tencent.wcenter:string/mtrl_picker_invalid_format_example	-1	例如：%1$s		Пример: %1$s
+com.tencent.wcenter:string/mtrl_picker_invalid_format_example	-1	示例：%1$s		Пример: %1$s
+com.tencent.wcenter:string/mtrl_picker_invalid_format_example	-1	範例：%1$s		Пример: %1$s
+com.tencent.wcenter:string/mtrl_picker_invalid_format_use	-1	使用：%1$s		Используйте: %1$s
+com.tencent.wcenter:string/mtrl_picker_invalid_range	-1	日期範圍無效。		Недопустимый диапазон.
+com.tencent.wcenter:string/mtrl_picker_invalid_range	-1	範圍無效。		Недопустимый диапазон.
+com.tencent.wcenter:string/mtrl_picker_invalid_range	-1	范围无效。		Недопустимый диапазон.
+com.tencent.wcenter:string/mtrl_picker_navigate_to_year_description	-1	前往 %1$s 年		Перейти к %1$s году
+com.tencent.wcenter:string/mtrl_picker_navigate_to_year_description	-1	瀏覽至 %1$s 年		Перейти к %1$s году
+com.tencent.wcenter:string/mtrl_picker_navigate_to_year_description	-1	转到 %1$s 年		Перейти к %1$s году
+com.tencent.wcenter:string/mtrl_picker_out_of_range	-1	不在允许的范围内：%1$s		Вне диапазона: %1$s
+com.tencent.wcenter:string/mtrl_picker_out_of_range	-1	超出日期範圍：%1$s		Вне диапазона: %1$s
+com.tencent.wcenter:string/mtrl_picker_out_of_range	-1	超出範圍：%1$s		Вне диапазона: %1$s
+com.tencent.wcenter:string/mtrl_picker_range_header_only_end_selected	-1	开始日期 – %1$s		Дата начала – %1$s
+com.tencent.wcenter:string/mtrl_picker_range_header_only_end_selected	-1	開始日期 – %1$s		Дата начала – %1$s
+com.tencent.wcenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 結束日期		%1$s – дата окончания
+com.tencent.wcenter:string/mtrl_picker_range_header_only_start_selected	-1	%1$s – 结束日期		%1$s – дата окончания
+com.tencent.wcenter:string/mtrl_picker_range_header_title	-1	請選擇範圍		Выберите диапазон дат
+com.tencent.wcenter:string/mtrl_picker_range_header_title	-1	请选择范围		Выберите диапазон дат
+com.tencent.wcenter:string/mtrl_picker_range_header_title	-1	選取範圍		Выберите диапазон дат
+com.tencent.wcenter:string/mtrl_picker_range_header_unselected	-1	开始日期 - 结束日期		Дата начала – дата окончания
+com.tencent.wcenter:string/mtrl_picker_range_header_unselected	-1	開始日期 - 結束日期		Дата начала – дата окончания
+com.tencent.wcenter:string/mtrl_picker_range_header_unselected	-1	開始日期 – 結束日期		Дата начала – дата окончания
+com.tencent.wcenter:string/mtrl_picker_save	-1	儲存		Сохранить
+com.tencent.wcenter:string/mtrl_picker_text_input_date_hint	-1	日期		Дата
+com.tencent.wcenter:string/mtrl_picker_text_input_date_range_end_hint	-1	結束日期		Дата окончания
+com.tencent.wcenter:string/mtrl_picker_text_input_date_range_end_hint	-1	结束日期		Дата окончания
+com.tencent.wcenter:string/mtrl_picker_text_input_date_range_start_hint	-1	开始日期		Дата начала
+com.tencent.wcenter:string/mtrl_picker_text_input_date_range_start_hint	-1	開始日期		Дата начала
+com.tencent.wcenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切换到日历输入模式		Перейти в режим выбора дней
+com.tencent.wcenter:string/mtrl_picker_toggle_to_calendar_input_mode	-1	切換至日曆輸入模式		Перейти в режим выбора дней
+com.tencent.wcenter:string/mtrl_picker_toggle_to_day_selection	-1	点按即可切换到选择某天		Нажмите, чтобы перейти к выбору дня
+com.tencent.wcenter:string/mtrl_picker_toggle_to_day_selection	-1	輕按以切換至選擇日期		Нажмите, чтобы перейти к выбору дня
+com.tencent.wcenter:string/mtrl_picker_toggle_to_day_selection	-1	輕觸即可切換為選取星期幾		Нажмите, чтобы перейти к выбору дня
+com.tencent.wcenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切换到文本字段输入模式		Перейти в режим ввода текста
+com.tencent.wcenter:string/mtrl_picker_toggle_to_text_input_mode	-1	切換至文字輸入模式		Перейти в режим ввода текста
+com.tencent.wcenter:string/mtrl_picker_toggle_to_year_selection	-1	点按即可切换到选择某年		Нажмите, чтобы перейти к выбору года
+com.tencent.wcenter:string/mtrl_picker_toggle_to_year_selection	-1	輕按以切換至選擇年份		Нажмите, чтобы перейти к выбору года
+com.tencent.wcenter:string/mtrl_picker_toggle_to_year_selection	-1	輕觸即可切換為選取年份		Нажмите, чтобы перейти к выбору года
+com.tencent.wcenter:string/net_error	-1	无数据请检查网络设置		Данных нет. Проверьте настройки сети
+com.tencent.wcenter:string/no_date	-1	无数据		Данных нет
+com.tencent.wcenter:string/notify	-1	消息通知		Уведомления
+com.tencent.wcenter:string/notify_allow_notify	-1	允许通知		Разрешить уведомления
+com.tencent.wcenter:string/notify_event_notify	-1	活动通知		Уведомления о мероприятиях
+com.tencent.wcenter:string/notify_serve_notify	-1	服务通知		Уведомления сервисов
+com.tencent.wcenter:string/notify_sys_notify	-1	系统通知		Системные уведомления
+com.tencent.wcenter:string/notify_title	-1	通知		Уведомления
+com.tencent.wcenter:string/password_toggle_content_description	-1	顯示密碼		Показать пароль
+com.tencent.wcenter:string/phone_num_bind_commit	-1	绑定		Привязать
+com.tencent.wcenter:string/phone_num_bind_title	-1	绑定手机号		Привязать номер телефона
+com.tencent.wcenter:string/phone_num_change_success	-1	修改成功		Изменено
+com.tencent.wcenter:string/phone_num_error_hint	-1	请输入正确手机号		Введите корректный номер телефона
+com.tencent.wcenter:string/phone_num_get_code	-1	获取验证码		Получить код
+com.tencent.wcenter:string/phone_num_get_code_fail	-1	获取验证码失败		Не удалось получить код
+com.tencent.wcenter:string/phone_num_input_phone_code_hint	-1	请输验证码		Введите код подтверждения
+com.tencent.wcenter:string/phone_num_input_phone_num_hint	-1	请输入电话号码		Введите номер телефона
+com.tencent.wcenter:string/phone_num_modify_commit	-1	更换		Изменить
+com.tencent.wcenter:string/phone_num_modify_title	-1	更换手机号		Изменить номер телефона
+com.tencent.wcenter:string/privacu_agreement	-1	服务协议与隐私政策		Пользовательское соглашение и политика конфиденциальности
+com.tencent.wcenter:string/schedule_card_name	-1	今日行程		Поездки на сегодня
+com.tencent.wcenter:string/set_horoscopes	-1	设置星座，掌握专属运势		Выберите знак зодиака для своего прогноза
+com.tencent.wcenter:string/setting	-1	常用信息		Основные сведения
+com.tencent.wcenter:string/setting_car_frame_num	-1	车架号		VIN
+com.tencent.wcenter:string/setting_car_license_num	-1	车牌号		Госномер
+com.tencent.wcenter:string/setting_get_car_frame_num	-1	获取车架号		Получить VIN
+com.tencent.wcenter:string/setting_phone_num	-1	手机号		Номер телефона
+com.tencent.wcenter:string/setting_unset	-1	未设置		Не задано
+com.tencent.wcenter:string/un_privacu_agreement	-1	撤回服务中心隐私政策		Отозвать согласие с политикой конфиденциальности сервисного центра
+com.tencent.wcenter:string/un_user_agree_tip	-1	不同意,仅使用部分功能		Не согласен, использовать ограниченный набор функций
+com.tencent.wcenter:string/un_user_agree_tip_info	-1	若您选择撤回，您将无法使用部分需要个人信息授权的小程序，且本应用将停止收集和使用您的个人信息，但您的撤回并不影响您使用不需要个人信息授权的小程序。详情请查看《服务中心隐私政策》		При отзыве согласия некоторые мини-приложения, которым нужен доступ к персональным данным, станут недоступны. Это приложение прекратит сбор и использование ваших персональных данных. Мини-приложения, не требующие такого доступа, останутся доступны. Подробнее — в политике конфиденциальности сервисного центра
+com.tencent.wcenter:string/un_user_agree_tip_title	-1	撤销服务协议和隐私政策授权		Отозвать согласие с пользовательским соглашением и политикой конфиденциальности
+com.tencent.wcenter:string/user_agree_tip	-1	已阅读并同意以上内容		С условиями ознакомлен и согласен
+com.tencent.wcenter:string/user_agreement_title	-1	服务中心用户协议与隐私政策		Пользовательское соглашение и политика конфиденциальности сервисного центра
+com.tencent.wcenter:string/user_name	-1	用户名		Имя пользователя
+com.tencent.wcenter:string/versions	-1	版本记录		История версий
+com.tencent.wcenter:string/wt_date_picker_friday	-1	五		Пт
+com.tencent.wcenter:string/wt_date_picker_monday	-1	一		Пн
+com.tencent.wcenter:string/wt_date_picker_saturday	-1	六		Сб
+com.tencent.wcenter:string/wt_date_picker_sunday	-1	日		Вс
+com.tencent.wcenter:string/wt_date_picker_thursday	-1	四		Чт
+com.tencent.wcenter:string/wt_date_picker_tuesday	-1	二		Вт
+com.tencent.wcenter:string/wt_date_picker_wednesday	-1	三		Ср
+com.tencent.wcenter:string/wt_edit_text_hint	-1	默认文字		Текст по умолчанию
+com.tencent.wcenter:string/wt_edit_text_prompt	-1	提示文字		Подсказка
+com.tencent.wcenter:string/wt_keyboard_hint_bubble_text	-1	按住键盘任意位置可拖动（包括候选字区域）		Чтобы переместить клавиатуру, удерживайте любую её область, включая строку подсказок.
+com.tencent.wcenter:string/wt_navigation_group_app_back_text	-1	返回		Назад
+com.tencent.wcenter:string/wt_navigation_group_search_hint	-1	搜索		Поиск
+com.tencent.wcenter:string/wtcapsule_item_default_name	-1	自定义		Свой вариант
+com.tencent.wcenter:string/wtinput_text_hint	-1	请输入		Введите текст
+com.tencent.wcenter:string/wtsearch_text_hint	-1	请输入		Введите запрос
