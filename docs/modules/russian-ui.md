@@ -20,7 +20,7 @@
 
 [Таблицы TSV по приложениям](../../translations/)
 
-![Русские подписи в меню приложений ГУ](../../screenshots/app-launcher.png)
+### Настройки кузова, code268`n`n![Переведённые настройки запирания и открывания](../../screenshots/q05-ru/body-locking-code268.png)`n`n### Настройки вождения, code268`n`n![Переведённые настройки движения и рекуперации](../../screenshots/q05-ru/driving-safety-code268.png)
 
 ## Сборки
 
