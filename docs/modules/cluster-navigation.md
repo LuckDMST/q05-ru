@@ -16,6 +16,6 @@
 
 Для публикации подготовить APK code52 и инструкцию с обязательной настройкой области модуля в LSPosed.
 
-## Сборки
+## Скачать
 
-Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
+[Предварительный выпуск 0.52-test / code52](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/yandex-cluster-0.52-test) · [Все релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)

@@ -22,6 +22,6 @@
 
 Владелец услышал «Зарядка началась» снаружи автомобиля. Это отдельная ветка Linux. Другие события зарядки и полный набор наружных реплик ещё проверяются.
 
-## Сборки
+## Скачать
 
-Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
+[Предварительный выпуск архива B216 `_14`](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14) · [Все релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
