@@ -16,4 +16,4 @@ APK code7 установлен для эксперимента. Модуль LSP
 
 ## Сборки
 
-Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/q05-ru/releases)
+Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)

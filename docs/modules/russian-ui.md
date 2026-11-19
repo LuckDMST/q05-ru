@@ -20,8 +20,8 @@
 
 [Таблицы TSV по приложениям](../../translations/)
 
-### Настройки кузова, code268`n`n![Переведённые настройки запирания и открывания](../../screenshots/q05-ru/body-locking-code268.png)`n`n### Настройки вождения, code268`n`n![Переведённые настройки движения и рекуперации](../../screenshots/q05-ru/driving-safety-code268.png)
+![Русские подписи в меню приложений ГУ](../../screenshots/app-launcher.png)
 
 ## Сборки
 
-Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/q05-ru/releases)
+Публичная сборка пока не опубликована. [Релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
