@@ -6,7 +6,7 @@
 
 ## Скачать и установить
 
-- [Установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. Python и ADB уже в комплекте.
+- [Установщик Windows x64](../../screenshots/cluster/release-2026-11-20_15/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. Python и ADB уже в комплекте.
 - [Инструкция по установке и восстановлению](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-20_15).
 - [Архив ресурсов Linux HMI для ручной установки](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14).
 
@@ -18,10 +18,10 @@
 
 | Экран | Штатные ресурсы | Русский перевод |
 | --- | --- | --- |
-| Мощность | [![Мощность: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-zh.png) | [![Мощность: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-ru.png) |
-| Текущая поездка | [![Текущая поездка: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-zh.png) | [![Текущая поездка: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-ru.png) |
-| Давление в шинах | [![Давление в шинах: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-zh.png) | [![Давление в шинах: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-ru.png) |
-| Средняя скорость | [![Средняя скорость: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-zh.png) | [![Средняя скорость: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-ru.png) |
+| Мощность | [![Мощность: штатный экран](../../screenshots/cluster/release-2026-11-20_15/power-zh.png)](../../screenshots/cluster/release-2026-11-20_15/power-zh.png) | [![Мощность: русский перевод](../../screenshots/cluster/release-2026-11-20_15/power-ru.png)](../../screenshots/cluster/release-2026-11-20_15/power-ru.png) |
+| Текущая поездка | [![Текущая поездка: штатный экран](../../screenshots/cluster/release-2026-11-20_15/trip-zh.png)](../../screenshots/cluster/release-2026-11-20_15/trip-zh.png) | [![Текущая поездка: русский перевод](../../screenshots/cluster/release-2026-11-20_15/trip-ru.png)](../../screenshots/cluster/release-2026-11-20_15/trip-ru.png) |
+| Давление в шинах | [![Давление в шинах: штатный экран](../../screenshots/cluster/release-2026-11-20_15/tires-zh.png)](../../screenshots/cluster/release-2026-11-20_15/tires-zh.png) | [![Давление в шинах: русский перевод](../../screenshots/cluster/release-2026-11-20_15/tires-ru.png)](../../screenshots/cluster/release-2026-11-20_15/tires-ru.png) |
+| Средняя скорость | [![Средняя скорость: штатный экран](../../screenshots/cluster/release-2026-11-20_15/average-speed-zh.png)](../../screenshots/cluster/release-2026-11-20_15/average-speed-zh.png) | [![Средняя скорость: русский перевод](../../screenshots/cluster/release-2026-11-20_15/average-speed-ru.png)](../../screenshots/cluster/release-2026-11-20_15/average-speed-ru.png) |
 
 ## Что проверили на машине
 
