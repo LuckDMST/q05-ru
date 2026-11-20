@@ -2,26 +2,31 @@
 
 [Все модули](../../README.md)
 
-Русские подписи и предупреждения водительской панели, а также правки разметки. Пакет ресурсов применяется к нативному Linux HMI приборки.
+Русские подписи и предупреждения водительской панели, а также правки разметки для нативного Linux HMI приборки.
 
-Состояние на 19 ноября 2026 года. Проверки проводились на Qiyuan Q05 LU+ с ГУ B216.
+## Скачать и установить
+
+- [Установщик Windows x64](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/Qiyuan-Q05-B216-Cluster-RU-Windows.zip). Распакуйте ZIP и запустите `Start.cmd`. Python и ADB уже в комплекте.
+- [Инструкция по установке и восстановлению](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-20_15).
+- [Архив ресурсов Linux HMI для ручной установки](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14).
+
+Поддерживаемая сборка головного устройства B216 — `SWC.1371.RB216000004`.
+
+## Скриншоты до и после
+
+Кадры сняты 20 ноября 2026 года на одном Qiyuan Q05 LU+ с ГУ B216. В каждой паре открыта одна и та же карточка. Автомобиль стоит в P, скорость 0 км/ч, выбран режим «Эко» и тёмная тема. Между съёмками изменились часы, заряд, температура и время поездки. Нажмите на кадр, чтобы открыть оригинал 1920×532.
+
+| Экран | Штатные ресурсы | Русский перевод |
+| --- | --- | --- |
+| Мощность | [![Мощность: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-zh.png) | [![Мощность: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/power-ru.png) |
+| Текущая поездка | [![Текущая поездка: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-zh.png) | [![Текущая поездка: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/trip-ru.png) |
+| Давление в шинах | [![Давление в шинах: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-zh.png) | [![Давление в шинах: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/tires-ru.png) |
+| Средняя скорость | [![Средняя скорость: штатный экран](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-zh.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-zh.png) | [![Средняя скорость: русский перевод](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-ru.png)](https://github.com/LuckDMST/qiyuan-q05-mods/releases/download/cluster-native-ru-2026-11-20_15/average-speed-ru.png) |
 
 ## Что проверили на машине
 
-Готовая разработка. Активен архив Linux HMI `2026-11-16_14`. Проверены перевод, предупреждения и состояния приборки, включая запас хода и заряд, давление в шинах и страницы самопроверки.
+На архиве Linux HMI `2026-11-16_14` проверили перевод, предупреждения и состояния приборки, включая запас хода и заряд, давление в шинах и страницы самопроверки. Windows-установщик содержит русские ресурсы той же версии.
 
-![Экран текущей поездки с русскими подписями запаса хода, заряда и пробега](../../screenshots/cluster/trip-screen-2026-11-16.png)
+## Наружная реплика зарядки
 
-Кадр снят 16 ноября 2026 года на архиве `2026-11-16_14`. Экран показывает остановленный автомобиль и нулевые показатели текущей поездки.
-
-## Что в работе
-
-Для публикации подготовить отдельный пакет ресурсов Linux HMI и инструкцию установки. Наружные голосовые реплики зарядки относятся к отдельной работе и не входят в этот модуль.
-
-## Связанная работа: наружная реплика зарядки
-
-Владелец услышал «Зарядка началась» снаружи автомобиля. Это отдельная ветка Linux. Другие события зарядки и полный набор наружных реплик ещё проверяются.
-
-## Скачать
-
-[Предварительный выпуск архива B216 `_14`](https://github.com/LuckDMST/qiyuan-q05-mods/releases/tag/cluster-native-ru-2026-11-16_14) · [Все релизы проекта](https://github.com/LuckDMST/qiyuan-q05-mods/releases)
+Владелец услышал «Зарядка началась» снаружи автомобиля. Наружные голосовые реплики относятся к отдельной работе. Другие события зарядки и полный набор реплик ещё проверяются.
